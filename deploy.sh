@@ -12,7 +12,7 @@ set -o errexit \
 
 # Ensure command traces are disabled while dealing with the private key
 set +o xtrace
-echo -e $GITHUB_DEPLOY_PRIVATE_KEY > ~/.ssh/id_rsa
+echo -e "$GITHUB_DEPLOY_PRIVATE_KEY" > ~/.ssh/id_rsa
 chmod 600 ~/.ssh/id_rsa
 set -o xtrace
 
