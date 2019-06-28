@@ -16,15 +16,6 @@ with directory.joinpath('catalog.yml').open() as read_file:
     input_catalog = yaml.safe_load(read_file)
 logging.info(f"catalog consists of {len(input_catalog):,} records")
 
-"""
-- manubot:
-    - repository_url: https://github.com/greenelab/deep-review
-    - manuscript_url: https://greenelab.github.io/deep-review/
-  preprint:
-    - citaiton_id: doi:10.1101/142760
-  journal:
-    - citation_id: doi:10.1098/rsif.2017.0387
-"""
 
 def process_record(record):
     """
@@ -32,9 +23,9 @@ def process_record(record):
     """
     output = {}
     output['manubot'] = {
-        'repository_url': record['repository_url'],
-        'manuscript_url': record['manuscript_url'],
-        'citation': f"url:{record['manuscript_url']}",
+        'repo_url': record['repo_url'],
+        'url': record['html_url'],
+        'citation': f"url:{record['html_url']}",
     }
     for publication_type in 'preprint', 'journal':
         citation = record.get(f'{publication_type}_citation')
@@ -47,7 +38,10 @@ def process_record(record):
         }
     for item in output.values():
         citation = standardize_citation(item['citation'])
-        item['csl_item'] = citation_to_citeproc(citation)
+        csl_item = citation_to_citeproc(citation)
+        if 'url' not in item and 'URL' in csl_item:        
+            item['url'] = csl_item['URL']
+        item['csl_item'] = csl_item
     return output
 
 

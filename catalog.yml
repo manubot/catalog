@@ -1,7 +1,7 @@
-- repository_url: https://github.com/greenelab/deep-review
-  manuscript_url: https://greenelab.github.io/deep-review/
+- repo_url: https://github.com/greenelab/deep-review
+  html_url: https://greenelab.github.io/deep-review/
   preprint_citation: doi:10.1101/142760
   journal_citation: doi:10.1098/rsif.2017.0387
-- repository_url: https://github.com/greenelab/meta-review
-  manuscript_url: https://greenelab.github.io/meta-review/
+- repo_url: https://github.com/greenelab/meta-review
+  html_url: https://greenelab.github.io/meta-review/
   journal_citation: doi:10.1371/journal.pcbi.1007128
