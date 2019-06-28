@@ -1,7 +1,7 @@
-- source_repo_url: https://github.com/greenelab/deep-review
-  manubot_html_url: https://greenelab.github.io/deep-review/
-  preprint_cite: doi:10.1101/142760
-  journal_cite: doi:10.1098/rsif.2017.0387
-- source_repo_url: https://github.com/greenelab/meta-review
-  manubot_html_url: https://greenelab.github.io/meta-review/
-  journal_cite: doi:10.1371/journal.pcbi.1007128
+- repository_url: https://github.com/greenelab/deep-review
+  manuscript_url: https://greenelab.github.io/deep-review/
+  preprint_citation: doi:10.1101/142760
+  journal_citation: doi:10.1098/rsif.2017.0387
+- repository_url: https://github.com/greenelab/meta-review
+  manuscript_url: https://greenelab.github.io/meta-review/
+  journal_citation: doi:10.1371/journal.pcbi.1007128
