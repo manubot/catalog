@@ -39,4 +39,4 @@ for record in catalog:
 
 json_catalog = json.dumps(catalog, indent=2, ensure_ascii=False)
 directory.joinpath('output').mkdir(exist_ok=True)
-directory.joinpath('output', 'catalog.json').write_text(json_catalog)
+directory.joinpath('output', 'catalog.json').write_text(json_catalog + '\n')
