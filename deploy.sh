@@ -36,7 +36,7 @@ based on https://github.com/$TRAVIS_REPO_SLUG/commit/$TRAVIS_COMMIT
 
 [skip ci]
 "
-echo >&2 commit_message
+# echo >&2 "$commit_message"
 
 ghp-import \
   --push --no-jekyll \
