@@ -13,10 +13,4 @@ script:
   - python process-catalog.py
 after_success:
   - test ${TRAVIS_BRANCH:-} = "master" &&
-    test ${TRAVIS_EVENT_TYPE:-} = "push" &&
-    ghp-import
-    --push --no-jekyll
-    --message="Generate catalog output on $(date --iso --utc)\n\n
-    built by $TRAVIS_JOB_WEB_URL\n
-    based on https://github.com/$TRAVIS_REPO_SLUG/commit/$TRAVIS_COMMIT\n"
-    output
+    bash deploy.sh
