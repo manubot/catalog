@@ -12,8 +12,8 @@ install:
 script:
   - python process-catalog.py
 after_success:
-  - test $TRAVIS_BRANCH = "master" &&
-    test $TRAVIS_EVENT_TYPE = "push" &&
+  - test ${TRAVIS_BRANCH:-} = "master" &&
+    test ${TRAVIS_EVENT_TYPE:-} = "push" &&
     ghp-import
     --push --no-jekyll
     --message="Generate catalog output on $(date --iso --utc)\n\n
