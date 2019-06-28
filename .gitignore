@@ -1,0 +1,26 @@
+/output
+
+# Python
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints
+.cache
+.pytest_cache/
+
+# System specific files
+
+## Linux
+*~
+.Trash-*
+
+## macOS
+.DS_Store
+._*
+.Trashes
+
+## Windows
+Thumbs.db
+[Dd]esktop.ini
+
+## Text Editors
+.vscode
