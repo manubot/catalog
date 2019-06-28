@@ -12,6 +12,11 @@ git config --global user.email "travis@travis-ci.com"
 git checkout "$TRAVIS_BRANCH"
 git remote set-url origin "git@github.com:$TRAVIS_REPO_SLUG.git"
 
+# Fetch and create gh-pages branch
+# Travis does a shallow and single branch git clone
+git remote set-branches --add origin gh-pages
+git fetch origin gh-pages:gh-pages
+
 # Ensure command traces are disabled while dealing with the private key
 set +o xtrace
 echo -e $GITHUB_DEPLOY_PRIVATE_KEY > ~/.ssh/id_rsa
