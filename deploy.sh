@@ -5,6 +5,13 @@
 ## - https://github.com/manubot/rootstock/blob/ddb0288895cd5bc5dab117fb366c52216a717d0e/ci/deploy.sh
 ## - https://github.com/wp-cli/wp-cli/issues/3798
 
+# Configure git
+git config --global push.default simple
+git config --global user.name "Travis CI"
+git config --global user.email "travis@travis-ci.com"
+git checkout "$TRAVIS_BRANCH"
+git remote set-url origin "git@github.com:$TRAVIS_REPO_SLUG.git"
+
 # Ensure command traces are disabled while dealing with the private key
 set +o xtrace
 echo -e $GITHUB_DEPLOY_PRIVATE_KEY > ~/.ssh/id_rsa
