@@ -44,3 +44,25 @@
   journal_citation: doi:10.1093/bioinformatics/btz470
 - repo_url: https://github.com/greenelab/manufund-2018
   html_url: https://greenelab.github.io/manufund-2018/
+- repo_url: https://github.com/slochower/smirnoff-host-guest-manuscript
+  html_url: https://slochower.github.io/smirnoff-host-guest-manuscript/
+  thumbnail_url: https://github.com/manubot/manubot.org/raw/a723bbe27fcbaf5fe2ce05233b74a8c8d3d27e86/images/smirnoff.png
+- repo_url: https://github.com/laurentperrinet/2019-05_illusions-visuelles
+  html_url: https://laurentperrinet.github.io/2019-05_illusions-visuelles/
+  thumbnail_url: https://github.com/manubot/manubot.org/raw/a723bbe27fcbaf5fe2ce05233b74a8c8d3d27e86/images/smirnoff.png
+  journal_citation: url:https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389
+- repo_url: https://github.com/jmonlong/manu-vgsv
+  html_url: https://jmonlong.github.io/manu-vgsv/
+  thumbnail_url: https://github.com/manubot/manubot.org/raw/a723bbe27fcbaf5fe2ce05233b74a8c8d3d27e86/images/pangenome.png
+  preprint_citation: doi:10.1101/654566
+- repo_url: https://github.com/zach-hensel/low-noise-manuscript
+  html_url: https://zach-hensel.github.io/low-noise-manuscript/
+  preprint_citation: doi:10.1101/515940
+  journal_citation: doi:10.1128/mSphere.00340-19
+- repo_url: https://github.com/vsmalladi/tfsee-manuscript
+  html_url: https://vsmalladi.github.io/tfsee-manuscript/
+- repo_url: https://github.com/indigo-dc/sqa-baseline
+  html_url: https://indigo-dc.github.io/sqa-baseline/
+  preprint_citaiton: url:http://hdl.handle.net/10261/160086
+- repo_url: https://github.com/greenelab/czi-hca-report
+  html_url: https://greenelab.github.io/czi-hca-report/
