@@ -5,3 +5,34 @@
 - repo_url: https://github.com/greenelab/meta-review
   html_url: https://greenelab.github.io/meta-review/
   journal_citation: doi:10.1371/journal.pcbi.1007128
+- repo_url: https://github.com/dhimmel/bitcoin-whitepaper/
+  html_url: https://dhimmel.github.io/bitcoin-whitepaper/
+  comments: https://steemit.com/manubot/@dhimmel/how-i-used-the-manubot-to-reproduce-the-bitcoin-whitepaper
+- repo_url: https://github.com/greenelab/scihub-manuscript
+  html_url: https://greenelab.github.io/scihub-manuscript/
+  preprint_citation: doi:10.7287/peerj.preprints.3100
+  journal_citation: doi:10.7554/eLife.32822
+- repo_url: https://github.com/simonvh/gimmemotifs-manuscript
+  html_url: https://simonvh.github.io/gimmemotifs-manuscript/
+  preprint_citation: doi:10.1101/474403
+- repo_url: https://github.com/zietzm/Vagelos2017
+  html_url: https://zietzm.github.io/Vagelos2017/
+  preprint_citation: doi:10.6084/m9.figshare.5346577
+- repo_url: https://github.com/Benjamin-Lee/deep-rules
+  html_url: https://benjamin-lee.github.io/deep-rules/
+- repo_url: https://github.com/zietzm/integration-review
+  html_url: https://zietzm.github.io/integration-review/
+- repo_url: https://github.com/dhimmel/rephetio-manuscript/
+  html_url: https://dhimmel.github.io/rephetio-manuscript/
+  preprint_citation: doi:10.1101/087619
+  journal_citation: doi:10.7554/eLife.26726
+- repo_url: https://github.com/openclimatedata/global-emissions
+  html_url: https://openclimatedata.github.io/global-emissions/
+- repo_url: https://github.com/yt-project/yt-3.0-paper
+  html_url: https://yt-project.github.io/yt-3.0-paper/
+- repo_url: https://github.com/trang1618/tpot-fss-ms
+  html_url: https://trang1618.github.io/tpot-fss-ms/
+  preprint_citation: doi:10.1101/502484
+  journal_citation: doi:10.1093/bioinformatics/btz470
+- repo_url: https://github.com/greenelab/manufund-2018
+  html_url: https://greenelab.github.io/manufund-2018/
