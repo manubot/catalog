@@ -13,29 +13,143 @@ logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 
 directory = pathlib.Path(__file__).parent
 with directory.joinpath('catalog.yml').open() as read_file:
-    catalog = yaml.safe_load(read_file)
-logging.info(f"catalog consists of {len(catalog):,} records")
+    input_catalog = yaml.safe_load(read_file)
+logging.info(f"catalog consists of {len(input_catalog):,} records")
+
+
+def get_journal(csl_item):
+    keys = [
+        'container-title',
+        'container-title-short',
+        'publisher',
+        'event',
+        'collection-title',
+    ]
+    for key in keys:
+        if key in csl_item:
+            return csl_item[key]
+
+
+def get_title(csl_item):
+    keys = [
+        'title',
+        'title-short',
+    ]
+    for key in keys:
+        if key in csl_item:
+            return csl_item[key]
+
+
+def get_authors_text(csl_item, max_length=100):
+    """
+    Return string of authors like:
+    Ching, Himmelstein, Beaulieu-Jones, Kalinin, Do, Way, Ferrero, Agapow, Zietz, Hoffman, Xie, Rosen, et al
+
+    "et al" is inserted when adding another name would cause
+    authors_text to exceed max_length.
+    """
+    authors = list()
+    keys = [
+        'author',
+        'collection-editor',
+        'composer',
+        'container-author',
+        'director',
+        'editor',
+        'editorial-director',
+        'translator',
+    ]
+    for key in keys:
+        if key in csl_item:
+            authors = csl_item[key]
+            break
+    authors_text = ''
+    for author in authors:
+        try:
+            # name = f"{author['given']} {author['family']}"]
+            name = author['family']
+        except KeyError:
+            if 'literal' in author:
+                name = author['literal']
+            else:
+                continue
+        if authors_text:
+            authors_text += ', '
+        if len(name) + len(authors_text) > max_length:
+            authors_text += 'et al'
+            break
+        authors_text += name
+    return authors_text
+
+
+def get_date(csl_item):
+    """
+    Return date in iso-like format, such as:
+    2019
+    2019-05
+    2019-05-01
+    """
+    try:
+        return '-'.join(f'{int(x):02d}' for x in csl_item['issued']['date-parts'][0])
+    except Exception:
+        return None
+
+
+def get_date_summary(csl_item):
+    """
+    Return date like
+    2019
+    Jun 2019
+    """
+    date = get_date(csl_item)
+    if not date:
+        return None
+    import calendar
+    date_parts = [int(x) for x in date.split('-')]
+    if len(date_parts) == 1:
+        year, = date_parts
+        month = 0
+    else:
+        year, month = date_parts[:2]
+    return f"{calendar.month_abbr[month]} {year}".strip()
 
 
 def process_record(record):
     """
     Expand a catalog record with retrieved metadata
     """
-    record['manubot_html_csl_item'] = citation_to_citeproc(f"url:{record['manubot_html_url']}")
+    output = {}
+    output['manubot'] = {
+        'repo_url': record['repo_url'],
+        'url': record['html_url'],
+        'citation': f"url:{record['html_url']}",
+    }
     for publication_type in 'preprint', 'journal':
-        citation = record.get(f'{publication_type}_cite')
+        citation = record.get(f'{publication_type}_citation')
         if not citation:
             continue
         if not is_valid_citation(citation):
             continue
-        citation = standardize_citation(citation)
+        output[publication_type] = {
+            'citation': citation,
+        }
+    for item in output.values():
+        citation = standardize_citation(item['citation'])
         csl_item = citation_to_citeproc(citation)
-        record[f'{publication_type}_csl_item'] = csl_item
-    return record
+        if 'url' not in item and 'URL' in csl_item:
+            item['url'] = csl_item['URL']
+        item['title'] = get_title(csl_item)
+        item['authors'] = get_authors_text(csl_item)
+        item['journal'] = get_journal(csl_item)
+        item['date_iso'] = get_date(csl_item)
+        item['date_human'] = get_date_summary(csl_item)
+        item['csl_item'] = csl_item
+    return output
 
 
-for record in catalog:
-    process_record(record)
+catalog = []
+for record in input_catalog:
+    catalog.append(process_record(record))
 
 json_catalog = json.dumps(catalog, indent=2, ensure_ascii=False)
 directory.joinpath('output').mkdir(exist_ok=True)
