@@ -22,9 +22,9 @@ An example manuscript with documentation comments is below:
 ```yaml
 - repo_url: https://github.com/greenelab/deep-review  # URL to GitHub repository with Manuscript source code
   html_url: https://greenelab.github.io/deep-review/  # URL for Manubot HTML output (usually hosted by GitHub Pages)
+  thumbnail_url: https://url_for_image.png  # optional: square screenshot (showing part of html_url) used as manuscript thumbnail image.
   preprint_citation: doi:10.1101/142760  # optional: Manubot-style citation for a preprint corresponding to the manuscript
   journal_citation: doi:10.1098/rsif.2017.0387  # optional: Manubot-style citation for a published article corresponding to the manuscript
-  thumbnail_url: https://url_for_image.png  # optional: square screenshot used as manuscript thumbnail image.
 ```
 
 For more information on how to create citations for `preprint_citation` and `journal_citation`, see Manubot's citation-by-identifier [documentation here](https://github.com/manubot/rootstock/blob/master/USAGE.md#citations).

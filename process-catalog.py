@@ -125,6 +125,8 @@ def process_record(record):
         'url': html_url,
         'citation': f"url:{html_url}",
     }
+    if 'thumbnail_url' in record:
+        output['manubot']['thumbnail_url'] = record.pop('thumbnail_url')
     for publication_type in 'preprint', 'journal':
         citation = record.pop(f'{publication_type}_citation', None)
         if not citation:
