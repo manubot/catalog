@@ -119,13 +119,14 @@ def process_record(record):
     Expand a catalog record with retrieved metadata
     """
     output = {}
+    html_url = record.pop('html_url')
     output['manubot'] = {
-        'repo_url': record['repo_url'],
-        'url': record['html_url'],
-        'citation': f"url:{record['html_url']}",
+        'repo_url': record.pop('repo_url'),
+        'url': html_url,
+        'citation': f"url:{html_url}",
     }
     for publication_type in 'preprint', 'journal':
-        citation = record.get(f'{publication_type}_citation')
+        citation = record.pop(f'{publication_type}_citation', None)
         if not citation:
             continue
         if not is_valid_citation(citation):
@@ -144,6 +145,7 @@ def process_record(record):
         item['date_iso'] = get_date(csl_item)
         item['date_human'] = get_date_summary(csl_item)
         item['csl_item'] = csl_item
+    output['extras'] = record
     return output
 
 
