@@ -44,6 +44,11 @@ ghp-import \
   --message="$commit_message" \
   output
 
+GH_PAGES_DIFF="$(git diff --name-status gh-pages~1..gh-pages)"
+if [ -z "$GH_PAGES_DIFF" ]; then
+  echo "gh-pages unchanged: exiting before triggering a manubot.org build."
+  exit 0
+fi
 
 # Trigger CI of https://github.com/manubot/manubot.org to rebuild https://manubot.org/catalog/
 # See https://github.com/manubot/manubot.org/issues/22
