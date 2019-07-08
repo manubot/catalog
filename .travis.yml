@@ -11,6 +11,9 @@ install:
     pyyaml
 script:
   - python process-catalog.py
-after_success:
-  - test ${TRAVIS_BRANCH:-} = "master" &&
-    bash deploy.sh
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: bash -o xtrace deploy.sh
+  on:
+    branch: master
