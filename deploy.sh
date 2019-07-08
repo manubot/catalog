@@ -12,9 +12,10 @@ set -o errexit \
 
 eval "$(ssh-agent -s)"
 # Ensure command traces are disabled while dealing with the private key
-set +o xtrace
-echo -e $GITHUB_DEPLOY_PRIVATE_KEY | ssh-add -
-set -o xtrace
+[[ "$SHELLOPTS" =~ xtrace ]] && XTRACE_ON=1
+[[ "${XTRACE_ON:-}" ]] && set +o xtrace && echo "xtrace disabled"
+echo -e "$GITHUB_DEPLOY_PRIVATE_KEY" | ssh-add -
+[[ "${XTRACE_ON:-}" ]] && set -o xtrace && echo "xtrace reenabled"
 
 # Configure git
 git config --global push.default simple
@@ -42,3 +43,32 @@ ghp-import \
   --push --no-jekyll \
   --message="$commit_message" \
   output
+
+
+# Trigger CI of https://github.com/manubot/manubot.org to rebuild https://manubot.org/catalog/
+# See https://github.com/manubot/manubot.org/issues/22
+# Code based on https://github.com/plume-lib/trigger-travis/blob/e315da26ee7b961775985abe60238c10646f6392/trigger-travis.sh#L51-L70 (MIT Licensed)
+TRAVIS_API_CALL_BODY="{
+  \"request\": {
+    \"branch\": \"master\",
+    \"message\": \"Triggered by ${TRAVIS_JOB_WEB_URL:-local API call}\"
+  }
+}"
+
+TRAVIS_API_RESPONSE_FILE="/tmp/travis-request-output-${BASHPID:-pid}.txt"
+
+[[ "${XTRACE_ON:-}" ]] && set +o xtrace && echo "xtrace disabled"
+curl --silent --request POST \
+  --header "Content-Type: application/json" \
+  --header "Accept: application/json" \
+  --header "Travis-API-Version: 3" \
+  --header "Authorization: token ${TRAVIS_ACCESS_TOKEN}" \
+  --data "$TRAVIS_API_CALL_BODY" \
+  https://api.travis-ci.com/repo/manubot%2Fmanubot.org/requests \
+  | tee $TRAVIS_API_RESPONSE_FILE && echo
+[[ "${XTRACE_ON:-}" ]] && set -o xtrace && echo "xtrace reenabled"
+
+if grep --quiet --count '"@type": "error"' $TRAVIS_API_RESPONSE_FILE; then
+  echo "Exiting with nonzero status code becaue Travis API returned an error"
+  exit 1
+fi
