@@ -15,6 +15,8 @@ We encourage anyone to add mansucripts to the catalog.
 In-progress manuscripts are acceptable.
 Basically, any manuscript that has a substantial amount of content that is not part of [Rootstock](https://manubot.github.io/rootstock/) is of interest.
 
+GitHub repositories containing Manubot manuscripts can be found with [this search](https://github.com/search?o=desc&q=manubot+in%3Areadme&s=updated&type=Repositories).
+
 To add a manuscript to the catalog, add a record in [`catalog.yml`](catalog.yml).
 `catalog.yml` is a YAML formatted file.
 An example manuscript with documentation comments is below:
