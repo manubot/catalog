@@ -8,8 +8,8 @@
       "title": "Opportunities and obstacles for deep learning in biology and medicine: 2019 update",
       "authors": "Ching, Himmelstein, Beaulieu-Jones, Kalinin, Do, Way, Ferrero, Agapow, Zietz, Hoffman, Xie, Rosen, et al",
       "journal": null,
-      "date_iso": "2019-08-26",
-      "date_human": "Aug 2019",
+      "date_iso": "2019-09-03",
+      "date_human": "Sep 2019",
       "csl_item": {
         "id": "GT0nExut",
         "type": "webpage",
@@ -167,8 +167,8 @@
           "date-parts": [
             [
               "2019",
-              8,
-              26
+              9,
+              3
             ]
           ]
         },
@@ -177,7 +177,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -552,8 +552,8 @@
       "title": "Open collaborative writing with Manubot",
       "authors": "Himmelstein, Rubinetti, Slochower, Hu, Malladi, Greene, Gitter",
       "journal": null,
-      "date_iso": "2019-08-30",
-      "date_human": "Aug 2019",
+      "date_iso": "2019-09-02",
+      "date_human": "Sep 2019",
       "csl_item": {
         "id": "1GGGHdsew",
         "type": "webpage",
@@ -594,8 +594,8 @@
           "date-parts": [
             [
               "2019",
-              8,
-              30
+              9,
+              2
             ]
           ]
         },
@@ -604,7 +604,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -721,7 +721,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -793,7 +793,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -968,7 +968,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -1036,7 +1036,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -1170,7 +1170,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -1215,7 +1215,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -1293,7 +1293,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -1486,7 +1486,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -1561,7 +1561,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -1615,7 +1615,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -1758,7 +1758,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -1824,7 +1824,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -1926,7 +1926,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -1961,7 +1961,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -2043,7 +2043,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -2171,7 +2171,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -2335,7 +2335,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -2400,7 +2400,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -2452,7 +2452,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -2562,7 +2562,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -2611,7 +2611,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -2665,7 +2665,7 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
@@ -2770,11 +2770,100 @@
             [
               "2019",
               9,
-              2
+              3
             ]
           ]
         },
         "note": "This CSL JSON Item was automatically generated by Manubot v0.2.3 using citation-by-identifier.\nstandard_id: url:https://lelaboratoire.github.io/rethink-prs-ms/"
+      }
+    },
+    "extras": {}
+  },
+  {
+    "manubot": {
+      "repo_url": "https://github.com/sbonaretti/FAIR_metrics",
+      "url": "https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html",
+      "citation": "url:https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html",
+      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64188347-3ab9e180-ce40-11e9-9f82-aa3f11223f73.png",
+      "title": "Two real use cases of FAIR maturity indicators in the life sciences",
+      "authors": "Bonaretti, Willighagen",
+      "journal": null,
+      "date_iso": "2019-08-11",
+      "date_human": "Aug 2019",
+      "csl_item": {
+        "id": "1Hl6qxW9W",
+        "type": "webpage",
+        "title": "Two real use cases of FAIR maturity indicators in the life sciences",
+        "URL": "https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html",
+        "language": "en-US",
+        "author": [
+          {
+            "family": "Bonaretti",
+            "given": "Serena"
+          },
+          {
+            "family": "Willighagen",
+            "given": "Egon"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2019",
+              8,
+              11
+            ]
+          ]
+        },
+        "accessed": {
+          "date-parts": [
+            [
+              "2019",
+              9,
+              3
+            ]
+          ]
+        },
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.3 using citation-by-identifier.\nstandard_id: url:https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html"
+      }
+    },
+    "preprint": {
+      "citation": "doi:10.1101/739334",
+      "url": "https://doi.org/gf7hkk",
+      "title": "Two real use cases of FAIR maturity indicators in the life sciences",
+      "authors": "Bonaretti, Willighagen",
+      "journal": "Cold Spring Harbor Laboratory",
+      "date_iso": "2019-08-19",
+      "date_human": "Aug 2019",
+      "csl_item": {
+        "publisher": "Cold Spring Harbor Laboratory",
+        "abstract": "<jats:p>Data sharing and reuse are crucial to enhance scientific progress and maximize return of investments in science. Although attitudes are increasingly favorable, data reuse remains difficult for lack of infrastructures, standards, and policies. The FAIR (findable, accessible, interoperable, reusable) principles aim to provide recommendations to increase data reuse. Because of the broad interpretation of the FAIR principles, maturity indicators are necessary to determine FAIRness of a dataset. In this work, we propose a reproducible computational workflow to assess data FAIRness in the life sciences. Our implementation follows principles and guidelines recommended by the maturity indicator authoring group and integrates concepts from the literature. In addition, we propose a FAIR balloon plot to summarize and compare dataset FAIRness. We evaluated our method on two real use cases where researchers looked for datasets to answer their scientific questions. We retrieved information from repositories (ArrayExpress and Gene Expression Omnibus), a registry of repositories (re3data.org), and a searchable resource (Google Dataset Search) via application program interface (API) wherever possible. With our analysis, we found that the two datasets met the majority of the criteria defined by the maturity indicators, and we showed areas where improvements can easily be reached. We suggest that use of standard schema for metadata and presence of specific attributes in registries of repositories could increase FAIRness of datasets.</jats:p>",
+        "DOI": "10.1101/739334",
+        "type": "manuscript",
+        "source": "Crossref",
+        "title": "Two real use cases of FAIR maturity indicators in the life sciences",
+        "author": [
+          {
+            "given": "Serena",
+            "family": "Bonaretti"
+          },
+          {
+            "given": "Egon",
+            "family": "Willighagen"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              8,
+              19
+            ]
+          ]
+        },
+        "URL": "https://doi.org/gf7hkk",
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.3 using citation-by-identifier.\nstandard_id: doi:10.1101/739334",
+        "id": "xhm23Os8"
       }
     },
     "extras": {}
