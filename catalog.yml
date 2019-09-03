@@ -78,3 +78,6 @@
 - repo_url: https://github.com/lelaboratoire/rethink-prs-ms
   html_url: https://lelaboratoire.github.io/rethink-prs-ms/
   thumbnail_url: https://github.com/lelaboratoire/rethink-prs-ms/raw/f7f909bd1ad89264495139560e4a7a289fb29ba9/content/images/mrs_manubot_catalog.png
+- repo_url: https://github.com/sbonaretti/FAIR_metrics
+  html_url: https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html
+  preprint_citation: doi:10.1101/739334
