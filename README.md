@@ -74,4 +74,4 @@ Some Manubot themes show a subtle page border and shadow, meant to represent an 
 - **Use default theme, no modifications** (irrelevant if submitting a figure directly)
 To keep the catalog thumbnails consistent, we prefer you use the default Manubot theme when creating your thumbnail. We also strongly prefer you make no modifications to the theme you are using for the thumbnail, to ensure that sizing and spacing of elements on the page are all in-line with best-practices of graphic design.
 
-If in doubt, look at the other thumbnails in the catalog and model your thumbnail off of those.
+_**When in doubt, look at the other thumbnails and model yours after them.**_
