@@ -31,3 +31,47 @@ An example manuscript with documentation comments is below:
 
 For more information on how to create citations for `preprint_citation` and `journal_citation`, see Manubot's citation-by-identifier [documentation here](https://github.com/manubot/rootstock/blob/master/USAGE.md#citations).
 Note that in the future, we plan to scan the source repository for a thumbnail image, such that `thumbnail_url` may be a temporary field.
+
+## Screenshot Guidelines
+
+Follow these guidelines when creating your screenshot to help us maintain a beautiful, consistent, and streamlined catalog. They are listed roughly in order of most strict to least strict.
+
+- **1000 x 1000 pixels**
+Provide an image exactly 1000 pixels wide by 1000 pixels high. Why do we ask for such a large image when the thumbnails of the papers appear so small in the catalog? 1) Web browsers can use the extra pixels to display a cripser image when zoomed in (especially important on high dpi displays). 2) We may change the layout/design of the catalog at some point, which may show the screenshots at larger sizes. 3) In general, we want to future-proof the catalog against increasing image resolution standards, and for Manubot's own changing needs.
+
+- **PNG format**
+Provide your image as a `.png` file. This avoids the unsightly artifacts produced by other common image formats while still keeping file size to a minimum.
+
+- **Select a striking image**
+Select a portion of your manuscript that is interesting and unique. Your screenshot is not expected to accurately capture or explain what your manuscript is about. The purpose of the screenshot is to visually distinguish your paper from other papers, so that readers can easily remember and quickly identify it among many others. As such, the first preference is for a unique, colorful figure, without its caption. If your manuscript has no figures, use an interesting-looking table, code block, or set of equations. If your manuscript has none of those, use any other section that looks unique in some way; more than just a paragraph of black text. If your manuscript is all just plain text, don't provide a screenshot at all; a placeholder thumbnail will be used automatically.
+
+- **Don't stretch**
+Don't distort the original aspect ratio of your image; not even a little. It looks terrible and is very noticeable.  Asymmetrical horizontal and vertical whitespace is much preferable to a stretched image. If you are struggling to meet the dimension requirement, refer to the guidelines on cropping.
+
+- **Don't scale**
+You should always create, save, and maintain your figures in vector format where possible. This allows the image to be scaled to any size without loss of quality. If your screenshot source is a vector image, scale it to the required dimensions *before* converting/rendering it to `.png`. Do not, for example, render your vector image to a 800x800 `.png` and then scale it up to 1000x1000. If your screenshot has to be a raster image, it still must meet the dimension requirements, and may be rejected by the catalog maintainers if it is noticeably up-scaled.
+
+- **Don't include paragraph text or captions**
+Text, especially plain black text, serves little to no purpose in a thumbnail. Thumbnails are quick visual identifiers, not snippets of detailed contents. Don't include text in your screenshot, unless it is baked into the figure itself (not its caption), or unless it is necessary per the "striking image" guideline above.
+
+- **Frame/crop nicely**
+Cropping an image nicely is more of an artform than you might think. As such, it's hard to specify a set of hard/quantifiable rules about what looks good. If you're familiar with [frame composition](https://en.wikipedia.org/wiki/Composition_(visual_arts)) from art/photography/cinematography, the same techniques can be applied here. In addition, here are some general guidelines to follow:
+  - **Choose a good aspect ratio**
+Since our dimension requirements are a square, figures that are square or close to square will look the best. Figures with an aspect ratio greater than 3:1 (width:height or height:width) should be avoided. For example, a figure that is more than three times taller than it is wide might not be the best choice for a thumbnail.
+  - **Center horizontally and vertically**
+Centering an image horizontally and vertically tends to look the best. But be careful: sometimes making the space on either side exactly the same actually doesn't look centered to the human eye.  Consider a typical play button icon, a rightward-pointing triangle. Its center of mass is slightly to the left, and needs to be moved slightly right of true-center to look naturally-centered. Take into account the "center of mass" of your figure.
+  - **Use ~50px of padding**
+Where it is possible to contain your whole figure in the bounds of the image, keep about 50px of space between the content of the figure and each boundary of the image. If your figure has to extend beyond the vertical boundaries of the image, leave this much horizontal padding, and vice versa. In general, on any side that you're cutting through white-space, leave this much padding.
+  - **Cut through white-space**
+Don't cut through text or other significant objects at the borders of your image. If it is absolutely necessary to do so, choose the cut point with care. Cutting through the center or quarter-waypoint of an object looks better than -- for example -- leaving a stray, unintentional-looking 3 pixels of it protruding into the image. If a small protrusion like that is absolutely necessary, it is okay to simply white it out and make it blank space.
+
+- **Don't show plugins** (irrelevant if submitting a figure directly)
+Don't show Manubot or third party plugins in your screenshot. The purpose of the thumbnail is to represent your particular paper, not to showcase features of Manubot (there are other places for that). In particular, be mindful to remove the Hypothesis side toolbar, Hypothesis highlights, the table of contents panel, and open tooltips.
+
+- **Don't show theme decorations** (irrelevant if submitting a figure directly)
+Some Manubot themes show a subtle page border and shadow, meant to represent an actual sheet of paper. Don't include these in your screenshots, or any other theme decoration that will add clutter to the image in its final context. For example, our catalog already adds a shadow to the thumbnails, and it would look ugly to have another shadow within the image itself. These types of effects are intended to be "sugar"/embellishment for the html version of manuscripts only. They're not considered core to the content and functionality of the paper, and thus don't belong in a screenshot. They are also more likely to change as aesthetic trends change. In general, if a piece of styling is stripped away when printing your manuscript, don't include it in your screenshot.
+
+- **Use default theme, no modifications** (irrelevant if submitting a figure directly)
+To keep the catalog thumbnails consistent, we prefer you use the default Manubot theme when creating your screenshot. We also strongly prefer you make no modifications to the theme you are using for the screenshot, to ensure that sizing and spacing of elements on the page are all in-line with best-practices of graphic design.
+
+If in doubt, look at the other thumbnails in the catalog and model your screenshot off of those.
