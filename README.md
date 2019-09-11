@@ -37,23 +37,25 @@ Note that in the future, we plan to scan the source repository for a thumbnail i
 Follow these guidelines when creating your thumbnail to help us maintain a beautiful, consistent, and streamlined catalog.
 They are listed roughly in order of most strict to least strict.
 
+*Click on the arrows/triangles to show more details about the guideline.*
 
 <details>
 <summary>
-1000 x 1000 pixels
+Size dimensions to 1000 × 1000 pixels
 </summary>
 
 Provide an image exactly 1000 pixels wide by 1000 pixels high.
 Why do we ask for such a large image when the thumbnails of the papers appear so small in the catalog?
-1) Web browsers can use the extra pixels to display a cripser image when zoomed in (especially important on high dpi displays).
-2) The layout/design of the catalog is subject to change, which may show the thumbnails at larger sizes.
-3) In general, we want to future-proof the catalog against increasing image resolution standards, and for Manubot's own changing needs.
+
+1. Web browsers can use the extra pixels to display a cripser image when zoomed in (especially important on high dpi displays).
+2. The layout/design of the catalog is subject to change, which may show the thumbnails at larger sizes.
+3. In general, we want to future-proof the catalog against increasing image resolution standards, and for Manubot's own changing needs.
 </details>
 
 
 <details>
 <summary>
-PNG format
+Use PNG format
 </summary>
 
 Provide your image as a `.png` file.
@@ -96,14 +98,14 @@ Don't scale
 You should always create, save, and maintain your figures in vector format where possible.
 This allows the image to be scaled to any size without loss of quality.
 If your thumbnail source is a vector image, scale it to the required dimensions *before* converting/rendering it to `.png`.
-Do not, for example, render your vector image to a 800x800 `.png` and then scale it up to 1000x1000.
+Do not, for example, render your vector image to a 800×800 `.png` and then scale it up to 1000×1000.
 If your thumbnail has to be a raster image, it still must meet the dimension requirements above, and may be rejected by the catalog maintainers if it is noticeably up-scaled.
 </details>
 
 
 <details>
 <summary>
-Solid background
+Use a solid background
 </summary>
 
 If your image has any transparent/translucent areas, place a background behind it.
