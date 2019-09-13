@@ -73,7 +73,7 @@
   html_url: https://git.dhimmel.com/psb-manuscript/
 - repo_url: https://github.com/manubot/try-manubot
   html_url: https://manubot.github.io/try-manubot/
-  thumbnail_url: https://user-images.githubusercontent.com/8326331/64821582-2b920c80-d581-11e9-8e5f-cd4d17e80580.png
+  thumbnail_url: https://raw.githubusercontent.com/manubot/try-manubot/master/thumbnail.png
 - repo_url: https://github.com/greenelab/text_mined_hetnet_manuscript
   html_url: https://greenelab.github.io/text_mined_hetnet_manuscript/
   thumbnail_url: https://user-images.githubusercontent.com/8326331/64816858-8f630800-d576-11e9-8090-bcb39d190657.png
