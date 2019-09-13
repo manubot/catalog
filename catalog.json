@@ -4,7 +4,7 @@
       "repo_url": "https://github.com/greenelab/deep-review",
       "url": "https://greenelab.github.io/deep-review/",
       "citation": "url:https://greenelab.github.io/deep-review/",
-      "thumbnail_url": "https://github.com/manubot/manubot.org/raw/a723bbe27fcbaf5fe2ce05233b74a8c8d3d27e86/images/deep-review.png",
+      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64814086-ce8e5a80-d570-11e9-9625-33526ba0e608.png",
       "title": "Opportunities and obstacles for deep learning in biology and medicine: 2019 update",
       "authors": "Ching, Himmelstein, Beaulieu-Jones, Kalinin, Do, Way, Ferrero, Agapow, Zietz, Hoffman, Xie, Rosen, et al",
       "journal": null,
@@ -177,7 +177,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -548,7 +548,7 @@
       "repo_url": "https://github.com/greenelab/meta-review",
       "url": "https://greenelab.github.io/meta-review/",
       "citation": "url:https://greenelab.github.io/meta-review/",
-      "thumbnail_url": "https://github.com/manubot/manubot.org/raw/a723bbe27fcbaf5fe2ce05233b74a8c8d3d27e86/images/meta-review.png",
+      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64815340-56756400-d573-11e9-8049-01d8e4f992cc.png",
       "title": "Open collaborative writing with Manubot",
       "authors": "Himmelstein, Rubinetti, Slochower, Hu, Malladi, Greene, Gitter",
       "journal": null,
@@ -604,7 +604,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -690,6 +690,7 @@
       "repo_url": "https://github.com/dhimmel/bitcoin-whitepaper/",
       "url": "https://dhimmel.github.io/bitcoin-whitepaper/",
       "citation": "url:https://dhimmel.github.io/bitcoin-whitepaper/",
+      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64823946-bc1f1b80-d586-11e9-9d42-24183c052d88.png",
       "title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
       "authors": "Nakamoto",
       "journal": null,
@@ -721,7 +722,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -737,11 +738,11 @@
       "repo_url": "https://github.com/greenelab/scihub-manuscript",
       "url": "https://greenelab.github.io/scihub-manuscript/",
       "citation": "url:https://greenelab.github.io/scihub-manuscript/",
-      "thumbnail_url": "https://github.com/manubot/manubot.org/raw/a723bbe27fcbaf5fe2ce05233b74a8c8d3d27e86/images/scihub.png",
+      "thumbnail_url": "https://raw.githubusercontent.com/greenelab/scihub-manuscript/master/thumbnail.png",
       "title": "Sci-Hub provides access to nearly all scholarly literature",
       "authors": "Himmelstein, Romero, Levernier, Munro, McLaughlin, Tzovaras, Greene",
       "journal": null,
-      "date_iso": "2019-09-10",
+      "date_iso": "2019-09-13",
       "date_human": "Sep 2019",
       "csl_item": {
         "id": "QrpwQMhT",
@@ -784,7 +785,7 @@
             [
               "2019",
               9,
-              10
+              13
             ]
           ]
         },
@@ -793,7 +794,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -930,7 +931,6 @@
       "repo_url": "https://github.com/simonvh/gimmemotifs-manuscript",
       "url": "https://simonvh.github.io/gimmemotifs-manuscript/",
       "citation": "url:https://simonvh.github.io/gimmemotifs-manuscript/",
-      "thumbnail_url": "https://github.com/manubot/manubot.org/raw/a723bbe27fcbaf5fe2ce05233b74a8c8d3d27e86/images/gimmemotifs.png",
       "title": "GimmeMotifs: an analysis framework for transcription factor motif analysis",
       "authors": "Bruse, Heeringen",
       "journal": null,
@@ -968,7 +968,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -1036,7 +1036,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -1086,12 +1086,12 @@
       "repo_url": "https://github.com/Benjamin-Lee/deep-rules",
       "url": "https://benjamin-lee.github.io/deep-rules/",
       "citation": "url:https://benjamin-lee.github.io/deep-rules/",
-      "thumbnail_url": "https://github.com/manubot/manubot.org/raw/a723bbe27fcbaf5fe2ce05233b74a8c8d3d27e86/images/deep-tips.png",
+      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64824922-7e6fc200-d589-11e9-8df1-2673996cce9b.png",
       "title": "Ten Quick Tips for Deep Learning in Biology",
       "authors": "Lee, Titus, Yu, Chevrette, Stewart, Cofer, Raschka, Maguire, Lengerich, Kalinin, Gitter, Greene, et al",
       "journal": null,
-      "date_iso": "2019-08-02",
-      "date_human": "Aug 2019",
+      "date_iso": "2019-09-13",
+      "date_human": "Sep 2019",
       "csl_item": {
         "id": "tPU9SJPF",
         "type": "webpage",
@@ -1160,8 +1160,8 @@
           "date-parts": [
             [
               "2019",
-              8,
-              2
+              9,
+              13
             ]
           ]
         },
@@ -1170,7 +1170,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -1215,7 +1215,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -1229,7 +1229,7 @@
       "repo_url": "https://github.com/dhimmel/rephetio-manuscript/",
       "url": "https://dhimmel.github.io/rephetio-manuscript/",
       "citation": "url:https://dhimmel.github.io/rephetio-manuscript/",
-      "thumbnail_url": "https://github.com/manubot/manubot.org/raw/a723bbe27fcbaf5fe2ce05233b74a8c8d3d27e86/images/rephetio.png",
+      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64824681-c2ae9280-d588-11e9-8d2c-ba5ea2dc7b92.png",
       "title": "Systematic integration of biomedical knowledge prioritizes drugs for repurposing",
       "authors": "Himmelstein, Lizee, Hessler, Brueggeman, L. Chen, Hadley, Green, Khankhanian, E. Baranzini",
       "journal": null,
@@ -1293,7 +1293,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -1446,7 +1446,7 @@
       "repo_url": "https://github.com/openclimatedata/global-emissions",
       "url": "https://openclimatedata.github.io/global-emissions/",
       "citation": "url:https://openclimatedata.github.io/global-emissions/",
-      "thumbnail_url": "https://github.com/manubot/manubot.org/raw/a723bbe27fcbaf5fe2ce05233b74a8c8d3d27e86/images/emissions.png",
+      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64821751-888dc280-d581-11e9-8d8b-37233f7b087a.png",
       "title": "Global Emissions Timeseries",
       "authors": "Gieseke, Gütschow, Nicholls",
       "journal": null,
@@ -1486,7 +1486,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -1500,6 +1500,7 @@
       "repo_url": "https://github.com/yt-project/yt-3.0-paper",
       "url": "https://yt-project.github.io/yt-3.0-paper/",
       "citation": "url:https://yt-project.github.io/yt-3.0-paper/",
+      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64820041-96414900-d57d-11e9-9b57-325f89b548df.png",
       "title": "Introducing yt 3.0: Analysis and Visualization of Volumetric Data",
       "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Yourself",
       "journal": null,
@@ -1561,7 +1562,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -1575,12 +1576,12 @@
       "repo_url": "https://github.com/trang1618/tpot-fss-ms",
       "url": "https://trang1618.github.io/tpot-fss-ms/",
       "citation": "url:https://trang1618.github.io/tpot-fss-ms/",
-      "thumbnail_url": "https://github.com/manubot/manubot.org/raw/a723bbe27fcbaf5fe2ce05233b74a8c8d3d27e86/images/tpot.png",
+      "thumbnail_url": "https://raw.githubusercontent.com/trang1618/tpot-fss-ms/master/thumbnail.png",
       "title": "Scaling tree-based automated machine learning to biomedical big data with a feature set selector",
       "authors": "Le, Fu, Moore",
       "journal": null,
-      "date_iso": "2019-06-18",
-      "date_human": "Jun 2019",
+      "date_iso": "2019-09-13",
+      "date_human": "Sep 2019",
       "csl_item": {
         "id": "V8qikHyq",
         "type": "webpage",
@@ -1605,8 +1606,8 @@
           "date-parts": [
             [
               "2019",
-              6,
-              18
+              9,
+              13
             ]
           ]
         },
@@ -1615,7 +1616,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -1758,7 +1759,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -1772,7 +1773,7 @@
       "repo_url": "https://github.com/slochower/smirnoff-host-guest-manuscript",
       "url": "https://slochower.github.io/smirnoff-host-guest-manuscript/",
       "citation": "url:https://slochower.github.io/smirnoff-host-guest-manuscript/",
-      "thumbnail_url": "https://github.com/manubot/manubot.org/raw/a723bbe27fcbaf5fe2ce05233b74a8c8d3d27e86/images/smirnoff.png",
+      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64820987-a9551880-d57f-11e9-8caa-80814be970ed.png",
       "title": "Binding thermodynamics of host-guest systems with SMIRNOFF99Frosst 1.0.5 from the Open Force Field Initiative",
       "authors": "Slochower, Henriksen, Wang, Chodera, Mobley, Gilson",
       "journal": null,
@@ -1824,7 +1825,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -1893,7 +1894,7 @@
       "repo_url": "https://github.com/laurentperrinet/2019-05_illusions-visuelles",
       "url": "https://laurentperrinet.github.io/2019-05_illusions-visuelles/",
       "citation": "url:https://laurentperrinet.github.io/2019-05_illusions-visuelles/",
-      "thumbnail_url": "https://github.com/manubot/manubot.org/raw/a723bbe27fcbaf5fe2ce05233b74a8c8d3d27e86/images/illusions.png",
+      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64823744-3b601f80-d586-11e9-923f-5a594d367371.png",
       "title": "Des illusions visuelles aux hallucinations: une porte sur la perception",
       "authors": "Perrinet",
       "journal": null,
@@ -1926,7 +1927,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -1961,7 +1962,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -1975,12 +1976,12 @@
       "repo_url": "https://github.com/jmonlong/manu-vgsv",
       "url": "https://jmonlong.github.io/manu-vgsv/",
       "citation": "url:https://jmonlong.github.io/manu-vgsv/",
-      "thumbnail_url": "https://github.com/manubot/manubot.org/raw/a723bbe27fcbaf5fe2ce05233b74a8c8d3d27e86/images/pangenome.png",
+      "thumbnail_url": "https://raw.githubusercontent.com/jmonlong/manu-vgsv/master/thumbnail.png",
       "title": "Genotyping structural variants in pangenome graphs using the vg toolkit",
       "authors": "Hickey, Heller, Monlong, Sibbesen, Siren, Eizenga, Dawson, Garrison, Novak, Paten",
       "journal": null,
-      "date_iso": "2019-06-25",
-      "date_human": "Jun 2019",
+      "date_iso": "2019-09-13",
+      "date_human": "Sep 2019",
       "csl_item": {
         "id": "1EAO8sxjC",
         "type": "webpage",
@@ -2033,8 +2034,8 @@
           "date-parts": [
             [
               "2019",
-              6,
-              25
+              9,
+              13
             ]
           ]
         },
@@ -2043,7 +2044,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -2128,6 +2129,7 @@
       "repo_url": "https://github.com/zach-hensel/low-noise-manuscript",
       "url": "https://zach-hensel.github.io/low-noise-manuscript/",
       "citation": "url:https://zach-hensel.github.io/low-noise-manuscript/",
+      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64823430-64cc7b80-d585-11e9-9986-e76256b2bac1.png",
       "title": "Plasmids for independently tunable, low-noise expression of two genes",
       "authors": "Silva, Lopes, Grilo, Hensel",
       "journal": null,
@@ -2171,7 +2173,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -2335,7 +2337,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -2400,16 +2402,76 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
         "note": "This CSL JSON Item was automatically generated by Manubot v0.2.3 using citation-by-identifier.\nstandard_id: url:https://indigo-dc.github.io/sqa-baseline/"
       }
     },
-    "extras": {
-      "preprint_citaiton": "url:http://hdl.handle.net/10261/160086"
-    }
+    "preprint": {
+      "citation": "url:http://hdl.handle.net/10261/160086",
+      "url": "https://digital.csic.es/handle/10261/160086",
+      "title": "A set of common software quality assurance baseline criteria for research projects",
+      "authors": "Orviz, López García, Duma, Donvito, David, Gomes",
+      "journal": null,
+      "date_iso": "2017",
+      "date_human": "2017",
+      "csl_item": {
+        "id": "15P0eEMP4",
+        "type": "article-journal",
+        "title": "A set of common software quality assurance baseline criteria for research projects",
+        "source": "digital.csic.es",
+        "abstract": "The purpose of this document is to define a set of quality  standards, procedures and best practices to conform a Software Quality Assurance plan to serve as a reference within the European research ecosystem related projects for the adequate development and timely delivery of software products.",
+        "URL": "https://digital.csic.es/handle/10261/160086",
+        "DOI": "http://dx.doi.org/10.13039/501100000780",
+        "language": "eng",
+        "author": [
+          {
+            "family": "Orviz",
+            "given": "Pablo"
+          },
+          {
+            "family": "López García",
+            "given": "Álvaro"
+          },
+          {
+            "family": "Duma",
+            "given": "Doina Cristina"
+          },
+          {
+            "family": "Donvito",
+            "given": "Giacinto"
+          },
+          {
+            "family": "David",
+            "given": "Mario"
+          },
+          {
+            "family": "Gomes",
+            "given": "Jorge"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2017"
+            ]
+          ]
+        },
+        "accessed": {
+          "date-parts": [
+            [
+              "2019",
+              9,
+              13
+            ]
+          ]
+        },
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.3 using citation-by-identifier.\nstandard_id: url:http://hdl.handle.net/10261/160086"
+      }
+    },
+    "extras": {}
   },
   {
     "manubot": {
@@ -2452,7 +2514,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -2562,7 +2624,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -2576,11 +2638,12 @@
       "repo_url": "https://github.com/manubot/try-manubot",
       "url": "https://manubot.github.io/try-manubot/",
       "citation": "url:https://manubot.github.io/try-manubot/",
+      "thumbnail_url": "https://raw.githubusercontent.com/manubot/try-manubot/master/thumbnail.png",
       "title": "Edit me to practice contributing to a collaborative Manubot manuscript",
       "authors": "Doe, Roe",
       "journal": null,
-      "date_iso": "2019-07-09",
-      "date_human": "Jul 2019",
+      "date_iso": "2019-09-13",
+      "date_human": "Sep 2019",
       "csl_item": {
         "id": "9IQuyN3R",
         "type": "webpage",
@@ -2601,8 +2664,8 @@
           "date-parts": [
             [
               "2019",
-              7,
-              9
+              9,
+              13
             ]
           ]
         },
@@ -2611,7 +2674,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -2625,7 +2688,7 @@
       "repo_url": "https://github.com/greenelab/text_mined_hetnet_manuscript",
       "url": "https://greenelab.github.io/text_mined_hetnet_manuscript/",
       "citation": "url:https://greenelab.github.io/text_mined_hetnet_manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/text_mined_hetnet_manuscript/raw/723150789da169f8d2e89aaddd6d27b852b1d453/figures/manubot_thumbnail.png",
+      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64816858-8f630800-d576-11e9-8090-bcb39d190657.png",
       "title": "Reusing label functions to extract multiple types of relationships from biomedical abstracts at scale",
       "authors": "Nicholson, Himmelstein, Greene",
       "journal": null,
@@ -2665,7 +2728,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -2722,12 +2785,12 @@
       "repo_url": "https://github.com/lelaboratoire/rethink-prs-ms",
       "url": "https://lelaboratoire.github.io/rethink-prs-ms/",
       "citation": "url:https://lelaboratoire.github.io/rethink-prs-ms/",
-      "thumbnail_url": "https://github.com/lelaboratoire/rethink-prs-ms/raw/f7f909bd1ad89264495139560e4a7a289fb29ba9/content/images/mrs_manubot_catalog.png",
+      "thumbnail_url": "https://raw.githubusercontent.com/lelaboratoire/rethink-prs-ms/master/thumbnail.png",
       "title": "Expanding polygenic risk scores to include automatic genotype encodings and gene-gene interactions",
       "authors": "Le, Gong, Orzechowski, Manduchi, Moore",
       "journal": null,
-      "date_iso": "2019-08-28",
-      "date_human": "Aug 2019",
+      "date_iso": "2019-09-13",
+      "date_human": "Sep 2019",
       "csl_item": {
         "id": "K8EVjgqQ",
         "type": "webpage",
@@ -2760,8 +2823,8 @@
           "date-parts": [
             [
               "2019",
-              8,
-              28
+              9,
+              13
             ]
           ]
         },
@@ -2770,7 +2833,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -2784,7 +2847,7 @@
       "repo_url": "https://github.com/sbonaretti/FAIR_metrics",
       "url": "https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html",
       "citation": "url:https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html",
-      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64188347-3ab9e180-ce40-11e9-9f82-aa3f11223f73.png",
+      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64818001-0d281300-d579-11e9-8215-015da333fb5b.png",
       "title": "Two real use cases of FAIR maturity indicators in the life sciences",
       "authors": "Bonaretti, Willighagen",
       "journal": null,
@@ -2820,7 +2883,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
@@ -2873,7 +2936,7 @@
       "repo_url": "https://github.com/greenelab/xswap-manuscript",
       "url": "https://greenelab.github.io/xswap-manuscript/",
       "citation": "url:https://greenelab.github.io/xswap-manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/xswap-manuscript/raw/3d636da3a8f52a4d44c78cdf600f1fa9fbb1dbd9/xswap_thumbnail.png",
+      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64813118-9e45bc80-d56e-11e9-8913-370d5022148d.png",
       "title": "The probability of edge existence due to node degree: a baseline for network-based predictions",
       "authors": "Zietz, Himmelstein, Kloster, Williams, Nagle, Sullivan, Greene",
       "journal": null,
@@ -2930,7 +2993,7 @@
             [
               "2019",
               9,
-              11
+              13
             ]
           ]
         },
