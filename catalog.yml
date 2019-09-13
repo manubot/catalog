@@ -40,7 +40,7 @@
   thumbnail_url: https://user-images.githubusercontent.com/8326331/64820041-96414900-d57d-11e9-9b57-325f89b548df.png
 - repo_url: https://github.com/trang1618/tpot-fss-ms
   html_url: https://trang1618.github.io/tpot-fss-ms/
-  thumbnail_url: https://github.com/manubot/manubot.org/raw/a723bbe27fcbaf5fe2ce05233b74a8c8d3d27e86/images/tpot.png
+  thumbnail_url: https://raw.githubusercontent.com/trang1618/tpot-fss-ms/master/thumbnail.png
   preprint_citation: doi:10.1101/502484
   journal_citation: doi:10.1093/bioinformatics/btz470
 - repo_url: https://github.com/greenelab/manufund-2018
