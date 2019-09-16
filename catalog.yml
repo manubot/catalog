@@ -16,6 +16,9 @@
   thumbnail_url: https://raw.githubusercontent.com/greenelab/scihub-manuscript/master/thumbnail.png
   preprint_citation: doi:10.7287/peerj.preprints.3100
   journal_citation: doi:10.7554/eLife.32822
+- repo_url: https://github.com/greenelab/scihub-manuscript-es
+  html_url: https://greenelab.github.io/scihub-manuscript-es/
+  thumbnail_url: https://raw.githubusercontent.com/greenelab/scihub-manuscript/master/thumbnail.png
 - repo_url: https://github.com/simonvh/gimmemotifs-manuscript
   html_url: https://simonvh.github.io/gimmemotifs-manuscript/
   preprint_citation: doi:10.1101/474403
