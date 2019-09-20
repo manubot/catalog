@@ -177,7 +177,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -548,11 +548,11 @@
       "repo_url": "https://github.com/greenelab/meta-review",
       "url": "https://greenelab.github.io/meta-review/",
       "citation": "url:https://greenelab.github.io/meta-review/",
-      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64815340-56756400-d573-11e9-8049-01d8e4f992cc.png",
+      "thumbnail_url": "https://raw.githubusercontent.com/greenelab/meta-review/master/thumbnail.png",
       "title": "Open collaborative writing with Manubot",
       "authors": "Himmelstein, Rubinetti, Slochower, Hu, Malladi, Greene, Gitter",
       "journal": null,
-      "date_iso": "2019-09-16",
+      "date_iso": "2019-09-20",
       "date_human": "Sep 2019",
       "csl_item": {
         "id": "1GGGHdsew",
@@ -595,7 +595,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -604,7 +604,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -722,7 +722,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -794,7 +794,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -987,7 +987,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -1038,7 +1038,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -1106,7 +1106,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -1240,7 +1240,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -1285,7 +1285,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -1363,7 +1363,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -1556,7 +1556,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -1632,7 +1632,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -1686,7 +1686,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -1829,7 +1829,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -1895,7 +1895,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -1997,7 +1997,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -2032,7 +2032,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -2114,7 +2114,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -2243,7 +2243,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -2407,7 +2407,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -2472,7 +2472,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -2481,64 +2481,17 @@
     },
     "preprint": {
       "citation": "url:http://hdl.handle.net/10261/160086",
-      "url": "https://digital.csic.es/handle/10261/160086",
-      "title": "A set of common software quality assurance baseline criteria for research projects",
-      "authors": "Orviz, López García, Duma, Donvito, David, Gomes",
+      "url": "http://hdl.handle.net/10261/160086",
+      "title": null,
+      "authors": "",
       "journal": null,
-      "date_iso": "2017",
-      "date_human": "2017",
+      "date_iso": null,
+      "date_human": null,
       "csl_item": {
-        "id": "15P0eEMP4",
-        "type": "article-journal",
-        "title": "A set of common software quality assurance baseline criteria for research projects",
-        "source": "digital.csic.es",
-        "abstract": "The purpose of this document is to define a set of quality  standards, procedures and best practices to conform a Software Quality Assurance plan to serve as a reference within the European research ecosystem related projects for the adequate development and timely delivery of software products.",
-        "URL": "https://digital.csic.es/handle/10261/160086",
-        "DOI": "http://dx.doi.org/10.13039/501100000780",
-        "language": "eng",
-        "author": [
-          {
-            "family": "Orviz",
-            "given": "Pablo"
-          },
-          {
-            "family": "López García",
-            "given": "Álvaro"
-          },
-          {
-            "family": "Duma",
-            "given": "Doina Cristina"
-          },
-          {
-            "family": "Donvito",
-            "given": "Giacinto"
-          },
-          {
-            "family": "David",
-            "given": "Mario"
-          },
-          {
-            "family": "Gomes",
-            "given": "Jorge"
-          }
-        ],
-        "issued": {
-          "date-parts": [
-            [
-              "2017"
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2019",
-              9,
-              16
-            ]
-          ]
-        },
-        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.3 using citation-by-identifier.\nstandard_id: url:http://hdl.handle.net/10261/160086"
+        "URL": "http://hdl.handle.net/10261/160086",
+        "type": "webpage",
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.3 using citation-by-identifier.\nstandard_id: url:http://hdl.handle.net/10261/160086",
+        "id": "15P0eEMP4"
       }
     },
     "extras": {}
@@ -2584,7 +2537,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -2694,7 +2647,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -2744,7 +2697,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -2798,7 +2751,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -2903,7 +2856,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -2953,7 +2906,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
@@ -3063,7 +3016,7 @@
             [
               "2019",
               9,
-              16
+              20
             ]
           ]
         },
