@@ -5,7 +5,7 @@
   journal_citation: doi:10.1098/rsif.2017.0387
 - repo_url: https://github.com/greenelab/meta-review
   html_url: https://greenelab.github.io/meta-review/
-  thumbnail_url: https://user-images.githubusercontent.com/8326331/64815340-56756400-d573-11e9-8049-01d8e4f992cc.png
+  thumbnail_url: https://raw.githubusercontent.com/greenelab/meta-review/master/thumbnail.png
   journal_citation: doi:10.1371/journal.pcbi.1007128
 - repo_url: https://github.com/dhimmel/bitcoin-whitepaper/
   html_url: https://dhimmel.github.io/bitcoin-whitepaper/
