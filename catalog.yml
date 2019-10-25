@@ -51,7 +51,8 @@
 - repo_url: https://github.com/slochower/smirnoff-host-guest-manuscript
   html_url: https://slochower.github.io/smirnoff-host-guest-manuscript/
   thumbnail_url: https://user-images.githubusercontent.com/8326331/64820987-a9551880-d57f-11e9-8caa-80814be970ed.png
-  preprint_citation: doi:10.26434/chemrxiv.9159872.v1
+  preprint_citation: doi:10.26434/chemrxiv.9159872
+  journal_citation: doi:10.1021/acs.jctc.9b00748
 - repo_url: https://github.com/laurentperrinet/2019-05_illusions-visuelles
   html_url: https://laurentperrinet.github.io/2019-05_illusions-visuelles/
   thumbnail_url: https://user-images.githubusercontent.com/8326331/64823744-3b601f80-d586-11e9-923f-5a594d367371.png
