@@ -177,7 +177,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -604,7 +604,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -722,7 +722,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -794,7 +794,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -987,7 +987,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -1038,7 +1038,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -1106,7 +1106,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -1240,7 +1240,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -1285,7 +1285,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -1363,7 +1363,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -1556,7 +1556,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -1632,7 +1632,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -1686,7 +1686,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -1829,7 +1829,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -1895,7 +1895,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -1903,17 +1903,17 @@
       }
     },
     "preprint": {
-      "citation": "doi:10.26434/chemrxiv.9159872.v1",
-      "url": "https://doi.org/gf5nhj",
+      "citation": "doi:10.26434/chemrxiv.9159872",
+      "url": "https://doi.org/ggbr6p",
       "title": "Binding thermodynamics of host-guest systems with SMIRNOFF99Frosst 1.0.5 from the Open Force Field Initiative",
       "authors": "Slochower, Henriksen, Wang, Chodera, Mobley, Gilson",
       "journal": "American Chemical Society (ACS)",
-      "date_iso": "2019-07-30",
-      "date_human": "Jul 2019",
+      "date_iso": "2019-09-06",
+      "date_human": "Sep 2019",
       "csl_item": {
         "publisher": "American Chemical Society (ACS)",
         "abstract": "<jats:p>&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;Designing ligands that bind their target biomolecules with high affinity and specificity is a key step in small- molecule drug discovery, but accurately predicting protein-ligand binding free energies remains challenging. Key sources of errors in the calculations include inadequate sampling of conformational space, ambiguous protonation states, and errors in force fields. Noncovalent complexes between a host molecule with a binding cavity and a drug-like guest molecules have emerged as powerful model systems. As model systems, host-guest complexes reduce many of the errors in more complex protein-ligand binding systems, as their small size greatly facilitates conformational sampling, and one can choose systems that avoid ambiguities in protonation states. These features, combined with their ease of experimental characterization, make host-guest systems ideal model systems to test and ultimately optimize force fields in the context of binding thermodynamics calculations.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The Open Force Field Initiative aims to create a modern, open software infrastructure for automatically generating and assessing force fields using data sets. The first force field to arise out of this effort, named SMIRNOFF99Frosst, has approximately one tenth the number of parameters, in version 1.0.5, compared to typical general small molecule force fields, such as GAFF. Here, we evaluate the accuracy of this initial force field, using free energy calculations of 43 α and β-cyclodextrin host-guest pairs for which experimental thermodynamic data are available, and compare with matched calculations using two versions of GAFF. For all three force fields, we used TIP3P water and AM1-BCC charges. The calculations are performed using the attach-pull-release (APR) method as implemented in the open source package, pAPRika. For binding free energies, the root mean square error of the SMIRNOFF99Frosst calculations relative to experiment is 0.9 [0.7, 1.1] kcal/mol, while the corresponding results for GAFF 1.7 and GAFF 2.1 are 0.9 [0.7, 1.1] kcal/mol and 1.7 [1.5, 1.9] kcal/mol, respectively, with 95% confidence ranges in brackets. These results suggest that SMIRNOFF99Frosst performs competitively with existing small molecule force fields and is a parsimonious starting point for optimization.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</jats:p>",
-        "DOI": "10.26434/chemrxiv.9159872.v1",
+        "DOI": "10.26434/chemrxiv.9159872",
         "type": "manuscript",
         "source": "Crossref",
         "title": "Binding thermodynamics of host-guest systems with SMIRNOFF99Frosst 1.0.5 from the Open Force Field Initiative",
@@ -1947,14 +1947,72 @@
           "date-parts": [
             [
               2019,
-              7,
-              30
+              9,
+              6
             ]
           ]
         },
-        "URL": "https://doi.org/gf5nhj",
-        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.3 using citation-by-identifier.\nstandard_id: doi:10.26434/chemrxiv.9159872.v1",
-        "id": "b2hFuMuT"
+        "URL": "https://doi.org/ggbr6p",
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.3 using citation-by-identifier.\nstandard_id: doi:10.26434/chemrxiv.9159872",
+        "id": "TFp1HaAP"
+      }
+    },
+    "journal": {
+      "citation": "doi:10.1021/acs.jctc.9b00748",
+      "url": "https://doi.org/ggbr6n",
+      "title": "Binding Thermodynamics of Host–Guest Systems with SMIRNOFF99Frosst 1.0.5 from the Open Force Field Initiative",
+      "authors": "Slochower, Henriksen, Wang, Chodera, Mobley, Gilson",
+      "journal": "Journal of Chemical Theory and Computation",
+      "date_iso": "2019-10-25",
+      "date_human": "Oct 2019",
+      "csl_item": {
+        "publisher": "American Chemical Society (ACS)",
+        "DOI": "10.1021/acs.jctc.9b00748",
+        "type": "article-journal",
+        "source": "Crossref",
+        "title": "Binding Thermodynamics of Host–Guest Systems with SMIRNOFF99Frosst 1.0.5 from the Open Force Field Initiative",
+        "author": [
+          {
+            "given": "David R.",
+            "family": "Slochower"
+          },
+          {
+            "given": "Niel M.",
+            "family": "Henriksen"
+          },
+          {
+            "given": "Lee-Ping",
+            "family": "Wang"
+          },
+          {
+            "given": "John D.",
+            "family": "Chodera"
+          },
+          {
+            "given": "David L.",
+            "family": "Mobley"
+          },
+          {
+            "given": "Michael K.",
+            "family": "Gilson"
+          }
+        ],
+        "container-title": "Journal of Chemical Theory and Computation",
+        "language": "en",
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              10,
+              25
+            ]
+          ]
+        },
+        "URL": "https://doi.org/ggbr6n",
+        "container-title-short": "J. Chem. Theory Comput.",
+        "PMID": "31603667",
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.3 using citation-by-identifier.\nstandard_id: doi:10.1021/acs.jctc.9b00748",
+        "id": "18sdEnKBR"
       }
     },
     "extras": {}
@@ -1997,7 +2055,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -2032,7 +2090,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -2048,9 +2106,9 @@
       "citation": "url:https://jmonlong.github.io/manu-vgsv/",
       "thumbnail_url": "https://raw.githubusercontent.com/jmonlong/manu-vgsv/master/thumbnail.png",
       "title": "Genotyping structural variants in pangenome graphs using the vg toolkit",
-      "authors": "Hickey, Heller, Monlong, Sibbesen, Siren, Eizenga, Dawson, Garrison, Novak, Paten",
+      "authors": "Hickey, Heller, Monlong, Sibbesen, Sirén, Eizenga, Dawson, Garrison, Novak, Paten",
       "journal": null,
-      "date_iso": "2019-10-21",
+      "date_iso": "2019-10-23",
       "date_human": "Oct 2019",
       "csl_item": {
         "id": "1EAO8sxjC",
@@ -2073,10 +2131,10 @@
           },
           {
             "family": "Sibbesen",
-            "given": "Jonas Andreas"
+            "given": "Jonas A."
           },
           {
-            "family": "Siren",
+            "family": "Sirén",
             "given": "Jouni"
           },
           {
@@ -2093,7 +2151,7 @@
           },
           {
             "family": "Novak",
-            "given": "Adam"
+            "given": "Adam M."
           },
           {
             "family": "Paten",
@@ -2105,7 +2163,7 @@
             [
               "2019",
               10,
-              21
+              23
             ]
           ]
         },
@@ -2114,7 +2172,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -2243,7 +2301,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -2407,7 +2465,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -2472,7 +2530,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -2537,7 +2595,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -2647,7 +2705,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -2697,7 +2755,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -2751,7 +2809,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -2856,7 +2914,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -2906,7 +2964,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
@@ -3016,7 +3074,7 @@
             [
               "2019",
               10,
-              21
+              25
             ]
           ]
         },
