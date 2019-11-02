@@ -176,8 +176,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -603,8 +603,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -721,8 +721,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -793,8 +793,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -986,8 +986,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -1037,8 +1037,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -1105,8 +1105,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -1239,8 +1239,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -1284,8 +1284,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -1362,8 +1362,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -1555,8 +1555,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -1631,8 +1631,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -1685,8 +1685,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -1828,8 +1828,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -1894,8 +1894,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -2054,8 +2054,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -2089,8 +2089,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -2171,8 +2171,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -2183,13 +2183,13 @@
       "citation": "doi:10.1101/654566",
       "url": "https://doi.org/gf3jfm",
       "title": "Genotyping structural variants in pangenome graphs using the vg toolkit",
-      "authors": "Hickey, Heller, Monlong, Sibbesen, Siren, Eizenga, Dawson, Garrison, Novak, Paten",
+      "authors": "Hickey, Heller, Monlong, Sibbesen, Sirén, Eizenga, Dawson, Garrison, Novak, Paten",
       "journal": "Cold Spring Harbor Laboratory",
       "date_iso": "2019-06-01",
       "date_human": "Jun 2019",
       "csl_item": {
         "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Structural variants (SVs) are significant components of genetic diversity and have been associated with diseases, but the technological challenges surrounding their representation and identification make them difficult to study relative to point mutations. Still, thousands of SVs have been characterized, and catalogs continue to improve with new technologies. In parallel, variation graphs have been proposed to represent human pangenomes, offering reduced reference bias and better mapping accuracy than linear reference genomes. We contend that variation graphs provide an effective means for leveraging SV catalogs for short-read SV genotyping experiments. In this work, we extend vg (a software toolkit for working with variation graphs) to support SV genotyping. We show that it is capable of genotyping insertions, deletions and inversions, even in the presence of small errors in the location of the SVs breakpoints. We then benchmark vg against state-of-the-art SV genotypers using three high-quality sequence-resolved SV catalogs generated by recent studies ranging up to 97,368 variants in size. We find that vg systematically produces the best genotype predictions in all datasets. In addition, we use assemblies from 12 yeast strains to show that graphs constructed directly from aligned <jats:italic>de novo</jats:italic> assemblies can improve genotyping compared to graphs built from intermediate SV catalogs in the VCF format. Our results demonstrate the power of variation graphs for SV genotyping. Beyond single nucleotide variants and short insertions/deletions, the vg toolkit now incorporates SVs in its unified variant calling framework and provides a natural solution to integrate high-quality SV catalogs and assemblies.</jats:p>",
+        "abstract": "<jats:title>Abstract</jats:title><jats:p>Structural variants (SVs) remain challenging to represent and study relative to point mutations despite their demonstrated importance. We show that variation graphs, as implemented in the vg toolkit, provide an effective means for leveraging SV catalogs for short-read SV genotyping experiments. We benchmarked vg against state-of-the-art SV genotypers using three sequence-resolved SV catalogs generated by recent long-read sequencing studies. In addition, we use assemblies from 12 yeast strains to show that graphs constructed directly from aligned <jats:italic>de novo</jats:italic> assemblies improve genotyping compared to graphs built from intermediate SV catalogs in the VCF format.</jats:p>",
         "DOI": "10.1101/654566",
         "type": "manuscript",
         "source": "Crossref",
@@ -2208,19 +2208,19 @@
             "family": "Monlong"
           },
           {
-            "given": "Jonas Andreas",
+            "given": "Jonas A.",
             "family": "Sibbesen"
           },
           {
             "given": "Jouni",
-            "family": "Siren"
+            "family": "Sirén"
           },
           {
             "given": "Jordan",
             "family": "Eizenga"
           },
           {
-            "given": "Eric",
+            "given": "Eric T.",
             "family": "Dawson"
           },
           {
@@ -2228,7 +2228,7 @@
             "family": "Garrison"
           },
           {
-            "given": "Adam",
+            "given": "Adam M.",
             "family": "Novak"
           },
           {
@@ -2300,8 +2300,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -2464,8 +2464,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -2529,8 +2529,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -2594,8 +2594,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -2704,8 +2704,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -2754,8 +2754,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -2808,8 +2808,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -2913,8 +2913,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -2963,8 +2963,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
@@ -3073,8 +3073,8 @@
           "date-parts": [
             [
               "2019",
-              10,
-              25
+              11,
+              2
             ]
           ]
         },
