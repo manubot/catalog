@@ -125,9 +125,10 @@ def get_thumbnail_url_from_html(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.text)
     for prop in 'og:image', 'twitter:image':
-        tag = soup.find("meta",  property=prop)
-        if tag:
+        if tag := soup.find("meta",  property=prop):
             break
+    else:
+        return None
     url = tag.get('content')
     url = urljoin(response.url, url)
     return url
