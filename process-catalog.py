@@ -2,11 +2,12 @@ import json
 import logging
 import pathlib
 
+import requests
 import yaml
-from manubot.cite.util import (
-    is_valid_citation,
-    standardize_citation,
-    citation_to_citeproc,
+from manubot.cite.citekey import (
+    is_valid_citekey,
+    standardize_citekey,
+    citekey_to_csl_item,
 )
 
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
@@ -114,6 +115,24 @@ def get_date_summary(csl_item):
     return f"{calendar.month_abbr[month]} {year}".strip()
 
 
+def get_thumbnail_url_from_html(url):
+    """
+    Extract the URL to a thumbnail image from the HTML
+    <head> <meta> values returned by the query URL.
+    """
+    from bs4 import BeautifulSoup
+    from urllib.parse import urljoin
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text)
+    for prop in 'og:image', 'twitter:image':
+        tag = soup.find("meta",  property=prop)
+        if tag:
+            break
+    url = tag.get('content')
+    url = urljoin(response.url, url)
+    return url
+
+
 def process_record(record):
     """
     Expand a catalog record with retrieved metadata
@@ -127,18 +146,22 @@ def process_record(record):
     }
     if 'thumbnail_url' in record:
         output['manubot']['thumbnail_url'] = record.pop('thumbnail_url')
+    else:
+        thumbnail_url = get_thumbnail_url_from_html(html_url)
+        if thumbnail_url:
+            output['manubot']['thumbnail_url'] = thumbnail_url
     for publication_type in 'preprint', 'journal':
         citation = record.pop(f'{publication_type}_citation', None)
         if not citation:
             continue
-        if not is_valid_citation(citation):
+        if not is_valid_citekey(citation):
             continue
         output[publication_type] = {
             'citation': citation,
         }
     for item in output.values():
-        citation = standardize_citation(item['citation'])
-        csl_item = citation_to_citeproc(citation)
+        citation = standardize_citekey(item['citation'])
+        csl_item = citekey_to_csl_item(citation)
         if 'url' not in item and 'URL' in csl_item:
             item['url'] = csl_item['URL']
         item['title'] = get_title(csl_item)
