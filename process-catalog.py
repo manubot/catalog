@@ -123,7 +123,7 @@ def get_thumbnail_url_from_html(url):
     from bs4 import BeautifulSoup
     from urllib.parse import urljoin
     response = requests.get(url)
-    soup = BeautifulSoup(response.text)
+    soup = BeautifulSoup(response.text, features="html.parser")
     for prop in 'og:image', 'twitter:image':
         if tag := soup.find("meta",  property=prop):
             break
