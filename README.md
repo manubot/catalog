@@ -24,13 +24,14 @@ An example manuscript with documentation comments is below:
 ```yaml
 - repo_url: https://github.com/greenelab/deep-review  # URL to GitHub repository with Manuscript source code
   html_url: https://greenelab.github.io/deep-review/  # URL for Manubot HTML output (usually hosted by GitHub Pages)
-  thumbnail_url: https://url_for_image.png  # optional: square thumbnail (showing part of html_url) used as manuscript thumbnail image.
+  thumbnail_url: https://url_for_image.png  # optional: square image to represent the manuscript. Overrides thumbnail set by manuscript.
   preprint_citation: doi:10.1101/142760  # optional: Manubot-style citation for a preprint corresponding to the manuscript
   journal_citation: doi:10.1098/rsif.2017.0387  # optional: Manubot-style citation for a published article corresponding to the manuscript
 ```
 
 For more information on how to create citations for `preprint_citation` and `journal_citation`, see Manubot's citation-by-identifier [documentation here](https://github.com/manubot/rootstock/blob/master/USAGE.md#citations).
-Note that in the future, we plan to scan the source repository for a thumbnail image, such that `thumbnail_url` may be a temporary field.
+Specifying `thumbnail_url` overrides the thumbnail image detected from the metadata of `html_url`.
+Therefore, setting `thumbnail_url` is only neccessary if the manuscript does not supply a thumbnail image or if the catalog should use a different image.
 
 ## Thumbnail Guidelines
 
