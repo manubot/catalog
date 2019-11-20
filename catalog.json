@@ -4,7 +4,7 @@
       "repo_url": "https://github.com/greenelab/deep-review",
       "url": "https://greenelab.github.io/deep-review/",
       "citation": "url:https://greenelab.github.io/deep-review/",
-      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64814086-ce8e5a80-d570-11e9-9625-33526ba0e608.png",
+      "thumbnail_url": "https://raw.githubusercontent.com/greenelab/deep-review/master/thumbnail.png",
       "title": "Opportunities and obstacles for deep learning in biology and medicine: 2019 update",
       "authors": "Ching, Himmelstein, Beaulieu-Jones, Kalinin, Do, Way, Ferrero, Agapow, Zietz, Hoffman, Xie, Rosen, et al",
       "journal": null,
@@ -1845,7 +1845,7 @@
       "repo_url": "https://github.com/slochower/smirnoff-host-guest-manuscript",
       "url": "https://slochower.github.io/smirnoff-host-guest-manuscript/",
       "citation": "url:https://slochower.github.io/smirnoff-host-guest-manuscript/",
-      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64820987-a9551880-d57f-11e9-8caa-80814be970ed.png",
+      "thumbnail_url": "https://raw.githubusercontent.com/slochower/smirnoff-host-guest-manuscript/master/thumbnail.png",
       "title": "Binding thermodynamics of host-guest systems with SMIRNOFF99Frosst 1.0.5 from the Open Force Field Initiative",
       "authors": "Slochower, Henriksen, Wang, Chodera, Mobley, Gilson",
       "journal": null,
@@ -2027,7 +2027,7 @@
       "repo_url": "https://github.com/laurentperrinet/2019-05_illusions-visuelles",
       "url": "https://laurentperrinet.github.io/2019-05_illusions-visuelles/",
       "citation": "url:https://laurentperrinet.github.io/2019-05_illusions-visuelles/",
-      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64823744-3b601f80-d586-11e9-923f-5a594d367371.png",
+      "thumbnail_url": "https://raw.githubusercontent.com/laurentperrinet/2019-05_illusions-visuelles/master/thumbnail.png",
       "title": "Des illusions visuelles aux hallucinations: une porte sur la perception",
       "authors": "Perrinet",
       "journal": null,
@@ -2774,12 +2774,12 @@
       "repo_url": "https://github.com/greenelab/text_mined_hetnet_manuscript",
       "url": "https://greenelab.github.io/text_mined_hetnet_manuscript/",
       "citation": "url:https://greenelab.github.io/text_mined_hetnet_manuscript/",
-      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64816858-8f630800-d576-11e9-8090-bcb39d190657.png",
+      "thumbnail_url": "https://raw.githubusercontent.com/greenelab/text_mined_hetnet_manuscript/master/thumbnail.png",
       "title": "Reusing label functions to extract multiple types of relationships from biomedical abstracts at scale",
       "authors": "Nicholson, Himmelstein, Greene",
       "journal": null,
-      "date_iso": "2019-08-30",
-      "date_human": "Aug 2019",
+      "date_iso": "2019-11-20",
+      "date_human": "Nov 2019",
       "csl_item": {
         "id": "j5Gwdbxj",
         "type": "webpage",
@@ -2804,8 +2804,8 @@
           "date-parts": [
             [
               "2019",
-              8,
-              30
+              11,
+              20
             ]
           ]
         },
@@ -2933,7 +2933,7 @@
       "repo_url": "https://github.com/sbonaretti/FAIR_metrics",
       "url": "https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html",
       "citation": "url:https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html",
-      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64818001-0d281300-d579-11e9-8215-015da333fb5b.png",
+      "thumbnail_url": "https://raw.githubusercontent.com/sbonaretti/FAIR_metrics/master/thumbnail.png",
       "title": "Two real use cases of FAIR maturity indicators in the life sciences",
       "authors": "Bonaretti, Willighagen",
       "journal": null,
