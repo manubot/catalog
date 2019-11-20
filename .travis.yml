@@ -1,14 +1,16 @@
-dist: xenial
+dist: bionic
 language: python
 python:
-  - "3.7"
+  - "3.8"
 cache:
   - pip
 install:
   - pip install --upgrade
+    beautifulsoup4
     ghp-import
-    git+https://github.com/manubot/manubot@025b7c78e96d37cb81388bf739411dfe82969780
+    git+https://github.com/manubot/manubot@0b7c14a6bbab77d6c91f0019dff524bb43587769
     pyyaml
+    requests
 script:
   - python process-catalog.py
 deploy:
