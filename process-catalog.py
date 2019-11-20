@@ -179,6 +179,9 @@ catalog = []
 for record in input_catalog:
     catalog.append(process_record(record))
 
+missing_thumbnails = '\n'.join(record["manubot"]["html_url"] for record in catalog if 'thumbnail_url' not in record["manubot"])
+logging.info(f"The following manuscripts are missing thumbnails:\n{missing_thumbnails}")
+
 json_catalog = json.dumps(catalog, indent=2, ensure_ascii=False)
 directory.joinpath('output').mkdir(exist_ok=True)
 directory.joinpath('output', 'catalog.json').write_text(json_catalog + '\n')
