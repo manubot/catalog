@@ -4,16 +4,18 @@
       "repo_url": "https://github.com/greenelab/deep-review",
       "url": "https://greenelab.github.io/deep-review/",
       "citation": "url:https://greenelab.github.io/deep-review/",
-      "thumbnail_url": "https://raw.githubusercontent.com/greenelab/deep-review/master/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/deep-review/raw/60d8d13864fd91c0fd7dd8da03ce422a02685d47/thumbnail.png",
       "title": "Opportunities and obstacles for deep learning in biology and medicine: 2019 update",
       "authors": "Ching, Himmelstein, Beaulieu-Jones, Kalinin, Do, Way, Ferrero, Agapow, Zietz, Hoffman, Xie, Rosen, et al",
-      "journal": null,
-      "date_iso": "2019-09-07",
-      "date_human": "Sep 2019",
+      "journal": "Manubot",
+      "date_iso": "2019-11-21",
+      "date_human": "Nov 2019",
       "csl_item": {
         "id": "GT0nExut",
-        "type": "webpage",
+        "type": "report",
         "title": "Opportunities and obstacles for deep learning in biology and medicine: 2019 update",
+        "publisher": "Manubot",
+        "source": "greenelab.github.io",
         "URL": "https://greenelab.github.io/deep-review/",
         "shortTitle": "Opportunities and obstacles for deep learning in biology and medicine",
         "language": "en-US",
@@ -167,8 +169,8 @@
           "date-parts": [
             [
               "2019",
-              9,
-              7
+              11,
+              21
             ]
           ]
         },
@@ -177,7 +179,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -551,13 +553,15 @@
       "thumbnail_url": "https://raw.githubusercontent.com/greenelab/meta-review/master/thumbnail.png",
       "title": "Open collaborative writing with Manubot",
       "authors": "Himmelstein, Rubinetti, Slochower, Hu, Malladi, Greene, Gitter",
-      "journal": null,
-      "date_iso": "2019-09-20",
-      "date_human": "Sep 2019",
+      "journal": "Manubot",
+      "date_iso": "2019-11-20",
+      "date_human": "Nov 2019",
       "csl_item": {
         "id": "1GGGHdsew",
-        "type": "webpage",
+        "type": "report",
         "title": "Open collaborative writing with Manubot",
+        "publisher": "Manubot",
+        "source": "greenelab.github.io",
         "URL": "https://greenelab.github.io/meta-review/",
         "language": "en-US",
         "author": [
@@ -594,7 +598,7 @@
           "date-parts": [
             [
               "2019",
-              9,
+              11,
               20
             ]
           ]
@@ -604,7 +608,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -724,7 +728,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -740,16 +744,18 @@
       "repo_url": "https://github.com/greenelab/scihub-manuscript",
       "url": "https://greenelab.github.io/scihub-manuscript/",
       "citation": "url:https://greenelab.github.io/scihub-manuscript/",
-      "thumbnail_url": "https://raw.githubusercontent.com/greenelab/scihub-manuscript/master/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/scihub-manuscript/raw/fd9351c2752b1e97b2f55fdfad60a5ec8e10805d/thumbnail.png",
       "title": "Sci-Hub provides access to nearly all scholarly literature",
       "authors": "Himmelstein, Romero, Levernier, Munro, McLaughlin, Tzovaras, Greene",
-      "journal": null,
-      "date_iso": "2019-09-16",
-      "date_human": "Sep 2019",
+      "journal": "Manubot",
+      "date_iso": "2019-11-21",
+      "date_human": "Nov 2019",
       "csl_item": {
         "id": "QrpwQMhT",
-        "type": "webpage",
+        "type": "report",
         "title": "Sci-Hub provides access to nearly all scholarly literature",
+        "publisher": "Manubot",
+        "source": "greenelab.github.io",
         "URL": "https://greenelab.github.io/scihub-manuscript/",
         "language": "en-US",
         "author": [
@@ -786,8 +792,8 @@
           "date-parts": [
             [
               "2019",
-              9,
-              16
+              11,
+              21
             ]
           ]
         },
@@ -796,7 +802,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -989,7 +995,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -1040,7 +1046,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -1108,7 +1114,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -1242,7 +1248,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -1287,7 +1293,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -1301,16 +1307,18 @@
       "repo_url": "https://github.com/dhimmel/rephetio-manuscript/",
       "url": "https://dhimmel.github.io/rephetio-manuscript/",
       "citation": "url:https://dhimmel.github.io/rephetio-manuscript/",
-      "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64824681-c2ae9280-d588-11e9-8d2c-ba5ea2dc7b92.png",
+      "thumbnail_url": "https://github.com/dhimmel/rephetio-manuscript/raw/222cfc7b7a706dcf28e61c468cd4aab5901337b9/thumbnail.png",
       "title": "Systematic integration of biomedical knowledge prioritizes drugs for repurposing",
-      "authors": "Himmelstein, Lizee, Hessler, Brueggeman, L. Chen, Hadley, Green, Khankhanian, E. Baranzini",
-      "journal": null,
-      "date_iso": "2019-03-14",
-      "date_human": "Mar 2019",
+      "authors": "Himmelstein, Lizee, Hessler, Brueggeman, Chen, Hadley, Green, Khankhanian, Baranzini",
+      "journal": "Manubot",
+      "date_iso": "2019-11-20",
+      "date_human": "Nov 2019",
       "csl_item": {
         "id": "X5pu6VMg",
-        "type": "webpage",
+        "type": "report",
         "title": "Systematic integration of biomedical knowledge prioritizes drugs for repurposing",
+        "publisher": "Manubot",
+        "source": "git.dhimmel.com",
         "URL": "https://git.dhimmel.com/rephetio-manuscript/",
         "language": "en-US",
         "author": [
@@ -1331,8 +1339,8 @@
             "given": "Leo"
           },
           {
-            "family": "L. Chen",
-            "given": "Sabrina"
+            "family": "Chen",
+            "given": "Sabrina L."
           },
           {
             "family": "Hadley",
@@ -1347,16 +1355,16 @@
             "given": "Pouya"
           },
           {
-            "family": "E. Baranzini",
-            "given": "Sergio"
+            "family": "Baranzini",
+            "given": "Sergio E."
           }
         ],
         "issued": {
           "date-parts": [
             [
               "2019",
-              3,
-              14
+              11,
+              20
             ]
           ]
         },
@@ -1365,7 +1373,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -1558,7 +1566,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -1634,7 +1642,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -1688,7 +1696,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -1831,7 +1839,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -1897,7 +1905,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -2060,7 +2068,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -2095,7 +2103,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -2177,7 +2185,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -2306,7 +2314,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -2470,7 +2478,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -2535,7 +2543,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -2600,7 +2608,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -2614,15 +2622,18 @@
       "repo_url": "https://github.com/dhimmel/psb-manuscript",
       "url": "https://git.dhimmel.com/psb-manuscript/",
       "citation": "url:https://git.dhimmel.com/psb-manuscript/",
+      "thumbnail_url": "https://github.com/dhimmel/psb-manuscript/raw/8842766fe1102701e87826007e423ea1b4820092/thumbnail.jpg",
       "title": "The people of the 24ᵗʰ annual Pacific Symposium on Biocomputing in Hawaii",
       "authors": "Byrd, Fu, Greene, Himmelstein, Hu, Hunter, Jain, Kurkiewicz, Le, Li, Miller, Pinello, Ramola, Taroni, et al",
-      "journal": null,
-      "date_iso": "2019-03-21",
-      "date_human": "Mar 2019",
+      "journal": "Manubot",
+      "date_iso": "2019-11-21",
+      "date_human": "Nov 2019",
       "csl_item": {
         "id": "13gvjri26",
-        "type": "webpage",
+        "type": "report",
         "title": "The people of the 24ᵗʰ annual Pacific Symposium on Biocomputing in Hawaii",
+        "publisher": "Manubot",
+        "source": "git.dhimmel.com",
         "URL": "https://git.dhimmel.com/psb-manuscript/",
         "language": "en-US",
         "author": [
@@ -2700,7 +2711,7 @@
           "date-parts": [
             [
               "2019",
-              3,
+              11,
               21
             ]
           ]
@@ -2710,7 +2721,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -2760,7 +2771,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -2774,16 +2785,18 @@
       "repo_url": "https://github.com/greenelab/text_mined_hetnet_manuscript",
       "url": "https://greenelab.github.io/text_mined_hetnet_manuscript/",
       "citation": "url:https://greenelab.github.io/text_mined_hetnet_manuscript/",
-      "thumbnail_url": "https://raw.githubusercontent.com/greenelab/text_mined_hetnet_manuscript/master/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/text_mined_hetnet_manuscript/raw/94dcb1762692454a131fb90bb0fe2730d425434c/thumbnail.png",
       "title": "Reusing label functions to extract multiple types of relationships from biomedical abstracts at scale",
       "authors": "Nicholson, Himmelstein, Greene",
-      "journal": null,
+      "journal": "Manubot",
       "date_iso": "2019-11-20",
       "date_human": "Nov 2019",
       "csl_item": {
         "id": "j5Gwdbxj",
-        "type": "webpage",
+        "type": "report",
         "title": "Reusing label functions to extract multiple types of relationships from biomedical abstracts at scale",
+        "publisher": "Manubot",
+        "source": "greenelab.github.io",
         "URL": "https://greenelab.github.io/text_mined_hetnet_manuscript/",
         "language": "en-US",
         "author": [
@@ -2814,7 +2827,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -2919,7 +2932,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -2969,7 +2982,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -3079,7 +3092,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
@@ -3129,7 +3142,7 @@
             [
               "2019",
               11,
-              20
+              21
             ]
           ]
         },
