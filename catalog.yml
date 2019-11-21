@@ -1,6 +1,5 @@
 - repo_url: https://github.com/greenelab/deep-review
   html_url: https://greenelab.github.io/deep-review/
-  thumbnail_url: https://raw.githubusercontent.com/greenelab/deep-review/master/thumbnail.png
   preprint_citation: doi:10.1101/142760
   journal_citation: doi:10.1098/rsif.2017.0387
 - repo_url: https://github.com/greenelab/meta-review
@@ -12,7 +11,6 @@
   comments: https://steemit.com/manubot/@dhimmel/how-i-used-the-manubot-to-reproduce-the-bitcoin-whitepaper
 - repo_url: https://github.com/greenelab/scihub-manuscript
   html_url: https://greenelab.github.io/scihub-manuscript/
-  thumbnail_url: https://raw.githubusercontent.com/greenelab/scihub-manuscript/master/thumbnail.png
   preprint_citation: doi:10.7287/peerj.preprints.3100
   journal_citation: doi:10.7554/eLife.32822
 - repo_url: https://github.com/greenelab/scihub-manuscript-es
@@ -31,7 +29,6 @@
   html_url: https://zietzm.github.io/integration-review/
 - repo_url: https://github.com/dhimmel/rephetio-manuscript/
   html_url: https://dhimmel.github.io/rephetio-manuscript/
-  thumbnail_url: https://user-images.githubusercontent.com/8326331/64824681-c2ae9280-d588-11e9-8d2c-ba5ea2dc7b92.png
   preprint_citation: doi:10.1101/087619
   journal_citation: doi:10.7554/eLife.26726
 - repo_url: https://github.com/openclimatedata/global-emissions
@@ -79,7 +76,6 @@
   thumbnail_url: https://raw.githubusercontent.com/manubot/try-manubot/master/thumbnail.png
 - repo_url: https://github.com/greenelab/text_mined_hetnet_manuscript
   html_url: https://greenelab.github.io/text_mined_hetnet_manuscript/
-  thumbnail_url: https://raw.githubusercontent.com/greenelab/text_mined_hetnet_manuscript/master/thumbnail.png
   preprint_citation: doi:10.1101/730085
 - repo_url: https://github.com/lelaboratoire/rethink-prs-ms
   html_url: https://lelaboratoire.github.io/rethink-prs-ms/
