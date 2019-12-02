@@ -178,8 +178,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -607,8 +607,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -727,8 +727,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -801,8 +801,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -994,8 +994,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -1045,8 +1045,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -1113,8 +1113,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -1247,8 +1247,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -1292,8 +1292,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -1372,8 +1372,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -1565,8 +1565,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -1641,8 +1641,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -1695,8 +1695,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -1838,8 +1838,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -1904,8 +1904,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -2067,8 +2067,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -2102,8 +2102,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -2121,7 +2121,7 @@
       "title": "Genotyping structural variants in pangenome graphs using the vg toolkit",
       "authors": "Hickey, Heller, Monlong, Sibbesen, Sirén, Eizenga, Dawson, Garrison, Novak, Paten",
       "journal": null,
-      "date_iso": "2019-11-05",
+      "date_iso": "2019-11-26",
       "date_human": "Nov 2019",
       "csl_item": {
         "id": "1EAO8sxjC",
@@ -2176,7 +2176,7 @@
             [
               "2019",
               11,
-              5
+              26
             ]
           ]
         },
@@ -2184,8 +2184,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -2313,8 +2313,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -2379,7 +2379,7 @@
       "csl_item": {
         "publisher": "American Society for Microbiology",
         "issue": "3",
-        "abstract": "<jats:title>ABSTRACT</jats:title>\n<jats:p>Some microbiology experiments and biotechnology applications can be improved if it is possible to tune the expression of two different genes at the same time with cell-to-cell variation at or below the level of genes constitutively expressed from the chromosome (the “extrinsic noise limit”). This was recently achieved for a single gene by exploiting negative autoregulation by the tetracycline repressor (TetR) and bicistronic gene expression to reduce gene expression noise. We report new plasmids that use the same principles to achieve simultaneous, low-noise expression for two genes in <jats:named-content content-type=\"genus-species\">Escherichia coli</jats:named-content>. The TetR system was moved to a compatible plasmid backbone, and a system based on the <jats:italic>lac</jats:italic> repressor (LacI) was found to also exhibit gene expression noise below the extrinsic noise limit. We characterized gene expression mean and noise across the range of induction levels for these plasmids, applied the LacI system to tune expression for single-molecule mRNA detection under two different growth conditions, and showed that two plasmids can be cotransformed to independently tune expression of two different genes.</jats:p>\n<jats:p><jats:bold>IMPORTANCE</jats:bold> Microbiologists often express foreign proteins in bacteria in order study them or to use bacteria as a microbial factory. Usually, this requires controlling the number of foreign proteins expressed in each cell, but for many common protein expression systems, it is difficult to “tune” protein expression without large cell-to-cell variation in expression levels (called “noise” in protein expression). This work describes two protein expression systems that can be combined in the same cell, with tunable expression levels and very low protein expression noise. One new system was used to detect single mRNA molecules by fluorescence microscopy, and the two systems were shown to be independent of each other. These protein expression systems may be useful in any experiment or biotechnology application that can be improved with low protein expression noise.</jats:p>",
+        "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Some microbiology experiments and biotechnology applications can be improved if it is possible to tune the expression of two different genes at the same time with cell-to-cell variation at or below the level of genes constitutively expressed from the chromosome (the “extrinsic noise limit”). This was recently achieved for a single gene by exploiting negative autoregulation by the tetracycline repressor (TetR) and bicistronic gene expression to reduce gene expression noise. We report new plasmids that use the same principles to achieve simultaneous, low-noise expression for two genes in<jats:named-content content-type=\"genus-species\">Escherichia coli</jats:named-content>. The TetR system was moved to a compatible plasmid backbone, and a system based on the<jats:italic>lac</jats:italic>repressor (LacI) was found to also exhibit gene expression noise below the extrinsic noise limit. We characterized gene expression mean and noise across the range of induction levels for these plasmids, applied the LacI system to tune expression for single-molecule mRNA detection under two different growth conditions, and showed that two plasmids can be cotransformed to independently tune expression of two different genes.</jats:p><jats:p><jats:bold>IMPORTANCE</jats:bold>Microbiologists often express foreign proteins in bacteria in order study them or to use bacteria as a microbial factory. Usually, this requires controlling the number of foreign proteins expressed in each cell, but for many common protein expression systems, it is difficult to “tune” protein expression without large cell-to-cell variation in expression levels (called “noise” in protein expression). This work describes two protein expression systems that can be combined in the same cell, with tunable expression levels and very low protein expression noise. One new system was used to detect single mRNA molecules by fluorescence microscopy, and the two systems were shown to be independent of each other. These protein expression systems may be useful in any experiment or biotechnology application that can be improved with low protein expression noise.</jats:p>",
         "DOI": "10.1128/msphere.00340-19",
         "type": "article-journal",
         "source": "Crossref",
@@ -2477,8 +2477,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -2542,8 +2542,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -2607,8 +2607,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -2720,8 +2720,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -2770,8 +2770,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -2826,8 +2826,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -2931,8 +2931,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -2981,8 +2981,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -3091,8 +3091,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
@@ -3141,8 +3141,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              25
+              12,
+              2
             ]
           ]
         },
