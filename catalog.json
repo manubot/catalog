@@ -4,20 +4,19 @@
       "repo_url": "https://github.com/greenelab/deep-review",
       "url": "https://greenelab.github.io/deep-review/",
       "citation": "url:https://greenelab.github.io/deep-review/",
-      "thumbnail_url": "https://github.com/greenelab/deep-review/raw/60d8d13864fd91c0fd7dd8da03ce422a02685d47/thumbnail.png",
-      "title": "Opportunities and obstacles for deep learning in biology and medicine: 2019 update",
+      "thumbnail_url": "https://github.com/greenelab/deep-review/raw/1c6b9c49439d2985e249e00fd09977bbb83b20af/thumbnail.png",
+      "title": "Opportunities and obstacles for deep learning in biology and medicine [update in progress]",
       "authors": "Ching, Himmelstein, Beaulieu-Jones, Kalinin, Do, Way, Ferrero, Agapow, Zietz, Hoffman, Xie, Rosen, et al",
       "journal": "Manubot",
-      "date_iso": "2019-11-21",
-      "date_human": "Nov 2019",
+      "date_iso": "2019-12-04",
+      "date_human": "Dec 2019",
       "csl_item": {
         "id": "GT0nExut",
         "type": "report",
-        "title": "Opportunities and obstacles for deep learning in biology and medicine: 2019 update",
+        "title": "Opportunities and obstacles for deep learning in biology and medicine [update in progress]",
         "publisher": "Manubot",
         "source": "greenelab.github.io",
         "URL": "https://greenelab.github.io/deep-review/",
-        "shortTitle": "Opportunities and obstacles for deep learning in biology and medicine",
         "language": "en-US",
         "author": [
           {
@@ -169,8 +168,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              21
+              12,
+              4
             ]
           ]
         },
@@ -179,7 +178,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -608,7 +607,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -728,7 +727,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -802,7 +801,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -995,7 +994,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -1046,7 +1045,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -1114,7 +1113,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -1248,7 +1247,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -1293,7 +1292,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -1373,7 +1372,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -1566,7 +1565,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -1642,7 +1641,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -1696,7 +1695,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -1839,7 +1838,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -1905,7 +1904,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -2068,7 +2067,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -2103,7 +2102,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -2185,7 +2184,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -2314,7 +2313,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -2478,7 +2477,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -2543,7 +2542,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -2608,7 +2607,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -2721,7 +2720,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -2771,7 +2770,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -2827,7 +2826,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -2932,7 +2931,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -2982,7 +2981,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -3092,7 +3091,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
@@ -3110,8 +3109,8 @@
       "title": "Incorporating biological structure into machine learning models in biomedicine",
       "authors": "Crawford, Greene",
       "journal": null,
-      "date_iso": "2019-11-04",
-      "date_human": "Nov 2019",
+      "date_iso": "2019-12-09",
+      "date_human": "Dec 2019",
       "csl_item": {
         "id": "vp5P0LkL",
         "type": "webpage",
@@ -3132,8 +3131,8 @@
           "date-parts": [
             [
               "2019",
-              11,
-              4
+              12,
+              9
             ]
           ]
         },
@@ -3142,7 +3141,7 @@
             [
               "2019",
               12,
-              2
+              9
             ]
           ]
         },
