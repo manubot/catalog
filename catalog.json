@@ -178,7 +178,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -607,7 +607,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -727,7 +727,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -801,7 +801,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -994,7 +994,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -1045,7 +1045,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -1113,7 +1113,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -1247,7 +1247,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -1292,7 +1292,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -1372,7 +1372,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -1565,7 +1565,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -1641,7 +1641,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -1695,7 +1695,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -1838,7 +1838,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -1904,7 +1904,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -2067,7 +2067,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -2102,7 +2102,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -2184,7 +2184,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -2313,7 +2313,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -2437,8 +2437,8 @@
       "title": "Total Functional Score of Enhancer Elements Identifies Lineage-Specific Enhancers that Drive Differentiation of Pancreatic Cells",
       "authors": "Malladi, Nagari, Franco, Kraus",
       "journal": null,
-      "date_iso": "2018-10-21",
-      "date_human": "Oct 2018",
+      "date_iso": "2019-12-10",
+      "date_human": "Dec 2019",
       "csl_item": {
         "id": "19I5c18b5",
         "type": "webpage",
@@ -2466,9 +2466,9 @@
         "issued": {
           "date-parts": [
             [
-              "2018",
-              10,
-              21
+              "2019",
+              12,
+              10
             ]
           ]
         },
@@ -2477,7 +2477,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -2542,7 +2542,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -2607,7 +2607,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -2720,7 +2720,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -2770,7 +2770,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -2826,7 +2826,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -2887,8 +2887,8 @@
       "title": "Expanding polygenic risk scores to include automatic genotype encodings and gene-gene interactions",
       "authors": "Le, Gong, Orzechowski, Manduchi, Moore",
       "journal": null,
-      "date_iso": "2019-09-13",
-      "date_human": "Sep 2019",
+      "date_iso": "2019-12-13",
+      "date_human": "Dec 2019",
       "csl_item": {
         "id": "K8EVjgqQ",
         "type": "webpage",
@@ -2921,7 +2921,7 @@
           "date-parts": [
             [
               "2019",
-              9,
+              12,
               13
             ]
           ]
@@ -2931,7 +2931,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -2981,7 +2981,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -2998,7 +2998,7 @@
       "date_human": "Aug 2019",
       "csl_item": {
         "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:p>Data sharing and reuse are crucial to enhance scientific progress and maximize return of investments in science. Although attitudes are increasingly favorable, data reuse remains difficult for lack of infrastructures, standards, and policies. The FAIR (findable, accessible, interoperable, reusable) principles aim to provide recommendations to increase data reuse. Because of the broad interpretation of the FAIR principles, maturity indicators are necessary to determine FAIRness of a dataset. In this work, we propose a reproducible computational workflow to assess data FAIRness in the life sciences. Our implementation follows principles and guidelines recommended by the maturity indicator authoring group and integrates concepts from the literature. In addition, we propose a FAIR balloon plot to summarize and compare dataset FAIRness. We evaluated our method on two real use cases where researchers looked for datasets to answer their scientific questions. We retrieved information from repositories (ArrayExpress and Gene Expression Omnibus), a registry of repositories (re3data.org), and a searchable resource (Google Dataset Search) via application program interface (API) wherever possible. With our analysis, we found that the two datasets met the majority of the criteria defined by the maturity indicators, and we showed areas where improvements can easily be reached. We suggest that use of standard schema for metadata and presence of specific attributes in registries of repositories could increase FAIRness of datasets.</jats:p>",
+        "abstract": "<jats:title>Abstract</jats:title><jats:p>Data sharing and reuse are crucial to enhance scientific progress and maximize return of investments in science. Although attitudes are increasingly favorable, data reuse remains difficult for lack of infrastructures, standards, and policies. The FAIR (findable, accessible, interoperable, reusable) principles aim to provide recommendations to increase data reuse. Because of the broad interpretation of the FAIR principles, maturity indicators are necessary to determine FAIRness of a dataset. In this work, we propose a reproducible computational workflow to assess data FAIRness in the life sciences. Our implementation follows principles and guidelines recommended by the maturity indicator authoring group and integrates concepts from the literature. In addition, we propose a FAIR balloon plot to summarize and compare dataset FAIRness. We evaluated our method on two real use cases where researchers looked for datasets to answer their scientific questions. We retrieved information from repositories (ArrayExpress and Gene Expression Omnibus), a registry of repositories (re3data.org), and a searchable resource (Google Dataset Search) via application program interface (API) wherever possible. With our analysis, we found that the two datasets met the majority of the criteria defined by the maturity indicators, and we showed areas where improvements can easily be reached. We suggest that use of standard schema for metadata and presence of specific attributes in registries of repositories could increase FAIRness of datasets.</jats:p>",
         "DOI": "10.1101/739334",
         "type": "manuscript",
         "source": "Crossref",
@@ -3091,7 +3091,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -3109,7 +3109,7 @@
       "title": "Incorporating biological structure into machine learning models in biomedicine",
       "authors": "Crawford, Greene",
       "journal": null,
-      "date_iso": "2019-12-09",
+      "date_iso": "2019-12-16",
       "date_human": "Dec 2019",
       "csl_item": {
         "id": "vp5P0LkL",
@@ -3132,7 +3132,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
@@ -3141,7 +3141,7 @@
             [
               "2019",
               12,
-              9
+              16
             ]
           ]
         },
