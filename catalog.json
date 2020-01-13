@@ -178,7 +178,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -607,7 +607,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -727,7 +727,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -801,7 +801,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -994,7 +994,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -1045,7 +1045,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -1113,7 +1113,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -1167,8 +1167,8 @@
       "title": "Ten Quick Tips for Deep Learning in Biology",
       "authors": "Lee, Titus, Yu, Chevrette, Stewart, Cofer, Raschka, Maguire, Lengerich, Kalinin, Gitter, Greene, et al",
       "journal": null,
-      "date_iso": "2019-10-02",
-      "date_human": "Oct 2019",
+      "date_iso": "2020-01-11",
+      "date_human": "Jan 2020",
       "csl_item": {
         "id": "tPU9SJPF",
         "type": "webpage",
@@ -1236,9 +1236,9 @@
         "issued": {
           "date-parts": [
             [
-              "2019",
-              10,
-              2
+              "2020",
+              1,
+              11
             ]
           ]
         },
@@ -1247,7 +1247,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -1292,7 +1292,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -1372,7 +1372,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -1565,7 +1565,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -1641,7 +1641,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -1695,7 +1695,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -1755,10 +1755,14 @@
       "date_human": "Jun 2019",
       "csl_item": {
         "publisher": "Oxford University Press (OUP)",
+        "issue": "1",
+        "abstract": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Motivation</jats:title>\n                  <jats:p>Automated machine learning (AutoML) systems are helpful data science assistants designed to scan data for novel features, select appropriate supervised learning models and optimize their parameters. For this purpose, Tree-based Pipeline Optimization Tool (TPOT) was developed using strongly typed genetic programing (GP) to recommend an optimized analysis pipeline for the data scientist’s prediction problem. However, like other AutoML systems, TPOT may reach computational resource limits when working on big data such as whole-genome expression data.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>We introduce two new features implemented in TPOT that helps increase the system’s scalability: Feature Set Selector (FSS) and Template. FSS provides the option to specify subsets of the features as separate datasets, assuming the signals come from one or more of these specific data subsets. FSS increases TPOT’s efficiency in application on big data by slicing the entire dataset into smaller sets of features and allowing GP to select the best subset in the final pipeline. Template enforces type constraints with strongly typed GP and enables the incorporation of FSS at the beginning of each pipeline. Consequently, FSS and Template help reduce TPOT computation time and may provide more interpretable results. Our simulations show TPOT-FSS significantly outperforms a tuned XGBoost model and standard TPOT implementation. We apply TPOT-FSS to real RNA-Seq data from a study of major depressive disorder. Independent of the previous study that identified significant association with depression severity of two modules, TPOT-FSS corroborates that one of the modules is largely predictive of the clinical diagnosis of each individual.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Availability and implementation</jats:title>\n                  <jats:p>Detailed simulation and analysis code needed to reproduce the results in this study is available at https://github.com/lelaboratoire/tpot-fss. Implementation of the new TPOT operators is available at https://github.com/EpistasisLab/tpot.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Supplementary information</jats:title>\n                  <jats:p>Supplementary data are available at Bioinformatics online.</jats:p>\n               </jats:sec>",
         "DOI": "10.1093/bioinformatics/btz470",
         "type": "article-journal",
+        "page": "250-256",
         "source": "Crossref",
         "title": "Scaling tree-based automated machine learning to biomedical big data with a feature set selector",
+        "volume": "36",
         "author": [
           {
             "given": "Trang T",
@@ -1838,7 +1842,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -1904,7 +1908,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -2067,7 +2071,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -2102,7 +2106,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -2184,7 +2188,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -2313,7 +2317,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -2477,7 +2481,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -2542,7 +2546,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -2607,7 +2611,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -2720,7 +2724,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -2770,7 +2774,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -2784,12 +2788,12 @@
       "repo_url": "https://github.com/greenelab/text_mined_hetnet_manuscript",
       "url": "https://greenelab.github.io/text_mined_hetnet_manuscript/",
       "citation": "url:https://greenelab.github.io/text_mined_hetnet_manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/text_mined_hetnet_manuscript/raw/94dcb1762692454a131fb90bb0fe2730d425434c/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/text_mined_hetnet_manuscript/raw/83750ca547a65d1db8145ac33d332deef6df29a3/thumbnail.png",
       "title": "Reusing label functions to extract multiple types of relationships from biomedical abstracts at scale",
       "authors": "Nicholson, Himmelstein, Greene",
       "journal": "Manubot",
-      "date_iso": "2019-11-20",
-      "date_human": "Nov 2019",
+      "date_iso": "2020-01-13",
+      "date_human": "Jan 2020",
       "csl_item": {
         "id": "j5Gwdbxj",
         "type": "report",
@@ -2815,9 +2819,9 @@
         "issued": {
           "date-parts": [
             [
-              "2019",
-              11,
-              20
+              "2020",
+              1,
+              13
             ]
           ]
         },
@@ -2826,7 +2830,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -2931,7 +2935,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -2981,7 +2985,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -3091,7 +3095,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
@@ -3141,7 +3145,7 @@
             [
               "2020",
               1,
-              6
+              13
             ]
           ]
         },
