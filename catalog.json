@@ -178,7 +178,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -607,7 +607,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -727,7 +727,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -801,7 +801,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -994,7 +994,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -1045,7 +1045,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -1113,7 +1113,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -1247,7 +1247,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -1292,7 +1292,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -1372,7 +1372,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -1565,7 +1565,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -1641,7 +1641,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -1695,7 +1695,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -1843,7 +1843,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -1909,7 +1909,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -2072,7 +2072,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -2107,7 +2107,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -2189,7 +2189,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -2318,7 +2318,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -2482,7 +2482,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -2547,7 +2547,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -2612,7 +2612,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -2725,7 +2725,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -2775,7 +2775,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -2789,11 +2789,11 @@
       "repo_url": "https://github.com/greenelab/text_mined_hetnet_manuscript",
       "url": "https://greenelab.github.io/text_mined_hetnet_manuscript/",
       "citation": "url:https://greenelab.github.io/text_mined_hetnet_manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/text_mined_hetnet_manuscript/raw/1be72ee5ce643e59df8f67aae24734666165e2c2/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/text_mined_hetnet_manuscript/raw/ffcd259c180721c3b50d88bf562e70b77d71180e/thumbnail.png",
       "title": "Expanding a Database-derived Biomedical Knowledge Graph via Multi-relation Extraction from Biomedical Abstracts",
       "authors": "Nicholson, Himmelstein, Greene",
       "journal": "Manubot",
-      "date_iso": "2020-01-24",
+      "date_iso": "2020-01-28",
       "date_human": "Jan 2020",
       "csl_item": {
         "id": "j5Gwdbxj",
@@ -2822,7 +2822,7 @@
             [
               "2020",
               1,
-              24
+              28
             ]
           ]
         },
@@ -2831,7 +2831,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -2936,7 +2936,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -2986,7 +2986,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -3096,7 +3096,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -3146,7 +3146,7 @@
             [
               "2020",
               1,
-              27
+              28
             ]
           ]
         },
@@ -3189,6 +3189,64 @@
         "type": "report",
         "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: arxiv:1910.06738",
         "id": "FRVZFwHd"
+      }
+    },
+    "extras": {}
+  },
+  {
+    "manubot": {
+      "repo_url": "https://github.com/czbiohub/orthology-free-comparative-transcriptomics-paper",
+      "url": "https://czbiohub.github.io/orthology-free-comparative-transcriptomics-paper/",
+      "citation": "url:https://czbiohub.github.io/orthology-free-comparative-transcriptomics-paper/",
+      "title": "INCOMPLETE DRAFT: Smashing single cells into k-mer sketches",
+      "authors": "Botvinnik, Vemuri, Logan, Nafees",
+      "journal": null,
+      "date_iso": "2019-12-18",
+      "date_human": "Dec 2019",
+      "csl_item": {
+        "id": "pLyITvlD",
+        "type": "webpage",
+        "title": "INCOMPLETE DRAFT: Smashing single cells into k-mer sketches",
+        "URL": "https://czbiohub.github.io/orthology-free-comparative-transcriptomics-paper/",
+        "shortTitle": "INCOMPLETE DRAFT",
+        "language": "en-US",
+        "author": [
+          {
+            "family": "Botvinnik",
+            "given": "Olga Borisovna"
+          },
+          {
+            "family": "Vemuri",
+            "given": "Venkata Naga Pranathi"
+          },
+          {
+            "family": "Logan",
+            "given": "Phoenix Aja"
+          },
+          {
+            "family": "Nafees",
+            "given": "Saba"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2019",
+              12,
+              18
+            ]
+          ]
+        },
+        "accessed": {
+          "date-parts": [
+            [
+              "2020",
+              1,
+              28
+            ]
+          ]
+        },
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: url:https://czbiohub.github.io/orthology-free-comparative-transcriptomics-paper/"
       }
     },
     "extras": {}
