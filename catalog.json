@@ -178,7 +178,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -607,7 +607,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -727,7 +727,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -801,7 +801,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -994,7 +994,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -1045,7 +1045,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -1113,7 +1113,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -1247,7 +1247,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -1292,7 +1292,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -1372,7 +1372,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -1565,7 +1565,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -1641,7 +1641,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -1695,7 +1695,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -1843,7 +1843,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -1909,7 +1909,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -2072,7 +2072,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -2107,7 +2107,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -2189,7 +2189,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -2318,7 +2318,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -2482,7 +2482,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -2547,7 +2547,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -2612,7 +2612,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -2725,7 +2725,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -2775,7 +2775,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -2789,11 +2789,11 @@
       "repo_url": "https://github.com/greenelab/text_mined_hetnet_manuscript",
       "url": "https://greenelab.github.io/text_mined_hetnet_manuscript/",
       "citation": "url:https://greenelab.github.io/text_mined_hetnet_manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/text_mined_hetnet_manuscript/raw/ffcd259c180721c3b50d88bf562e70b77d71180e/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/text_mined_hetnet_manuscript/raw/1149d5d4ab45ee7ff8cec0698148f421bb01b290/thumbnail.png",
       "title": "Expanding a Database-derived Biomedical Knowledge Graph via Multi-relation Extraction from Biomedical Abstracts",
       "authors": "Nicholson, Himmelstein, Greene",
       "journal": "Manubot",
-      "date_iso": "2020-01-28",
+      "date_iso": "2020-01-29",
       "date_human": "Jan 2020",
       "csl_item": {
         "id": "j5Gwdbxj",
@@ -2822,7 +2822,7 @@
             [
               "2020",
               1,
-              28
+              29
             ]
           ]
         },
@@ -2831,7 +2831,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -2936,7 +2936,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -2986,7 +2986,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -3096,7 +3096,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -3146,7 +3146,7 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
@@ -3242,11 +3242,75 @@
             [
               "2020",
               1,
-              28
+              30
             ]
           ]
         },
         "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: url:https://czbiohub.github.io/orthology-free-comparative-transcriptomics-paper/"
+      }
+    },
+    "extras": {}
+  },
+  {
+    "manubot": {
+      "repo_url": "https://github.com/greenelab/iscb-diversity-manuscript",
+      "url": "https://greenelab.github.io/iscb-diversity-manuscript/",
+      "citation": "url:https://greenelab.github.io/iscb-diversity-manuscript/",
+      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/9db99b8da37b941d50216b2d9a97ff962fb66f6f/build/assets/thumbnail.png",
+      "title": "Analysis of ISCB honorees and keynotes reveals disparities",
+      "authors": "Le, Himmelstein, Anderson, Gazzara, Greene",
+      "journal": "Manubot",
+      "date_iso": "2020-01-30",
+      "date_human": "Jan 2020",
+      "csl_item": {
+        "id": "qsmtXB4B",
+        "type": "report",
+        "title": "Analysis of ISCB honorees and keynotes reveals disparities",
+        "publisher": "Manubot",
+        "source": "greenelab.github.io",
+        "URL": "https://greenelab.github.io/iscb-diversity-manuscript/",
+        "language": "en-US",
+        "author": [
+          {
+            "family": "Le",
+            "given": "Trang T."
+          },
+          {
+            "family": "Himmelstein",
+            "given": "Daniel S."
+          },
+          {
+            "family": "Anderson",
+            "given": "Ariel A. Hippen"
+          },
+          {
+            "family": "Gazzara",
+            "given": "Matthew R."
+          },
+          {
+            "family": "Greene",
+            "given": "Casey S."
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2020",
+              1,
+              30
+            ]
+          ]
+        },
+        "accessed": {
+          "date-parts": [
+            [
+              "2020",
+              1,
+              30
+            ]
+          ]
+        },
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: url:https://greenelab.github.io/iscb-diversity-manuscript/"
       }
     },
     "extras": {}
