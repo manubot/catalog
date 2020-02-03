@@ -177,8 +177,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -606,8 +606,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -726,8 +726,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -800,8 +800,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -993,8 +993,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -1044,8 +1044,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -1112,8 +1112,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -1246,8 +1246,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -1291,8 +1291,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -1371,8 +1371,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -1564,8 +1564,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -1640,8 +1640,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -1694,8 +1694,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -1842,8 +1842,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -1908,8 +1908,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -2071,8 +2071,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -2106,8 +2106,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -2188,8 +2188,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -2317,8 +2317,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -2481,8 +2481,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -2546,8 +2546,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -2611,8 +2611,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -2724,8 +2724,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -2774,8 +2774,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -2830,8 +2830,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -2841,29 +2841,29 @@
     "preprint": {
       "citation": "doi:10.1101/730085",
       "url": "https://doi.org/gf6qxh",
-      "title": "Reusing label functions to extract multiple types of biomedical relationships from biomedical abstracts at scale",
+      "title": "Expanding a Database-derived Biomedical Knowledge Graph via Multi-relation Extraction from Biomedical Abstracts",
       "authors": "Nicholson, Himmelstein, Greene",
       "journal": "Cold Spring Harbor Laboratory",
       "date_iso": "2019-08-08",
       "date_human": "Aug 2019",
       "csl_item": {
         "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Knowledge bases support multiple research efforts such as providing contextual information for biomedical entities, constructing networks, and supporting the interpretation of high-throughput analyses. Some knowledge bases are automatically constructed, but most are populated via some form of manual curation. Manual curation is time consuming and difficult to scale in the context of an increasing publication rate. A recently described “data programming” paradigm seeks to circumvent this arduous process by combining distant supervision with simple rules and heuristics written as labeling functions that can be automatically applied to inputs. Unfortunately writing useful label functions requires substantial error analysis and is a nontrivial task: in early efforts to use data programming we found that producing each label function could take a few days. Producing a biomedical knowledge base with multiple node and edge types could take hundreds or possibly thousands of label functions. In this paper we sought to evaluate the extent to which label functions could be re-used across edge types. We used a subset of Hetionet v1 that centered on disease, compound, and gene nodes to evaluate this approach. We compared a baseline distant supervision model with the same distant supervision resources added to edge-type-specific label functions, edge-type-mismatch label functions, and all label functions. We confirmed that adding additional edge-type-specific label functions improves performance. We also found that adding one or a few edge-type-mismatch label functions nearly always improved performance. Adding a large number of edge-type-mismatch label functions produce variable performance that depends on the edge type being predicted and the label function’s edge type source. Lastly, we show that this approach, even on this subgraph of Hetionet, could add new edges to Hetionet v1 with high confidence. We expect that practical use of this strategy would include additional filtering and scoring methods which would further enhance precision.</jats:p>",
+        "abstract": "<jats:p>Knowledge graphs support multiple research efforts by providing contextual information for biomedical entities, constructing networks, and supporting the interpretation of high-throughput analyses. These databases are populated via some form of manual curation, which is difficult to scale in the context of an increasing publication rate. Data programming is a paradigm that circumvents this arduous manual process by combining databases with simple rules and heuristics written as label functions, which are programs designed to automatically annotate textual data. Unfortunately, writing a useful label function requires substantial error analysis and is a nontrivial task that takes multiple days per function. This makes populating a knowledge graph with multiple nodes and edge types practically infeasible. We sought to accelerate the label function creation process by evaluating the extent to which label functions could be re-used across multiple edge types. We used a subset of an existing knowledge graph centered on disease, compound, and gene entities to evaluate label function re-use. We determined the best label function combination by comparing a baseline database-only model with the same model but added edge-specific or edge-mismatch label functions. We confirmed that adding additional edge-specific rather than edge-mismatch label functions often improves text annotation and shows that this approach can incorporate novel edges into our source knowledge graph.  We expect that continued development of this strategy has the potential to swiftly populate knowledge graphs with new discoveries, ensuring that these resources include cutting-edge results.</jats:p>",
         "DOI": "10.1101/730085",
         "type": "manuscript",
         "source": "Crossref",
-        "title": "Reusing label functions to extract multiple types of biomedical relationships from biomedical abstracts at scale",
+        "title": "Expanding a Database-derived Biomedical Knowledge Graph via Multi-relation Extraction from Biomedical Abstracts",
         "author": [
           {
-            "given": "David N.",
+            "given": "David N",
             "family": "Nicholson"
           },
           {
-            "given": "Daniel S.",
+            "given": "Daniel S",
             "family": "Himmelstein"
           },
           {
-            "given": "Casey S.",
+            "given": "Casey S",
             "family": "Greene"
           }
         ],
@@ -2935,8 +2935,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -2985,8 +2985,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -3095,8 +3095,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -3145,8 +3145,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -3241,8 +3241,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
@@ -3256,12 +3256,12 @@
       "repo_url": "https://github.com/greenelab/iscb-diversity-manuscript",
       "url": "https://greenelab.github.io/iscb-diversity-manuscript/",
       "citation": "url:https://greenelab.github.io/iscb-diversity-manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/9db99b8da37b941d50216b2d9a97ff962fb66f6f/build/assets/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/881fa61e7c105395728021d391667a17e2bdb220/build/assets/thumbnail.png",
       "title": "Analysis of ISCB honorees and keynotes reveals disparities",
       "authors": "Le, Himmelstein, Anderson, Gazzara, Greene",
       "journal": "Manubot",
-      "date_iso": "2020-01-30",
-      "date_human": "Jan 2020",
+      "date_iso": "2020-02-02",
+      "date_human": "Feb 2020",
       "csl_item": {
         "id": "qsmtXB4B",
         "type": "report",
@@ -3296,8 +3296,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              2
             ]
           ]
         },
@@ -3305,8 +3305,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              30
+              2,
+              3
             ]
           ]
         },
