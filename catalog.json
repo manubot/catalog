@@ -178,7 +178,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -607,7 +607,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -727,7 +727,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -801,7 +801,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -994,7 +994,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -1045,7 +1045,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -1113,7 +1113,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -1247,7 +1247,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -1292,7 +1292,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -1372,7 +1372,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -1565,7 +1565,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -1641,7 +1641,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -1695,7 +1695,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -1843,7 +1843,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -1909,7 +1909,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2072,7 +2072,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2107,7 +2107,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2189,7 +2189,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2318,7 +2318,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2482,7 +2482,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2547,7 +2547,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2612,7 +2612,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2725,7 +2725,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2775,7 +2775,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2831,7 +2831,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2848,22 +2848,22 @@
       "date_human": "Aug 2019",
       "csl_item": {
         "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:p>Knowledge graphs support multiple research efforts by providing contextual information for biomedical entities, constructing networks, and supporting the interpretation of high-throughput analyses. These databases are populated via some form of manual curation, which is difficult to scale in the context of an increasing publication rate. Data programming is a paradigm that circumvents this arduous manual process by combining databases with simple rules and heuristics written as label functions, which are programs designed to automatically annotate textual data. Unfortunately, writing a useful label function requires substantial error analysis and is a nontrivial task that takes multiple days per function. This makes populating a knowledge graph with multiple nodes and edge types practically infeasible. We sought to accelerate the label function creation process by evaluating the extent to which label functions could be re-used across multiple edge types. We used a subset of an existing knowledge graph centered on disease, compound, and gene entities to evaluate label function re-use. We determined the best label function combination by comparing a baseline database-only model with the same model but added edge-specific or edge-mismatch label functions. We confirmed that adding additional edge-specific rather than edge-mismatch label functions often improves text annotation and shows that this approach can incorporate novel edges into our source knowledge graph.  We expect that continued development of this strategy has the potential to swiftly populate knowledge graphs with new discoveries, ensuring that these resources include cutting-edge results.</jats:p>",
+        "abstract": "<jats:title>Abstract</jats:title><jats:p>Knowledge graphs support multiple research efforts by providing contextual information for biomedical entities, constructing networks, and supporting the interpretation of high-throughput analyses. These databases are populated via some form of manual curation, which is difficult to scale in the context of an increasing publication rate. Data programming is a paradigm that circumvents this arduous manual process by combining databases with simple rules and heuristics written as label functions, which are programs designed to automatically annotate textual data. Unfortunately, writing a useful label function requires substantial error analysis and is a nontrivial task that takes multiple days per function. This makes populating a knowledge graph with multiple nodes and edge types practically infeasible. We sought to accelerate the label function creation process by evaluating the extent to which label functions could be re-used across multiple edge types. We used a subset of an existing knowledge graph centered on disease, compound, and gene entities to evaluate label function re-use. We determined the best label function combination by comparing a baseline database-only model with the same model but added edge-specific or edge-mismatch label functions. We confirmed that adding additional edge-specific rather than edge-mismatch label functions often improves text annotation and shows that this approach can incorporate novel edges into our source knowledge graph. We expect that continued development of this strategy has the potential to swiftly populate knowledge graphs with new discoveries, ensuring that these resources include cutting-edge results.</jats:p>",
         "DOI": "10.1101/730085",
         "type": "manuscript",
         "source": "Crossref",
         "title": "Expanding a Database-derived Biomedical Knowledge Graph via Multi-relation Extraction from Biomedical Abstracts",
         "author": [
           {
-            "given": "David N",
+            "given": "David N.",
             "family": "Nicholson"
           },
           {
-            "given": "Daniel S",
+            "given": "Daniel S.",
             "family": "Himmelstein"
           },
           {
-            "given": "Casey S",
+            "given": "Casey S.",
             "family": "Greene"
           }
         ],
@@ -2936,7 +2936,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2986,7 +2986,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -3096,7 +3096,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -3146,7 +3146,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -3198,15 +3198,17 @@
       "repo_url": "https://github.com/czbiohub/orthology-free-comparative-transcriptomics-paper",
       "url": "https://czbiohub.github.io/orthology-free-comparative-transcriptomics-paper/",
       "citation": "url:https://czbiohub.github.io/orthology-free-comparative-transcriptomics-paper/",
-      "title": "INCOMPLETE DRAFT: Smashing single cells into k-mer sketches",
-      "authors": "Botvinnik, Vemuri, Logan, Nafees",
-      "journal": null,
-      "date_iso": "2019-12-18",
-      "date_human": "Dec 2019",
+      "title": "INCOMPLETE DRAFT: Smashing single cells into $k$-mer sketches",
+      "authors": "Botvinnik, Vemuri, Logan, Nafees, Karkanias",
+      "journal": "Manubot",
+      "date_iso": "2020-02-07",
+      "date_human": "Feb 2020",
       "csl_item": {
         "id": "pLyITvlD",
-        "type": "webpage",
-        "title": "INCOMPLETE DRAFT: Smashing single cells into k-mer sketches",
+        "type": "report",
+        "title": "INCOMPLETE DRAFT: Smashing single cells into $k$-mer sketches",
+        "publisher": "Manubot",
+        "source": "czbiohub.github.io",
         "URL": "https://czbiohub.github.io/orthology-free-comparative-transcriptomics-paper/",
         "shortTitle": "INCOMPLETE DRAFT",
         "language": "en-US",
@@ -3226,14 +3228,18 @@
           {
             "family": "Nafees",
             "given": "Saba"
+          },
+          {
+            "family": "Karkanias",
+            "given": "Jim"
           }
         ],
         "issued": {
           "date-parts": [
             [
-              "2019",
-              12,
-              18
+              "2020",
+              2,
+              7
             ]
           ]
         },
@@ -3242,7 +3248,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
@@ -3306,7 +3312,7 @@
             [
               "2020",
               2,
-              3
+              10
             ]
           ]
         },
