@@ -178,7 +178,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -607,7 +607,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -727,7 +727,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -801,7 +801,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -994,7 +994,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -1045,7 +1045,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -1113,7 +1113,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -1247,7 +1247,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -1292,7 +1292,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -1372,7 +1372,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -1565,7 +1565,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -1641,7 +1641,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -1695,7 +1695,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -1843,7 +1843,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -1909,7 +1909,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -2072,7 +2072,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -2107,7 +2107,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -2189,7 +2189,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -2318,7 +2318,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -2482,7 +2482,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -2547,7 +2547,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -2612,7 +2612,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -2725,7 +2725,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -2775,7 +2775,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -2831,7 +2831,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -2936,7 +2936,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -2986,7 +2986,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -3096,7 +3096,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -3146,7 +3146,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
@@ -3195,19 +3195,64 @@
   },
   {
     "manubot": {
-      "repo_url": "https://github.com/czbiohub/orthology-free-comparative-transcriptomics-paper",
-      "url": "https://czbiohub.github.io/orthology-free-comparative-transcriptomics-paper/",
-      "citation": "url:https://czbiohub.github.io/orthology-free-comparative-transcriptomics-paper/",
-      "title": null,
-      "authors": "",
-      "journal": null,
-      "date_iso": null,
-      "date_human": null,
+      "repo_url": "https://github.com/czbiohub/de-novo-orthology-paper",
+      "url": "https://czbiohub.github.io/de-novo-orthology-paper/",
+      "citation": "url:https://czbiohub.github.io/de-novo-orthology-paper/",
+      "title": "INCOMPLETE DRAFT: Smashing single cells into $k$-mer sketches",
+      "authors": "Botvinnik, Vemuri, Logan, Nafees, Karkanias",
+      "journal": "Manubot",
+      "date_iso": "2020-02-07",
+      "date_human": "Feb 2020",
       "csl_item": {
+        "id": "Wijj7Z1F",
+        "type": "report",
+        "title": "INCOMPLETE DRAFT: Smashing single cells into $k$-mer sketches",
+        "publisher": "Manubot",
+        "source": "czbiohub.github.io",
         "URL": "https://czbiohub.github.io/orthology-free-comparative-transcriptomics-paper/",
-        "type": "webpage",
-        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: url:https://czbiohub.github.io/orthology-free-comparative-transcriptomics-paper/",
-        "id": "pLyITvlD"
+        "shortTitle": "INCOMPLETE DRAFT",
+        "language": "en-US",
+        "author": [
+          {
+            "family": "Botvinnik",
+            "given": "Olga Borisovna"
+          },
+          {
+            "family": "Vemuri",
+            "given": "Venkata Naga Pranathi"
+          },
+          {
+            "family": "Logan",
+            "given": "Phoenix Aja"
+          },
+          {
+            "family": "Nafees",
+            "given": "Saba"
+          },
+          {
+            "family": "Karkanias",
+            "given": "Jim"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2020",
+              2,
+              7
+            ]
+          ]
+        },
+        "accessed": {
+          "date-parts": [
+            [
+              "2020",
+              2,
+              18
+            ]
+          ]
+        },
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: url:https://czbiohub.github.io/de-novo-orthology-paper/"
       }
     },
     "extras": {}
@@ -3267,7 +3312,7 @@
             [
               "2020",
               2,
-              17
+              18
             ]
           ]
         },
