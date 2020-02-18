@@ -91,7 +91,7 @@
   html_url: https://greenelab.github.io/biopriors-review
   thumbnail_url: https://raw.githubusercontent.com/greenelab/biopriors-review/master/content/images/ontology_simple.png
   preprint_citation: arxiv:1910.06738
-- repo_url: https://github.com/czbiohub/orthology-free-comparative-transcriptomics-paper
-  html_url: https://czbiohub.github.io/orthology-free-comparative-transcriptomics-paper/
+- repo_url: https://github.com/czbiohub/de-novo-orthology-paper
+  html_url: https://czbiohub.github.io/de-novo-orthology-paper/
 - repo_url: https://github.com/greenelab/iscb-diversity-manuscript
   html_url: https://greenelab.github.io/iscb-diversity-manuscript/
