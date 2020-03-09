@@ -4,11 +4,11 @@
       "repo_url": "https://github.com/greenelab/deep-review",
       "url": "https://greenelab.github.io/deep-review/",
       "citation": "url:https://greenelab.github.io/deep-review/",
-      "thumbnail_url": "https://github.com/greenelab/deep-review/raw/5e9aa01dadad5f3cd87cd1f39dbe577dff651c64/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/deep-review/raw/03b2cd2bb41d1545f0bec28a57d1c1ac18bdafd4/thumbnail.png",
       "title": "Opportunities and obstacles for deep learning in biology and medicine [update in progress]",
-      "authors": "Ching, Himmelstein, Beaulieu-Jones, Kalinin, Do, Way, Ferrero, Agapow, Zietz, Hoffman, Xie, Rosen, et al",
+      "authors": "Ching, Himmelstein, Beaulieu-Jones, Kalinin, Do, Levy, Christensen, Titus, Way, Ferrero, Agapow, et al",
       "journal": "Manubot",
-      "date_iso": "2020-03-02",
+      "date_iso": "2020-03-09",
       "date_human": "Mar 2020",
       "csl_item": {
         "id": "GT0nExut",
@@ -38,6 +38,18 @@
           {
             "family": "Do",
             "given": "Brian T."
+          },
+          {
+            "family": "Levy",
+            "given": "Joshua J."
+          },
+          {
+            "family": "Christensen",
+            "given": "Brock C."
+          },
+          {
+            "family": "Titus",
+            "given": "Alexander J."
           },
           {
             "family": "Way",
@@ -169,7 +181,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -178,7 +190,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -607,7 +619,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -727,7 +739,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -801,7 +813,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -994,7 +1006,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -1045,7 +1057,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -1113,7 +1125,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -1247,7 +1259,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -1292,7 +1304,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -1372,7 +1384,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -1565,7 +1577,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -1581,10 +1593,10 @@
       "citation": "url:https://yt-project.github.io/yt-3.0-paper/",
       "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64820041-96414900-d57d-11e9-9b57-325f89b548df.png",
       "title": "Introducing yt 3.0: Analysis and Visualization of Volumetric Data",
-      "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Yourself",
+      "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Munk, Smith, Kowalik, Yourself",
       "journal": null,
-      "date_iso": "2020-02-27",
-      "date_human": "Feb 2020",
+      "date_iso": "2020-03-06",
+      "date_human": "Mar 2020",
       "csl_item": {
         "id": "NVqvdTiE",
         "type": "webpage",
@@ -1623,6 +1635,18 @@
             "given": "Meagan"
           },
           {
+            "family": "Munk",
+            "given": "Madicken"
+          },
+          {
+            "family": "Smith",
+            "given": "Britton"
+          },
+          {
+            "family": "Kowalik",
+            "given": "Kacper"
+          },
+          {
             "family": "Yourself",
             "given": "Add"
           }
@@ -1631,8 +1655,8 @@
           "date-parts": [
             [
               "2020",
-              2,
-              27
+              3,
+              6
             ]
           ]
         },
@@ -1641,7 +1665,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -1695,7 +1719,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -1843,7 +1867,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -1909,7 +1933,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -2072,7 +2096,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -2107,7 +2131,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -2189,7 +2213,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -2318,7 +2342,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -2482,7 +2506,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -2499,8 +2523,8 @@
       "title": "A set of Common Software Quality Assurance Baseline Criteria for Research Projects",
       "authors": "Orviz, Lopez, Duma, David, Gomes, Donvito",
       "journal": null,
-      "date_iso": "2020-01-03",
-      "date_human": "Jan 2020",
+      "date_iso": "2020-03-06",
+      "date_human": "Mar 2020",
       "csl_item": {
         "id": "dK0df0il",
         "type": "webpage",
@@ -2537,8 +2561,8 @@
           "date-parts": [
             [
               "2020",
-              1,
-              3
+              3,
+              6
             ]
           ]
         },
@@ -2547,7 +2571,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -2612,7 +2636,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -2725,7 +2749,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -2775,7 +2799,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -2831,7 +2855,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -2936,7 +2960,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -2986,7 +3010,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -3042,13 +3066,15 @@
       "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64813118-9e45bc80-d56e-11e9-8913-370d5022148d.png",
       "title": "The probability of edge existence due to node degree: a baseline for network-based predictions",
       "authors": "Zietz, Himmelstein, Kloster, Williams, Nagle, Sullivan, Greene",
-      "journal": null,
-      "date_iso": "2020-02-19",
-      "date_human": "Feb 2020",
+      "journal": "Manubot",
+      "date_iso": "2020-03-05",
+      "date_human": "Mar 2020",
       "csl_item": {
         "id": "17QDcGqUi",
-        "type": "webpage",
+        "type": "report",
         "title": "The probability of edge existence due to node degree: a baseline for network-based predictions",
+        "publisher": "Manubot",
+        "source": "greenelab.github.io",
         "URL": "https://greenelab.github.io/xswap-manuscript/",
         "shortTitle": "The probability of edge existence due to node degree",
         "language": "en-US",
@@ -3086,8 +3112,8 @@
           "date-parts": [
             [
               "2020",
-              2,
-              19
+              3,
+              5
             ]
           ]
         },
@@ -3096,7 +3122,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -3146,7 +3172,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -3198,15 +3224,15 @@
       "repo_url": "https://github.com/czbiohub/de-novo-orthology-paper",
       "url": "https://czbiohub.github.io/de-novo-orthology-paper/",
       "citation": "url:https://czbiohub.github.io/de-novo-orthology-paper/",
-      "title": "INCOMPLETE DRAFT: Smashing single cells into $k$-mer sketches",
+      "title": "INCOMPLETE DRAFT: Identification of *de novo* orthologous genes from comparative single-cell RNA-seq transcriptomics",
       "authors": "Botvinnik, Vemuri, Logan, Nafees, Karkanias",
       "journal": "Manubot",
-      "date_iso": "2020-02-27",
-      "date_human": "Feb 2020",
+      "date_iso": "2020-03-05",
+      "date_human": "Mar 2020",
       "csl_item": {
         "id": "Wijj7Z1F",
         "type": "report",
-        "title": "INCOMPLETE DRAFT: Smashing single cells into $k$-mer sketches",
+        "title": "INCOMPLETE DRAFT: Identification of *de novo* orthologous genes from comparative single-cell RNA-seq transcriptomics",
         "publisher": "Manubot",
         "source": "czbiohub.github.io",
         "URL": "https://czbiohub.github.io/de-novo-orthology-paper/",
@@ -3238,8 +3264,8 @@
           "date-parts": [
             [
               "2020",
-              2,
-              27
+              3,
+              5
             ]
           ]
         },
@@ -3248,7 +3274,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
@@ -3262,12 +3288,12 @@
       "repo_url": "https://github.com/greenelab/iscb-diversity-manuscript",
       "url": "https://greenelab.github.io/iscb-diversity-manuscript/",
       "citation": "url:https://greenelab.github.io/iscb-diversity-manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/881fa61e7c105395728021d391667a17e2bdb220/build/assets/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/a9aba21001657878e72924e51a674c4dd4167a90/build/assets/thumbnail.png",
       "title": "Analysis of ISCB honorees and keynotes reveals disparities",
       "authors": "Le, Himmelstein, Anderson, Gazzara, Greene",
       "journal": "Manubot",
-      "date_iso": "2020-02-02",
-      "date_human": "Feb 2020",
+      "date_iso": "2020-03-09",
+      "date_human": "Mar 2020",
       "csl_item": {
         "id": "qsmtXB4B",
         "type": "report",
@@ -3302,8 +3328,8 @@
           "date-parts": [
             [
               "2020",
-              2,
-              2
+              3,
+              9
             ]
           ]
         },
@@ -3312,7 +3338,7 @@
             [
               "2020",
               3,
-              2
+              9
             ]
           ]
         },
