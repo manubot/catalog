@@ -4,11 +4,11 @@
       "repo_url": "https://github.com/greenelab/deep-review",
       "url": "https://greenelab.github.io/deep-review/",
       "citation": "url:https://greenelab.github.io/deep-review/",
-      "thumbnail_url": "https://github.com/greenelab/deep-review/raw/03b2cd2bb41d1545f0bec28a57d1c1ac18bdafd4/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/deep-review/raw/5dcf0daef5149fb9d1d1fca11e90ce9cdf4152bc/thumbnail.png",
       "title": "Opportunities and obstacles for deep learning in biology and medicine [update in progress]",
-      "authors": "Ching, Himmelstein, Beaulieu-Jones, Kalinin, Do, Levy, Christensen, Titus, Way, Ferrero, Agapow, et al",
+      "authors": "Titus, Levy, Greene, Christensen, Himmelstein",
       "journal": "Manubot",
-      "date_iso": "2020-03-09",
+      "date_iso": "2020-03-16",
       "date_human": "Mar 2020",
       "csl_item": {
         "id": "GT0nExut",
@@ -20,160 +20,24 @@
         "language": "en-US",
         "author": [
           {
-            "family": "Ching",
-            "given": "Travers"
-          },
-          {
-            "family": "Himmelstein",
-            "given": "Daniel S."
-          },
-          {
-            "family": "Beaulieu-Jones",
-            "given": "Brett K."
-          },
-          {
-            "family": "Kalinin",
-            "given": "Alexandr A."
-          },
-          {
-            "family": "Do",
-            "given": "Brian T."
+            "family": "Titus",
+            "given": "Alexander J."
           },
           {
             "family": "Levy",
             "given": "Joshua J."
           },
           {
+            "family": "Greene",
+            "given": "Casey S."
+          },
+          {
             "family": "Christensen",
             "given": "Brock C."
           },
           {
-            "family": "Titus",
-            "given": "Alexander J."
-          },
-          {
-            "family": "Way",
-            "given": "Gregory P."
-          },
-          {
-            "family": "Ferrero",
-            "given": "Enrico"
-          },
-          {
-            "family": "Agapow",
-            "given": "Paul-Michael"
-          },
-          {
-            "family": "Zietz",
-            "given": "Michael"
-          },
-          {
-            "family": "Hoffman",
-            "given": "Michael M."
-          },
-          {
-            "family": "Xie",
-            "given": "Wei"
-          },
-          {
-            "family": "Rosen",
-            "given": "Gail L."
-          },
-          {
-            "family": "Lengerich",
-            "given": "Benjamin J."
-          },
-          {
-            "family": "Israeli",
-            "given": "Johnny"
-          },
-          {
-            "family": "Lanchantin",
-            "given": "Jack"
-          },
-          {
-            "family": "Woloszynek",
-            "given": "Stephen"
-          },
-          {
-            "family": "Carpenter",
-            "given": "Anne E."
-          },
-          {
-            "family": "Shrikumar",
-            "given": "Avanti"
-          },
-          {
-            "family": "Xu",
-            "given": "Jinbo"
-          },
-          {
-            "family": "Cofer",
-            "given": "Evan M."
-          },
-          {
-            "family": "Lavender",
-            "given": "Christopher A."
-          },
-          {
-            "family": "Turaga",
-            "given": "Srinivas C."
-          },
-          {
-            "family": "Alexandari",
-            "given": "Amr M."
-          },
-          {
-            "family": "Lu",
-            "given": "Zhiyong"
-          },
-          {
-            "family": "Harris",
-            "given": "David J."
-          },
-          {
-            "family": "DeCaprio",
-            "given": "Dave"
-          },
-          {
-            "family": "Qi",
-            "given": "Yanjun"
-          },
-          {
-            "family": "Kundaje",
-            "given": "Anshul"
-          },
-          {
-            "family": "Peng",
-            "given": "Yifan"
-          },
-          {
-            "family": "Wiley",
-            "given": "Laura K."
-          },
-          {
-            "family": "Segler",
-            "given": "Marwin H. S."
-          },
-          {
-            "family": "Boca",
-            "given": "Simina M."
-          },
-          {
-            "family": "Swamidass",
-            "given": "S. Joshua"
-          },
-          {
-            "family": "Huang",
-            "given": "Austin"
-          },
-          {
-            "family": "Gitter",
-            "given": "Anthony"
-          },
-          {
-            "family": "Greene",
-            "given": "Casey S."
+            "family": "Himmelstein",
+            "given": "Daniel S."
           }
         ],
         "issued": {
@@ -181,7 +45,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -190,7 +54,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -619,7 +483,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -739,7 +603,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -813,7 +677,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -1006,7 +870,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -1057,7 +921,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -1125,7 +989,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -1259,7 +1123,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -1304,7 +1168,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -1384,7 +1248,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -1577,7 +1441,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -1665,7 +1529,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -1719,7 +1583,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -1867,7 +1731,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -1933,7 +1797,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -2096,7 +1960,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -2131,7 +1995,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -2213,7 +2077,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -2342,7 +2206,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -2506,7 +2370,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -2571,7 +2435,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -2636,7 +2500,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -2749,7 +2613,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -2799,7 +2663,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -2855,7 +2719,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -2960,7 +2824,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -3010,7 +2874,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -3122,7 +2986,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -3172,7 +3036,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -3274,7 +3138,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
@@ -3288,11 +3152,11 @@
       "repo_url": "https://github.com/greenelab/iscb-diversity-manuscript",
       "url": "https://greenelab.github.io/iscb-diversity-manuscript/",
       "citation": "url:https://greenelab.github.io/iscb-diversity-manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/a9aba21001657878e72924e51a674c4dd4167a90/build/assets/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/f976cd767f4d2f8b85545d2da8e03afeae678120/build/assets/thumbnail.png",
       "title": "Analysis of ISCB honorees and keynotes reveals disparities",
       "authors": "Le, Himmelstein, Anderson, Gazzara, Greene",
       "journal": "Manubot",
-      "date_iso": "2020-03-09",
+      "date_iso": "2020-03-14",
       "date_human": "Mar 2020",
       "csl_item": {
         "id": "qsmtXB4B",
@@ -3329,7 +3193,7 @@
             [
               "2020",
               3,
-              9
+              14
             ]
           ]
         },
@@ -3338,7 +3202,7 @@
             [
               "2020",
               3,
-              9
+              16
             ]
           ]
         },
