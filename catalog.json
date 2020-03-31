@@ -2631,8 +2631,8 @@
       "title": "Edit me to practice contributing to a collaborative Manubot manuscript",
       "authors": "Doe, Roe",
       "journal": null,
-      "date_iso": "2019-09-13",
-      "date_human": "Sep 2019",
+      "date_iso": "2020-03-31",
+      "date_human": "Mar 2020",
       "csl_item": {
         "id": "9IQuyN3R",
         "type": "webpage",
@@ -2652,9 +2652,9 @@
         "issued": {
           "date-parts": [
             [
-              "2019",
-              9,
-              13
+              "2020",
+              3,
+              31
             ]
           ]
         },
@@ -3091,7 +3091,7 @@
       "title": "INCOMPLETE DRAFT: Identification of *de novo* orthologous genes from comparative single-cell RNA-seq transcriptomics",
       "authors": "Botvinnik, Vemuri, Logan, Nafees, Karkanias",
       "journal": "Manubot",
-      "date_iso": "2020-03-23",
+      "date_iso": "2020-03-31",
       "date_human": "Mar 2020",
       "csl_item": {
         "id": "Wijj7Z1F",
@@ -3129,7 +3129,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -3303,7 +3303,7 @@
       "title": "Metagenome-Assembled Genome Binning Methods Disproportionately Fail for Plasmids and Genomic Islands",
       "authors": "Maguire*, Jia*, Gray, Lau, Beiko, Brinkman",
       "journal": "Manubot",
-      "date_iso": "2020-03-30",
+      "date_iso": "2020-03-31",
       "date_human": "Mar 2020",
       "csl_item": {
         "id": "11P3QTeZN",
@@ -3344,7 +3344,7 @@
             [
               "2020",
               3,
-              30
+              31
             ]
           ]
         },
@@ -3416,6 +3416,7 @@
       "repo_url": "https://github.com/jperkel/mymanuscript",
       "url": "https://jperkel.github.io/mymanuscript/",
       "citation": "url:https://jperkel.github.io/mymanuscript/",
+      "thumbnail_url": "https://github.com/jperkel/mymanuscript/raw/f740bb1ea5b5ddfb5bb3be4d179c0651703f26a2/build/assets/thumbnail.png",
       "title": "Collaborative Writing with Manubot",
       "authors": "Perkel",
       "journal": "Manubot",
