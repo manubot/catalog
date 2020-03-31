@@ -54,7 +54,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -483,7 +483,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -603,7 +603,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -677,7 +677,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -870,7 +870,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -921,7 +921,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -989,7 +989,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -1123,7 +1123,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -1168,7 +1168,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -1248,7 +1248,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -1441,7 +1441,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -1529,7 +1529,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -1583,7 +1583,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -1731,7 +1731,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -1797,7 +1797,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -1960,7 +1960,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -1995,7 +1995,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -2077,7 +2077,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -2206,7 +2206,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -2370,7 +2370,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -2435,7 +2435,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -2500,7 +2500,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -2613,7 +2613,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -2663,7 +2663,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -2719,7 +2719,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -2824,7 +2824,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -2874,7 +2874,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -2986,7 +2986,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -3036,7 +3036,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -3138,7 +3138,7 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
@@ -3152,11 +3152,11 @@
       "repo_url": "https://github.com/greenelab/iscb-diversity-manuscript",
       "url": "https://greenelab.github.io/iscb-diversity-manuscript/",
       "citation": "url:https://greenelab.github.io/iscb-diversity-manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/c2a92790752a9cb1d14c8799399a3c29db28bb7e/build/assets/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/6d7595f564405156d0d3a633847a2f7cc03b57f7/build/assets/thumbnail.png",
       "title": "Analysis of ISCB honorees and keynotes reveals disparities",
       "authors": "Le, Himmelstein, Anderson, Gazzara, Greene",
       "journal": "Manubot",
-      "date_iso": "2020-03-21",
+      "date_iso": "2020-03-31",
       "date_human": "Mar 2020",
       "csl_item": {
         "id": "qsmtXB4B",
@@ -3193,7 +3193,7 @@
             [
               "2020",
               3,
-              21
+              31
             ]
           ]
         },
@@ -3202,11 +3202,298 @@
             [
               "2020",
               3,
-              23
+              31
             ]
           ]
         },
         "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: url:https://greenelab.github.io/iscb-diversity-manuscript/"
+      }
+    },
+    "extras": {}
+  },
+  {
+    "manubot": {
+      "repo_url": "https://github.com/greenelab/covid19-review",
+      "url": "https://greenelab.github.io/covid19-review/",
+      "citation": "url:https://greenelab.github.io/covid19-review/",
+      "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
+      "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter",
+      "journal": "Manubot",
+      "date_iso": "2020-03-31",
+      "date_human": "Mar 2020",
+      "csl_item": {
+        "id": "Z4Wyi0Mo",
+        "type": "report",
+        "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
+        "publisher": "Manubot",
+        "source": "greenelab.github.io",
+        "URL": "https://greenelab.github.io/covid19-review/",
+        "shortTitle": "SARS-CoV-2 and COVID-19",
+        "language": "en-US",
+        "author": [
+          {
+            "family": "Rando",
+            "given": "Halie M."
+          },
+          {
+            "family": "Greene",
+            "given": "Casey S."
+          },
+          {
+            "family": "Robson",
+            "given": "Michael P."
+          },
+          {
+            "family": "Boca",
+            "given": "Simina M."
+          },
+          {
+            "family": "Wellhausen",
+            "given": "Nils"
+          },
+          {
+            "family": "Lordan",
+            "given": "Ronan"
+          },
+          {
+            "family": "Brueffer",
+            "given": "Christian"
+          },
+          {
+            "family": "Ray",
+            "given": "Sadipan"
+          },
+          {
+            "family": "McGowan",
+            "given": "Lucy D\\'Agostino"
+          },
+          {
+            "family": "Gitter",
+            "given": "Anthony"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2020",
+              3,
+              31
+            ]
+          ]
+        },
+        "accessed": {
+          "date-parts": [
+            [
+              "2020",
+              3,
+              31
+            ]
+          ]
+        },
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: url:https://greenelab.github.io/covid19-review/"
+      }
+    },
+    "extras": {}
+  },
+  {
+    "manubot": {
+      "repo_url": "https://github.com/fmaguire/mag_sim_paper",
+      "url": "https://finlaymagui.re/mag_sim_paper/",
+      "citation": "url:https://finlaymagui.re/mag_sim_paper/",
+      "title": "Metagenome-Assembled Genome Binning Methods Disproportionately Fail for Plasmids and Genomic Islands",
+      "authors": "Maguire*, Jia*, Gray, Lau, Beiko, Brinkman",
+      "journal": "Manubot",
+      "date_iso": "2020-03-30",
+      "date_human": "Mar 2020",
+      "csl_item": {
+        "id": "11P3QTeZN",
+        "type": "report",
+        "title": "Metagenome-Assembled Genome Binning Methods Disproportionately Fail for Plasmids and Genomic Islands",
+        "publisher": "Manubot",
+        "source": "finlaymagui.re",
+        "URL": "https://fmaguire.github.io/mag_sim_paper/",
+        "language": "en-CA",
+        "author": [
+          {
+            "family": "Maguire*",
+            "given": "Finlay"
+          },
+          {
+            "family": "Jia*",
+            "given": "Baofeng"
+          },
+          {
+            "family": "Gray",
+            "given": "Kristen"
+          },
+          {
+            "family": "Lau",
+            "given": "Wing Yin Venus"
+          },
+          {
+            "family": "Beiko",
+            "given": "Robert G."
+          },
+          {
+            "family": "Brinkman",
+            "given": "Fiona S. L."
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2020",
+              3,
+              30
+            ]
+          ]
+        },
+        "accessed": {
+          "date-parts": [
+            [
+              "2020",
+              3,
+              31
+            ]
+          ]
+        },
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: url:https://finlaymagui.re/mag_sim_paper/"
+      }
+    },
+    "extras": {}
+  },
+  {
+    "manubot": {
+      "repo_url": "https://github.com/AlexsLemonade/OpenPBTA-manuscript",
+      "url": "https://alexslemonade.github.io/OpenPBTA-manuscript/",
+      "citation": "url:https://alexslemonade.github.io/OpenPBTA-manuscript/",
+      "title": "An Open Pediatric Brain Tumor Atlas",
+      "authors": "Doe, Roe",
+      "journal": null,
+      "date_iso": "2020-03-29",
+      "date_human": "Mar 2020",
+      "csl_item": {
+        "id": "oqc02age",
+        "type": "webpage",
+        "title": "An Open Pediatric Brain Tumor Atlas",
+        "URL": "https://alexslemonade.github.io/OpenPBTA-manuscript/",
+        "language": "en-US",
+        "author": [
+          {
+            "family": "Doe",
+            "given": "John"
+          },
+          {
+            "family": "Roe",
+            "given": "Jane"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2020",
+              3,
+              29
+            ]
+          ]
+        },
+        "accessed": {
+          "date-parts": [
+            [
+              "2020",
+              3,
+              31
+            ]
+          ]
+        },
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: url:https://alexslemonade.github.io/OpenPBTA-manuscript/"
+      }
+    },
+    "extras": {}
+  },
+  {
+    "manubot": {
+      "repo_url": "https://github.com/jperkel/mymanuscript",
+      "url": "https://jperkel.github.io/mymanuscript/",
+      "citation": "url:https://jperkel.github.io/mymanuscript/",
+      "title": "Collaborative Writing with Manubot",
+      "authors": "Perkel",
+      "journal": "Manubot",
+      "date_iso": "2020-03-31",
+      "date_human": "Mar 2020",
+      "csl_item": {
+        "id": "MzP9ROHg",
+        "type": "report",
+        "title": "Collaborative Writing with Manubot",
+        "publisher": "Manubot",
+        "source": "jperkel.github.io",
+        "URL": "https://jperkel.github.io/mymanuscript/",
+        "language": "en-US",
+        "author": [
+          {
+            "family": "Perkel",
+            "given": "Jeffrey M."
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2020",
+              3,
+              31
+            ]
+          ]
+        },
+        "accessed": {
+          "date-parts": [
+            [
+              "2020",
+              3,
+              31
+            ]
+          ]
+        },
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: url:https://jperkel.github.io/mymanuscript/"
+      }
+    },
+    "journal": {
+      "citation": "doi:10.1038/d41586-020-00916-6",
+      "url": "https://doi.org/ggqk8s",
+      "title": "Synchronized editing: the future of collaborative writing",
+      "authors": "Perkel",
+      "journal": "Nature",
+      "date_iso": "2020-03-31",
+      "date_human": "Mar 2020",
+      "csl_item": {
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "7801",
+        "DOI": "10.1038/d41586-020-00916-6",
+        "type": "article-journal",
+        "page": "154-155",
+        "source": "Crossref",
+        "title": "Synchronized editing: the future of collaborative writing",
+        "volume": "580",
+        "author": [
+          {
+            "given": "Jeffrey M.",
+            "family": "Perkel"
+          }
+        ],
+        "container-title": "Nature",
+        "language": "en",
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              3,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/ggqk8s",
+        "container-title-short": "Nature",
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: doi:10.1038/d41586-020-00916-6",
+        "id": "AE0QcVgJ"
       }
     },
     "extras": {}
