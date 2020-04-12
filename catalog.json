@@ -4,12 +4,12 @@
       "repo_url": "https://github.com/greenelab/deep-review",
       "url": "https://greenelab.github.io/deep-review/",
       "citation": "url:https://greenelab.github.io/deep-review/",
-      "thumbnail_url": "https://github.com/greenelab/deep-review/raw/5dcf0daef5149fb9d1d1fca11e90ce9cdf4152bc/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/deep-review/raw/081fb466dd13c2813b3ae14bb916173f5d0442c5/thumbnail.png",
       "title": "Opportunities and obstacles for deep learning in biology and medicine [update in progress]",
-      "authors": "Titus, Levy, Greene, Christensen, Himmelstein",
+      "authors": "Christensen, Titus, Greene, Himmelstein, Levy",
       "journal": "Manubot",
-      "date_iso": "2020-03-16",
-      "date_human": "Mar 2020",
+      "date_iso": "2020-04-11",
+      "date_human": "Apr 2020",
       "csl_item": {
         "id": "GT0nExut",
         "type": "report",
@@ -20,32 +20,32 @@
         "language": "en-US",
         "author": [
           {
-            "family": "Titus",
-            "given": "Alexander J."
+            "family": "Christensen",
+            "given": "Brock C."
           },
           {
-            "family": "Levy",
-            "given": "Joshua J."
+            "family": "Titus",
+            "given": "Alexander J."
           },
           {
             "family": "Greene",
             "given": "Casey S."
           },
           {
-            "family": "Christensen",
-            "given": "Brock C."
-          },
-          {
             "family": "Himmelstein",
             "given": "Daniel S."
+          },
+          {
+            "family": "Levy",
+            "given": "Joshua J."
           }
         ],
         "issued": {
           "date-parts": [
             [
               "2020",
-              3,
-              16
+              4,
+              11
             ]
           ]
         },
@@ -54,7 +54,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -483,7 +483,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -603,7 +603,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -677,7 +677,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -870,7 +870,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -921,7 +921,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -989,7 +989,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -1123,7 +1123,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -1168,7 +1168,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -1248,7 +1248,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -1441,7 +1441,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -1529,7 +1529,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -1583,7 +1583,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -1731,7 +1731,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -1797,7 +1797,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -1960,7 +1960,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -1995,7 +1995,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -2077,7 +2077,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -2206,7 +2206,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -2370,7 +2370,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -2435,7 +2435,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -2500,7 +2500,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -2613,7 +2613,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -2663,7 +2663,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -2719,7 +2719,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -2824,7 +2824,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -2874,7 +2874,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -2986,7 +2986,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -3036,7 +3036,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -3088,19 +3088,18 @@
       "repo_url": "https://github.com/czbiohub/de-novo-orthology-paper",
       "url": "https://czbiohub.github.io/de-novo-orthology-paper/",
       "citation": "url:https://czbiohub.github.io/de-novo-orthology-paper/",
-      "title": "INCOMPLETE DRAFT: Identification of *de novo* orthologous genes from comparative single-cell RNA-seq transcriptomics",
-      "authors": "Botvinnik, Vemuri, Logan, Nafees, Karkanias",
+      "title": "Sencha directly translates RNA-seq reads to enable functional prediction of transcriptomic 'dark matter' across species",
+      "authors": "Botvinnik, Vemuri, Pierce, Logan, Nafees, Karkanias",
       "journal": "Manubot",
-      "date_iso": "2020-03-31",
-      "date_human": "Mar 2020",
+      "date_iso": "2020-04-10",
+      "date_human": "Apr 2020",
       "csl_item": {
         "id": "Wijj7Z1F",
         "type": "report",
-        "title": "INCOMPLETE DRAFT: Identification of *de novo* orthologous genes from comparative single-cell RNA-seq transcriptomics",
+        "title": "Sencha directly translates RNA-seq reads to enable functional prediction of transcriptomic 'dark matter' across species",
         "publisher": "Manubot",
         "source": "czbiohub.github.io",
         "URL": "https://czbiohub.github.io/de-novo-orthology-paper/",
-        "shortTitle": "INCOMPLETE DRAFT",
         "language": "en-US",
         "author": [
           {
@@ -3110,6 +3109,10 @@
           {
             "family": "Vemuri",
             "given": "Venkata Naga Pranathi"
+          },
+          {
+            "family": "Pierce",
+            "given": "N. Tessa"
           },
           {
             "family": "Logan",
@@ -3128,8 +3131,8 @@
           "date-parts": [
             [
               "2020",
-              3,
-              31
+              4,
+              10
             ]
           ]
         },
@@ -3138,7 +3141,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -3152,11 +3155,11 @@
       "repo_url": "https://github.com/greenelab/iscb-diversity-manuscript",
       "url": "https://greenelab.github.io/iscb-diversity-manuscript/",
       "citation": "url:https://greenelab.github.io/iscb-diversity-manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/7790135369ec495bc64faa3a4071fa150949e7f6/build/assets/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/6bda862974e77beb98697f39c18027683af158cb/build/assets/thumbnail.png",
       "title": "Analysis of ISCB honorees and keynotes reveals disparities",
       "authors": "Le, Himmelstein, Anderson, Gazzara, Greene",
       "journal": "Manubot",
-      "date_iso": "2020-04-03",
+      "date_iso": "2020-04-11",
       "date_human": "Apr 2020",
       "csl_item": {
         "id": "qsmtXB4B",
@@ -3193,7 +3196,7 @@
             [
               "2020",
               4,
-              3
+              11
             ]
           ]
         },
@@ -3202,7 +3205,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -3217,9 +3220,9 @@
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
-      "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
+      "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Russell, Dattoli, et al",
       "journal": "Manubot",
-      "date_iso": "2020-04-06",
+      "date_iso": "2020-04-12",
       "date_human": "Apr 2020",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3272,6 +3275,10 @@
             "given": "Anthony"
           },
           {
+            "family": "Russell",
+            "given": "Ronnie M."
+          },
+          {
             "family": "Dattoli",
             "given": "Anna Ada"
           },
@@ -3294,6 +3301,27 @@
           {
             "family": "MacLean",
             "given": "Adam L."
+          },
+          {
+            "family": "Lee",
+            "given": "Alexandra J."
+          },
+          {
+            "family": "Medicine",
+            "given": "Immunology Institute of the Icahn School",
+            "dropping-particle": "of"
+          },
+          {
+            "family": "Hu",
+            "given": "Fengling"
+          },
+          {
+            "family": "Jadavji",
+            "given": "Nafisa M."
+          },
+          {
+            "family": "Sell",
+            "given": "Elizabeth"
           }
         ],
         "issued": {
@@ -3301,7 +3329,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -3310,7 +3338,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -3327,7 +3355,7 @@
       "title": "Metagenome-Assembled Genome Binning Methods Disproportionately Fail for Plasmids and Genomic Islands",
       "authors": "Maguire*, Jia*, Gray, Lau, Beiko, Brinkman",
       "journal": "Manubot",
-      "date_iso": "2020-04-06",
+      "date_iso": "2020-04-11",
       "date_human": "Apr 2020",
       "csl_item": {
         "id": "11P3QTeZN",
@@ -3368,7 +3396,7 @@
             [
               "2020",
               4,
-              6
+              11
             ]
           ]
         },
@@ -3377,7 +3405,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -3394,7 +3422,7 @@
       "title": "An Open Pediatric Brain Tumor Atlas",
       "authors": "Doe, Roe",
       "journal": null,
-      "date_iso": "2020-04-01",
+      "date_iso": "2020-04-10",
       "date_human": "Apr 2020",
       "csl_item": {
         "id": "oqc02age",
@@ -3417,7 +3445,7 @@
             [
               "2020",
               4,
-              1
+              10
             ]
           ]
         },
@@ -3426,7 +3454,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -3474,7 +3502,7 @@
             [
               "2020",
               4,
-              6
+              12
             ]
           ]
         },
@@ -3520,6 +3548,243 @@
         "PMID": "32235940",
         "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: doi:10.1038/d41586-020-00916-6",
         "id": "AE0QcVgJ"
+      }
+    },
+    "extras": {}
+  },
+  {
+    "manubot": {
+      "repo_url": "https://github.com/zietzm/abo_covid",
+      "url": "https://zietzm.com/abo_covid/",
+      "citation": "url:https://zietzm.com/abo_covid/",
+      "title": "Testing the association between blood type and COVID-19 infection, intubation, and death",
+      "authors": "Zietz, Tatonetti",
+      "journal": "Manubot",
+      "date_iso": "2020-04-08",
+      "date_human": "Apr 2020",
+      "csl_item": {
+        "id": "4Bpw32bg",
+        "type": "report",
+        "title": "Testing the association between blood type and COVID-19 infection, intubation, and death",
+        "publisher": "Manubot",
+        "source": "zietzm.com",
+        "URL": "https://zietzm.github.io/abo_covid/",
+        "language": "en-US",
+        "author": [
+          {
+            "family": "Zietz",
+            "given": "Michael"
+          },
+          {
+            "family": "Tatonetti",
+            "given": "Nicholas P."
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2020",
+              4,
+              8
+            ]
+          ]
+        },
+        "accessed": {
+          "date-parts": [
+            [
+              "2020",
+              4,
+              12
+            ]
+          ]
+        },
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: url:https://zietzm.com/abo_covid/"
+      }
+    },
+    "preprint": {
+      "citation": "doi:10.1101/2020.04.08.20058073",
+      "url": "https://doi.org/ggrn8f",
+      "title": "Testing the association between blood type and COVID-19 infection, intubation, and death",
+      "authors": "Zietz, Tatonetti",
+      "journal": "Cold Spring Harbor Laboratory",
+      "date_iso": "2020-04-11",
+      "date_human": "Apr 2020",
+      "csl_item": {
+        "publisher": "Cold Spring Harbor Laboratory",
+        "abstract": "<jats:p>The rapid global spread of the novel coronavirus SARS-CoV-2 has strained existing healthcare and testing resources, making the identification and prioritization of individuals most at-risk a critical challenge. A recent study of patients in China discovered an association between ABO blood type and SARS-CoV-2 infection status by comparing COVID-19 patients with the general population. Whether blood type is associated with increased COVID-19 morbidity or mortality remains unknown. We used observational healthcare data on 1559 individuals tested for SARS-CoV-2 (682 COV+) with known blood type in the New York Presbyterian (NYP) hospital system to assess the association between ABO+Rh blood type and SARS-CoV-2 infection status, intubation, and death. We found a higher proportion of blood group A and a lower proportion of blood group O among COV+ patients compared to COV-, though in both cases the result is significant only in Rh positive blood types. We show that the effect of blood type is not explained by risk factors we considered (age, sex, hypertension, diabetes mellitus, overweight status, and chronic cardiovascular and lung disorders). In a meta-analysis of NYP data with previously-reported data from China, we find enrichment for A and B and depletion of O blood groups among COVID-19 patients compared to the general population. Our data do not provide strong evidence of associations between blood group and intubation or death among COVID-19 patients. In this preliminary observational study of data currently being collected during the outbreak, we find new evidence of associations between B, AB, and Rh blood groups and COVID-19 and further evidence of recently-discovered associations between A and O blood groups and COVID-19.</jats:p>",
+        "DOI": "10.1101/2020.04.08.20058073",
+        "type": "manuscript",
+        "source": "Crossref",
+        "title": "Testing the association between blood type and COVID-19 infection, intubation, and death",
+        "author": [
+          {
+            "given": "Michael",
+            "family": "Zietz"
+          },
+          {
+            "given": "Nicholas P.",
+            "family": "Tatonetti"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/ggrn8f",
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: doi:10.1101/2020.04.08.20058073",
+        "id": "11QObQroR"
+      }
+    },
+    "extras": {}
+  },
+  {
+    "manubot": {
+      "repo_url": "https://github.com/CompGenomeLab/lemur-manuscript",
+      "url": "https://compgenomelab.github.io/lemur-manuscript/webpage/",
+      "citation": "url:https://compgenomelab.github.io/lemur-manuscript/webpage/",
+      "thumbnail_url": "https://user-images.githubusercontent.com/1117703/79069949-19578880-7ca0-11ea-8a3f-d727696718ae.png",
+      "title": "Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events",
+      "authors": "Akkose, Kaya, Lindsey-Boltz, Karagoz, Brown, Larsen, Yoder, Sancar, Adebali",
+      "journal": "Manubot",
+      "date_iso": "2020-04-05",
+      "date_human": "Apr 2020",
+      "csl_item": {
+        "id": "14yQNmWi3",
+        "type": "report",
+        "title": "Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events",
+        "publisher": "Manubot",
+        "source": "compgenomelab.github.io",
+        "URL": "https://compgenomelab.github.io/lemur-manuscript/webpage/",
+        "language": "en-US",
+        "author": [
+          {
+            "family": "Akkose",
+            "given": "Umit"
+          },
+          {
+            "family": "Kaya",
+            "given": "Veysel Ogulcan"
+          },
+          {
+            "family": "Lindsey-Boltz",
+            "given": "Laura"
+          },
+          {
+            "family": "Karagoz",
+            "given": "Zeynep"
+          },
+          {
+            "family": "Brown",
+            "given": "Adam D."
+          },
+          {
+            "family": "Larsen",
+            "given": "Peter A."
+          },
+          {
+            "family": "Yoder",
+            "given": "Anne D."
+          },
+          {
+            "family": "Sancar",
+            "given": "Aziz"
+          },
+          {
+            "family": "Adebali",
+            "given": "Ogun"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2020",
+              4,
+              5
+            ]
+          ]
+        },
+        "accessed": {
+          "date-parts": [
+            [
+              "2020",
+              4,
+              12
+            ]
+          ]
+        },
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: url:https://compgenomelab.github.io/lemur-manuscript/webpage/"
+      }
+    },
+    "preprint": {
+      "citation": "doi:10.1101/2020.04.06.027201",
+      "url": "https://doi.org/ggrqp5",
+      "title": "Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events",
+      "authors": "Akkose, Kaya, Lindsey-Boltz, Karagoz, Brown, Larsen, Yoder, Sancar, Adebali",
+      "journal": "Cold Spring Harbor Laboratory",
+      "date_iso": "2020-04-06",
+      "date_human": "Apr 2020",
+      "csl_item": {
+        "publisher": "Cold Spring Harbor Laboratory",
+        "abstract": "<jats:title>Abstract</jats:title><jats:p>Nucleotide excision repair is the primary DNA repair mechanism that removes bulky DNA adducts such as UV-induced pyrimidine dimers. Correspondingly, genome-wide mapping of nucleotide excision repair with eXcision Repair sequencing (XR-seq), provides comprehensive profiling of DNA damage repair. A number of XR-seq experiments at a variety of conditions for different damage types revealed heterogenous repair in the human genome. Although human repair profiles were extensively studied, how repair maps vary between primates is yet to be investigated. Here, we characterized the genome-wide UV-induced damage repair in gray mouse lemur, <jats:italic>Microcebus murinus</jats:italic>, in comparison to human. Mouse lemurs are strictly nocturnal, are the world’s smallest living primates, and last shared a common ancestor with humans at least 60 million years ago. We derived fibroblast cell lines from mouse lemur, exposed them to UV irradiation. The following repair events were captured genome-wide through the XR-seq protocol. Mouse lemur repair profiles were analyzed in comparison to the equivalent human fibroblast datasets. We found that overall UV sensitivity, repair efficiency, and transcription-coupled repair levels differ between the two primates. Despite this, comparative analysis of human and mouse lemur fibroblasts revealed that genome-wide repair profiles of the homologous regions are highly correlated. This correlation is stronger for the highly expressed genes. With the inclusion of an additional XR-seq sample derived from another human cell line in the analysis, we found that fibroblasts of the two primates repair UV-induced DNA lesions in a more similar pattern than two distinct human cell lines do. Our results suggest that mouse lemurs and humans, and possibly primates in general, share a homologous repair mechanism as well as genomic variance distribution, albeit with their variable repair efficiency. This result also emphasizes the deep homologies of individual tissue types across the eukaryotic phylogeny.</jats:p>",
+        "DOI": "10.1101/2020.04.06.027201",
+        "type": "manuscript",
+        "source": "Crossref",
+        "title": "Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events",
+        "author": [
+          {
+            "given": "Umit",
+            "family": "Akkose"
+          },
+          {
+            "given": "Veysel Ogulcan",
+            "family": "Kaya"
+          },
+          {
+            "given": "Laura",
+            "family": "Lindsey-Boltz"
+          },
+          {
+            "given": "Zeynep",
+            "family": "Karagoz"
+          },
+          {
+            "given": "Adam D.",
+            "family": "Brown"
+          },
+          {
+            "given": "Peter A.",
+            "family": "Larsen"
+          },
+          {
+            "given": "Anne D.",
+            "family": "Yoder"
+          },
+          {
+            "given": "Aziz",
+            "family": "Sancar"
+          },
+          {
+            "given": "Ogun",
+            "family": "Adebali"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/ggrqp5",
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: doi:10.1101/2020.04.06.027201",
+        "id": "19TmjB7w7"
       }
     },
     "extras": {}
