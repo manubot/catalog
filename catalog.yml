@@ -107,6 +107,7 @@
 - repo_url: https://github.com/zietzm/abo_covid
   html_url: https://zietzm.com/abo_covid/
   preprint_citation: doi:10.1101/2020.04.08.20058073
-- html_url: https://compgenomelab.github.io/lemur-manuscript/webpage/
-  repo_url: https://github.com/CompGenomeLab/lemur-manuscript
+- repo_url: https://github.com/CompGenomeLab/lemur-manuscript
+  html_url: https://compgenomelab.github.io/lemur-manuscript/webpage/
+  thumbnail_url: https://user-images.githubusercontent.com/1117703/79069949-19578880-7ca0-11ea-8a3f-d727696718ae.png
   preprint_citation: doi:10.1101/2020.04.06.027201
