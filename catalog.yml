@@ -95,6 +95,7 @@
   html_url: https://czbiohub.github.io/de-novo-orthology-paper/
 - repo_url: https://github.com/greenelab/iscb-diversity-manuscript
   html_url: https://greenelab.github.io/iscb-diversity-manuscript/
+  preprint_citation: doi:10.1101/2020.04.14.927251
 - repo_url: https://github.com/greenelab/covid19-review
   html_url: https://greenelab.github.io/covid19-review/
 - repo_url: https://github.com/fmaguire/mag_sim_paper
