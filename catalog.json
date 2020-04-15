@@ -54,7 +54,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -483,7 +483,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -603,7 +603,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -677,7 +677,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -870,7 +870,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -921,7 +921,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -989,7 +989,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -1123,7 +1123,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -1168,7 +1168,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -1248,7 +1248,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -1441,7 +1441,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -1529,7 +1529,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -1583,7 +1583,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -1731,7 +1731,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -1797,7 +1797,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -1960,7 +1960,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -1995,7 +1995,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -2077,7 +2077,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -2206,7 +2206,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -2370,7 +2370,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -2435,7 +2435,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -2500,7 +2500,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -2613,7 +2613,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -2663,7 +2663,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -2719,7 +2719,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -2824,7 +2824,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -2874,7 +2874,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -2986,7 +2986,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -3036,7 +3036,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -3141,7 +3141,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -3155,11 +3155,11 @@
       "repo_url": "https://github.com/greenelab/iscb-diversity-manuscript",
       "url": "https://greenelab.github.io/iscb-diversity-manuscript/",
       "citation": "url:https://greenelab.github.io/iscb-diversity-manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/6bda862974e77beb98697f39c18027683af158cb/build/assets/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/172d6e00eaad2cd71528efa568763c4bb2367a38/build/assets/thumbnail.png",
       "title": "Analysis of ISCB honorees and keynotes reveals disparities",
       "authors": "Le, Himmelstein, Anderson, Gazzara, Greene",
       "journal": "Manubot",
-      "date_iso": "2020-04-11",
+      "date_iso": "2020-04-15",
       "date_human": "Apr 2020",
       "csl_item": {
         "id": "qsmtXB4B",
@@ -3196,7 +3196,7 @@
             [
               "2020",
               4,
-              11
+              15
             ]
           ]
         },
@@ -3205,11 +3205,62 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
         "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: url:https://greenelab.github.io/iscb-diversity-manuscript/"
+      }
+    },
+    "preprint": {
+      "citation": "doi:10.1101/2020.04.14.927251",
+      "url": "https://doi.org/ggr64p",
+      "title": "Analysis of ISCB honorees and keynotes reveals disparities",
+      "authors": "Le, Himmelstein, Hippen Anderson, Gazzara, Greene",
+      "journal": "Cold Spring Harbor Laboratory",
+      "date_iso": "2020-04-14",
+      "date_human": "Apr 2020",
+      "csl_item": {
+        "publisher": "Cold Spring Harbor Laboratory",
+        "abstract": "<jats:p>Professional societies and their conferences provide an important venue for disseminating scientific knowledge. Delivering a keynote for or being named a fellow by an international society is a major recognition. Do such recognitions reflect the composition of the field of bioinformatics? We compiled a list of 412 International Society for Computational Biology honorees (75 fellows and 337 keynote speakers). To assess the composition of senior researchers in the field, we analyze the names and affiliations of corresponding authors in leading bioinformatics journals. Comparing to the distribution based on names and affiliations of honorees, we looked for disparities in gender, country of affiliation, race, and name-origin. Name-origin predictions were created using a neural network trained on 700,000 name-nationality pairs mined from Wikipedia. The proportion of female honorees has kept pace with increasing levels of female authorship, but neither has yet to reach gender parity. However, we noticed a striking geographic disparity where the proportion of honorees with an affiliation in the United States was 1.6-fold greater compared to field-specific senior authors. In total, we estimate the U.S. received 85 more honorees than would be expected from randomly selecting honorees from senior authors. Almost half of the excess in U.S. honorees was accounted for by a deficit of 41 honoree slots from China, France, and Italy. Furthermore, within the U.S., we identify racial disparities with an excess of white honorees and a depletion of Asian honorees. This pattern replicated globally, where we find names of East Asian origin have been persistently underrepresented among ISCB honorees. Early indications suggest the ICSB has taken note of our findings by selecting more diverse honorees.</jats:p>",
+        "DOI": "10.1101/2020.04.14.927251",
+        "type": "manuscript",
+        "source": "Crossref",
+        "title": "Analysis of ISCB honorees and keynotes reveals disparities",
+        "author": [
+          {
+            "given": "Trang T",
+            "family": "Le"
+          },
+          {
+            "given": "Daniel S",
+            "family": "Himmelstein"
+          },
+          {
+            "given": "Ariel A",
+            "family": "Hippen Anderson"
+          },
+          {
+            "given": "Matthew R",
+            "family": "Gazzara"
+          },
+          {
+            "given": "Casey S",
+            "family": "Greene"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              14
+            ]
+          ]
+        },
+        "URL": "https://doi.org/ggr64p",
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: doi:10.1101/2020.04.14.927251",
+        "id": "b1Ltmp3Z"
       }
     },
     "extras": {}
@@ -3222,7 +3273,7 @@
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Russell, Dattoli, et al",
       "journal": "Manubot",
-      "date_iso": "2020-04-13",
+      "date_iso": "2020-04-14",
       "date_human": "Apr 2020",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3326,6 +3377,10 @@
           {
             "family": "Wang",
             "given": "Jinhui"
+          },
+          {
+            "family": "Rafizadeh",
+            "given": "Diane N."
           }
         ],
         "issued": {
@@ -3333,7 +3388,7 @@
             [
               "2020",
               4,
-              13
+              14
             ]
           ]
         },
@@ -3342,7 +3397,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -3359,7 +3414,7 @@
       "title": "Metagenome-Assembled Genome Binning Methods Disproportionately Fail for Plasmids and Genomic Islands",
       "authors": "Maguire*, Jia*, Gray, Lau, Beiko, Brinkman",
       "journal": "Manubot",
-      "date_iso": "2020-04-13",
+      "date_iso": "2020-04-15",
       "date_human": "Apr 2020",
       "csl_item": {
         "id": "11P3QTeZN",
@@ -3400,7 +3455,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -3409,7 +3464,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -3458,7 +3513,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -3506,7 +3561,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -3598,7 +3653,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
@@ -3717,7 +3772,7 @@
             [
               "2020",
               4,
-              13
+              15
             ]
           ]
         },
