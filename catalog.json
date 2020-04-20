@@ -54,7 +54,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -483,7 +483,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -603,7 +603,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -677,7 +677,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -870,7 +870,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -921,7 +921,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -989,7 +989,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -1123,7 +1123,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -1168,7 +1168,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -1248,7 +1248,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -1441,7 +1441,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -1529,7 +1529,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -1583,7 +1583,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -1731,7 +1731,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -1797,7 +1797,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -1960,7 +1960,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -1995,7 +1995,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -2077,7 +2077,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -2206,7 +2206,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -2370,7 +2370,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -2435,7 +2435,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -2500,7 +2500,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -2613,7 +2613,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -2663,7 +2663,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -2719,7 +2719,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -2824,7 +2824,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -2874,7 +2874,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -2986,7 +2986,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -3036,7 +3036,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -3089,9 +3089,9 @@
       "url": "https://czbiohub.github.io/de-novo-orthology-paper/",
       "citation": "url:https://czbiohub.github.io/de-novo-orthology-paper/",
       "title": "Sencha directly translates RNA-seq reads to enable functional prediction of transcriptomic 'dark matter' across species",
-      "authors": "Botvinnik, Vemuri, Pierce, Logan, Nafees, Karkanias",
+      "authors": "Botvinnik, Vemuri, Pierce, Brown, Logan, Nafees, Karkanias",
       "journal": "Manubot",
-      "date_iso": "2020-04-10",
+      "date_iso": "2020-04-15",
       "date_human": "Apr 2020",
       "csl_item": {
         "id": "Wijj7Z1F",
@@ -3115,6 +3115,10 @@
             "given": "N. Tessa"
           },
           {
+            "family": "Brown",
+            "given": "C. Titus"
+          },
+          {
             "family": "Logan",
             "given": "Phoenix Aja"
           },
@@ -3132,7 +3136,7 @@
             [
               "2020",
               4,
-              10
+              15
             ]
           ]
         },
@@ -3141,7 +3145,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -3205,7 +3209,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -3222,30 +3226,30 @@
       "date_human": "Apr 2020",
       "csl_item": {
         "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:p>Professional societies and their conferences provide an important venue for disseminating scientific knowledge. Delivering a keynote for or being named a fellow by an international society is a major recognition. Do such recognitions reflect the composition of the field of bioinformatics? We compiled a list of 412 International Society for Computational Biology honorees (75 fellows and 337 keynote speakers). To assess the composition of senior researchers in the field, we analyze the names and affiliations of corresponding authors in leading bioinformatics journals. Comparing to the distribution based on names and affiliations of honorees, we looked for disparities in gender, country of affiliation, race, and name-origin. Name-origin predictions were created using a neural network trained on 700,000 name-nationality pairs mined from Wikipedia. The proportion of female honorees has kept pace with increasing levels of female authorship, but neither has yet to reach gender parity. However, we noticed a striking geographic disparity where the proportion of honorees with an affiliation in the United States was 1.6-fold greater compared to field-specific senior authors. In total, we estimate the U.S. received 85 more honorees than would be expected from randomly selecting honorees from senior authors. Almost half of the excess in U.S. honorees was accounted for by a deficit of 41 honoree slots from China, France, and Italy. Furthermore, within the U.S., we identify racial disparities with an excess of white honorees and a depletion of Asian honorees. This pattern replicated globally, where we find names of East Asian origin have been persistently underrepresented among ISCB honorees. Early indications suggest the ICSB has taken note of our findings by selecting more diverse honorees.</jats:p>",
+        "abstract": "<jats:title>Abstract</jats:title><jats:p>Professional societies and their conferences provide an important venue for disseminating scientific knowledge. Delivering a keynote for or being named a fellow by an international society is a major recognition. Do such recognitions reflect the composition of the field of bioinformatics? We compiled a list of 412 <jats:italic>International Society for Computational Biology</jats:italic> honorees (75 fellows and 337 keynote speakers). To assess the composition of senior researchers in the field, we analyze the names and affliations of corresponding authors in leading bioinformatics journals. Comparing to the distribution based on names and affliations of honorees, we looked for disparities in gender, country of affliation, race, and name-origin. Name-origin predictions were created using a neural network trained on 700,000 name-nationality pairs mined from Wikipedia. The proportion of female honorees has kept pace with increasing levels of female authorship, but neither has yet to reach gender parity. However, we noticed a striking geographic disparity where the proportion of honorees with an affliation in the United States was 1.6-fold greater compared to field-specific senior authors. In total, we estimate the U.S. received 85 more honorees than would be expected from randomly selecting honorees from senior authors. Almost half of the excess in U.S. honorees was accounted for by a deficit of 41 honoree slots from China, France, and Italy. Furthermore, within the U.S., we identify racial disparities with an excess of white honorees and a depletion of Asian honorees. This pattern replicated globally, where we find names of East Asian origin have been persistently underrepresented among ISCB honorees. Early indications suggest the ICSB has taken note of our findings by selecting more diverse honorees.</jats:p>",
         "DOI": "10.1101/2020.04.14.927251",
         "type": "manuscript",
         "source": "Crossref",
         "title": "Analysis of ISCB honorees and keynotes reveals disparities",
         "author": [
           {
-            "given": "Trang T",
+            "given": "Trang T.",
             "family": "Le"
           },
           {
-            "given": "Daniel S",
+            "given": "Daniel S.",
             "family": "Himmelstein"
           },
           {
-            "given": "Ariel A",
+            "given": "Ariel A.",
             "family": "Hippen Anderson"
           },
           {
-            "given": "Matthew R",
+            "given": "Matthew R.",
             "family": "Gazzara"
           },
           {
-            "given": "Casey S",
+            "given": "Casey S.",
             "family": "Greene"
           }
         ],
@@ -3273,7 +3277,7 @@
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Russell, Dattoli, et al",
       "journal": "Manubot",
-      "date_iso": "2020-04-14",
+      "date_iso": "2020-04-20",
       "date_human": "Apr 2020",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3381,6 +3385,14 @@
           {
             "family": "Rafizadeh",
             "given": "Diane N."
+          },
+          {
+            "family": "Skelly",
+            "given": "Ashwin N."
+          },
+          {
+            "family": "Guebila",
+            "given": "Marouen Ben"
           }
         ],
         "issued": {
@@ -3388,7 +3400,7 @@
             [
               "2020",
               4,
-              14
+              20
             ]
           ]
         },
@@ -3397,7 +3409,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -3411,15 +3423,15 @@
       "repo_url": "https://github.com/fmaguire/mag_sim_paper",
       "url": "https://finlaymagui.re/mag_sim_paper/",
       "citation": "url:https://finlaymagui.re/mag_sim_paper/",
-      "title": "Metagenome-Assembled Genome Binning Methods Disproportionately Fail for Plasmids and Genomic Islands",
+      "title": "Metagenome-Assembled Genome Binning Methods with Short Reads Disproportionately Fail for Plasmids and Genomic Islands",
       "authors": "Maguire*, Jia*, Gray, Lau, Beiko, Brinkman",
       "journal": "Manubot",
-      "date_iso": "2020-04-15",
+      "date_iso": "2020-04-20",
       "date_human": "Apr 2020",
       "csl_item": {
         "id": "11P3QTeZN",
         "type": "report",
-        "title": "Metagenome-Assembled Genome Binning Methods Disproportionately Fail for Plasmids and Genomic Islands",
+        "title": "Metagenome-Assembled Genome Binning Methods with Short Reads Disproportionately Fail for Plasmids and Genomic Islands",
         "publisher": "Manubot",
         "source": "finlaymagui.re",
         "URL": "https://fmaguire.github.io/mag_sim_paper/",
@@ -3455,7 +3467,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -3464,7 +3476,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -3513,7 +3525,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -3561,7 +3573,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -3653,7 +3665,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
@@ -3772,7 +3784,7 @@
             [
               "2020",
               4,
-              15
+              20
             ]
           ]
         },
