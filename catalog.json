@@ -53,8 +53,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -482,8 +482,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -602,8 +602,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -676,8 +676,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -869,8 +869,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -920,8 +920,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -988,8 +988,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -1122,8 +1122,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -1167,8 +1167,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -1247,8 +1247,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -1440,8 +1440,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -1528,8 +1528,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -1582,8 +1582,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -1730,8 +1730,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -1796,8 +1796,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -1930,13 +1930,15 @@
       "thumbnail_url": "https://raw.githubusercontent.com/laurentperrinet/2019-05_illusions-visuelles/master/thumbnail.png",
       "title": "Des illusions visuelles aux hallucinations: une porte sur la perception",
       "authors": "Perrinet",
-      "journal": null,
-      "date_iso": "2019-09-16",
-      "date_human": "Sep 2019",
+      "journal": "Manubot",
+      "date_iso": "2020-04-29",
+      "date_human": "Apr 2020",
       "csl_item": {
         "id": "nRVC0eJT",
-        "type": "webpage",
+        "type": "report",
         "title": "Des illusions visuelles aux hallucinations: une porte sur la perception",
+        "publisher": "Manubot",
+        "source": "laurentperrinet.github.io",
         "URL": "https://laurentperrinet.github.io/2019-05_illusions-visuelles/",
         "shortTitle": "Des illusions visuelles aux hallucinations",
         "language": "fr-FR",
@@ -1949,9 +1951,9 @@
         "issued": {
           "date-parts": [
             [
-              "2019",
-              9,
-              16
+              "2020",
+              4,
+              29
             ]
           ]
         },
@@ -1959,8 +1961,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -1994,8 +1996,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -2076,8 +2078,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -2205,8 +2207,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -2369,8 +2371,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -2387,7 +2389,7 @@
       "title": "A set of Common Software Quality Assurance Baseline Criteria for Research Projects",
       "authors": "Orviz, Lopez, Duma, David, Gomes, Donvito",
       "journal": null,
-      "date_iso": "2020-04-27",
+      "date_iso": "2020-04-29",
       "date_human": "Apr 2020",
       "csl_item": {
         "id": "dK0df0il",
@@ -2426,7 +2428,7 @@
             [
               "2020",
               4,
-              27
+              29
             ]
           ]
         },
@@ -2434,8 +2436,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -2499,8 +2501,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -2612,8 +2614,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -2662,8 +2664,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -2718,8 +2720,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -2823,8 +2825,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -2873,8 +2875,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -2985,8 +2987,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -3035,8 +3037,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -3144,8 +3146,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -3208,8 +3210,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -3277,8 +3279,8 @@
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Russell, Dattoli, et al",
       "journal": "Manubot",
-      "date_iso": "2020-04-26",
-      "date_human": "Apr 2020",
+      "date_iso": "2020-05-01",
+      "date_human": "May 2020",
       "csl_item": {
         "id": "Z4Wyi0Mo",
         "type": "report",
@@ -3393,14 +3395,30 @@
           {
             "family": "Guebila",
             "given": "Marouen Ben"
+          },
+          {
+            "family": "Kolla",
+            "given": "Likhitha"
+          },
+          {
+            "family": "Manheim",
+            "given": "David"
+          },
+          {
+            "family": "Ghosh",
+            "given": "Soumita"
+          },
+          {
+            "family": "Fax",
+            "given": "Matthias"
           }
         ],
         "issued": {
           "date-parts": [
             [
               "2020",
-              4,
-              26
+              5,
+              1
             ]
           ]
         },
@@ -3408,8 +3426,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -3475,8 +3493,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -3524,8 +3542,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -3572,8 +3590,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -3664,8 +3682,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -3783,8 +3801,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              27
+              5,
+              2
             ]
           ]
         },
@@ -3856,6 +3874,59 @@
         "URL": "https://doi.org/ggrqp5",
         "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: doi:10.1101/2020.04.06.027201",
         "id": "19TmjB7w7"
+      }
+    },
+    "extras": {}
+  },
+  {
+    "manubot": {
+      "repo_url": "https://github.com/trang1618/treeheatr-manuscript",
+      "url": "https://trang1618.github.io/treeheatr-manuscript/",
+      "citation": "url:https://trang1618.github.io/treeheatr-manuscript/",
+      "thumbnail_url": "https://github.com/trang1618/treeheatr-manuscript/raw/d31e3995ef690d8c012b426f3724cb6b3b555175/content/images/thumbnail.png",
+      "title": "treeheatr: an R package for interpretable decision tree visualizations",
+      "authors": "Le, Moore",
+      "journal": "Manubot",
+      "date_iso": "2020-05-02",
+      "date_human": "May 2020",
+      "csl_item": {
+        "id": "jLmss7rn",
+        "type": "report",
+        "title": "treeheatr: an R package for interpretable decision tree visualizations",
+        "publisher": "Manubot",
+        "source": "trang1618.github.io",
+        "URL": "https://trang1618.github.io/treeheatr-manuscript/",
+        "shortTitle": "treeheatr",
+        "language": "en-US",
+        "author": [
+          {
+            "family": "Le",
+            "given": "Trang T."
+          },
+          {
+            "family": "Moore",
+            "given": "Jason H."
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2020",
+              5,
+              2
+            ]
+          ]
+        },
+        "accessed": {
+          "date-parts": [
+            [
+              "2020",
+              5,
+              2
+            ]
+          ]
+        },
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.2.4 using citation-by-identifier.\nstandard_id: url:https://trang1618.github.io/treeheatr-manuscript/"
       }
     },
     "extras": {}
