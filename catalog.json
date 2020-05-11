@@ -54,7 +54,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -483,7 +483,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -603,7 +603,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -677,7 +677,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -870,7 +870,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -921,7 +921,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -989,7 +989,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -1123,7 +1123,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -1168,7 +1168,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -1248,7 +1248,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -1441,7 +1441,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -1529,7 +1529,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -1583,7 +1583,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -1731,7 +1731,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -1797,7 +1797,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -1962,7 +1962,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -1997,7 +1997,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -2079,7 +2079,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -2208,7 +2208,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -2372,7 +2372,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -2437,7 +2437,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -2502,7 +2502,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -2615,7 +2615,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -2665,7 +2665,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -2721,7 +2721,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -2826,7 +2826,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -2876,7 +2876,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -2988,7 +2988,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -3038,7 +3038,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -3091,10 +3091,10 @@
       "url": "https://czbiohub.github.io/de-novo-orthology-paper/",
       "citation": "url:https://czbiohub.github.io/de-novo-orthology-paper/",
       "title": "Sencha directly translates RNA-seq reads to enable functional prediction of transcriptomic 'dark matter' across species",
-      "authors": "Botvinnik, Vemuri, Pierce, Brown, Logan, Nafees, Karkanias",
+      "authors": "Botvinnik, Vemuri, Pierce, Logan, Nafees, Brown, Karkanias",
       "journal": "Manubot",
-      "date_iso": "2020-04-15",
-      "date_human": "Apr 2020",
+      "date_iso": "2020-05-11",
+      "date_human": "May 2020",
       "csl_item": {
         "id": "Wijj7Z1F",
         "type": "report",
@@ -3117,16 +3117,16 @@
             "given": "N. Tessa"
           },
           {
-            "family": "Brown",
-            "given": "C. Titus"
-          },
-          {
             "family": "Logan",
             "given": "Phoenix Aja"
           },
           {
             "family": "Nafees",
             "given": "Saba"
+          },
+          {
+            "family": "Brown",
+            "given": "C. Titus"
           },
           {
             "family": "Karkanias",
@@ -3137,8 +3137,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              15
+              5,
+              11
             ]
           ]
         },
@@ -3147,7 +3147,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -3161,11 +3161,11 @@
       "repo_url": "https://github.com/greenelab/iscb-diversity-manuscript",
       "url": "https://greenelab.github.io/iscb-diversity-manuscript/",
       "citation": "url:https://greenelab.github.io/iscb-diversity-manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/80251c077e8f7bceec614419547217dd93b984fa/build/assets/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/711edb01f5335a4c1bb8e1e0575618586a7abf9b/build/assets/thumbnail.png",
       "title": "Analysis of ISCB honorees and keynotes reveals disparities",
       "authors": "Le, Himmelstein, Anderson, Gazzara, Greene",
       "journal": "Manubot",
-      "date_iso": "2020-05-04",
+      "date_iso": "2020-05-06",
       "date_human": "May 2020",
       "csl_item": {
         "id": "qsmtXB4B",
@@ -3202,7 +3202,7 @@
             [
               "2020",
               5,
-              4
+              6
             ]
           ]
         },
@@ -3211,7 +3211,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -3279,7 +3279,7 @@
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Russell, Dattoli, et al",
       "journal": "Manubot",
-      "date_iso": "2020-05-01",
+      "date_iso": "2020-05-11",
       "date_human": "May 2020",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3411,6 +3411,10 @@
           {
             "family": "Fax",
             "given": "Matthias"
+          },
+          {
+            "family": "Byrd",
+            "given": "James Brian"
           }
         ],
         "issued": {
@@ -3418,7 +3422,7 @@
             [
               "2020",
               5,
-              1
+              11
             ]
           ]
         },
@@ -3427,7 +3431,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -3444,8 +3448,8 @@
       "title": "Metagenome-Assembled Genome Binning Methods with Short Reads Disproportionately Fail for Plasmids and Genomic Islands",
       "authors": "Maguire*, Jia*, Gray, Lau, Beiko, Brinkman",
       "journal": "Manubot",
-      "date_iso": "2020-04-23",
-      "date_human": "Apr 2020",
+      "date_iso": "2020-05-09",
+      "date_human": "May 2020",
       "csl_item": {
         "id": "11P3QTeZN",
         "type": "report",
@@ -3484,8 +3488,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              23
+              5,
+              9
             ]
           ]
         },
@@ -3494,7 +3498,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -3543,7 +3547,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -3591,7 +3595,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -3683,7 +3687,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -3802,7 +3806,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
@@ -3922,7 +3926,7 @@
             [
               "2020",
               5,
-              4
+              11
             ]
           ]
         },
