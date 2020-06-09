@@ -114,3 +114,7 @@
   preprint_citation: doi:10.1101/2020.04.06.027201
 - repo_url: https://github.com/trang1618/treeheatr-manuscript
   html_url: https://trang1618.github.io/treeheatr-manuscript/
+- repo_url: https://github.com/Mangul-Lab-USC/enhancing_reproducibility
+  html_url: https://mangul-lab-usc.github.io/enhancing_reproducibility/
+  preprint_citation: 	arxiv:2001.05127
+  journal_citation: doi:10.1093/gigascience/giaa056
