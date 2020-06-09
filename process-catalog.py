@@ -4,11 +4,7 @@ import pathlib
 
 import requests
 import yaml
-from manubot.cite.citekey import (
-    is_valid_citekey,
-    standardize_citekey,
-    citekey_to_csl_item,
-)
+from manubot.cite.citekey import citekey_to_csl_item, CiteKey
 
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 
@@ -155,14 +151,19 @@ def process_record(record):
         citation = record.pop(f'{publication_type}_citation', None)
         if not citation:
             continue
-        if not is_valid_citekey(citation):
+        citekey = CiteKey(citation)
+        if not citekey.is_handled_prefix:
+            logging.warning(f"unhandled citekey: {citation!r}")
+            continue
+        report = citekey.inspect()
+        if report:
+            logging.warning(f"citekey failed inspection: {citation!r}\n{report}")
             continue
         output[publication_type] = {
-            'citation': citation,
+            'citation': citekey.standard_id,
         }
-    for item in output.values():
-        citation = standardize_citekey(item['citation'])
-        csl_item = citekey_to_csl_item(citation)
+    for item in output.values():        
+        csl_item = citekey_to_csl_item(item['citation'])
         if 'url' not in item and 'URL' in csl_item:
             item['url'] = csl_item['URL']
         item['title'] = get_title(csl_item)
