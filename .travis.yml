@@ -8,7 +8,7 @@ install:
   - pip install --upgrade
     beautifulsoup4
     ghp-import
-    git+https://github.com/manubot/manubot@0b7c14a6bbab77d6c91f0019dff524bb43587769
+    git+https://github.com/manubot/manubot@217e51473f1fd1c6427803676b3c70d44314bb93
     pyyaml
     requests
 script:
