@@ -122,3 +122,6 @@
 - repo_url: https://github.com/chemical-roles/manuscript
   html_url: https://chemical-roles.github.io/manuscript/
   preprint_citation: doi:10.26434/chemrxiv.12591221
+- repo_url: https://github.com/dib-lab/2020-workflows-paper
+  html_url: https://dib-lab.github.io/2020-workflows-paper/
+  preprint_citation: doi:10.1101/2020.06.30.178673
