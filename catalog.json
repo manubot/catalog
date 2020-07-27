@@ -54,7 +54,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -480,7 +480,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -591,7 +591,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -665,7 +665,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -854,7 +854,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -905,7 +905,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -972,7 +972,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -1112,7 +1112,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -1157,7 +1157,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -1237,7 +1237,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -1487,7 +1487,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -1541,7 +1541,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -1680,7 +1680,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -1746,7 +1746,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -1907,7 +1907,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -1942,7 +1942,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -2024,7 +2024,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -2153,7 +2153,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -2307,7 +2307,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -2423,7 +2423,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -2488,7 +2488,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -2601,7 +2601,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -2653,7 +2653,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -2709,7 +2709,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -2814,7 +2814,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -2864,7 +2864,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -2976,7 +2976,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -3026,7 +3026,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -3136,7 +3136,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -3200,7 +3200,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -3268,7 +3268,7 @@
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Russell, Dattoli, et al",
       "journal": "Manubot",
-      "date_iso": "2020-07-20",
+      "date_iso": "2020-07-27",
       "date_human": "Jul 2020",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3432,6 +3432,10 @@
           {
             "family": "Qi",
             "given": "Yanjun"
+          },
+          {
+            "family": "Shinholster",
+            "given": "Lamonica"
           }
         ],
         "issued": {
@@ -3439,7 +3443,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -3448,7 +3452,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -3515,7 +3519,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -3566,7 +3570,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -3614,7 +3618,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -3703,7 +3707,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -3716,8 +3720,8 @@
       "title": "Testing the association between blood type and COVID-19 infection, intubation, and death",
       "authors": "Zietz, Tatonetti",
       "journal": "medRxiv",
-      "date_iso": "2020-04-11",
-      "date_human": "Apr 2020",
+      "date_iso": "2020-07-21",
+      "date_human": "Jul 2020",
       "csl_item": {
         "type": "article-journal",
         "id": "11QObQroR",
@@ -3735,12 +3739,12 @@
           "date-parts": [
             [
               2020,
-              4,
-              11
+              7,
+              21
             ]
           ]
         },
-        "abstract": "The rapid global spread of the novel coronavirus SARS-CoV-2 has strained existing healthcare and testing resources, making the identification and prioritization of individuals most at-risk a critical challenge. A recent study of patients in China discovered an association between ABO blood type and SARS-CoV-2 infection status by comparing COVID-19 patients with the general population. Whether blood type is associated with increased COVID-19 morbidity or mortality remains unknown. We used observational healthcare data on 1559 individuals tested for SARS-CoV-2 (682 COV+) with known blood type in the New York Presbyterian (NYP) hospital system to assess the association between ABO+Rh blood type and SARS-CoV-2 infection status, intubation, and death. We found a higher proportion of blood group A and a lower proportion of blood group O among COV+ patients compared to COV-, though in both cases the result is significant only in Rh positive blood types. We show that the effect of blood type is not explained by risk factors we considered (age, sex, hypertension, diabetes mellitus, overweight status, and chronic cardiovascular and lung disorders). In a meta-analysis of NYP data with previously-reported data from China, we find enrichment for A and B and depletion of O blood groups among COVID-19 patients compared to the general population. Our data do not provide strong evidence of associations between blood group and intubation or death among COVID-19 patients. In this preliminary observational study of data currently being collected during the outbreak, we find new evidence of associations between B, AB, and Rh blood groups and COVID-19 and further evidence of recently-discovered associations between A and O blood groups and COVID-19.",
+        "abstract": "The rapid global spread of the novel coronavirus SARS-CoV-2 has strained healthcare systems, making the identification of individuals most at-risk a critical challenge. Recent studies identified associations between ABO blood groups and COVID-19. Using observational data on 7,770 SARS-CoV-2-tested individuals at New York Presbyterian (NYP) hospital, we find evidence of overall association with ABO blood groups and a beneficial association between Rh-negative blood groups and both infection status and death. We estimate pooled effect sizes using our data with previously-reported data from China and the UK, finding enrichment of B and depletion of O blood groups among infected individuals. Finally, we show that blood type's effects are not explained by other risk factors (age, sex, race, ethnicity, hypertension, diabetes mellitus, obesity, and cardiovascular and respiratory diseases). To our knowledge, this is the first report of an independent Rh(D) association with COVID-19.",
         "container-title": "medRxiv",
         "DOI": "10.1101/2020.04.08.20058073",
         "publisher": "medRxiv",
@@ -3824,7 +3828,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -3944,7 +3948,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -4015,7 +4019,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -4205,7 +4209,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
@@ -4333,7 +4337,7 @@
             [
               "2020",
               7,
-              20
+              27
             ]
           ]
         },
