@@ -127,3 +127,6 @@
 - repo_url: https://github.com/dib-lab/2020-workflows-paper
   html_url: https://dib-lab.github.io/2020-workflows-paper/
   preprint_citation: doi:10.1101/2020.06.30.178673
+- repo_url: https://github.com/data2health/contributorship
+  html_url: https://data2health.github.io/contributorship/
+  journal_citation: doi:10.1080/08989621.2020.1779591
