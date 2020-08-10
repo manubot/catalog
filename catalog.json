@@ -4,12 +4,12 @@
       "repo_url": "https://github.com/greenelab/deep-review",
       "url": "https://greenelab.github.io/deep-review/",
       "citation": "url:https://greenelab.github.io/deep-review/",
-      "thumbnail_url": "https://github.com/greenelab/deep-review/raw/081fb466dd13c2813b3ae14bb916173f5d0442c5/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/deep-review/raw/cfa2a3572937756df3332d987ef25155fab8b88d/thumbnail.png",
       "title": "Opportunities and obstacles for deep learning in biology and medicine [update in progress]",
-      "authors": "Christensen, Titus, Greene, Himmelstein, Levy",
+      "authors": "Greene, Elton, Titus, Gitter, Himmelstein, Christensen, Levy",
       "journal": "Manubot",
-      "date_iso": "2020-04-11",
-      "date_human": "Apr 2020",
+      "date_iso": "2020-08-10",
+      "date_human": "Aug 2020",
       "csl_item": {
         "id": "GT0nExut",
         "type": "report",
@@ -20,20 +20,28 @@
         "language": "en-US",
         "author": [
           {
-            "family": "Christensen",
-            "given": "Brock C."
+            "family": "Greene",
+            "given": "Casey S."
+          },
+          {
+            "family": "Elton",
+            "given": "Daniel C."
           },
           {
             "family": "Titus",
             "given": "Alexander J."
           },
           {
-            "family": "Greene",
-            "given": "Casey S."
+            "family": "Gitter",
+            "given": "Anthony"
           },
           {
             "family": "Himmelstein",
             "given": "Daniel S."
+          },
+          {
+            "family": "Christensen",
+            "given": "Brock C."
           },
           {
             "family": "Levy",
@@ -44,8 +52,8 @@
           "date-parts": [
             [
               "2020",
-              4,
-              11
+              8,
+              10
             ]
           ]
         },
@@ -54,7 +62,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -480,7 +488,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -591,7 +599,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -665,7 +673,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -854,7 +862,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -905,7 +913,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -972,7 +980,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -1112,7 +1120,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -1157,7 +1165,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -1237,7 +1245,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -1487,7 +1495,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -1541,7 +1549,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -1680,7 +1688,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -1746,7 +1754,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -1907,7 +1915,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -1942,7 +1950,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -2024,7 +2032,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -2153,7 +2161,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -2307,7 +2315,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -2423,7 +2431,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -2488,7 +2496,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -2601,7 +2609,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -2653,7 +2661,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -2709,7 +2717,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -2814,7 +2822,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -2864,7 +2872,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -2976,7 +2984,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -3026,7 +3034,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -3136,7 +3144,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -3200,7 +3208,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -3268,7 +3276,7 @@
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Russell, Dattoli, et al",
       "journal": "Manubot",
-      "date_iso": "2020-08-03",
+      "date_iso": "2020-08-05",
       "date_human": "Aug 2020",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3436,6 +3444,10 @@
           {
             "family": "Shinholster",
             "given": "Lamonica"
+          },
+          {
+            "family": "Knyazev",
+            "given": "Sergey"
           }
         ],
         "issued": {
@@ -3443,7 +3455,7 @@
             [
               "2020",
               8,
-              3
+              5
             ]
           ]
         },
@@ -3452,7 +3464,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -3519,7 +3531,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -3570,7 +3582,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -3618,7 +3630,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -3707,7 +3719,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -3828,7 +3840,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -3948,7 +3960,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -4096,7 +4108,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -4286,7 +4298,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -4356,8 +4368,8 @@
       "title": "Streamlining Data-Intensive Biology With Workflow Systems",
       "authors": "Reiter, Brooks, Irber, Joslin, Reid, Scott, Brown, Pierce",
       "journal": "Manubot",
-      "date_iso": "2020-07-14",
-      "date_human": "Jul 2020",
+      "date_iso": "2020-08-05",
+      "date_human": "Aug 2020",
       "csl_item": {
         "id": "ZKIkuKfj",
         "type": "report",
@@ -4404,8 +4416,8 @@
           "date-parts": [
             [
               "2020",
-              7,
-              14
+              8,
+              5
             ]
           ]
         },
@@ -4414,7 +4426,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
@@ -4494,7 +4506,7 @@
       "title": "Major challenges on authorship and concept of authorship - why is something more needed on contributorship?",
       "authors": "Vasilevsky, Hosseini, Teplitzky, Ilik, Mohammadi, Schneider, Kern, Colomb, Edmunds, Gutzman, et al",
       "journal": "Manubot",
-      "date_iso": "2020-08-03",
+      "date_iso": "2020-08-04",
       "date_human": "Aug 2020",
       "csl_item": {
         "id": "1HklD9rdR",
@@ -4575,7 +4587,7 @@
             [
               "2020",
               8,
-              3
+              4
             ]
           ]
         },
@@ -4584,7 +4596,7 @@
             [
               "2020",
               8,
-              3
+              10
             ]
           ]
         },
