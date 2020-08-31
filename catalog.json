@@ -62,7 +62,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -488,7 +488,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -599,7 +599,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -673,7 +673,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -862,7 +862,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -913,7 +913,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -980,7 +980,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -1120,7 +1120,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -1165,7 +1165,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -1245,7 +1245,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -1495,7 +1495,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -1549,7 +1549,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -1688,7 +1688,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -1754,7 +1754,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -1915,7 +1915,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -1950,7 +1950,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -2032,7 +2032,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -2161,7 +2161,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -2315,7 +2315,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -2431,7 +2431,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -2496,7 +2496,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -2609,7 +2609,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -2661,7 +2661,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -2717,7 +2717,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -2822,7 +2822,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -2872,7 +2872,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -2984,7 +2984,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -3034,7 +3034,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -3144,7 +3144,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -3208,7 +3208,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -3276,7 +3276,7 @@
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Russell, Dattoli, et al",
       "journal": "Manubot",
-      "date_iso": "2020-08-21",
+      "date_iso": "2020-08-31",
       "date_human": "Aug 2020",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3463,7 +3463,7 @@
             [
               "2020",
               8,
-              21
+              31
             ]
           ]
         },
@@ -3472,7 +3472,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -3489,7 +3489,7 @@
       "title": "Metagenome-Assembled Genome Binning Methods with Short Reads Disproportionately Fail for Plasmids and Genomic Islands",
       "authors": "Maguire*, Jia*, Gray, Lau, Beiko, Brinkman",
       "journal": "Manubot",
-      "date_iso": "2020-08-17",
+      "date_iso": "2020-08-31",
       "date_human": "Aug 2020",
       "csl_item": {
         "id": "11P3QTeZN",
@@ -3530,7 +3530,7 @@
             [
               "2020",
               8,
-              17
+              31
             ]
           ]
         },
@@ -3539,7 +3539,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -3554,10 +3554,10 @@
       "url": "https://alexslemonade.github.io/OpenPBTA-manuscript/",
       "citation": "url:https://alexslemonade.github.io/OpenPBTA-manuscript/",
       "title": "An Open Pediatric Brain Tumor Atlas",
-      "authors": "Doe, Roe",
+      "authors": "Gaonkar, Zhu, Brown, Duong, Rathi, Zhang, Ennis, Farrow, Kuren, Koganti, Jain, Kannan, Raman, Miller, et al",
       "journal": "Manubot",
-      "date_iso": "2020-06-13",
-      "date_human": "Jun 2020",
+      "date_iso": "2020-08-27",
+      "date_human": "Aug 2020",
       "csl_item": {
         "id": "oqc02age",
         "type": "report",
@@ -3568,20 +3568,132 @@
         "language": "en-US",
         "author": [
           {
-            "family": "Doe",
-            "given": "John"
+            "family": "Gaonkar",
+            "given": "Krutika S."
           },
           {
-            "family": "Roe",
-            "given": "Jane"
+            "family": "Zhu",
+            "given": "Yuankun"
+          },
+          {
+            "family": "Brown",
+            "given": "Miguel A."
+          },
+          {
+            "family": "Duong",
+            "given": "Nhat"
+          },
+          {
+            "family": "Rathi",
+            "given": "Komal S."
+          },
+          {
+            "family": "Zhang",
+            "given": "Bo"
+          },
+          {
+            "family": "Ennis",
+            "given": "Brian M."
+          },
+          {
+            "family": "Farrow",
+            "given": "Bailey"
+          },
+          {
+            "family": "Kuren",
+            "given": "Nicolas Van"
+          },
+          {
+            "family": "Koganti",
+            "given": "Tejaswi"
+          },
+          {
+            "family": "Jain",
+            "given": "Payal"
+          },
+          {
+            "family": "Kannan",
+            "given": "Shrivats"
+          },
+          {
+            "family": "Raman",
+            "given": "Pichai"
+          },
+          {
+            "family": "Miller",
+            "given": "Daniel P."
+          },
+          {
+            "family": "Xie",
+            "given": "Hongbo M."
+          },
+          {
+            "family": "Kraya",
+            "given": "Adam A."
+          },
+          {
+            "family": "Heath",
+            "given": "Allison P."
+          },
+          {
+            "family": "Koptyra",
+            "given": "Mateusz P."
+          },
+          {
+            "family": "Wong",
+            "given": "Jessica"
+          },
+          {
+            "family": "Santi",
+            "given": "Mariarita"
+          },
+          {
+            "family": "Viaene",
+            "given": "Angela"
+          },
+          {
+            "family": "Waanders",
+            "given": "Angela"
+          },
+          {
+            "family": "Hanson",
+            "given": "Derek"
+          },
+          {
+            "family": "Lilly",
+            "given": "Jena V."
+          },
+          {
+            "family": "Storm",
+            "given": "Philip B."
+          },
+          {
+            "family": "Resnick",
+            "given": "Adam C."
+          },
+          {
+            "family": "Rokita",
+            "given": "Jo Lynne"
+          },
+          {
+            "family": "Greene",
+            "given": "Casey S."
+          },
+          {
+            "family": "Consortium",
+            "given": "Children's Brain Tumor Tissue"
+          },
+          {
+            "family": "Consortium",
+            "given": "Pacific Pediatric Neurooncology"
           }
         ],
         "issued": {
           "date-parts": [
             [
               "2020",
-              6,
-              13
+              8,
+              27
             ]
           ]
         },
@@ -3590,7 +3702,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -3638,7 +3750,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -3727,7 +3839,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -3848,7 +3960,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -3968,7 +4080,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -4116,7 +4228,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -4306,7 +4418,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -4436,7 +4548,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -4606,7 +4718,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
@@ -4782,7 +4894,7 @@
             [
               "2020",
               8,
-              24
+              31
             ]
           ]
         },
