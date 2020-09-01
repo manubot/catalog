@@ -133,3 +133,6 @@
 - repo_url: https://github.com/apeltzer/eager2-paper
   html_url: https://apeltzer.github.io/eager2-paper
   preprint_citation: doi:10.1101/2020.06.11.145615
+- repo_url: https://github.com/QUIVIRR/Enhanced-Data-Sessions
+  html_url: https://quivirr.github.io/Enhanced-Data-Sessions/
+  preprint_citation: doi:10.31235/osf.io/eu7yw
