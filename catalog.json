@@ -3160,12 +3160,12 @@
       "repo_url": "https://github.com/greenelab/iscb-diversity-manuscript",
       "url": "https://greenelab.github.io/iscb-diversity-manuscript/",
       "citation": "url:https://greenelab.github.io/iscb-diversity-manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/711edb01f5335a4c1bb8e1e0575618586a7abf9b/build/assets/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/451e2d0b7a01e599a6ec281fdb9bc711a4a7964e/build/assets/thumbnail.png",
       "title": "Analysis of ISCB honorees and keynotes reveals disparities",
       "authors": "Le, Himmelstein, Anderson, Gazzara, Greene",
       "journal": "Manubot",
-      "date_iso": "2020-05-06",
-      "date_human": "May 2020",
+      "date_iso": "2020-09-01",
+      "date_human": "Sep 2020",
       "csl_item": {
         "id": "qsmtXB4B",
         "type": "report",
@@ -3200,8 +3200,8 @@
           "date-parts": [
             [
               "2020",
-              5,
-              6
+              9,
+              1
             ]
           ]
         },
