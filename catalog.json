@@ -62,7 +62,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -488,7 +488,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -599,7 +599,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -673,7 +673,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -862,7 +862,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -913,7 +913,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -980,7 +980,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -1122,7 +1122,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -1167,7 +1167,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -1247,7 +1247,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -1497,7 +1497,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -1551,7 +1551,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -1690,7 +1690,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -1756,7 +1756,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -1917,7 +1917,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -1952,7 +1952,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -2034,7 +2034,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -2163,7 +2163,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -2317,7 +2317,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -2433,7 +2433,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -2498,7 +2498,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -2611,7 +2611,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -2663,7 +2663,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -2719,7 +2719,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -2824,7 +2824,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -2874,7 +2874,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -2986,7 +2986,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -3036,7 +3036,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -3146,7 +3146,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -3210,7 +3210,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -3278,7 +3278,7 @@
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Russell, Dattoli, et al",
       "journal": "Manubot",
-      "date_iso": "2020-09-04",
+      "date_iso": "2020-09-08",
       "date_human": "Sep 2020",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3469,7 +3469,7 @@
             [
               "2020",
               9,
-              4
+              8
             ]
           ]
         },
@@ -3478,7 +3478,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -3545,7 +3545,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -3560,10 +3560,10 @@
       "url": "https://alexslemonade.github.io/OpenPBTA-manuscript/",
       "citation": "url:https://alexslemonade.github.io/OpenPBTA-manuscript/",
       "title": "An Open Pediatric Brain Tumor Atlas",
-      "authors": "Gaonkar, Zhu, Brown, Duong, Rathi, Zhang, Ennis, Farrow, Kuren, Koganti, Jain, Kannan, Raman, Miller, et al",
+      "authors": "Shapiro, Savonen, Bethell, Gaonkar, Zhu, Brown, Duong, Rathi, Zhang, Ennis, Spielman, Farrow, Kuren, et al",
       "journal": "Manubot",
-      "date_iso": "2020-08-27",
-      "date_human": "Aug 2020",
+      "date_iso": "2020-09-09",
+      "date_human": "Sep 2020",
       "csl_item": {
         "id": "oqc02age",
         "type": "report",
@@ -3573,6 +3573,18 @@
         "URL": "https://AlexsLemonade.github.io/OpenPBTA-manuscript/",
         "language": "en-US",
         "author": [
+          {
+            "family": "Shapiro",
+            "given": "Joshua A."
+          },
+          {
+            "family": "Savonen",
+            "given": "Candace L."
+          },
+          {
+            "family": "Bethell",
+            "given": "Chante J."
+          },
           {
             "family": "Gaonkar",
             "given": "Krutika S."
@@ -3600,6 +3612,10 @@
           {
             "family": "Ennis",
             "given": "Brian M."
+          },
+          {
+            "family": "Spielman",
+            "given": "Stephanie J."
           },
           {
             "family": "Farrow",
@@ -3686,6 +3702,10 @@
             "given": "Casey S."
           },
           {
+            "family": "Taroni",
+            "given": "Jaclyn N."
+          },
+          {
             "family": "Consortium",
             "given": "Children's Brain Tumor Tissue"
           },
@@ -3698,8 +3718,8 @@
           "date-parts": [
             [
               "2020",
-              8,
-              27
+              9,
+              9
             ]
           ]
         },
@@ -3708,7 +3728,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -3756,7 +3776,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -3845,7 +3865,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -3966,7 +3986,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -4086,7 +4106,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -4234,7 +4254,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -4424,7 +4444,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -4554,7 +4574,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -4724,7 +4744,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -4900,7 +4920,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -5014,7 +5034,7 @@
             [
               "2020",
               9,
-              7
+              10
             ]
           ]
         },
@@ -5052,6 +5072,70 @@
         "title": "New Technology and Tools to Enhance Collaborative Video Analysis in Live ‘Data Sessions’",
         "URL": "https://doi.org/gg9fxs",
         "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: doi:10.31235/osf.io/eu7yw"
+      }
+    },
+    "extras": {}
+  },
+  {
+    "manubot": {
+      "repo_url": "https://github.com/Sage-Bionetworks/governanceGreenPaper",
+      "url": "https://sage-bionetworks.github.io/governanceGreenPaper/",
+      "citation": "url:https://sage-bionetworks.github.io/governanceGreenPaper/",
+      "title": "Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report",
+      "authors": "Mangravite, Sen, Wilbanks, Team <sup> &dagger, </sup>",
+      "journal": "Manubot",
+      "date_iso": "2020-07-29",
+      "date_human": "Jul 2020",
+      "csl_item": {
+        "id": "13PnmUE4s",
+        "type": "report",
+        "title": "Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report",
+        "publisher": "Manubot",
+        "source": "sage-bionetworks.github.io",
+        "URL": "https://Sage-Bionetworks.github.io/governanceGreenPaper/",
+        "shortTitle": "Mechanisms to Govern Responsible Sharing of Open Data",
+        "language": "en-US",
+        "author": [
+          {
+            "family": "Mangravite",
+            "given": "Lara M."
+          },
+          {
+            "family": "Sen",
+            "given": "Avery"
+          },
+          {
+            "family": "Wilbanks",
+            "given": "John T."
+          },
+          {
+            "family": "Team <sup> &dagger",
+            "given": "Sage Bionetworks Governance"
+          },
+          {
+            "family": "</sup>",
+            "given": ""
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2020",
+              7,
+              29
+            ]
+          ]
+        },
+        "accessed": {
+          "date-parts": [
+            [
+              "2020",
+              9,
+              10
+            ]
+          ]
+        },
+        "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: url:https://sage-bionetworks.github.io/governanceGreenPaper/"
       }
     },
     "extras": {}
