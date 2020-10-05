@@ -61,8 +61,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -487,8 +487,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -598,8 +598,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -672,8 +672,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -861,8 +861,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -912,8 +912,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -979,8 +979,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -1036,8 +1036,8 @@
       "title": "Ten Quick Tips for Deep Learning in Biology",
       "authors": "Lee, Titus, Yu, Chevrette, Stewart, Cofer, Raschka, Maguire, Lengerich, Kalinin, Gitter, Greene, et al",
       "journal": "Manubot",
-      "date_iso": "2020-09-25",
-      "date_human": "Sep 2020",
+      "date_iso": "2020-10-04",
+      "date_human": "Oct 2020",
       "csl_item": {
         "id": "tPU9SJPF",
         "type": "report",
@@ -1106,14 +1106,22 @@
           {
             "family": "Britto-Borges",
             "given": "Thiago"
+          },
+          {
+            "family": "Fertig",
+            "given": "Elana J."
+          },
+          {
+            "family": "Lee",
+            "given": "Alexandra J."
           }
         ],
         "issued": {
           "date-parts": [
             [
               "2020",
-              9,
-              25
+              10,
+              4
             ]
           ]
         },
@@ -1121,8 +1129,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -1166,8 +1174,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -1246,8 +1254,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -1420,14 +1428,16 @@
       "citation": "url:https://yt-project.github.io/yt-3.0-paper/",
       "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64820041-96414900-d57d-11e9-9b57-325f89b548df.png",
       "title": "Introducing yt 3.0: Analysis and Visualization of Volumetric Data",
-      "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Munk, Smith, Kowalik, Val-Borro, Yourself",
-      "journal": null,
-      "date_iso": "2020-05-22",
-      "date_human": "May 2020",
+      "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Munk, Smith, Kowalik, Val-Borro, Coughlin, et al",
+      "journal": "Manubot",
+      "date_iso": "2020-10-05",
+      "date_human": "Oct 2020",
       "csl_item": {
         "id": "NVqvdTiE",
-        "type": "webpage",
+        "type": "report",
         "title": "Introducing yt 3.0: Analysis and Visualization of Volumetric Data",
+        "publisher": "Manubot",
+        "source": "yt-project.github.io",
         "URL": "https://yt-project.github.io/yt-3.0-paper/",
         "shortTitle": "Introducing yt 3.0",
         "language": "en-US",
@@ -1479,6 +1489,38 @@
             "dropping-particle": "de"
           },
           {
+            "family": "Coughlin",
+            "given": "Jared W."
+          },
+          {
+            "family": "Cadiou",
+            "given": "Corentin"
+          },
+          {
+            "family": "Zingale",
+            "given": "Michael"
+          },
+          {
+            "family": "Orf",
+            "given": "Leigh"
+          },
+          {
+            "family": "Halbert",
+            "given": "Kelton"
+          },
+          {
+            "family": "Robert",
+            "given": "Clément"
+          },
+          {
+            "family": "Havlin",
+            "given": "Christopher"
+          },
+          {
+            "family": "Tonnesen",
+            "given": "Stephanie"
+          },
+          {
             "family": "Yourself",
             "given": "Add"
           }
@@ -1487,8 +1529,8 @@
           "date-parts": [
             [
               "2020",
-              5,
-              22
+              10,
+              5
             ]
           ]
         },
@@ -1496,8 +1538,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -1550,8 +1592,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -1689,8 +1731,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -1755,8 +1797,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -1916,8 +1958,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -1951,8 +1993,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -2033,8 +2075,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -2162,8 +2204,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -2316,8 +2358,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -2432,8 +2474,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -2497,8 +2539,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -2610,8 +2652,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -2662,8 +2704,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -2718,8 +2760,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -2823,8 +2865,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -2873,8 +2915,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -2985,8 +3027,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -3035,8 +3077,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -3145,8 +3187,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -3209,8 +3251,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -3278,8 +3320,8 @@
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Russell, Dattoli, et al",
       "journal": "Manubot",
-      "date_iso": "2020-09-23",
-      "date_human": "Sep 2020",
+      "date_iso": "2020-10-04",
+      "date_human": "Oct 2020",
       "csl_item": {
         "id": "Z4Wyi0Mo",
         "type": "report",
@@ -3468,8 +3510,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              23
+              10,
+              4
             ]
           ]
         },
@@ -3477,8 +3519,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -3544,8 +3586,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -3739,8 +3781,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -3787,8 +3829,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -3876,8 +3918,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -4001,8 +4043,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -4121,8 +4163,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -4269,8 +4311,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -4459,8 +4501,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -4589,8 +4631,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -4759,8 +4801,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -4935,8 +4977,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -5049,8 +5091,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
@@ -5146,8 +5188,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              28
+              10,
+              5
             ]
           ]
         },
