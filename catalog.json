@@ -62,7 +62,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -488,7 +488,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -599,7 +599,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -673,7 +673,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -864,7 +864,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -915,7 +915,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -982,7 +982,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -1038,7 +1038,7 @@
       "title": "Ten Quick Tips for Deep Learning in Biology",
       "authors": "Lee, Titus, Yu, Chevrette, Stewart, Cofer, Raschka, Maguire, Lengerich, Kalinin, Gitter, Greene, et al",
       "journal": "Manubot",
-      "date_iso": "2020-10-12",
+      "date_iso": "2020-10-17",
       "date_human": "Oct 2020",
       "csl_item": {
         "id": "tPU9SJPF",
@@ -1114,8 +1114,16 @@
             "given": "Elana J."
           },
           {
+            "family": "Kessler",
+            "given": "Michael D."
+          },
+          {
             "family": "Lee",
             "given": "Alexandra J."
+          },
+          {
+            "family": "Signal",
+            "given": "Beth"
           }
         ],
         "issued": {
@@ -1123,7 +1131,7 @@
             [
               "2020",
               10,
-              12
+              17
             ]
           ]
         },
@@ -1132,7 +1140,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -1177,7 +1185,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -1257,7 +1265,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -1541,7 +1549,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -1595,7 +1603,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -1734,7 +1742,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -1800,7 +1808,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -1932,8 +1940,8 @@
       "title": "Des illusions visuelles aux hallucinations: une porte sur la perception",
       "authors": "Perrinet",
       "journal": "Manubot",
-      "date_iso": "2020-05-27",
-      "date_human": "May 2020",
+      "date_iso": "2020-10-14",
+      "date_human": "Oct 2020",
       "csl_item": {
         "id": "nRVC0eJT",
         "type": "report",
@@ -1953,8 +1961,8 @@
           "date-parts": [
             [
               "2020",
-              5,
-              27
+              10,
+              14
             ]
           ]
         },
@@ -1963,7 +1971,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -1998,7 +2006,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -2080,7 +2088,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -2209,7 +2217,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -2363,7 +2371,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -2479,7 +2487,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -2544,7 +2552,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -2657,7 +2665,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -2709,7 +2717,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -2765,7 +2773,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -2870,7 +2878,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -2920,7 +2928,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -3032,7 +3040,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -3082,7 +3090,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -3192,7 +3200,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -3256,7 +3264,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -3324,7 +3332,7 @@
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Russell, Dattoli, et al",
       "journal": "Manubot",
-      "date_iso": "2020-10-12",
+      "date_iso": "2020-10-19",
       "date_human": "Oct 2020",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3515,7 +3523,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -3524,7 +3532,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -3591,7 +3599,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -3786,7 +3794,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -3834,7 +3842,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -3923,7 +3931,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -4048,7 +4056,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -4168,7 +4176,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -4245,6 +4253,7 @@
         },
         "container-title": "Bioinformatics",
         "DOI": "10.1093/bioinformatics/btaa662",
+        "page": "btaa662",
         "publisher": "Oxford University Press (OUP)",
         "title": "treeheatr: an R package for interpretable decision tree visualizations",
         "URL": "https://doi.org/gg6d2n",
@@ -4316,7 +4325,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -4506,7 +4515,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -4636,7 +4645,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -4806,7 +4815,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -4916,11 +4925,11 @@
       "repo_url": "https://github.com/apeltzer/eager2-paper",
       "url": "https://apeltzer.github.io/eager2-paper",
       "citation": "url:https://apeltzer.github.io/eager2-paper",
-      "thumbnail_url": "https://github.com/apeltzer/eager2-paper/raw/3b0c00a8404653cf80890a9e5abec5d3bf365a2a/content/images/nf-core-eager_social_preview.png",
+      "thumbnail_url": "https://github.com/apeltzer/eager2-paper/raw/1b3c04de7dd54fcca0fdefd6e01ede128ac24095/content/images/nf-core-eager_social_preview.png",
       "title": "Reproducible, portable, and efficient ancient genome reconstruction with nf-core/eager",
       "authors": "Yates, Lamnidis, Borry, Valtueña, Fagernäs, Clayton, Garcia, Neukamm, Peltzer",
       "journal": "Manubot",
-      "date_iso": "2020-10-12",
+      "date_iso": "2020-10-14",
       "date_human": "Oct 2020",
       "csl_item": {
         "id": "IlNylOSZ",
@@ -4973,7 +4982,7 @@
             [
               "2020",
               10,
-              12
+              14
             ]
           ]
         },
@@ -4982,7 +4991,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -5096,7 +5105,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
@@ -5195,7 +5204,7 @@
             [
               "2020",
               10,
-              12
+              19
             ]
           ]
         },
