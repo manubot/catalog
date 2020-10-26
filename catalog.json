@@ -62,7 +62,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -488,7 +488,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -599,7 +599,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -673,7 +673,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -864,7 +864,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -915,7 +915,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -982,7 +982,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -1038,7 +1038,7 @@
       "title": "Ten Quick Tips for Deep Learning in Biology",
       "authors": "Lee, Titus, Yu, Chevrette, Stewart, Cofer, Raschka, Maguire, Lengerich, Kalinin, Gitter, Greene, et al",
       "journal": "Manubot",
-      "date_iso": "2020-10-17",
+      "date_iso": "2020-10-25",
       "date_human": "Oct 2020",
       "csl_item": {
         "id": "tPU9SJPF",
@@ -1131,7 +1131,7 @@
             [
               "2020",
               10,
-              17
+              25
             ]
           ]
         },
@@ -1140,7 +1140,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -1185,7 +1185,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -1265,7 +1265,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -1440,7 +1440,7 @@
       "title": "Introducing yt 3.0: Analysis and Visualization of Volumetric Data",
       "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Munk, Smith, Kowalik, Val-Borro, Coughlin, et al",
       "journal": "Manubot",
-      "date_iso": "2020-10-05",
+      "date_iso": "2020-10-22",
       "date_human": "Oct 2020",
       "csl_item": {
         "id": "NVqvdTiE",
@@ -1540,7 +1540,7 @@
             [
               "2020",
               10,
-              5
+              22
             ]
           ]
         },
@@ -1549,7 +1549,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -1603,7 +1603,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -1742,7 +1742,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -1808,7 +1808,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -1971,7 +1971,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -2006,7 +2006,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -2088,7 +2088,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -2217,7 +2217,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -2371,7 +2371,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -2487,7 +2487,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -2552,7 +2552,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -2665,7 +2665,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -2717,7 +2717,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -2773,7 +2773,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -2878,7 +2878,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -2928,7 +2928,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -3040,7 +3040,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -3090,7 +3090,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -3143,67 +3143,15 @@
       "repo_url": "https://github.com/czbiohub/de-novo-orthology-paper",
       "url": "https://czbiohub.github.io/de-novo-orthology-paper/",
       "citation": "url:https://czbiohub.github.io/de-novo-orthology-paper/",
-      "title": "Sencha directly translates RNA-seq reads to enable functional prediction of transcriptomic 'dark matter' across species",
-      "authors": "Botvinnik, Vemuri, Pierce, Logan, Nafees, Brown, Karkanias",
-      "journal": "Manubot",
-      "date_iso": "2020-08-19",
-      "date_human": "Aug 2020",
+      "title": null,
+      "authors": "",
+      "journal": null,
+      "date_iso": null,
+      "date_human": null,
       "csl_item": {
-        "id": "Wijj7Z1F",
-        "type": "report",
-        "title": "Sencha directly translates RNA-seq reads to enable functional prediction of transcriptomic 'dark matter' across species",
-        "publisher": "Manubot",
-        "source": "czbiohub.github.io",
         "URL": "https://czbiohub.github.io/de-novo-orthology-paper/",
-        "language": "en-US",
-        "author": [
-          {
-            "family": "Botvinnik",
-            "given": "Olga Borisovna"
-          },
-          {
-            "family": "Vemuri",
-            "given": "Venkata Naga Pranathi"
-          },
-          {
-            "family": "Pierce",
-            "given": "N. Tessa"
-          },
-          {
-            "family": "Logan",
-            "given": "Phoenix Aja"
-          },
-          {
-            "family": "Nafees",
-            "given": "Saba"
-          },
-          {
-            "family": "Brown",
-            "given": "C. Titus"
-          },
-          {
-            "family": "Karkanias",
-            "given": "Jim"
-          }
-        ],
-        "issued": {
-          "date-parts": [
-            [
-              "2020",
-              8,
-              19
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2020",
-              10,
-              19
-            ]
-          ]
-        },
+        "type": "webpage",
+        "id": "Wijj7Z1F",
         "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: url:https://czbiohub.github.io/de-novo-orthology-paper/"
       }
     },
@@ -3214,12 +3162,12 @@
       "repo_url": "https://github.com/greenelab/iscb-diversity-manuscript",
       "url": "https://greenelab.github.io/iscb-diversity-manuscript/",
       "citation": "url:https://greenelab.github.io/iscb-diversity-manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/7e85b0995ddac1db0a2569e1949d583615e98089/build/assets/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/788a0802c75a57e967c706c373bfb85432c0f0b3/build/assets/thumbnail.png",
       "title": "Analysis of ISCB honorees and keynotes reveals disparities",
-      "authors": "Le, Himmelstein, Anderson, Gazzara, Greene",
+      "authors": "Le, Himmelstein, Hippen, Gazzara, Greene",
       "journal": "Manubot",
-      "date_iso": "2020-09-23",
-      "date_human": "Sep 2020",
+      "date_iso": "2020-10-24",
+      "date_human": "Oct 2020",
       "csl_item": {
         "id": "qsmtXB4B",
         "type": "report",
@@ -3238,8 +3186,8 @@
             "given": "Daniel S."
           },
           {
-            "family": "Anderson",
-            "given": "Ariel A. Hippen"
+            "family": "Hippen",
+            "given": "Ariel A."
           },
           {
             "family": "Gazzara",
@@ -3254,8 +3202,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              23
+              10,
+              24
             ]
           ]
         },
@@ -3264,7 +3212,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -3332,7 +3280,7 @@
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Russell, Dattoli, et al",
       "journal": "Manubot",
-      "date_iso": "2020-10-19",
+      "date_iso": "2020-10-26",
       "date_human": "Oct 2020",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3523,7 +3471,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -3532,7 +3480,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -3599,7 +3547,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -3794,7 +3742,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -3842,7 +3790,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -3931,7 +3879,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -4056,7 +4004,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -4176,7 +4124,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -4325,7 +4273,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -4515,7 +4463,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -4645,7 +4593,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -4815,7 +4763,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -4925,11 +4873,11 @@
       "repo_url": "https://github.com/apeltzer/eager2-paper",
       "url": "https://apeltzer.github.io/eager2-paper",
       "citation": "url:https://apeltzer.github.io/eager2-paper",
-      "thumbnail_url": "https://github.com/apeltzer/eager2-paper/raw/1b3c04de7dd54fcca0fdefd6e01ede128ac24095/content/images/nf-core-eager_social_preview.png",
+      "thumbnail_url": "https://github.com/apeltzer/eager2-paper/raw/385917553473f25918b140f8554374d9387c4eb1/content/images/nf-core-eager_social_preview.png",
       "title": "Reproducible, portable, and efficient ancient genome reconstruction with nf-core/eager",
       "authors": "Yates, Lamnidis, Borry, Valtueña, Fagernäs, Clayton, Garcia, Neukamm, Peltzer",
       "journal": "Manubot",
-      "date_iso": "2020-10-14",
+      "date_iso": "2020-10-21",
       "date_human": "Oct 2020",
       "csl_item": {
         "id": "IlNylOSZ",
@@ -4982,7 +4930,7 @@
             [
               "2020",
               10,
-              14
+              21
             ]
           ]
         },
@@ -4991,7 +4939,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -5075,7 +5023,7 @@
       "title": "New Technology and Tools to Enhance Collaborative Video Analysis in Live ‘Data Sessions’",
       "authors": "McIlvenny",
       "journal": "Manubot",
-      "date_iso": "2020-10-08",
+      "date_iso": "2020-10-22",
       "date_human": "Oct 2020",
       "csl_item": {
         "id": "hi2DLqCb",
@@ -5096,7 +5044,7 @@
             [
               "2020",
               10,
-              8
+              22
             ]
           ]
         },
@@ -5105,7 +5053,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
@@ -5204,7 +5152,7 @@
             [
               "2020",
               10,
-              19
+              26
             ]
           ]
         },
