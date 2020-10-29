@@ -138,3 +138,7 @@
   preprint_citation: doi:10.31235/osf.io/eu7yw
 - repo_url: https://github.com/Sage-Bionetworks/governanceGreenPaper
   html_url: https://sage-bionetworks.github.io/governanceGreenPaper/
+- repo_url: https://github.com/habi/zmk-tooth-cohort-method-manuscript
+  html_url: https://habi.github.io/zmk-tooth-cohort-method-manuscript/
+  thumbnail_url: https://github.com/habi/zmk-tooth-cohort-method-manuscript/raw/master/content/images/Tooth045.manubot.png
+  preprint_citation: doi:10.1101/2020.10.27.356998
