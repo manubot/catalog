@@ -31,9 +31,9 @@
   html_url: https://dhimmel.github.io/rephetio-manuscript/
   preprint_citation: doi:10.1101/087619
   journal_citation: doi:10.7554/eLife.26726
-- repo_url: https://github.com/openclimatedata/global-emissions
-  html_url: https://openclimatedata.github.io/global-emissions/
-  thumbnail_url: https://user-images.githubusercontent.com/8326331/64821751-888dc280-d581-11e9-8d8b-37233f7b087a.png
+# - repo_url: https://github.com/openclimatedata/global-emissions
+#   html_url: https://openclimatedata.github.io/global-emissions/
+#   thumbnail_url: https://user-images.githubusercontent.com/8326331/64821751-888dc280-d581-11e9-8d8b-37233f7b087a.png
 - repo_url: https://github.com/yt-project/yt-3.0-paper
   html_url: https://yt-project.github.io/yt-3.0-paper/
   thumbnail_url: https://user-images.githubusercontent.com/8326331/64820041-96414900-d57d-11e9-9b57-325f89b548df.png
