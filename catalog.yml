@@ -67,7 +67,7 @@
   journal_citation: doi:10.1177/1177932220938063
 - repo_url: https://github.com/indigo-dc/sqa-baseline
   html_url: https://indigo-dc.github.io/sqa-baseline/
-  preprint_citation: url:http://hdl.handle.net/10261/160086
+  preprint_citation: doi:10.20350/digitalCSIC/12543
 - repo_url: https://github.com/greenelab/czi-hca-report
   html_url: https://greenelab.github.io/czi-hca-report/
 - repo_url: https://github.com/dhimmel/psb-manuscript
