@@ -62,7 +62,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -488,7 +488,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -599,7 +599,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -673,7 +673,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -864,7 +864,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -915,7 +915,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -982,7 +982,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -1140,7 +1140,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -1185,7 +1185,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -1265,7 +1265,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -1529,7 +1529,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -1583,7 +1583,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -1722,7 +1722,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -1788,7 +1788,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -1951,7 +1951,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -1986,7 +1986,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -2068,7 +2068,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -2197,7 +2197,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -2351,7 +2351,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -2467,7 +2467,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -2570,7 +2570,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -2683,7 +2683,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -2701,8 +2701,8 @@
       "title": "Edit me to practice contributing to a collaborative Manubot manuscript",
       "authors": "Doe, Roe",
       "journal": "Manubot",
-      "date_iso": "2020-10-08",
-      "date_human": "Oct 2020",
+      "date_iso": "2020-11-09",
+      "date_human": "Nov 2020",
       "csl_item": {
         "id": "9IQuyN3R",
         "type": "report",
@@ -2725,8 +2725,8 @@
           "date-parts": [
             [
               "2020",
-              10,
-              8
+              11,
+              9
             ]
           ]
         },
@@ -2735,7 +2735,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -2791,7 +2791,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -2896,7 +2896,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -2946,7 +2946,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -3058,7 +3058,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -3108,7 +3108,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -3218,7 +3218,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -3282,7 +3282,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -3347,10 +3347,11 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/24da920c66a20b3970440174070a8beee0e5301e/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Russell, Dattoli, et al",
       "journal": "Manubot",
-      "date_iso": "2020-11-03",
+      "date_iso": "2020-11-09",
       "date_human": "Nov 2020",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3541,7 +3542,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -3550,7 +3551,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -3617,7 +3618,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -3812,7 +3813,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -3860,7 +3861,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -3949,7 +3950,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -4074,7 +4075,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -4194,7 +4195,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -4343,7 +4344,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -4533,7 +4534,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -4605,8 +4606,8 @@
       "title": "Streamlining Data-Intensive Biology With Workflow Systems",
       "authors": "Reiter, Brooks, Irber, Joslin, Reid, Scott, Brown, Pierce",
       "journal": "Manubot",
-      "date_iso": "2020-08-05",
-      "date_human": "Aug 2020",
+      "date_iso": "2020-11-06",
+      "date_human": "Nov 2020",
       "csl_item": {
         "id": "ZKIkuKfj",
         "type": "report",
@@ -4653,8 +4654,8 @@
           "date-parts": [
             [
               "2020",
-              8,
-              5
+              11,
+              6
             ]
           ]
         },
@@ -4663,7 +4664,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -4833,7 +4834,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -5009,7 +5010,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -5123,7 +5124,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -5222,7 +5223,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -5236,11 +5237,11 @@
       "repo_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript",
       "url": "https://habi.github.io/zmk-tooth-cohort-method-manuscript/",
       "citation": "url:https://habi.github.io/zmk-tooth-cohort-method-manuscript/",
-      "thumbnail_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript/raw/21d9d2d1d11a86965c70121ed9b151186308f2f6/content/images/Tooth045.manubot.png",
+      "thumbnail_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript/raw/6cc6138d341a45345e2ef808848b1e1a2015baac/content/images/Tooth045.manubot.png",
       "title": "Automated segmentation and description of the internal morphology of human permanent teeth by means of micro-CT",
       "authors": "Haberthür, Hlushchuk, Wolf",
       "journal": "Manubot",
-      "date_iso": "2020-11-03",
+      "date_iso": "2020-11-05",
       "date_human": "Nov 2020",
       "csl_item": {
         "id": "FEX1bYHc",
@@ -5269,7 +5270,7 @@
             [
               "2020",
               11,
-              3
+              5
             ]
           ]
         },
@@ -5278,7 +5279,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
@@ -5401,7 +5402,7 @@
             [
               "2020",
               11,
-              3
+              9
             ]
           ]
         },
