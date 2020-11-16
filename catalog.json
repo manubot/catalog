@@ -4,12 +4,12 @@
       "repo_url": "https://github.com/greenelab/deep-review",
       "url": "https://greenelab.github.io/deep-review/",
       "citation": "url:https://greenelab.github.io/deep-review/",
-      "thumbnail_url": "https://github.com/greenelab/deep-review/raw/cfa2a3572937756df3332d987ef25155fab8b88d/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/deep-review/raw/75f2dd8c61099a17235a4b8de0567b2364901e4d/thumbnail.png",
       "title": "Opportunities and obstacles for deep learning in biology and medicine [update in progress]",
-      "authors": "Greene, Elton, Titus, Gitter, Himmelstein, Christensen, Levy",
+      "authors": "Greene, Himmelstein, Elton, Christensen, Gitter, Titus, Levy",
       "journal": "Manubot",
-      "date_iso": "2020-08-10",
-      "date_human": "Aug 2020",
+      "date_iso": "2020-11-10",
+      "date_human": "Nov 2020",
       "csl_item": {
         "id": "GT0nExut",
         "type": "report",
@@ -24,24 +24,24 @@
             "given": "Casey S."
           },
           {
+            "family": "Himmelstein",
+            "given": "Daniel S."
+          },
+          {
             "family": "Elton",
             "given": "Daniel C."
           },
           {
-            "family": "Titus",
-            "given": "Alexander J."
+            "family": "Christensen",
+            "given": "Brock C."
           },
           {
             "family": "Gitter",
             "given": "Anthony"
           },
           {
-            "family": "Himmelstein",
-            "given": "Daniel S."
-          },
-          {
-            "family": "Christensen",
-            "given": "Brock C."
+            "family": "Titus",
+            "given": "Alexander J."
           },
           {
             "family": "Levy",
@@ -52,7 +52,7 @@
           "date-parts": [
             [
               "2020",
-              8,
+              11,
               10
             ]
           ]
@@ -62,7 +62,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -488,7 +488,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -599,7 +599,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -673,7 +673,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -864,7 +864,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -915,7 +915,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -982,7 +982,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -1038,8 +1038,8 @@
       "title": "Ten Quick Tips for Deep Learning in Biology",
       "authors": "Lee, Titus, Yu, Chevrette, Stewart, Cofer, Raschka, Maguire, Lengerich, Kalinin, Gitter, Greene, et al",
       "journal": "Manubot",
-      "date_iso": "2020-10-30",
-      "date_human": "Oct 2020",
+      "date_iso": "2020-11-13",
+      "date_human": "Nov 2020",
       "csl_item": {
         "id": "tPU9SJPF",
         "type": "report",
@@ -1130,8 +1130,8 @@
           "date-parts": [
             [
               "2020",
-              10,
-              30
+              11,
+              13
             ]
           ]
         },
@@ -1140,7 +1140,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -1185,7 +1185,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -1265,7 +1265,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -1529,7 +1529,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -1583,7 +1583,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -1722,7 +1722,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -1788,7 +1788,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -1951,7 +1951,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -1986,7 +1986,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -2068,7 +2068,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -2197,7 +2197,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -2351,7 +2351,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -2467,7 +2467,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -2570,7 +2570,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -2683,7 +2683,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -2701,7 +2701,7 @@
       "title": "Edit me to practice contributing to a collaborative Manubot manuscript",
       "authors": "Doe, Roe",
       "journal": "Manubot",
-      "date_iso": "2020-11-09",
+      "date_iso": "2020-11-10",
       "date_human": "Nov 2020",
       "csl_item": {
         "id": "9IQuyN3R",
@@ -2726,7 +2726,7 @@
             [
               "2020",
               11,
-              9
+              10
             ]
           ]
         },
@@ -2735,7 +2735,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -2791,7 +2791,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -2896,7 +2896,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -2946,7 +2946,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -3058,7 +3058,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -3108,7 +3108,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -3161,15 +3161,15 @@
       "repo_url": "https://github.com/czbiohub/kmer-homology-paper",
       "url": "https://czbiohub.github.io/kmer-homology-paper/",
       "citation": "url:https://czbiohub.github.io/kmer-homology-paper/",
-      "title": "Sencha directly translates RNA-seq reads to enable functional prediction of transcriptomic 'dark matter' across species",
+      "title": "$k$-mer homology is a transcriptome-first method enabling functional prediction of transcriptomic 'dark matter' across species",
       "authors": "Botvinnik, Vemuri, Pierce, Logan, Nafees, Brown, Karkanias",
       "journal": "Manubot",
-      "date_iso": "2020-10-22",
-      "date_human": "Oct 2020",
+      "date_iso": "2020-11-13",
+      "date_human": "Nov 2020",
       "csl_item": {
         "id": "drG4LUg7",
         "type": "report",
-        "title": "Sencha directly translates RNA-seq reads to enable functional prediction of transcriptomic 'dark matter' across species",
+        "title": "$k$-mer homology is a transcriptome-first method enabling functional prediction of transcriptomic 'dark matter' across species",
         "publisher": "Manubot",
         "source": "czbiohub.github.io",
         "URL": "https://czbiohub.github.io/kmer-homology-paper/",
@@ -3208,8 +3208,8 @@
           "date-parts": [
             [
               "2020",
-              10,
-              22
+              11,
+              13
             ]
           ]
         },
@@ -3218,7 +3218,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -3282,7 +3282,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -3347,11 +3347,11 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/24da920c66a20b3970440174070a8beee0e5301e/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/0a02432846a0a85dfc4043fa75cf3eb4675c878a/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
-      "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Russell, Dattoli, et al",
+      "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2020-11-09",
+      "date_iso": "2020-11-16",
       "date_human": "Nov 2020",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3393,7 +3393,7 @@
           },
           {
             "family": "Ray",
-            "given": "Sadipan"
+            "given": "Sandipan"
           },
           {
             "family": "McGowan",
@@ -3402,10 +3402,6 @@
           {
             "family": "Gitter",
             "given": "Anthony"
-          },
-          {
-            "family": "Russell",
-            "given": "Ronnie M."
           },
           {
             "family": "Dattoli",
@@ -3481,10 +3477,6 @@
             "given": "Soumita"
           },
           {
-            "family": "Fax",
-            "given": "Matthias"
-          },
-          {
             "family": "Byrd",
             "given": "James Brian"
           },
@@ -3506,7 +3498,7 @@
           },
           {
             "family": "Sun",
-            "given": "YuCheng"
+            "given": "Yuchen"
           },
           {
             "family": "Qi",
@@ -3515,6 +3507,10 @@
           {
             "family": "Shinholster",
             "given": "Lamonica"
+          },
+          {
+            "family": "Lukan",
+            "given": "Temitayo"
           },
           {
             "family": "Knyazev",
@@ -3535,6 +3531,10 @@
           {
             "family": "Szeto",
             "given": "Gregory L."
+          },
+          {
+            "family": "Lubiana",
+            "given": "Tiago"
           }
         ],
         "issued": {
@@ -3542,7 +3542,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -3551,7 +3551,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -3618,7 +3618,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -3635,8 +3635,8 @@
       "title": "An Open Pediatric Brain Tumor Atlas",
       "authors": "Shapiro, Savonen, Bethell, Gaonkar, Zhu, Brown, Duong, Rathi, Noureen, Zhang, Ennis, Spielman, et al",
       "journal": "Manubot",
-      "date_iso": "2020-09-22",
-      "date_human": "Sep 2020",
+      "date_iso": "2020-11-11",
+      "date_human": "Nov 2020",
       "csl_item": {
         "id": "oqc02age",
         "type": "report",
@@ -3803,8 +3803,8 @@
           "date-parts": [
             [
               "2020",
-              9,
-              22
+              11,
+              11
             ]
           ]
         },
@@ -3813,7 +3813,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -3861,7 +3861,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -3950,7 +3950,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -4075,7 +4075,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -4195,7 +4195,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -4344,7 +4344,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -4534,7 +4534,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -4606,7 +4606,7 @@
       "title": "Streamlining Data-Intensive Biology With Workflow Systems",
       "authors": "Reiter, Brooks, Irber, Joslin, Reid, Scott, Brown, Pierce",
       "journal": "Manubot",
-      "date_iso": "2020-11-06",
+      "date_iso": "2020-11-16",
       "date_human": "Nov 2020",
       "csl_item": {
         "id": "ZKIkuKfj",
@@ -4655,7 +4655,7 @@
             [
               "2020",
               11,
-              6
+              16
             ]
           ]
         },
@@ -4664,7 +4664,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -4834,7 +4834,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -4944,12 +4944,12 @@
       "repo_url": "https://github.com/apeltzer/eager2-paper",
       "url": "https://apeltzer.github.io/eager2-paper",
       "citation": "url:https://apeltzer.github.io/eager2-paper",
-      "thumbnail_url": "https://github.com/apeltzer/eager2-paper/raw/385917553473f25918b140f8554374d9387c4eb1/content/images/nf-core-eager_social_preview.png",
+      "thumbnail_url": "https://github.com/apeltzer/eager2-paper/raw/9444db7443a66f375c7f2adbffbebb6541b512ea/content/images/nf-core-eager_social_preview.png",
       "title": "Reproducible, portable, and efficient ancient genome reconstruction with nf-core/eager",
       "authors": "Yates, Lamnidis, Borry, Valtueña, Fagernäs, Clayton, Garcia, Neukamm, Peltzer",
       "journal": "Manubot",
-      "date_iso": "2020-10-21",
-      "date_human": "Oct 2020",
+      "date_iso": "2020-11-11",
+      "date_human": "Nov 2020",
       "csl_item": {
         "id": "IlNylOSZ",
         "type": "report",
@@ -5000,8 +5000,8 @@
           "date-parts": [
             [
               "2020",
-              10,
-              21
+              11,
+              11
             ]
           ]
         },
@@ -5010,7 +5010,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -5094,7 +5094,7 @@
       "title": "New Technology and Tools to Enhance Collaborative Video Analysis in Live ‘Data Sessions’",
       "authors": "McIlvenny",
       "journal": "Manubot",
-      "date_iso": "2020-11-03",
+      "date_iso": "2020-11-13",
       "date_human": "Nov 2020",
       "csl_item": {
         "id": "hi2DLqCb",
@@ -5115,7 +5115,7 @@
             [
               "2020",
               11,
-              3
+              13
             ]
           ]
         },
@@ -5124,7 +5124,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -5223,7 +5223,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -5237,11 +5237,11 @@
       "repo_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript",
       "url": "https://habi.github.io/zmk-tooth-cohort-method-manuscript/",
       "citation": "url:https://habi.github.io/zmk-tooth-cohort-method-manuscript/",
-      "thumbnail_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript/raw/6cc6138d341a45345e2ef808848b1e1a2015baac/content/images/Tooth045.manubot.png",
+      "thumbnail_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript/raw/877b421bd54e45c8867c3532d8125a141e25bf7d/content/images/Tooth045.manubot.png",
       "title": "Automated segmentation and description of the internal morphology of human permanent teeth by means of micro-CT",
       "authors": "Haberthür, Hlushchuk, Wolf",
       "journal": "Manubot",
-      "date_iso": "2020-11-05",
+      "date_iso": "2020-11-10",
       "date_human": "Nov 2020",
       "csl_item": {
         "id": "FEX1bYHc",
@@ -5270,7 +5270,7 @@
             [
               "2020",
               11,
-              5
+              10
             ]
           ]
         },
@@ -5279,7 +5279,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
@@ -5402,7 +5402,7 @@
             [
               "2020",
               11,
-              9
+              16
             ]
           ]
         },
