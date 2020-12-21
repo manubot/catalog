@@ -62,7 +62,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -489,7 +489,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -600,7 +600,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -674,7 +674,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -866,7 +866,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -917,7 +917,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -984,7 +984,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -1040,7 +1040,7 @@
       "title": "Ten Quick Tips for Deep Learning in Biology",
       "authors": "Lee, Titus, Yu, Chevrette, Stewart, Cofer, Raschka, Maguire, Lengerich, Kalinin, Gitter, Greene, et al",
       "journal": "Manubot",
-      "date_iso": "2020-12-12",
+      "date_iso": "2020-12-19",
       "date_human": "Dec 2020",
       "csl_item": {
         "id": "tPU9SJPF",
@@ -1133,7 +1133,7 @@
             [
               "2020",
               12,
-              12
+              19
             ]
           ]
         },
@@ -1142,7 +1142,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -1187,7 +1187,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -1267,7 +1267,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -1532,7 +1532,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -1586,7 +1586,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -1725,7 +1725,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -1791,7 +1791,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -1954,7 +1954,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -1989,7 +1989,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -2071,7 +2071,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -2200,7 +2200,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -2355,7 +2355,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -2471,7 +2471,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -2574,7 +2574,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -2687,7 +2687,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -2739,7 +2739,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -2795,7 +2795,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -2900,7 +2900,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -2950,7 +2950,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -3062,7 +3062,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -3112,7 +3112,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -3226,7 +3226,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -3290,7 +3290,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -3355,12 +3355,12 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/9ad237ac923871a4a11abef976a5767593021473/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/afd156b5bcc254c41be05683e8b1cd78f22f2ae3/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2020-11-30",
-      "date_human": "Nov 2020",
+      "date_iso": "2020-12-21",
+      "date_human": "Dec 2020",
       "csl_item": {
         "id": "Z4Wyi0Mo",
         "type": "report",
@@ -3549,8 +3549,8 @@
           "date-parts": [
             [
               "2020",
-              11,
-              30
+              12,
+              21
             ]
           ]
         },
@@ -3559,7 +3559,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -3626,7 +3626,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -3821,7 +3821,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -3869,7 +3869,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -3958,7 +3958,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -4127,7 +4127,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -4247,7 +4247,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -4396,7 +4396,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -4587,7 +4587,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -4717,7 +4717,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -4887,7 +4887,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -4988,6 +4988,7 @@
         "publisher": "Informa UK Limited",
         "title": "Is authorship sufficient for today’s collaborative research? A call for contributor roles",
         "URL": "https://doi.org/gg6wnq",
+        "PMCID": "PMC7736357",
         "PMID": "32602379",
         "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: doi:10.1080/08989621.2020.1779591"
       }
@@ -5065,7 +5066,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -5179,7 +5180,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -5278,7 +5279,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -5292,12 +5293,12 @@
       "repo_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript",
       "url": "https://habi.github.io/zmk-tooth-cohort-method-manuscript/",
       "citation": "url:https://habi.github.io/zmk-tooth-cohort-method-manuscript/",
-      "thumbnail_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript/raw/8fbce1cc53f2190b557d7a08e2ffe7c01c47e5f5/content/images/Tooth045.manubot.png",
+      "thumbnail_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript/raw/1b4e7158e4b3622924a98f5f294ccd48fdb7bd14/content/images/Tooth045.manubot.png",
       "title": "Automated segmentation and description of the internal morphology of human permanent teeth by means of micro-CT",
       "authors": "Haberthür, Hlushchuk, Wolf",
       "journal": "Manubot",
-      "date_iso": "2020-11-27",
-      "date_human": "Nov 2020",
+      "date_iso": "2020-12-21",
+      "date_human": "Dec 2020",
       "csl_item": {
         "id": "FEX1bYHc",
         "type": "report",
@@ -5324,8 +5325,8 @@
           "date-parts": [
             [
               "2020",
-              11,
-              27
+              12,
+              21
             ]
           ]
         },
@@ -5334,7 +5335,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
@@ -5457,7 +5458,7 @@
             [
               "2020",
               12,
-              14
+              21
             ]
           ]
         },
