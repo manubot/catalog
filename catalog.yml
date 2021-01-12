@@ -147,3 +147,6 @@
 - repo_url: https://github.com/lubianat/technotype
   html_url: https://lubianat.github.io/technotype/
   preprint_citation: doi:10.22541/au.160979530.02627436/v1
+- repo_url: https://github.com/habi/acinar-analysis-manuscript
+  html_url: https://habi.github.io/acinar-analysis-manuscript/
+  preprint_citation: doi:10.1101/786681
