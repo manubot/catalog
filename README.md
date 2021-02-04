@@ -29,7 +29,7 @@ An example manuscript with documentation comments is below:
   journal_citation: doi:10.1098/rsif.2017.0387  # optional: Manubot-style citation for a published article corresponding to the manuscript
 ```
 
-For more information on how to create citations for `preprint_citation` and `journal_citation`, see Manubot's citation-by-identifier [documentation here](https://github.com/manubot/rootstock/blob/master/USAGE.md#citations).
+For more information on how to create citations for `preprint_citation` and `journal_citation`, see Manubot's citation-by-identifier [documentation here](https://github.com/manubot/rootstock/blob/main/USAGE.md#citations).
 Specifying `thumbnail_url` overrides the thumbnail image detected from the metadata of `html_url`.
 Therefore, setting `thumbnail_url` is only neccessary if the manuscript does not supply a thumbnail image or if the catalog should use a different image.
 
@@ -111,7 +111,7 @@ Use a solid background
 
 If your image has any transparent/translucent areas, place a background behind it.
 Solid backgrounds are strongly preferred.
-White is the first preference, but if it is necessary to use a different color to achieve adequate contrast, we ask that you follow the [Manubot style guidelines](https://github.com/manubot/resources/blob/master/brand/readme.md#style-guidelines) to the best of your ability.
+White is the first preference, but if it is necessary to use a different color to achieve adequate contrast, we ask that you follow the [Manubot style guidelines](https://github.com/manubot/resources/blob/main/brand/readme.md#style-guidelines) to the best of your ability.
 </details>
 
 
