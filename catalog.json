@@ -62,7 +62,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -489,7 +489,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -600,7 +600,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -674,7 +674,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -866,7 +866,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -917,7 +917,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -984,7 +984,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -1040,7 +1040,7 @@
       "title": "Ten Quick Tips for Deep Learning in Biology",
       "authors": "Lee, Titus, Yu, Chevrette, Stewart, Cofer, Raschka, Maguire, Lengerich, Kalinin, Gitter, Greene, et al",
       "journal": "Manubot",
-      "date_iso": "2021-02-05",
+      "date_iso": "2021-02-22",
       "date_human": "Feb 2021",
       "csl_item": {
         "id": "tPU9SJPF",
@@ -1137,7 +1137,7 @@
             [
               "2021",
               2,
-              5
+              22
             ]
           ]
         },
@@ -1146,7 +1146,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -1191,7 +1191,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -1271,7 +1271,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -1536,7 +1536,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -1590,7 +1590,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -1729,7 +1729,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -1795,7 +1795,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -1958,7 +1958,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -1993,7 +1993,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -2075,7 +2075,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -2204,7 +2204,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -2359,7 +2359,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -2477,7 +2477,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -2580,7 +2580,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -2693,7 +2693,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -2711,8 +2711,8 @@
       "title": "Edit me to practice contributing to a collaborative Manubot manuscript",
       "authors": "Doe, Roe",
       "journal": "Manubot",
-      "date_iso": "2020-12-11",
-      "date_human": "Dec 2020",
+      "date_iso": "2021-02-20",
+      "date_human": "Feb 2021",
       "csl_item": {
         "id": "9IQuyN3R",
         "type": "report",
@@ -2734,9 +2734,9 @@
         "issued": {
           "date-parts": [
             [
-              "2020",
-              12,
-              11
+              "2021",
+              2,
+              20
             ]
           ]
         },
@@ -2745,7 +2745,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -2801,7 +2801,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -2906,7 +2906,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -2956,7 +2956,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -3068,7 +3068,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -3118,7 +3118,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -3232,7 +3232,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -3296,7 +3296,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -3361,11 +3361,11 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/34dd016dfd8bbc5353b3d8498aadbe04ae24d592/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/752428f84492668ff27670119a46b07a827f6262/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2021-02-14",
+      "date_iso": "2021-02-22",
       "date_human": "Feb 2021",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3568,7 +3568,7 @@
             [
               "2021",
               2,
-              14
+              22
             ]
           ]
         },
@@ -3577,7 +3577,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -3644,7 +3644,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -3839,7 +3839,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -3887,7 +3887,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -3976,7 +3976,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -4149,7 +4149,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -4269,7 +4269,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -4418,7 +4418,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -4609,7 +4609,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -4739,7 +4739,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -4909,7 +4909,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -5088,7 +5088,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -5202,7 +5202,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -5301,7 +5301,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -5315,12 +5315,12 @@
       "repo_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript",
       "url": "https://habi.github.io/zmk-tooth-cohort-method-manuscript/",
       "citation": "url:https://habi.github.io/zmk-tooth-cohort-method-manuscript/",
-      "thumbnail_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript/raw/07a0a8aed6642483a4a54a01d1578fe325802f88/content/images/Tooth045.manubot.png",
+      "thumbnail_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript/raw/b07ffd6d4f153f209ba316c2199aaa3684329b61/content/images/Tooth045.manubot.png",
       "title": "Automated segmentation and description of the internal morphology of human permanent teeth by means of micro-CT",
       "authors": "Haberthür, Hlushchuk, Wolf",
       "journal": "Manubot",
-      "date_iso": "2021-01-11",
-      "date_human": "Jan 2021",
+      "date_iso": "2021-02-22",
+      "date_human": "Feb 2021",
       "csl_item": {
         "id": "FEX1bYHc",
         "type": "report",
@@ -5347,8 +5347,8 @@
           "date-parts": [
             [
               "2021",
-              1,
-              11
+              2,
+              22
             ]
           ]
         },
@@ -5357,7 +5357,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -5480,7 +5480,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -5532,7 +5532,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
@@ -5637,7 +5637,7 @@
             [
               "2021",
               2,
-              15
+              22
             ]
           ]
         },
