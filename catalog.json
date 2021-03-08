@@ -62,7 +62,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -489,7 +489,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -600,7 +600,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -674,7 +674,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -866,7 +866,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -917,7 +917,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -984,7 +984,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -1038,10 +1038,10 @@
       "citation": "url:https://benjamin-lee.github.io/deep-rules/",
       "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64824922-7e6fc200-d589-11e9-8df1-2673996cce9b.png",
       "title": "Ten Quick Tips for Deep Learning in Biology",
-      "authors": "Lee, Titus, Yu, Chevrette, Stewart, Cofer, Raschka, Maguire, Lengerich, Kalinin, Gitter, Greene, et al",
+      "authors": "Lee, Gitter, Greene, Raschka, Maguire, Titus, Kessler, Lee, Chevrette, Stewart, Britto-Borges, Cofer, et al",
       "journal": "Manubot",
-      "date_iso": "2021-02-24",
-      "date_human": "Feb 2021",
+      "date_iso": "2021-03-06",
+      "date_human": "Mar 2021",
       "csl_item": {
         "id": "tPU9SJPF",
         "type": "report",
@@ -1056,24 +1056,12 @@
             "given": "Benjamin D."
           },
           {
-            "family": "Titus",
-            "given": "Alexander J."
+            "family": "Gitter",
+            "given": "Anthony"
           },
           {
-            "family": "Yu",
-            "given": "Kun-Hsing"
-          },
-          {
-            "family": "Chevrette",
-            "given": "Marc G."
-          },
-          {
-            "family": "Stewart",
-            "given": "Paul Allen"
-          },
-          {
-            "family": "Cofer",
-            "given": "Evan M."
+            "family": "Greene",
+            "given": "Casey S."
           },
           {
             "family": "Raschka",
@@ -1084,36 +1072,8 @@
             "given": "Finlay"
           },
           {
-            "family": "Lengerich",
-            "given": "Benjamin J."
-          },
-          {
-            "family": "Kalinin",
-            "given": "Alexandr A."
-          },
-          {
-            "family": "Gitter",
-            "given": "Anthony"
-          },
-          {
-            "family": "Greene",
-            "given": "Casey S."
-          },
-          {
-            "family": "Boca",
-            "given": "Simina M."
-          },
-          {
-            "family": "Timothy J. Triche",
-            "given": "Jr"
-          },
-          {
-            "family": "Britto-Borges",
-            "given": "Thiago"
-          },
-          {
-            "family": "Fertig",
-            "given": "Elana J."
+            "family": "Titus",
+            "given": "Alexander J."
           },
           {
             "family": "Kessler",
@@ -1124,20 +1084,60 @@
             "given": "Alexandra J."
           },
           {
-            "family": "Signal",
-            "given": "Beth"
+            "family": "Chevrette",
+            "given": "Marc G."
+          },
+          {
+            "family": "Stewart",
+            "given": "Paul Allen"
+          },
+          {
+            "family": "Britto-Borges",
+            "given": "Thiago"
+          },
+          {
+            "family": "Cofer",
+            "given": "Evan M."
+          },
+          {
+            "family": "Yu",
+            "given": "Kun-Hsing"
           },
           {
             "family": "Carmona",
             "given": "Juan Jose"
+          },
+          {
+            "family": "Fertig",
+            "given": "Elana J."
+          },
+          {
+            "family": "Kalinin",
+            "given": "Alexandr A."
+          },
+          {
+            "family": "Signal",
+            "given": "Beth"
+          },
+          {
+            "family": "Lengerich",
+            "given": "Benjamin J."
+          },
+          {
+            "family": "Timothy J. Triche",
+            "given": "Jr"
+          },
+          {
+            "family": "Boca",
+            "given": "Simina M."
           }
         ],
         "issued": {
           "date-parts": [
             [
               "2021",
-              2,
-              24
+              3,
+              6
             ]
           ]
         },
@@ -1146,7 +1146,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -1191,7 +1191,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -1271,7 +1271,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -1536,7 +1536,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -1590,7 +1590,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -1729,7 +1729,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -1795,7 +1795,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -1958,7 +1958,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -1993,7 +1993,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -2075,7 +2075,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -2204,7 +2204,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -2359,7 +2359,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -2477,7 +2477,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -2580,7 +2580,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -2693,7 +2693,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -2745,7 +2745,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -2801,7 +2801,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -2906,7 +2906,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -2956,7 +2956,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -3068,7 +3068,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -3118,7 +3118,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -3232,7 +3232,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -3296,7 +3296,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -3361,11 +3361,11 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/66bf7c0f22e39a2705f53e12a4fff802bc555609/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/1a7e642b1ab094a30d4418acc6bd9f32f260a199/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2021-03-01",
+      "date_iso": "2021-03-05",
       "date_human": "Mar 2021",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3568,7 +3568,7 @@
             [
               "2021",
               3,
-              1
+              5
             ]
           ]
         },
@@ -3577,7 +3577,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -3644,7 +3644,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -3839,7 +3839,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -3887,7 +3887,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -3976,7 +3976,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -4149,7 +4149,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -4269,7 +4269,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -4418,7 +4418,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -4609,7 +4609,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -4739,7 +4739,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -4909,7 +4909,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -5088,7 +5088,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -5172,8 +5172,8 @@
       "title": "New Technology and Tools to Enhance Collaborative Video Analysis in Live ‘Data Sessions’",
       "authors": "McIlvenny",
       "journal": "Manubot",
-      "date_iso": "2020-11-30",
-      "date_human": "Nov 2020",
+      "date_iso": "2021-03-04",
+      "date_human": "Mar 2021",
       "csl_item": {
         "id": "hi2DLqCb",
         "type": "report",
@@ -5191,9 +5191,9 @@
         "issued": {
           "date-parts": [
             [
-              "2020",
-              11,
-              30
+              "2021",
+              3,
+              4
             ]
           ]
         },
@@ -5202,7 +5202,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -5301,7 +5301,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -5315,12 +5315,12 @@
       "repo_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript",
       "url": "https://habi.github.io/zmk-tooth-cohort-method-manuscript/",
       "citation": "url:https://habi.github.io/zmk-tooth-cohort-method-manuscript/",
-      "thumbnail_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript/raw/7df9639564301acc9268249177cad6165201d16a/content/images/Tooth045.manubot.png",
+      "thumbnail_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript/raw/632ef68b99eee4f636adf9fa43a9d6d5870ca4cb/content/images/Tooth045.manubot.png",
       "title": "Automated segmentation and description of the internal morphology of human permanent teeth by means of micro-CT",
       "authors": "Haberthür, Hlushchuk, Wolf",
       "journal": "Manubot",
-      "date_iso": "2021-02-23",
-      "date_human": "Feb 2021",
+      "date_iso": "2021-03-05",
+      "date_human": "Mar 2021",
       "csl_item": {
         "id": "FEX1bYHc",
         "type": "report",
@@ -5347,8 +5347,8 @@
           "date-parts": [
             [
               "2021",
-              2,
-              23
+              3,
+              5
             ]
           ]
         },
@@ -5357,7 +5357,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -5480,7 +5480,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -5494,12 +5494,12 @@
       "repo_url": "https://github.com/lubianat/technotype",
       "url": "https://lubianat.github.io/technotype/",
       "citation": "url:https://lubianat.github.io/technotype/",
-      "thumbnail_url": "https://github.com/lubianat/technotype/raw/a92f6db878f9812db3dfcb3b49dc866c15c7655a/content/images/name.png",
+      "thumbnail_url": "https://github.com/lubianat/technotype/raw/62fd0b9981f60ed2988dc908e4de6a9566c179dc/content/images/name.png",
       "title": "Towards a pragmatic definition of cell type",
       "authors": "Lubiana, Nakaya",
       "journal": "Manubot",
-      "date_iso": "2021-02-25",
-      "date_human": "Feb 2021",
+      "date_iso": "2021-03-08",
+      "date_human": "Mar 2021",
       "csl_item": {
         "id": "LIce1Gfq",
         "type": "report",
@@ -5522,8 +5522,8 @@
           "date-parts": [
             [
               "2021",
-              2,
-              25
+              3,
+              8
             ]
           ]
         },
@@ -5532,7 +5532,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
@@ -5637,7 +5637,7 @@
             [
               "2021",
               3,
-              1
+              8
             ]
           ]
         },
