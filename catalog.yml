@@ -153,6 +153,6 @@
 - repo_url: https://github.com/greenelab/annorxiver_manuscript
   html_url: https://greenelab.github.io/annorxiver_manuscript/
   preprint_citation: doi:10.1101/2021.03.04.433874
-- repo_url: https://github.com/lotusnprod/rootstock
-  html_url: https://lotusnprod.github.io/rootstock
+- repo_url: https://github.com/lotusnprod/lotus-manuscript
+  html_url: https://lotusnprod.github.io/lotus-manuscript
   preprint_citation: doi:10.1101/2021.02.28.433265 
