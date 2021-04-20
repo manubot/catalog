@@ -62,7 +62,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -489,7 +489,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -600,7 +600,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -674,7 +674,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -866,7 +866,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -917,7 +917,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -984,7 +984,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -1040,7 +1040,7 @@
       "title": "Ten Quick Tips for Deep Learning in Biology",
       "authors": "Lee, Gitter, Greene, Raschka, Maguire, Titus, Kessler, Lee, Chevrette, Stewart, Britto-Borges, Cofer, et al",
       "journal": "Manubot",
-      "date_iso": "2021-04-07",
+      "date_iso": "2021-04-18",
       "date_human": "Apr 2021",
       "csl_item": {
         "id": "tPU9SJPF",
@@ -1137,7 +1137,7 @@
             [
               "2021",
               4,
-              7
+              18
             ]
           ]
         },
@@ -1146,7 +1146,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -1191,7 +1191,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -1271,7 +1271,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -1424,122 +1424,15 @@
       "url": "https://yt-project.github.io/yt-3.0-paper/",
       "citation": "url:https://yt-project.github.io/yt-3.0-paper/",
       "thumbnail_url": "https://user-images.githubusercontent.com/8326331/64820041-96414900-d57d-11e9-9b57-325f89b548df.png",
-      "title": "Introducing yt 3.0: Analysis and Visualization of Volumetric Data",
-      "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Munk, Smith, Kowalik, Val-Borro, Coughlin, et al",
-      "journal": "Manubot",
-      "date_iso": "2020-11-02",
-      "date_human": "Nov 2020",
+      "title": null,
+      "authors": "",
+      "journal": null,
+      "date_iso": null,
+      "date_human": null,
       "csl_item": {
-        "id": "NVqvdTiE",
-        "type": "report",
-        "title": "Introducing yt 3.0: Analysis and Visualization of Volumetric Data",
-        "publisher": "Manubot",
-        "source": "yt-project.github.io",
         "URL": "https://yt-project.github.io/yt-3.0-paper/",
-        "shortTitle": "Introducing yt 3.0",
-        "language": "en-US",
-        "author": [
-          {
-            "family": "Project",
-            "given": "The",
-            "dropping-particle": "yt"
-          },
-          {
-            "family": "Turk",
-            "given": "Matthew"
-          },
-          {
-            "family": "Goldbaum",
-            "given": "Nathan J."
-          },
-          {
-            "family": "ZuHone",
-            "given": "John A."
-          },
-          {
-            "family": "Hummels",
-            "given": "Cameron"
-          },
-          {
-            "family": "Ji",
-            "given": "Suoqing"
-          },
-          {
-            "family": "Lang",
-            "given": "Meagan"
-          },
-          {
-            "family": "Munk",
-            "given": "Madicken"
-          },
-          {
-            "family": "Smith",
-            "given": "Britton"
-          },
-          {
-            "family": "Kowalik",
-            "given": "Kacper"
-          },
-          {
-            "family": "Val-Borro",
-            "given": "Miguel",
-            "dropping-particle": "de"
-          },
-          {
-            "family": "Coughlin",
-            "given": "Jared W."
-          },
-          {
-            "family": "Cadiou",
-            "given": "Corentin"
-          },
-          {
-            "family": "Zingale",
-            "given": "Michael"
-          },
-          {
-            "family": "Orf",
-            "given": "Leigh"
-          },
-          {
-            "family": "Halbert",
-            "given": "Kelton"
-          },
-          {
-            "family": "Robert",
-            "given": "Clément"
-          },
-          {
-            "family": "Havlin",
-            "given": "Christopher"
-          },
-          {
-            "family": "Tonnesen",
-            "given": "Stephanie"
-          },
-          {
-            "family": "Yourself",
-            "given": "Add"
-          }
-        ],
-        "issued": {
-          "date-parts": [
-            [
-              "2020",
-              11,
-              2
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              4,
-              13
-            ]
-          ]
-        },
+        "type": "webpage",
+        "id": "NVqvdTiE",
         "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: url:https://yt-project.github.io/yt-3.0-paper/"
       }
     },
@@ -1590,7 +1483,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -1729,7 +1622,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -1795,7 +1688,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -1958,7 +1851,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -1993,7 +1886,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -2075,7 +1968,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -2204,7 +2097,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -2359,7 +2252,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -2477,7 +2370,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -2580,7 +2473,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -2693,7 +2586,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -2745,7 +2638,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -2801,7 +2694,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -2906,7 +2799,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -2956,7 +2849,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -3068,7 +2961,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -3118,7 +3011,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -3232,7 +3125,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -3296,7 +3189,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -3361,11 +3254,11 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/24a03606dd1b0da479538763fa1daa4a3e4beedc/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/89dff08a5bb813c1bbc224275a347891ac8a532d/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2021-04-07",
+      "date_iso": "2021-04-16",
       "date_human": "Apr 2021",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3569,6 +3462,10 @@
           {
             "family": "Naik",
             "given": "Amruta"
+          },
+          {
+            "family": "Sun",
+            "given": "Yusha"
           }
         ],
         "issued": {
@@ -3576,7 +3473,7 @@
             [
               "2021",
               4,
-              7
+              16
             ]
           ]
         },
@@ -3585,7 +3482,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -3652,7 +3549,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -3847,7 +3744,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -3895,7 +3792,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -3984,7 +3881,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -4157,7 +4054,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -4277,7 +4174,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -4426,7 +4323,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -4617,7 +4514,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -4747,7 +4644,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -4917,7 +4814,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -5096,7 +4993,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -5210,7 +5107,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -5309,7 +5206,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -5323,7 +5220,7 @@
       "repo_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript",
       "url": "https://habi.github.io/zmk-tooth-cohort-method-manuscript/",
       "citation": "url:https://habi.github.io/zmk-tooth-cohort-method-manuscript/",
-      "thumbnail_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript/raw/48a8061369730c267ae98a1b6fbadf103db6cd4d/content/images/Tooth045.manubot.png",
+      "thumbnail_url": "https://github.com/habi/zmk-tooth-cohort-method-manuscript/raw/99586b8d0e1e0bcc787902b03e74230222f4995d/content/images/Tooth045.manubot.png",
       "title": "Automated segmentation and description of the internal morphology of human permanent teeth by means of micro-CT",
       "authors": "Haberthür, Hlushchuk, Wolf",
       "journal": "Manubot",
@@ -5365,7 +5262,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -5458,6 +5355,7 @@
         "title": "Automated segmentation and description of the internal morphology of human permanent teeth by means of micro-CT",
         "URL": "https://doi.org/gjpw2d",
         "PMCID": "PMC8040229",
+        "PMID": "33845806",
         "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: doi:10.1186/s12903-021-01551-x"
       }
     },
@@ -5535,7 +5433,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -5587,7 +5485,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -5692,7 +5590,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -5814,7 +5712,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -5883,20 +5781,20 @@
       "repo_url": "https://github.com/lotusnprod/lotus-manuscript",
       "url": "https://lotusnprod.github.io/lotus-manuscript",
       "citation": "url:https://lotusnprod.github.io/lotus-manuscript",
-      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/4c49238972dbc2a810bd3d87c5d1fb1a4036f331/content/images/thumbnail.png",
-      "title": "Open Natural Products Research: Curation and Dissemination of Biological Occurrences of Chemical Structures through Wikidata",
+      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/48b6b38a5bb8c10dd5797171b865348425386f2e/content/images/thumbnail.png",
+      "title": "The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata",
       "authors": "Rutz, Sorokina, Galgonek, Mietchen, Willighagen, Gaudry, Graham, Stephan, Page, Vondrášek, Steinbeck, et al",
       "journal": "Manubot",
-      "date_iso": "2021-04-10",
+      "date_iso": "2021-04-15",
       "date_human": "Apr 2021",
       "csl_item": {
         "id": "13rUhUH3J",
         "type": "report",
-        "title": "Open Natural Products Research: Curation and Dissemination of Biological Occurrences of Chemical Structures through Wikidata",
+        "title": "The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata",
         "publisher": "Manubot",
         "source": "lotusnprod.github.io",
         "URL": "https://lotusnprod.github.io/lotus-manuscript/",
-        "shortTitle": "Open Natural Products Research",
+        "shortTitle": "The LOTUS Initiative for Open Natural Products Research",
         "language": "en-US",
         "author": [
           {
@@ -5965,7 +5863,7 @@
             [
               "2021",
               4,
-              10
+              15
             ]
           ]
         },
@@ -5974,7 +5872,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
@@ -6110,7 +6008,7 @@
             [
               "2021",
               4,
-              13
+              19
             ]
           ]
         },
