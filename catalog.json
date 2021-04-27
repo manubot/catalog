@@ -62,7 +62,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -489,7 +489,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -600,7 +600,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -674,7 +674,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -866,7 +866,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -917,7 +917,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -984,7 +984,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -1146,7 +1146,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -1191,7 +1191,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -1271,7 +1271,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -1483,7 +1483,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -1622,7 +1622,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -1688,7 +1688,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -1851,7 +1851,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -1886,7 +1886,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -1968,7 +1968,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -2097,7 +2097,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -2252,7 +2252,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -2370,7 +2370,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -2473,7 +2473,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -2586,7 +2586,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -2638,7 +2638,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -2694,7 +2694,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -2799,7 +2799,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -2849,7 +2849,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -2961,7 +2961,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -3011,7 +3011,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -3125,7 +3125,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -3189,7 +3189,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -3482,7 +3482,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -3549,7 +3549,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -3744,7 +3744,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -3792,7 +3792,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -3881,7 +3881,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -3989,75 +3989,15 @@
       "url": "https://compgenomelab.github.io/lemur-manuscript/webpage/",
       "citation": "url:https://compgenomelab.github.io/lemur-manuscript/webpage/",
       "thumbnail_url": "https://user-images.githubusercontent.com/1117703/79069949-19578880-7ca0-11ea-8a3f-d727696718ae.png",
-      "title": "Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events",
-      "authors": "Akkose, Kaya, Lindsey-Boltz, Karagoz, Brown, Larsen, Yoder, Sancar, Adebali",
-      "journal": "Manubot",
-      "date_iso": "2020-04-05",
-      "date_human": "Apr 2020",
+      "title": null,
+      "authors": "",
+      "journal": null,
+      "date_iso": null,
+      "date_human": null,
       "csl_item": {
-        "id": "14yQNmWi3",
-        "type": "report",
-        "title": "Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events",
-        "publisher": "Manubot",
-        "source": "compgenomelab.github.io",
         "URL": "https://compgenomelab.github.io/lemur-manuscript/webpage/",
-        "language": "en-US",
-        "author": [
-          {
-            "family": "Akkose",
-            "given": "Umit"
-          },
-          {
-            "family": "Kaya",
-            "given": "Veysel Ogulcan"
-          },
-          {
-            "family": "Lindsey-Boltz",
-            "given": "Laura"
-          },
-          {
-            "family": "Karagoz",
-            "given": "Zeynep"
-          },
-          {
-            "family": "Brown",
-            "given": "Adam D."
-          },
-          {
-            "family": "Larsen",
-            "given": "Peter A."
-          },
-          {
-            "family": "Yoder",
-            "given": "Anne D."
-          },
-          {
-            "family": "Sancar",
-            "given": "Aziz"
-          },
-          {
-            "family": "Adebali",
-            "given": "Ogun"
-          }
-        ],
-        "issued": {
-          "date-parts": [
-            [
-              "2020",
-              4,
-              5
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              4,
-              19
-            ]
-          ]
-        },
+        "type": "webpage",
+        "id": "14yQNmWi3",
         "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: url:https://compgenomelab.github.io/lemur-manuscript/webpage/"
       }
     },
@@ -4174,7 +4114,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -4222,11 +4162,11 @@
     "journal": {
       "citation": "doi:10.1093/bioinformatics/btaa662",
       "url": "https://doi.org/gg6d2n",
-      "title": "treeheatr: an R package for interpretable decision tree visualizations",
+      "title": "<i>treeheatr</i> : an R package for interpretable decision tree visualizations",
       "authors": "Le, Moore",
       "journal": "Bioinformatics",
-      "date_iso": "2020-07-23",
-      "date_human": "Jul 2020",
+      "date_iso": "2021-01-15",
+      "date_human": "Jan 2021",
       "csl_item": {
         "type": "article-journal",
         "id": "sVC5POBj",
@@ -4243,17 +4183,19 @@
         "issued": {
           "date-parts": [
             [
-              2020,
-              7,
-              23
+              2021,
+              1,
+              15
             ]
           ]
         },
         "container-title": "Bioinformatics",
         "DOI": "10.1093/bioinformatics/btaa662",
-        "page": "btaa662",
+        "volume": "37",
+        "issue": "2",
+        "page": "282-284",
         "publisher": "Oxford University Press (OUP)",
-        "title": "treeheatr: an R package for interpretable decision tree visualizations",
+        "title": "<i>treeheatr</i> : an R package for interpretable decision tree visualizations",
         "URL": "https://doi.org/gg6d2n",
         "PMID": "32702108",
         "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: doi:10.1093/bioinformatics/btaa662"
@@ -4323,7 +4265,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -4514,7 +4456,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -4644,7 +4586,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -4814,7 +4756,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -4993,7 +4935,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -5107,7 +5049,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -5206,7 +5148,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -5262,7 +5204,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -5433,7 +5375,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -5485,7 +5427,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -5590,7 +5532,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -5662,8 +5604,8 @@
       "title": "Linguistic Analysis of the bioRxiv Preprint Landscape",
       "authors": "Nicholson, Rubinetti, Hu, Thielk, Hunter, Greene",
       "journal": "Manubot",
-      "date_iso": "2021-02-26",
-      "date_human": "Feb 2021",
+      "date_iso": "2021-04-23",
+      "date_human": "Apr 2021",
       "csl_item": {
         "id": "hHNmjero",
         "type": "report",
@@ -5702,8 +5644,8 @@
           "date-parts": [
             [
               "2021",
-              2,
-              26
+              4,
+              23
             ]
           ]
         },
@@ -5712,7 +5654,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -5872,7 +5814,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
@@ -6008,7 +5950,7 @@
             [
               "2021",
               4,
-              19
+              26
             ]
           ]
         },
