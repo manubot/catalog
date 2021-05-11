@@ -62,7 +62,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -489,7 +489,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -600,7 +600,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -674,7 +674,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -866,7 +866,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -917,7 +917,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -984,7 +984,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -1146,7 +1146,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -1191,7 +1191,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -1271,7 +1271,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -1483,7 +1483,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -1622,7 +1622,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -1688,7 +1688,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -1851,7 +1851,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -1886,7 +1886,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -1968,7 +1968,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -2097,7 +2097,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -2252,7 +2252,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -2370,7 +2370,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -2473,7 +2473,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -2586,7 +2586,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -2638,7 +2638,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -2694,7 +2694,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -2799,7 +2799,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -2814,45 +2814,15 @@
       "url": "https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html",
       "citation": "url:https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html",
       "thumbnail_url": "https://raw.githubusercontent.com/sbonaretti/FAIR_metrics/master/thumbnail.png",
-      "title": "Two real use cases of FAIR maturity indicators in the life sciences",
-      "authors": "Bonaretti, Willighagen",
+      "title": null,
+      "authors": "",
       "journal": null,
-      "date_iso": "2019-08-11",
-      "date_human": "Aug 2019",
+      "date_iso": null,
+      "date_human": null,
       "csl_item": {
-        "id": "1Hl6qxW9W",
-        "type": "webpage",
-        "title": "Two real use cases of FAIR maturity indicators in the life sciences",
         "URL": "https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html",
-        "language": "en-US",
-        "author": [
-          {
-            "family": "Bonaretti",
-            "given": "Serena"
-          },
-          {
-            "family": "Willighagen",
-            "given": "Egon"
-          }
-        ],
-        "issued": {
-          "date-parts": [
-            [
-              "2019",
-              8,
-              11
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              5,
-              3
-            ]
-          ]
-        },
+        "type": "webpage",
+        "id": "1Hl6qxW9W",
         "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: url:https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html"
       }
     },
@@ -2961,7 +2931,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -3011,7 +2981,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -3125,7 +3095,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -3189,7 +3159,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -3494,7 +3464,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -3561,7 +3531,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -3756,7 +3726,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -3804,7 +3774,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -3893,7 +3863,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -4126,7 +4096,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -4278,7 +4248,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -4469,7 +4439,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -4599,7 +4569,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -4769,7 +4739,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -4948,7 +4918,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -5062,7 +5032,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -5161,7 +5131,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -5217,7 +5187,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -5388,7 +5358,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -5440,7 +5410,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -5545,7 +5515,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -5617,8 +5587,8 @@
       "title": "Linguistic Analysis of the bioRxiv Preprint Landscape",
       "authors": "Nicholson, Rubinetti, Hu, Thielk, Hunter, Greene",
       "journal": "Manubot",
-      "date_iso": "2021-04-29",
-      "date_human": "Apr 2021",
+      "date_iso": "2021-05-06",
+      "date_human": "May 2021",
       "csl_item": {
         "id": "hHNmjero",
         "type": "report",
@@ -5657,8 +5627,8 @@
           "date-parts": [
             [
               "2021",
-              4,
-              29
+              5,
+              6
             ]
           ]
         },
@@ -5667,7 +5637,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -5736,11 +5706,11 @@
       "repo_url": "https://github.com/lotusnprod/lotus-manuscript",
       "url": "https://lotusnprod.github.io/lotus-manuscript",
       "citation": "url:https://lotusnprod.github.io/lotus-manuscript",
-      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/21649de2f311fbd06652228489145cac25babfc6/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/b1f7f32c6b4705ebbd9e6b61f6bba743f2770b20/content/images/thumbnail.png",
       "title": "The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata",
       "authors": "Rutz, Sorokina, Galgonek, Mietchen, Willighagen, Gaudry, Graham, Stephan, Page, Vondrášek, Steinbeck, et al",
       "journal": "Manubot",
-      "date_iso": "2021-05-03",
+      "date_iso": "2021-05-04",
       "date_human": "May 2021",
       "csl_item": {
         "id": "13rUhUH3J",
@@ -5818,7 +5788,7 @@
             [
               "2021",
               5,
-              3
+              4
             ]
           ]
         },
@@ -5827,7 +5797,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
@@ -5963,7 +5933,7 @@
             [
               "2021",
               5,
-              3
+              10
             ]
           ]
         },
