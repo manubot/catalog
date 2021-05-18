@@ -62,7 +62,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -489,7 +489,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -600,7 +600,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -674,7 +674,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -866,7 +866,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -917,7 +917,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -984,7 +984,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -1040,8 +1040,8 @@
       "title": "Ten Quick Tips for Deep Learning in Biology",
       "authors": "Lee, Gitter, Greene, Raschka, Maguire, Titus, Kessler, Lee, Chevrette, Stewart, Britto-Borges, Cofer, et al",
       "journal": "Manubot",
-      "date_iso": "2021-04-18",
-      "date_human": "Apr 2021",
+      "date_iso": "2021-05-15",
+      "date_human": "May 2021",
       "csl_item": {
         "id": "tPU9SJPF",
         "type": "report",
@@ -1136,8 +1136,8 @@
           "date-parts": [
             [
               "2021",
-              4,
-              18
+              5,
+              15
             ]
           ]
         },
@@ -1146,7 +1146,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -1191,7 +1191,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -1271,7 +1271,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -1483,7 +1483,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -1622,7 +1622,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -1688,7 +1688,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -1851,7 +1851,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -1886,7 +1886,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -1968,7 +1968,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -2097,7 +2097,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -2252,7 +2252,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -2370,7 +2370,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -2473,7 +2473,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -2586,7 +2586,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -2638,7 +2638,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -2694,7 +2694,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -2799,7 +2799,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -2814,15 +2814,45 @@
       "url": "https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html",
       "citation": "url:https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html",
       "thumbnail_url": "https://raw.githubusercontent.com/sbonaretti/FAIR_metrics/master/thumbnail.png",
-      "title": null,
-      "authors": "",
+      "title": "Two real use cases of FAIR maturity indicators in the life sciences",
+      "authors": "Bonaretti, Willighagen",
       "journal": null,
-      "date_iso": null,
-      "date_human": null,
+      "date_iso": "2019-08-11",
+      "date_human": "Aug 2019",
       "csl_item": {
-        "URL": "https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html",
-        "type": "webpage",
         "id": "1Hl6qxW9W",
+        "type": "webpage",
+        "title": "Two real use cases of FAIR maturity indicators in the life sciences",
+        "URL": "https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html",
+        "language": "en-US",
+        "author": [
+          {
+            "family": "Bonaretti",
+            "given": "Serena"
+          },
+          {
+            "family": "Willighagen",
+            "given": "Egon"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2019",
+              8,
+              11
+            ]
+          ]
+        },
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              5,
+              17
+            ]
+          ]
+        },
         "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: url:https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html"
       }
     },
@@ -2931,7 +2961,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -2981,7 +3011,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -3095,7 +3125,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -3159,7 +3189,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -3224,11 +3254,11 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/be05f8b77d8698ac9718f95ae0dd5e1890ebfceb/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/996b52ffeb9ef8eabbc675cb62eca9ae08de811b/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2021-05-01",
+      "date_iso": "2021-05-13",
       "date_human": "May 2021",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3455,7 +3485,7 @@
             [
               "2021",
               5,
-              1
+              13
             ]
           ]
         },
@@ -3464,7 +3494,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -3531,7 +3561,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -3726,7 +3756,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -3774,7 +3804,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -3863,7 +3893,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -4096,7 +4126,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -4248,7 +4278,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -4439,7 +4469,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -4569,7 +4599,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -4739,7 +4769,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -4918,7 +4948,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -5032,7 +5062,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -5131,7 +5161,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -5187,7 +5217,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -5358,7 +5388,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -5410,7 +5440,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -5515,7 +5545,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -5587,7 +5617,7 @@
       "title": "Linguistic Analysis of the bioRxiv Preprint Landscape",
       "authors": "Nicholson, Rubinetti, Hu, Thielk, Hunter, Greene",
       "journal": "Manubot",
-      "date_iso": "2021-05-06",
+      "date_iso": "2021-05-12",
       "date_human": "May 2021",
       "csl_item": {
         "id": "hHNmjero",
@@ -5628,7 +5658,7 @@
             [
               "2021",
               5,
-              6
+              12
             ]
           ]
         },
@@ -5637,7 +5667,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -5706,11 +5736,11 @@
       "repo_url": "https://github.com/lotusnprod/lotus-manuscript",
       "url": "https://lotusnprod.github.io/lotus-manuscript",
       "citation": "url:https://lotusnprod.github.io/lotus-manuscript",
-      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/b1f7f32c6b4705ebbd9e6b61f6bba743f2770b20/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/042e1ea6c0c0bd1ae8a538696eddab49b45b0057/content/images/thumbnail.png",
       "title": "The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata",
       "authors": "Rutz, Sorokina, Galgonek, Mietchen, Willighagen, Gaudry, Graham, Stephan, Page, Vondrášek, Steinbeck, et al",
       "journal": "Manubot",
-      "date_iso": "2021-05-04",
+      "date_iso": "2021-05-15",
       "date_human": "May 2021",
       "csl_item": {
         "id": "13rUhUH3J",
@@ -5788,7 +5818,7 @@
             [
               "2021",
               5,
-              4
+              15
             ]
           ]
         },
@@ -5797,7 +5827,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
@@ -5933,7 +5963,7 @@
             [
               "2021",
               5,
-              10
+              17
             ]
           ]
         },
