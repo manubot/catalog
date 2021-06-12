@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# TODO: remove this script since we now use GitHub Actions instead of Travis CI
+# https://github.com/manubot/catalog/issues/48
+
 ## deploy.sh: run during a Travis CI build to deploy output directory to the gh-pages branch on GitHub.
 ## References
 ## - https://github.com/manubot/rootstock/blob/ddb0288895cd5bc5dab117fb366c52216a717d0e/ci/deploy.sh
