@@ -1,0 +1,24 @@
+name: Build catalog
+on:
+  - push
+  - pull_request
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: pip install --upgrade --requirement=requirements.txt
+      - name: Process catalog
+        run: python process-catalog.py
+      - name: Deploy Manuscript
+        if: github.ref == 'main' && github.event_name == 'push' && !github.event.repository.fork
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: output
