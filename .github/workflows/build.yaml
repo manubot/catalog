@@ -25,3 +25,10 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: output
+      - name: Repository Dispatch
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && !github.event.repository.fork
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          repository: manubot/manubot.org
+          token: ${{ secrets.MANUBOT_ORG_BOT_PAT }}
+          event-type: catalog-update
