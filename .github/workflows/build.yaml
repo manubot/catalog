@@ -20,13 +20,13 @@ jobs:
       - name: Process catalog
         run: python process-catalog.py
       - name: Deploy Manuscript
-        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && !github.event.repository.fork
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && github.repository == 'manubot/catalog'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: output
       - name: Repository Dispatch
-        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && !github.event.repository.fork
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && github.repository == 'manubot/catalog'
         uses: peter-evans/repository-dispatch@v1
         with:
           repository: manubot/manubot.org
