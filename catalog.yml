@@ -166,4 +166,6 @@
 - repo_url: https://github.com/andtheWings/IRB_for_Indy_Housing_Interviews
   html_url: https://andthewings.github.io/IRB_for_Indy_Housing_Interviews/
   thumbnail_url: https://i.postimg.cc/BZkXjryx/redline-the-ave.png
-
+- repo_url: https://github.com/greenelab/nature_news_manuscript
+  html_url: https://greenelab.github.io/nature_news_manuscript/
+  preprint_citation: doi:10.1101/2021.06.21.449261
