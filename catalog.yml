@@ -169,3 +169,6 @@
 - repo_url: https://github.com/greenelab/nature_news_manuscript
   html_url: https://greenelab.github.io/nature_news_manuscript/
   preprint_citation: doi:10.1101/2021.06.21.449261
+- repo_url: https://github.com/fmsabatini/sPlotOpen_Manuscript
+  html_url: https://fmsabatini.github.io/sPlotOpen_Manuscript/
+  journal_citation: doi:10.1111/geb.13346
