@@ -56,8 +56,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -128,8 +128,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -555,8 +555,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -666,8 +666,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -740,8 +740,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -932,8 +932,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -983,8 +983,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -1050,8 +1050,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -1212,8 +1212,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -1368,8 +1368,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -1448,8 +1448,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -1713,8 +1713,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -1767,8 +1767,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -1906,8 +1906,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -1972,8 +1972,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -1985,7 +1985,7 @@
       "url": "https://doi.org/ggbr6p",
       "title": "Binding thermodynamics of host-guest systems with SMIRNOFF99Frosst 1.0.5 from the Open Force Field Initiative",
       "authors": "Slochower, Henriksen, Wang, Chodera, Mobley, Gilson",
-      "journal": "American Chemical Society (ACS)",
+      "journal": "Cambridge University Press (CUP)",
       "date_iso": "2019-07-30",
       "date_human": "Jul 2019",
       "csl_item": {
@@ -2027,9 +2027,9 @@
           ]
         },
         "abstract": "Designing ligands that bind their target biomolecules with high affinity and specificity is a key step in small- molecule drug discovery, but accurately predicting protein-ligand binding free energies remains challenging. Key sources of errors in the calculations include inadequate sampling of conformational space, ambiguous protonation states, and errors in force fields. Noncovalent complexes between a host molecule with a binding cavity and a drug-like guest molecules have emerged as powerful model systems. As model systems, host-guest complexes reduce many of the errors in more complex protein-ligand binding systems, as their small size greatly facilitates conformational sampling, and one can choose systems that avoid ambiguities in protonation states. These features, combined with their ease of experimental characterization, make host-guest systems ideal model systems to test and ultimately optimize force fields in the context of binding thermodynamics calculations.<br>The Open Force Field Initiative aims to create a modern, open software infrastructure for automatically generating and assessing force fields using data sets. The first force field to arise out of this effort, named SMIRNOFF99Frosst, has approximately one tenth the number of parameters, in version 1.0.5, compared to typical general small molecule force fields, such as GAFF. Here, we evaluate the accuracy of this initial force field, using free energy calculations of 43 α and β-cyclodextrin host-guest pairs for which experimental thermodynamic data are available, and compare with matched calculations using two versions of GAFF. For all three force fields, we used TIP3P water and AM1-BCC charges. The calculations are performed using the attach-pull-release (APR) method as implemented in the open source package, pAPRika. For binding free energies, the root mean square error of the SMIRNOFF99Frosst calculations relative to experiment is 0.9 [0.7, 1.1] kcal/mol, while the corresponding results for GAFF 1.7 and GAFF 2.1 are 0.9 [0.7, 1.1] kcal/mol and 1.7 [1.5, 1.9] kcal/mol, respectively, with 95% confidence ranges in brackets. These results suggest that SMIRNOFF99Frosst performs competitively with existing small molecule force fields and is a parsimonious starting point for optimization.",
-        "container-title": "American Chemical Society (ACS)",
+        "container-title": "Cambridge University Press (CUP)",
         "DOI": "10.26434/chemrxiv.9159872",
-        "publisher": "American Chemical Society (ACS)",
+        "publisher": "Cambridge University Press (CUP)",
         "title": "Binding thermodynamics of host-guest systems with SMIRNOFF99Frosst 1.0.5 from the Open Force Field Initiative",
         "URL": "https://doi.org/ggbr6p",
         "note": "This CSL Item was generated by Manubot v0.5.1 from its persistent identifier (standard_id).\nstandard_id: doi:10.26434/chemrxiv.9159872"
@@ -2135,8 +2135,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -2170,8 +2170,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -2252,8 +2252,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -2381,8 +2381,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -2536,8 +2536,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -2654,8 +2654,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -2757,8 +2757,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -2870,8 +2870,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -2922,8 +2922,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -2978,8 +2978,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -3083,8 +3083,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -3133,8 +3133,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -3245,8 +3245,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -3295,8 +3295,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -3409,8 +3409,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -3424,12 +3424,12 @@
       "repo_url": "https://github.com/greenelab/iscb-diversity-manuscript",
       "url": "https://greenelab.github.io/iscb-diversity-manuscript/",
       "citation": "url:https://greenelab.github.io/iscb-diversity-manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/b44d6070020e719a99af57d38fe77620139ab27a/build/assets/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/c98b9ba0b70a756820a738d3447bb4ee1f5687aa/build/assets/thumbnail.png",
       "title": "Analysis of scientific society-awarded honors reveals disparities",
       "authors": "Le, Himmelstein, Hippen, Gazzara, Greene",
       "journal": "Manubot",
-      "date_iso": "2021-07-07",
-      "date_human": "Jul 2021",
+      "date_iso": "2021-08-05",
+      "date_human": "Aug 2021",
       "csl_item": {
         "id": "qsmtXB4B",
         "type": "report",
@@ -3464,8 +3464,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              7
+              8,
+              5
             ]
           ]
         },
@@ -3473,8 +3473,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -3539,12 +3539,12 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/b0440b3c4f05bfb1597469f0bc3e088f31388161/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/4670cde78a8da46e56a619946080dbabd55379e7/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2021-07-30",
-      "date_human": "Jul 2021",
+      "date_iso": "2021-08-06",
+      "date_human": "Aug 2021",
       "csl_item": {
         "id": "Z4Wyi0Mo",
         "type": "report",
@@ -3769,8 +3769,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -3778,8 +3778,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -3845,8 +3845,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -4044,8 +4044,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -4092,8 +4092,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -4181,8 +4181,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -4354,8 +4354,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -4474,8 +4474,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -4626,8 +4626,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -4817,8 +4817,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -4830,7 +4830,7 @@
       "url": "https://doi.org/gg3txr",
       "title": "Extension of Roles in the ChEBI Ontology",
       "authors": "Hoyt, Mungall, Vasilevsky, Domingo-Fernández, Healy, Colluru",
-      "journal": "American Chemical Society (ACS)",
+      "journal": "Cambridge University Press (CUP)",
       "date_iso": "2020-07-02",
       "date_human": "Jul 2020",
       "csl_item": {
@@ -4872,9 +4872,9 @@
           ]
         },
         "abstract": "This manuscript describes the extension of the ChEBI ontology to connect its roles to their targets in other controlled vocabularies, to improve interoperability, and to enable inference.<br>",
-        "container-title": "American Chemical Society (ACS)",
+        "container-title": "Cambridge University Press (CUP)",
         "DOI": "10.26434/chemrxiv.12591221",
-        "publisher": "American Chemical Society (ACS)",
+        "publisher": "Cambridge University Press (CUP)",
         "title": "Extension of Roles in the ChEBI Ontology",
         "URL": "https://doi.org/gg3txr",
         "note": "This CSL Item was generated by Manubot v0.5.1 from its persistent identifier (standard_id).\nstandard_id: doi:10.26434/chemrxiv.12591221"
@@ -4947,8 +4947,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -5117,8 +5117,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -5296,8 +5296,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -5410,8 +5410,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -5509,8 +5509,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -5565,8 +5565,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -5736,8 +5736,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -5788,8 +5788,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -5893,8 +5893,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -6015,8 +6015,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -6085,12 +6085,12 @@
       "repo_url": "https://github.com/lotusnprod/lotus-manuscript",
       "url": "https://lotusnprod.github.io/lotus-manuscript",
       "citation": "url:https://lotusnprod.github.io/lotus-manuscript",
-      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/9a497421321c9d45d6f4b1a0a3287158e3e68b32/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/529501dd3d97a2f983f83c6d05882ddc96a6edfb/content/images/thumbnail.png",
       "title": "The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata",
       "authors": "Rutz, Sorokina, Galgonek, Mietchen, Willighagen, Gaudry, Graham, Stephan, Page, Vondrášek, Steinbeck, et al",
       "journal": "Manubot",
-      "date_iso": "2021-07-04",
-      "date_human": "Jul 2021",
+      "date_iso": "2021-08-06",
+      "date_human": "Aug 2021",
       "csl_item": {
         "id": "13rUhUH3J",
         "type": "report",
@@ -6166,8 +6166,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              4
+              8,
+              6
             ]
           ]
         },
@@ -6175,8 +6175,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -6315,8 +6315,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -6434,8 +6434,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -6486,8 +6486,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -7214,8 +7214,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -7911,8 +7911,8 @@
       "title": "Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms",
       "authors": "Pividori, Lu, Li, Su, Johnson, Wei, Feng, Namjou, Kiryluk, Kullo, Luo, Sullivan, Voight, Skarke, et al",
       "journal": "Manubot",
-      "date_iso": "2021-07-29",
-      "date_human": "Jul 2021",
+      "date_iso": "2021-08-06",
+      "date_human": "Aug 2021",
       "csl_item": {
         "id": "IxgQDGqC",
         "type": "report",
@@ -7995,8 +7995,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              29
+              8,
+              6
             ]
           ]
         },
@@ -8004,8 +8004,8 @@
           "date-parts": [
             [
               "2021",
-              7,
-              30
+              8,
+              6
             ]
           ]
         },
@@ -8016,10 +8016,10 @@
       "citation": "doi:10.1101/2021.07.05.450786",
       "url": "https://doi.org/gk9g25",
       "title": "Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms",
-      "authors": "Pividori, Lu, Li, Su, Johnson, Wei, Feng, Namjou, Kiryluk, Kullo, Luo, Sullivan, Skarke, Ritchie, et al",
+      "authors": "Pividori, Lu, Li, Su, Johnson, Wei, Feng, Namjou, Kiryluk, Kullo, Luo, Sullivan, Voight, Skarke, et al",
       "journal": "Cold Spring Harbor Laboratory",
-      "date_iso": "2021-07-06",
-      "date_human": "Jul 2021",
+      "date_iso": "2021-08-05",
+      "date_human": "Aug 2021",
       "csl_item": {
         "type": "article-journal",
         "id": "FEh1bD0A",
@@ -8073,6 +8073,10 @@
             "given": "Blair D."
           },
           {
+            "family": "Voight",
+            "given": "Benjamin Franklin"
+          },
+          {
             "family": "Skarke",
             "given": "Carsten"
           },
@@ -8086,19 +8090,19 @@
           },
           {
             "family": "Greene",
-            "given": "Casey S."
+            "given": "Casey S"
           }
         ],
         "issued": {
           "date-parts": [
             [
               2021,
-              7,
-              6
+              8,
+              5
             ]
           ]
         },
-        "abstract": "Understanding how dysregulated transcriptional processes result in tissue-specific pathology requires a mechanistic interpretation of expression regulation across different cell types. It has been shown that this insight is key for the development of new therapies. These mechanisms can be identified with transcriptome-wide association studies (TWAS), which have represented an important step forward to test the mediating role of gene expression in GWAS associations. However, due to pervasive eQTL sharing across tissues, TWAS has not been successful in identifying causal tissues, and other methods generally do not take advantage of the large amounts of RNA-seq data publicly available. Here we introduce a polygenic approach that leverages gene modules (genes with similar co-expression patterns) to project both gene-trait associations and pharmacological perturbation data into a common latent representation for a joint analysis. We observed that diseases were significantly associated with gene modules expressed in relevant cell types, such as hypothyroidism with T cells and thyroid, hypertension and lipids with adipose tissue, and coronary artery disease with cardiomyocytes. Our approach was more accurate in predicting known drug-disease pairs and revealed stable trait clusters, including a complex branch involving lipids with cardiovascular, autoimmune, and neuropsychiatric disorders. Furthermore, using a CRISPR-screen, we show that genes involved in lipid regulation exhibit more consistent trait associations through gene modules than individual genes. Our results suggest that a gene module perspective can contextualize genetic associations and prioritize alternative treatment targets when GWAS hits are not druggable.",
+        "abstract": "Understanding how dysregulated transcriptional processes result in tissue-specific pathology requires a mechanistic interpretation of expression regulation across different cell types. It has been shown that this insight is key for the development of new therapies. These mechanisms can be identified with transcriptome-wide association studies (TWAS), which have represented a significant step forward to test the mediating role of gene expression in GWAS associations. However, it is hard to disentangle causal cell types using eQTL data alone, and other methods generally do not use the large amounts of publicly available RNA-seq data. Here we introduce PhenoPLIER, a polygenic approach that maps both gene-trait associations and pharmacological perturbation data into a common latent representation for a joint analysis. This representation is based on modules of genes with similar expression patterns across the same tissues. We observed that diseases were significantly associated with gene modules expressed in relevant cell types, and our approach was accurate in predicting known drug-disease pairs and inferring mechanisms of action. Furthermore, using a CRISPR screen to analyze lipid regulation, we found that functionally important players lacked TWAS associations but were prioritized in phenotype-associated modules by PhenoPLIER. By incorporating groups of co-expressed genes, PhenoPLIER can contextualize genetic associations and reveal potential targets within associated processes that are missed by single-gene strategies.",
         "container-title": "Cold Spring Harbor Laboratory",
         "DOI": "10.1101/2021.07.05.450786",
         "publisher": "Cold Spring Harbor Laboratory",
