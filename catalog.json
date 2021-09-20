@@ -7,16 +7,16 @@
       "title": "Machine learning in rare disease",
       "authors": "Banerjee, Taroni, Allaway, Prasad, Guinney, Greene",
       "journal": "Manubot",
-      "date_iso": "2021-07-21",
-      "date_human": "Jul 2021",
+      "date_iso": "2021-09-03",
+      "date_human": "Sep 2021",
       "csl_item": {
         "id": "CORUkaaL",
         "type": "report",
-        "title": "Machine learning in rare disease",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "jaybee84.github.io",
+        "title": "Machine learning in rare disease",
         "URL": "https://jaybee84.github.io/ml-in-rd/",
-        "language": "en-US",
         "author": [
           {
             "family": "Banerjee",
@@ -43,21 +43,21 @@
             "given": "Casey"
           }
         ],
-        "issued": {
-          "date-parts": [
-            [
-              "2021",
-              7,
-              21
-            ]
-          ]
-        },
         "accessed": {
           "date-parts": [
             [
               "2021",
-              8,
-              13
+              9,
+              20
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              3
             ]
           ]
         },
@@ -80,11 +80,11 @@
       "csl_item": {
         "id": "GT0nExut",
         "type": "report",
-        "title": "Opportunities and obstacles for deep learning in biology and medicine [update in progress]",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "greenelab.github.io",
+        "title": "Opportunities and obstacles for deep learning in biology and medicine [update in progress]",
         "URL": "https://greenelab.github.io/deep-review/",
-        "language": "en-US",
         "author": [
           {
             "family": "Greene",
@@ -115,21 +115,21 @@
             "given": "Joshua J."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               11,
               10
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -507,11 +507,11 @@
       "csl_item": {
         "id": "1GGGHdsew",
         "type": "report",
-        "title": "Open collaborative writing with Manubot",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "greenelab.github.io",
+        "title": "Open collaborative writing with Manubot",
         "URL": "https://greenelab.github.io/meta-review/",
-        "language": "en-US",
         "author": [
           {
             "family": "Himmelstein",
@@ -542,21 +542,21 @@
             "given": "Anthony"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               5,
               25
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -642,32 +642,32 @@
       "csl_item": {
         "id": "1Hmw2NDck",
         "type": "report",
-        "title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
         "publisher": "Manubot",
         "source": "git.dhimmel.com",
+        "title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+        "title-short": "Bitcoin",
         "URL": "https://git.dhimmel.com/bitcoin-whitepaper/",
-        "shortTitle": "Bitcoin",
         "author": [
           {
             "family": "Nakamoto",
             "given": "Satoshi"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2019",
               11,
               20
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -692,11 +692,11 @@
       "csl_item": {
         "id": "QrpwQMhT",
         "type": "report",
-        "title": "Sci-Hub provides access to nearly all scholarly literature",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "greenelab.github.io",
+        "title": "Sci-Hub provides access to nearly all scholarly literature",
         "URL": "https://greenelab.github.io/scihub-manuscript/",
-        "language": "en-US",
         "author": [
           {
             "family": "Himmelstein",
@@ -727,6 +727,15 @@
             "given": "Casey S."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
@@ -736,75 +745,76 @@
             ]
           ]
         },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
-            ]
-          ]
-        },
         "note": "This CSL Item was generated by Manubot v0.5.1 from its persistent identifier (standard_id).\nstandard_id: url:https://greenelab.github.io/scihub-manuscript/"
       }
     },
     "preprint": {
-      "citation": "doi:10.7287/peerj.preprints.3100",
-      "url": "https://doi.org/b9s5",
+      "citation": "url:https://doi.org/10.7287/peerj.preprints.3100",
+      "url": "https://peerj.com/preprints/3100",
       "title": "Sci-Hub provides access to nearly all scholarly literature",
-      "authors": "Himmelstein, Romero, Levernier, Munro, McLaughlin, Greshake Tzovaras, Greene",
-      "journal": "PeerJ",
-      "date_iso": "2018-01-13",
-      "date_human": "Jan 2018",
+      "authors": "Himmelstein, Romero, Levernier, Munro, McLaughlin, Tzovaras, Greene",
+      "journal": "PeerJ Preprints",
+      "date_iso": "2018-02-02",
+      "date_human": "Feb 2018",
       "csl_item": {
-        "type": "article-journal",
-        "id": "WiyRG9Qh",
+        "id": "TUEIudLx",
+        "type": "report",
+        "abstract": "The website Sci-Hub enables users to download PDF versions of scholarly articles, including many articles that are paywalled at their journal’s site. Sci-Hub has grown rapidly since its creation in 2011, but the extent of its coverage was unclear. Here we report that, as of March 2017, Sci-Hub’s database contains 68.9% of the 81.6 million scholarly articles registered with Crossref and 85.2% of articles published in toll access journals. We find that coverage varies by discipline and publisher and that Sci-Hub preferentially covers popular, paywalled content. For toll access articles, green open access via licit services is quite limited, while Sci-Hub provides greater coverage than a major research university. Our interactive browser at https://greenelab.github.io/scihub allows users to explore these findings in more detail. For the first time, nearly all scholarly literature is available gratis to anyone with an Internet connection, suggesting the toll access business model will become unsustainable.",
+        "language": "en",
+        "note": "DOI: 10.7287/peerj.preprints.3100v3\nThis CSL Item was generated by Manubot v0.5.1 from its persistent identifier (standard_id).\nstandard_id: url:https://doi.org/10.7287/peerj.preprints.3100",
+        "number": "e3100v3",
+        "publisher": "PeerJ Preprints",
+        "source": "peerj.com",
+        "title": "Sci-Hub provides access to nearly all scholarly literature",
+        "URL": "https://peerj.com/preprints/3100",
         "author": [
           {
             "family": "Himmelstein",
-            "given": "Daniel S"
+            "given": "Daniel S."
           },
           {
             "family": "Romero",
-            "given": "Ariel R"
+            "given": "Ariel R."
           },
           {
             "family": "Levernier",
-            "given": "Jacob G"
+            "given": "Jacob G."
           },
           {
             "family": "Munro",
-            "given": "Thomas A"
+            "given": "Thomas A."
           },
           {
             "family": "McLaughlin",
-            "given": "Stephen R"
+            "given": "Stephen R."
           },
           {
-            "family": "Greshake Tzovaras",
-            "given": "Bastian"
+            "family": "Tzovaras",
+            "given": "Bastian Greshake"
           },
           {
             "family": "Greene",
-            "given": "Casey S"
+            "given": "Casey S."
           }
         ],
-        "issued": {
+        "accessed": {
           "date-parts": [
             [
-              2018,
-              1,
-              13
+              "2021",
+              9,
+              20
             ]
           ]
         },
-        "abstract": "The website Sci-Hub enables users to download PDF versions of scholarly articles, including many articles that are paywalled at their journal’s site. Sci-Hub has grown rapidly since its creation in 2011, but the extent of its coverage was unclear. Here we report that, as of March 2017, Sci-Hub’s database contains 68.9% of the 81.6 million scholarly articles registered with Crossref and 85.2% of articles published in toll access journals. We find that coverage varies by discipline and publisher and that Sci-Hub preferentially covers popular, paywalled content. For toll access articles, green open access via licit services is quite limited, while Sci-Hub provides greater coverage than a major research university. Our interactive browser at allows users to explore these findings in more detail. For the first time, nearly all scholarly literature is available gratis to anyone with an Internet connection, suggesting the toll access business model will become unsustainable.",
-        "container-title": "PeerJ",
-        "DOI": "10.7287/peerj.preprints.3100",
-        "publisher": "PeerJ",
-        "title": "Sci-Hub provides access to nearly all scholarly literature",
-        "URL": "https://doi.org/b9s5",
-        "note": "This CSL Item was generated by Manubot v0.5.1 from its persistent identifier (standard_id).\nstandard_id: doi:10.7287/peerj.preprints.3100"
+        "issued": {
+          "date-parts": [
+            [
+              "2018",
+              2,
+              2
+            ]
+          ]
+        }
       }
     },
     "journal": {
@@ -886,9 +896,9 @@
       "csl_item": {
         "id": "4bKeZ7O3",
         "type": "webpage",
+        "language": "es-ES",
         "title": "Sci-Hub proporciona acceso a casi toda la literatura académica",
         "URL": "https://greenelab.github.io/scihub-manuscript-es/",
-        "language": "es-ES",
         "author": [
           {
             "family": "Himmelstein",
@@ -919,20 +929,20 @@
             "given": "Casey S."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2019",
               9,
-              13
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
               13
             ]
           ]
@@ -955,10 +965,10 @@
       "csl_item": {
         "id": "1AXFvFYQU",
         "type": "webpage",
-        "title": "GimmeMotifs: an analysis framework for transcription factor motif analysis",
-        "URL": "https://simonvh.github.io/gimmemotifs-manuscript/",
-        "shortTitle": "GimmeMotifs",
         "language": "en-US",
+        "title": "GimmeMotifs: an analysis framework for transcription factor motif analysis",
+        "title-short": "GimmeMotifs",
+        "URL": "https://simonvh.github.io/gimmemotifs-manuscript/",
         "author": [
           {
             "family": "Bruse",
@@ -970,21 +980,21 @@
             "dropping-particle": "van"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2019",
               7,
               16
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -1050,8 +1060,8 @@
           "date-parts": [
             [
               "2021",
-              8,
-              13
+              9,
+              20
             ]
           ]
         },
@@ -1112,11 +1122,11 @@
       "csl_item": {
         "id": "tPU9SJPF",
         "type": "report",
-        "title": "Ten Quick Tips for Deep Learning in Biology",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "benjamin-lee.github.io",
+        "title": "Ten Quick Tips for Deep Learning in Biology",
         "URL": "https://Benjamin-Lee.github.io/deep-rules/",
-        "language": "en-US",
         "author": [
           {
             "family": "Lee",
@@ -1199,21 +1209,21 @@
             "given": "Simina M."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2021",
               7,
               2
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -1346,30 +1356,30 @@
       "csl_item": {
         "id": "LnaD6Se3",
         "type": "webpage",
+        "language": "en-US",
         "title": "Network Methods for Multiomic Data Integration",
         "URL": "https://zietzm.com/integration-review/",
-        "language": "en-US",
         "author": [
           {
             "family": "Zietz",
             "given": "Michael"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2018",
               12,
               19
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -1392,11 +1402,11 @@
       "csl_item": {
         "id": "X5pu6VMg",
         "type": "report",
-        "title": "Systematic integration of biomedical knowledge prioritizes drugs for repurposing",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "git.dhimmel.com",
+        "title": "Systematic integration of biomedical knowledge prioritizes drugs for repurposing",
         "URL": "https://git.dhimmel.com/rephetio-manuscript/",
-        "language": "en-US",
         "author": [
           {
             "family": "Himmelstein",
@@ -1435,21 +1445,21 @@
             "given": "Sergio E."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2019",
               11,
               20
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -1610,12 +1620,12 @@
       "csl_item": {
         "id": "1AIP8Sp9Y",
         "type": "report",
-        "title": "Introducing yt 4.0: Analysis and Visualization of Volumetric Data",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "yt-project.github.io",
+        "title": "Introducing yt 4.0: Analysis and Visualization of Volumetric Data",
+        "title-short": "Introducing yt 4.0",
         "URL": "https://yt-project.github.io/yt-4.0-paper/",
-        "shortTitle": "Introducing yt 4.0",
-        "language": "en-US",
         "author": [
           {
             "family": "Project",
@@ -1700,21 +1710,21 @@
             "given": "Add"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2021",
               5,
               18
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -1737,9 +1747,9 @@
       "csl_item": {
         "id": "V8qikHyq",
         "type": "webpage",
+        "language": "en-US",
         "title": "Scaling tree-based automated machine learning to biomedical big data with a feature set selector",
         "URL": "https://trang1618.github.io/tpot-fss-ms/",
-        "language": "en-US",
         "author": [
           {
             "family": "Le",
@@ -1754,20 +1764,20 @@
             "given": "Jason H."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2019",
               9,
-              13
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
               13
             ]
           ]
@@ -1880,9 +1890,9 @@
       "csl_item": {
         "id": "edlM9904",
         "type": "webpage",
+        "language": "en-US",
         "title": "Manubot 2018 development proposal",
         "URL": "https://greenelab.github.io/manufund-2018/",
-        "language": "en-US",
         "author": [
           {
             "family": "Himmelstein",
@@ -1893,21 +1903,21 @@
             "given": "Casey S."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2017",
               12,
               22
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -1930,9 +1940,9 @@
       "csl_item": {
         "id": "LEAryiwn",
         "type": "webpage",
+        "language": "en-US",
         "title": "Binding thermodynamics of host-guest systems with SMIRNOFF99Frosst 1.0.5 from the Open Force Field Initiative",
         "URL": "https://slochower.github.io/smirnoff-host-guest-manuscript/",
-        "language": "en-US",
         "author": [
           {
             "family": "Slochower",
@@ -1959,21 +1969,21 @@
             "given": "Michael K."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2019",
               10,
               4
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -1985,7 +1995,7 @@
       "url": "https://doi.org/ggbr6p",
       "title": "Binding thermodynamics of host-guest systems with SMIRNOFF99Frosst 1.0.5 from the Open Force Field Initiative",
       "authors": "Slochower, Henriksen, Wang, Chodera, Mobley, Gilson",
-      "journal": "Cambridge University Press (CUP)",
+      "journal": "American Chemical Society (ACS)",
       "date_iso": "2019-07-30",
       "date_human": "Jul 2019",
       "csl_item": {
@@ -2027,9 +2037,9 @@
           ]
         },
         "abstract": "Designing ligands that bind their target biomolecules with high affinity and specificity is a key step in small- molecule drug discovery, but accurately predicting protein-ligand binding free energies remains challenging. Key sources of errors in the calculations include inadequate sampling of conformational space, ambiguous protonation states, and errors in force fields. Noncovalent complexes between a host molecule with a binding cavity and a drug-like guest molecules have emerged as powerful model systems. As model systems, host-guest complexes reduce many of the errors in more complex protein-ligand binding systems, as their small size greatly facilitates conformational sampling, and one can choose systems that avoid ambiguities in protonation states. These features, combined with their ease of experimental characterization, make host-guest systems ideal model systems to test and ultimately optimize force fields in the context of binding thermodynamics calculations.<br>The Open Force Field Initiative aims to create a modern, open software infrastructure for automatically generating and assessing force fields using data sets. The first force field to arise out of this effort, named SMIRNOFF99Frosst, has approximately one tenth the number of parameters, in version 1.0.5, compared to typical general small molecule force fields, such as GAFF. Here, we evaluate the accuracy of this initial force field, using free energy calculations of 43 α and β-cyclodextrin host-guest pairs for which experimental thermodynamic data are available, and compare with matched calculations using two versions of GAFF. For all three force fields, we used TIP3P water and AM1-BCC charges. The calculations are performed using the attach-pull-release (APR) method as implemented in the open source package, pAPRika. For binding free energies, the root mean square error of the SMIRNOFF99Frosst calculations relative to experiment is 0.9 [0.7, 1.1] kcal/mol, while the corresponding results for GAFF 1.7 and GAFF 2.1 are 0.9 [0.7, 1.1] kcal/mol and 1.7 [1.5, 1.9] kcal/mol, respectively, with 95% confidence ranges in brackets. These results suggest that SMIRNOFF99Frosst performs competitively with existing small molecule force fields and is a parsimonious starting point for optimization.",
-        "container-title": "Cambridge University Press (CUP)",
+        "container-title": "American Chemical Society (ACS)",
         "DOI": "10.26434/chemrxiv.9159872",
-        "publisher": "Cambridge University Press (CUP)",
+        "publisher": "American Chemical Society (ACS)",
         "title": "Binding thermodynamics of host-guest systems with SMIRNOFF99Frosst 1.0.5 from the Open Force Field Initiative",
         "URL": "https://doi.org/ggbr6p",
         "note": "This CSL Item was generated by Manubot v0.5.1 from its persistent identifier (standard_id).\nstandard_id: doi:10.26434/chemrxiv.9159872"
@@ -2110,33 +2120,33 @@
       "csl_item": {
         "id": "nRVC0eJT",
         "type": "report",
-        "title": "Des illusions visuelles aux hallucinations: une porte sur la perception",
+        "language": "fr-FR",
         "publisher": "Manubot",
         "source": "laurentperrinet.github.io",
+        "title": "Des illusions visuelles aux hallucinations: une porte sur la perception",
+        "title-short": "Des illusions visuelles aux hallucinations",
         "URL": "https://laurentperrinet.github.io/2019-05_illusions-visuelles/",
-        "shortTitle": "Des illusions visuelles aux hallucinations",
-        "language": "fr-FR",
         "author": [
           {
             "family": "Perrinet",
             "given": "Laurent U."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               10,
               14
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -2154,12 +2164,12 @@
       "csl_item": {
         "id": "faKuBkfY",
         "type": "webpage",
-        "title": "Illusions et hallucinations visuelles : une porte sur la perception",
-        "container-title": "The Conversation",
         "abstract": "Les illusions et hallucinations nous informent sur les perceptions mais aussi sur la compréhension des mécanismes cérébraux.",
-        "URL": "http://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389",
-        "shortTitle": "Illusions et hallucinations visuelles",
+        "container-title": "The Conversation",
         "language": "en",
+        "title": "Illusions et hallucinations visuelles : une porte sur la perception",
+        "title-short": "Illusions et hallucinations visuelles",
+        "URL": "http://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389",
         "author": [
           {
             "family": "Perrinet",
@@ -2170,8 +2180,8 @@
           "date-parts": [
             [
               "2021",
-              8,
-              13
+              9,
+              20
             ]
           ]
         },
@@ -2194,9 +2204,9 @@
       "csl_item": {
         "id": "1EAO8sxjC",
         "type": "webpage",
+        "language": "en-US",
         "title": "Genotyping structural variants in pangenome graphs using the vg toolkit",
         "URL": "https://jmonlong.github.io/manu-vgsv/",
-        "language": "en-US",
         "author": [
           {
             "family": "Hickey",
@@ -2239,21 +2249,21 @@
             "given": "Benedict"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               2,
               24
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -2347,9 +2357,9 @@
       "csl_item": {
         "id": "wFtaWAhT",
         "type": "webpage",
+        "language": "en-US",
         "title": "Plasmids for independently tunable, low-noise expression of two genes",
         "URL": "https://zach-hensel.github.io/low-noise-manuscript/",
-        "language": "en-US",
         "author": [
           {
             "family": "Silva",
@@ -2368,21 +2378,21 @@
             "given": "Zach"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2019",
               5,
               7
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -2502,9 +2512,9 @@
       "csl_item": {
         "id": "19I5c18b5",
         "type": "webpage",
+        "language": "en-US",
         "title": "Total Functional Score of Enhancer Elements Identifies Lineage-Specific Enhancers that Drive Differentiation of Pancreatic Cells",
         "URL": "https://vsmalladi.github.io/tfsee-manuscript/",
-        "language": "en-US",
         "author": [
           {
             "family": "Malladi",
@@ -2523,21 +2533,21 @@
             "given": "W. Lee"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2019",
               12,
               10
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -2610,11 +2620,11 @@
       "csl_item": {
         "id": "dK0df0il",
         "type": "report",
-        "title": "A set of Common Software Quality Assurance Baseline Criteria for Research Projects",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "indigo-dc.github.io",
+        "title": "A set of Common Software Quality Assurance Baseline Criteria for Research Projects",
         "URL": "https://indigo-dc.github.io/sqa-baseline/",
-        "language": "en-US",
         "author": [
           {
             "family": "Orviz",
@@ -2641,21 +2651,21 @@
             "given": "Giacinto"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2021",
               1,
               18
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -2730,10 +2740,10 @@
       "csl_item": {
         "id": "1CDmiMNhv",
         "type": "webpage",
-        "title": "Progress Report: Genome-wide hypothesis generation for single-cell expression via latent spaces of deep neural networks",
-        "URL": "https://greenelab.github.io/czi-hca-report/",
-        "shortTitle": "Progress Report",
         "language": "en-US",
+        "title": "Progress Report: Genome-wide hypothesis generation for single-cell expression via latent spaces of deep neural networks",
+        "title-short": "Progress Report",
+        "URL": "https://greenelab.github.io/czi-hca-report/",
         "author": [
           {
             "family": "Hu",
@@ -2744,21 +2754,21 @@
             "given": "Casey S."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2018",
               8,
               10
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -2781,11 +2791,11 @@
       "csl_item": {
         "id": "13gvjri26",
         "type": "report",
-        "title": "The people of the 24ᵗʰ annual Pacific Symposium on Biocomputing in Hawaii",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "git.dhimmel.com",
+        "title": "The people of the 24ᵗʰ annual Pacific Symposium on Biocomputing in Hawaii",
         "URL": "https://git.dhimmel.com/psb-manuscript/",
-        "language": "en-US",
         "author": [
           {
             "family": "Byrd",
@@ -2857,21 +2867,21 @@
             "given": "Ryan"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2019",
               11,
               21
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -2889,16 +2899,16 @@
       "title": "Edit me to practice contributing to a collaborative Manubot manuscript",
       "authors": "Doe, Roe",
       "journal": "Manubot",
-      "date_iso": "2021-06-19",
-      "date_human": "Jun 2021",
+      "date_iso": "2021-09-01",
+      "date_human": "Sep 2021",
       "csl_item": {
         "id": "9IQuyN3R",
         "type": "report",
-        "title": "Edit me to practice contributing to a collaborative Manubot manuscript",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "manubot.github.io",
+        "title": "Edit me to practice contributing to a collaborative Manubot manuscript",
         "URL": "https://manubot.github.io/try-manubot/",
-        "language": "en-US",
         "author": [
           {
             "family": "Doe",
@@ -2909,21 +2919,21 @@
             "given": "Jane"
           }
         ],
-        "issued": {
-          "date-parts": [
-            [
-              "2021",
-              6,
-              19
-            ]
-          ]
-        },
         "accessed": {
           "date-parts": [
             [
               "2021",
-              8,
-              13
+              9,
+              20
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              1
             ]
           ]
         },
@@ -2946,11 +2956,11 @@
       "csl_item": {
         "id": "j5Gwdbxj",
         "type": "report",
-        "title": "Expanding a Database-derived Biomedical Knowledge Graph via Multi-relation Extraction from Biomedical Abstracts",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "greenelab.github.io",
+        "title": "Expanding a Database-derived Biomedical Knowledge Graph via Multi-relation Extraction from Biomedical Abstracts",
         "URL": "https://greenelab.github.io/text_mined_hetnet_manuscript/",
-        "language": "en-US",
         "author": [
           {
             "family": "Nicholson",
@@ -2965,21 +2975,21 @@
             "given": "Casey S."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               1,
               29
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -3045,9 +3055,9 @@
       "csl_item": {
         "id": "K8EVjgqQ",
         "type": "webpage",
+        "language": "en-US",
         "title": "Expanding polygenic risk scores to include automatic genotype encodings and gene-gene interactions",
         "URL": "https://lelaboratoire.github.io/rethink-prs-ms/",
-        "language": "en-US",
         "author": [
           {
             "family": "Le",
@@ -3070,20 +3080,20 @@
             "given": "Jason H."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2019",
               12,
-              13
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
               13
             ]
           ]
@@ -3107,9 +3117,9 @@
       "csl_item": {
         "id": "1Hl6qxW9W",
         "type": "webpage",
+        "language": "en-US",
         "title": "Two real use cases of FAIR maturity indicators in the life sciences",
         "URL": "https://rawcdn.githack.com/sbonaretti/FAIR_metrics/c12a837e1b0505ffa7a3cd311e3fa69b5b940d2e/paper/manubot/webpage/v/local/index.html",
-        "language": "en-US",
         "author": [
           {
             "family": "Bonaretti",
@@ -3120,21 +3130,21 @@
             "given": "Egon"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2019",
               8,
               11
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -3196,12 +3206,12 @@
       "csl_item": {
         "id": "17QDcGqUi",
         "type": "report",
-        "title": "The probability of edge existence due to node degree: a baseline for network-based predictions",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "greenelab.github.io",
+        "title": "The probability of edge existence due to node degree: a baseline for network-based predictions",
+        "title-short": "The probability of edge existence due to node degree",
         "URL": "https://greenelab.github.io/xswap-manuscript/",
-        "shortTitle": "The probability of edge existence due to node degree",
-        "language": "en-US",
         "author": [
           {
             "family": "Zietz",
@@ -3232,21 +3242,21 @@
             "given": "Casey S."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               3,
               5
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -3269,9 +3279,9 @@
       "csl_item": {
         "id": "vp5P0LkL",
         "type": "webpage",
+        "language": "en-US",
         "title": "Incorporating biological structure into machine learning models in biomedicine",
         "URL": "https://greenelab.github.io/biopriors-review/",
-        "language": "en-US",
         "author": [
           {
             "family": "Crawford",
@@ -3282,21 +3292,21 @@
             "given": "Casey S."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2019",
               12,
               17
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -3357,11 +3367,11 @@
       "csl_item": {
         "id": "drG4LUg7",
         "type": "report",
-        "title": "$k$-mer homology is a transcriptome-first method enabling functional prediction of transcriptomic 'dark matter' across species",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "czbiohub.github.io",
+        "title": "$k$-mer homology is a transcriptome-first method enabling functional prediction of transcriptomic 'dark matter' across species",
         "URL": "https://czbiohub.github.io/kmer-homology-paper/",
-        "language": "en-US",
         "author": [
           {
             "family": "Botvinnik",
@@ -3396,21 +3406,21 @@
             "given": "Jim"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               12,
               11
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -3424,20 +3434,20 @@
       "repo_url": "https://github.com/greenelab/iscb-diversity-manuscript",
       "url": "https://greenelab.github.io/iscb-diversity-manuscript/",
       "citation": "url:https://greenelab.github.io/iscb-diversity-manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/c98b9ba0b70a756820a738d3447bb4ee1f5687aa/build/assets/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/iscb-diversity-manuscript/raw/23502a03b57f9a3bc772e839edf42be879fa9655/build/assets/thumbnail.png",
       "title": "Analysis of scientific society-awarded honors reveals disparities",
       "authors": "Le, Himmelstein, Hippen, Gazzara, Greene",
       "journal": "Manubot",
-      "date_iso": "2021-08-05",
-      "date_human": "Aug 2021",
+      "date_iso": "2021-09-07",
+      "date_human": "Sep 2021",
       "csl_item": {
         "id": "qsmtXB4B",
         "type": "report",
-        "title": "Analysis of scientific society-awarded honors reveals disparities",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "greenelab.github.io",
+        "title": "Analysis of scientific society-awarded honors reveals disparities",
         "URL": "https://greenelab.github.io/iscb-diversity-manuscript/",
-        "language": "en-US",
         "author": [
           {
             "family": "Le",
@@ -3460,21 +3470,21 @@
             "given": "Casey S."
           }
         ],
-        "issued": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              5
-            ]
-          ]
-        },
         "accessed": {
           "date-parts": [
             [
               "2021",
-              8,
-              13
+              9,
+              20
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              7
             ]
           ]
         },
@@ -3532,6 +3542,56 @@
         "note": "This CSL Item was generated by Manubot v0.5.1 from its persistent identifier (standard_id).\nstandard_id: doi:10.1101/2020.04.14.927251"
       }
     },
+    "journal": {
+      "citation": "doi:10.1016/j.cels.2021.07.007",
+      "url": "https://doi.org/gmhq49",
+      "title": "Analysis of scientific society honors reveals disparities",
+      "authors": "Le, Himmelstein, Hippen, Gazzara, Greene",
+      "journal": "Cell Systems",
+      "date_iso": "2021-08",
+      "date_human": "Aug 2021",
+      "csl_item": {
+        "type": "article-journal",
+        "id": "ug7IHrh0",
+        "author": [
+          {
+            "family": "Le",
+            "given": "Trang T."
+          },
+          {
+            "family": "Himmelstein",
+            "given": "Daniel S."
+          },
+          {
+            "family": "Hippen",
+            "given": "Ariel A."
+          },
+          {
+            "family": "Gazzara",
+            "given": "Matthew R."
+          },
+          {
+            "family": "Greene",
+            "given": "Casey S."
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              8
+            ]
+          ]
+        },
+        "container-title": "Cell Systems",
+        "DOI": "10.1016/j.cels.2021.07.007",
+        "page": "S2405471221002854",
+        "publisher": "Elsevier BV",
+        "title": "Analysis of scientific society honors reveals disparities",
+        "URL": "https://doi.org/gmhq49",
+        "note": "This CSL Item was generated by Manubot v0.5.1 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.cels.2021.07.007"
+      }
+    },
     "extras": {}
   },
   {
@@ -3539,21 +3599,21 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/dc4742ee10edace06468011174725679b861ce6f/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/754a1b4dc1ee40623392eb94f5d83c00a9aa71a5/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2021-08-13",
-      "date_human": "Aug 2021",
+      "date_iso": "2021-09-16",
+      "date_human": "Sep 2021",
       "csl_item": {
         "id": "Z4Wyi0Mo",
         "type": "report",
-        "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "greenelab.github.io",
+        "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
+        "title-short": "SARS-CoV-2 and COVID-19",
         "URL": "https://greenelab.github.io/covid19-review/",
-        "shortTitle": "SARS-CoV-2 and COVID-19",
-        "language": "en-US",
         "author": [
           {
             "family": "Rando",
@@ -3765,21 +3825,21 @@
             "given": "Jeremy P."
           }
         ],
-        "issued": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
-            ]
-          ]
-        },
         "accessed": {
           "date-parts": [
             [
               "2021",
-              8,
-              13
+              9,
+              20
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              16
             ]
           ]
         },
@@ -3801,11 +3861,11 @@
       "csl_item": {
         "id": "11P3QTeZN",
         "type": "report",
-        "title": "Metagenome-Assembled Genome Binning Methods with Short Reads Disproportionately Fail for Plasmids and Genomic Islands",
+        "language": "en-CA",
         "publisher": "Manubot",
         "source": "finlaymagui.re",
+        "title": "Metagenome-Assembled Genome Binning Methods with Short Reads Disproportionately Fail for Plasmids and Genomic Islands",
         "URL": "https://fmaguire.github.io/mag_sim_paper/",
-        "language": "en-CA",
         "author": [
           {
             "family": "Maguire*",
@@ -3832,21 +3892,21 @@
             "given": "Fiona S. L."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               9,
               1
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -3863,16 +3923,16 @@
       "title": "An Open Pediatric Brain Tumor Atlas",
       "authors": "Shapiro, Savonen, Bethell, Gaonkar, Zhu, Brown, Duong, Rathi, Noureen, Zhang, Ennis, Spielman, et al",
       "journal": "Manubot",
-      "date_iso": "2021-08-12",
-      "date_human": "Aug 2021",
+      "date_iso": "2021-09-02",
+      "date_human": "Sep 2021",
       "csl_item": {
         "id": "oqc02age",
         "type": "report",
-        "title": "An Open Pediatric Brain Tumor Atlas",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "alexslemonade.github.io",
+        "title": "An Open Pediatric Brain Tumor Atlas",
         "URL": "https://AlexsLemonade.github.io/OpenPBTA-manuscript/",
-        "language": "en-US",
         "author": [
           {
             "family": "Shapiro",
@@ -3943,6 +4003,10 @@
             "given": "Pichai"
           },
           {
+            "family": "Mason",
+            "given": "Jennifer"
+          },
+          {
             "family": "Miller",
             "given": "Daniel P."
           },
@@ -3967,6 +4031,14 @@
             "given": "Mateusz P."
           },
           {
+            "family": "Guo",
+            "given": "Yiran"
+          },
+          {
+            "family": "Huang",
+            "given": "Xiaoyan"
+          },
+          {
             "family": "Wong",
             "given": "Jessica"
           },
@@ -3977,6 +4049,10 @@
           {
             "family": "Viaene",
             "given": "Angela"
+          },
+          {
+            "family": "Scolaro",
+            "given": "Laura"
           },
           {
             "family": "Waanders",
@@ -4031,21 +4107,21 @@
             "given": "Pacific Pediatric Neurooncology"
           }
         ],
-        "issued": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              12
-            ]
-          ]
-        },
         "accessed": {
           "date-parts": [
             [
               "2021",
-              8,
-              13
+              9,
+              20
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              2
             ]
           ]
         },
@@ -4068,32 +4144,32 @@
       "csl_item": {
         "id": "MzP9ROHg",
         "type": "report",
-        "title": "Collaborative Writing with Manubot",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "jperkel.github.io",
+        "title": "Collaborative Writing with Manubot",
         "URL": "https://jperkel.github.io/mymanuscript/",
-        "language": "en-US",
         "author": [
           {
             "family": "Perkel",
             "given": "Jeffrey M."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               3,
               31
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -4153,11 +4229,11 @@
       "csl_item": {
         "id": "4Bpw32bg",
         "type": "report",
-        "title": "Testing the association between blood type and COVID-19 infection, intubation, and death",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "zietzm.com",
+        "title": "Testing the association between blood type and COVID-19 infection, intubation, and death",
         "URL": "https://zietzm.github.io/abo_covid/",
-        "language": "en-US",
         "author": [
           {
             "family": "Zietz",
@@ -4168,21 +4244,21 @@
             "given": "Nicholas P."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               4,
               8
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -4298,11 +4374,11 @@
       "csl_item": {
         "id": "g2OGHJny",
         "type": "report",
-        "title": "Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "compgenomelab.github.io",
+        "title": "Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events",
         "URL": "https://compgenomelab.github.io/lemur-manuscript-archive/webpage/",
-        "language": "en-US",
         "author": [
           {
             "family": "Akkose",
@@ -4341,21 +4417,21 @@
             "given": "Ogun"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               4,
               5
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -4445,12 +4521,12 @@
       "csl_item": {
         "id": "jLmss7rn",
         "type": "report",
-        "title": "treeheatr: an R package for interpretable decision tree visualizations",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "trang1618.github.io",
+        "title": "treeheatr: an R package for interpretable decision tree visualizations",
+        "title-short": "treeheatr",
         "URL": "https://trang1618.github.io/treeheatr-manuscript/",
-        "shortTitle": "treeheatr",
-        "language": "en-US",
         "author": [
           {
             "family": "Le",
@@ -4461,21 +4537,21 @@
             "given": "Jason H."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               6,
               29
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -4578,11 +4654,11 @@
       "csl_item": {
         "id": "wZsHyQ1I",
         "type": "report",
-        "title": "Recommendations to enhance rigor and reproducibility in biomedical research",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "mangul-lab-usc.github.io",
+        "title": "Recommendations to enhance rigor and reproducibility in biomedical research",
         "URL": "https://mangul-lab-usc.github.io/enhancing_reproducibility/",
-        "language": "en-US",
         "author": [
           {
             "family": "Brito",
@@ -4613,21 +4689,21 @@
             "given": "Serghei"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               5,
               5
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -4773,11 +4849,11 @@
       "csl_item": {
         "id": "8MIlcbMV",
         "type": "report",
-        "title": "Extension of Roles in the ChEBI Ontology",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "chemical-roles.github.io",
+        "title": "Extension of Roles in the ChEBI Ontology",
         "URL": "https://chemical-roles.github.io/manuscript/",
-        "language": "en-US",
         "author": [
           {
             "family": "Hoyt",
@@ -4804,21 +4880,21 @@
             "given": "Viswa"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               9,
               7
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -4830,7 +4906,7 @@
       "url": "https://doi.org/gg3txr",
       "title": "Extension of Roles in the ChEBI Ontology",
       "authors": "Hoyt, Mungall, Vasilevsky, Domingo-Fernández, Healy, Colluru",
-      "journal": "Cambridge University Press (CUP)",
+      "journal": "American Chemical Society (ACS)",
       "date_iso": "2020-07-02",
       "date_human": "Jul 2020",
       "csl_item": {
@@ -4872,9 +4948,9 @@
           ]
         },
         "abstract": "This manuscript describes the extension of the ChEBI ontology to connect its roles to their targets in other controlled vocabularies, to improve interoperability, and to enable inference.<br>",
-        "container-title": "Cambridge University Press (CUP)",
+        "container-title": "American Chemical Society (ACS)",
         "DOI": "10.26434/chemrxiv.12591221",
-        "publisher": "Cambridge University Press (CUP)",
+        "publisher": "American Chemical Society (ACS)",
         "title": "Extension of Roles in the ChEBI Ontology",
         "URL": "https://doi.org/gg3txr",
         "note": "This CSL Item was generated by Manubot v0.5.1 from its persistent identifier (standard_id).\nstandard_id: doi:10.26434/chemrxiv.12591221"
@@ -4895,11 +4971,11 @@
       "csl_item": {
         "id": "ZKIkuKfj",
         "type": "report",
-        "title": "Streamlining Data-Intensive Biology With Workflow Systems",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "dib-lab.github.io",
+        "title": "Streamlining Data-Intensive Biology With Workflow Systems",
         "URL": "https://dib-lab.github.io/2020-workflows-paper/",
-        "language": "en-US",
         "author": [
           {
             "family": "Reiter",
@@ -4934,21 +5010,21 @@
             "given": "N. Tessa"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               11,
               16
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -5033,11 +5109,11 @@
       "csl_item": {
         "id": "1HklD9rdR",
         "type": "report",
-        "title": "Major challenges on authorship and concept of authorship - why is something more needed on contributorship?",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "data2health.github.io",
+        "title": "Major challenges on authorship and concept of authorship - why is something more needed on contributorship?",
         "URL": "https://data2health.github.io/contributorship/",
-        "language": "en-US",
         "author": [
           {
             "family": "Vasilevsky",
@@ -5104,21 +5180,21 @@
             "given": "Kristi"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               8,
               4
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -5240,11 +5316,11 @@
       "csl_item": {
         "id": "IlNylOSZ",
         "type": "report",
-        "title": "Reproducible, portable, and efficient ancient genome reconstruction with nf-core/eager",
+        "language": "en-GB",
         "publisher": "Manubot",
         "source": "apeltzer.github.io",
+        "title": "Reproducible, portable, and efficient ancient genome reconstruction with nf-core/eager",
         "URL": "https://apeltzer.github.io/eager2-paper/",
-        "language": "en-GB",
         "author": [
           {
             "family": "Yates",
@@ -5283,21 +5359,21 @@
             "given": "Alexander"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               11,
               11
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -5386,32 +5462,32 @@
       "csl_item": {
         "id": "hi2DLqCb",
         "type": "report",
-        "title": "New Technology and Tools to Enhance Collaborative Video Analysis in Live ‘Data Sessions’",
+        "language": "en-GB",
         "publisher": "Manubot",
         "source": "quivirr.github.io",
+        "title": "New Technology and Tools to Enhance Collaborative Video Analysis in Live ‘Data Sessions’",
         "URL": "https://QUIVIRR.github.io/Enhanced-Data-Sessions/",
-        "language": "en-GB",
         "author": [
           {
             "family": "McIlvenny",
             "given": "Paul"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2021",
               3,
               4
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -5468,12 +5544,12 @@
       "csl_item": {
         "id": "13PnmUE4s",
         "type": "report",
-        "title": "Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "sage-bionetworks.github.io",
+        "title": "Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report",
+        "title-short": "Mechanisms to Govern Responsible Sharing of Open Data",
         "URL": "https://Sage-Bionetworks.github.io/governanceGreenPaper/",
-        "shortTitle": "Mechanisms to Govern Responsible Sharing of Open Data",
-        "language": "en-US",
         "author": [
           {
             "family": "Mangravite",
@@ -5496,21 +5572,21 @@
             "given": ""
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               10,
               6
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -5533,11 +5609,11 @@
       "csl_item": {
         "id": "FEX1bYHc",
         "type": "report",
-        "title": "Automated segmentation and description of the internal morphology of human permanent teeth by means of micro-CT",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "habi.github.io",
+        "title": "Automated segmentation and description of the internal morphology of human permanent teeth by means of micro-CT",
         "URL": "https://habi.github.io/zmk-tooth-cohort-method-manuscript/",
-        "language": "en-US",
         "author": [
           {
             "family": "Haberthür",
@@ -5552,20 +5628,20 @@
             "given": "Thomas Gerhard"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2021",
               4,
-              13
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
               13
             ]
           ]
@@ -5679,12 +5755,12 @@
       "csl_item": {
         "id": "50ZUpOoc",
         "type": "report",
-        "title": "ANN: A platform to annotate text with Wikidata IDs",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "lubianat.github.io",
+        "title": "ANN: A platform to annotate text with Wikidata IDs",
+        "title-short": "ANN",
         "URL": "https://lubianat.github.io/ann_sprint/",
-        "shortTitle": "ANN",
-        "language": "en-US",
         "author": [
           {
             "family": "Lubiana",
@@ -5723,21 +5799,21 @@
             "given": "Inés Hojas"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2020",
               11,
               18
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -5760,11 +5836,11 @@
       "csl_item": {
         "id": "LIce1Gfq",
         "type": "report",
-        "title": "Towards a pragmatic definition of cell type",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "lubianat.github.io",
+        "title": "Towards a pragmatic definition of cell type",
         "URL": "https://lubianat.github.io/technotype/",
-        "language": "en-US",
         "author": [
           {
             "family": "Lubiana",
@@ -5775,21 +5851,21 @@
             "given": "Helder I."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2021",
               3,
               9
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -5844,16 +5920,16 @@
       "title": "Pulmonary acini exhibit complex changes during postnatal rat lung development",
       "authors": "Haberthür, Yao, Barré, Cremona, Tschanz, Schittny",
       "journal": "Manubot",
-      "date_iso": "2021-07-16",
-      "date_human": "Jul 2021",
+      "date_iso": "2021-09-10",
+      "date_human": "Sep 2021",
       "csl_item": {
         "id": "18tlpPSUP",
         "type": "report",
-        "title": "Pulmonary acini exhibit complex changes during postnatal rat lung development",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "habi.github.io",
+        "title": "Pulmonary acini exhibit complex changes during postnatal rat lung development",
         "URL": "https://habi.github.io/acinar-analysis-manuscript/",
-        "language": "en-US",
         "author": [
           {
             "family": "Haberthür",
@@ -5880,21 +5956,21 @@
             "given": "Johannes C."
           }
         ],
-        "issued": {
-          "date-parts": [
-            [
-              "2021",
-              7,
-              16
-            ]
-          ]
-        },
         "accessed": {
           "date-parts": [
             [
               "2021",
-              8,
-              13
+              9,
+              20
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              10
             ]
           ]
         },
@@ -5966,16 +6042,16 @@
       "title": "Linguistic Analysis of the bioRxiv Preprint Landscape",
       "authors": "Nicholson, Rubinetti, Hu, Thielk, Hunter, Greene",
       "journal": "Manubot",
-      "date_iso": "2021-05-12",
-      "date_human": "May 2021",
+      "date_iso": "2021-09-07",
+      "date_human": "Sep 2021",
       "csl_item": {
         "id": "hHNmjero",
         "type": "report",
-        "title": "Linguistic Analysis of the bioRxiv Preprint Landscape",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "greenelab.github.io",
+        "title": "Linguistic Analysis of the bioRxiv Preprint Landscape",
         "URL": "https://greenelab.github.io/annorxiver_manuscript/",
-        "language": "en-US",
         "author": [
           {
             "family": "Nicholson",
@@ -6002,21 +6078,21 @@
             "given": "Casey S."
           }
         ],
-        "issued": {
-          "date-parts": [
-            [
-              "2021",
-              5,
-              12
-            ]
-          ]
-        },
         "accessed": {
           "date-parts": [
             [
               "2021",
-              8,
-              13
+              9,
+              20
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              7
             ]
           ]
         },
@@ -6085,21 +6161,21 @@
       "repo_url": "https://github.com/lotusnprod/lotus-manuscript",
       "url": "https://lotusnprod.github.io/lotus-manuscript",
       "citation": "url:https://lotusnprod.github.io/lotus-manuscript",
-      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/aed375aae9a41938fbb9d557c3abadf90cc69ce0/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/d3d2a278ca4ee80d429cbf21b7cc10fa5c2c6b01/content/images/thumbnail.png",
       "title": "The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata",
       "authors": "Rutz, Sorokina, Galgonek, Mietchen, Willighagen, Gaudry, Graham, Stephan, Page, Vondrášek, Steinbeck, et al",
       "journal": "Manubot",
-      "date_iso": "2021-08-09",
-      "date_human": "Aug 2021",
+      "date_iso": "2021-09-19",
+      "date_human": "Sep 2021",
       "csl_item": {
         "id": "13rUhUH3J",
         "type": "report",
-        "title": "The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "lotusnprod.github.io",
+        "title": "The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata",
+        "title-short": "The LOTUS Initiative for Open Natural Products Research",
         "URL": "https://lotusnprod.github.io/lotus-manuscript/",
-        "shortTitle": "The LOTUS Initiative for Open Natural Products Research",
-        "language": "en-US",
         "author": [
           {
             "family": "Rutz",
@@ -6162,21 +6238,21 @@
             "given": "Pierre-Marie"
           }
         ],
-        "issued": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              9
-            ]
-          ]
-        },
         "accessed": {
           "date-parts": [
             [
               "2021",
-              8,
-              13
+              9,
+              20
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              19
             ]
           ]
         },
@@ -6290,32 +6366,32 @@
       "csl_item": {
         "id": "3Z3yZyZQ",
         "type": "report",
-        "title": "From the retina to action: Dynamics of predictive processing in the visual system",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "laurentperrinet.github.io",
+        "title": "From the retina to action: Dynamics of predictive processing in the visual system",
+        "title-short": "From the retina to action",
         "URL": "https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/",
-        "shortTitle": "From the retina to action",
-        "language": "en-US",
         "author": [
           {
             "family": "Perrinet",
             "given": "Laurent U."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2021",
               4,
-              13
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
               13
             ]
           ]
@@ -6405,12 +6481,12 @@
       "csl_item": {
         "id": "10vrCJNhy",
         "type": "report",
-        "title": "IRB Protocol: Understanding Black Indianapolis Community Members’ Vision for Housing in their Neighborhoods",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "danielriggins.com",
+        "title": "IRB Protocol: Understanding Black Indianapolis Community Members’ Vision for Housing in their Neighborhoods",
+        "title-short": "IRB Protocol",
         "URL": "https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/",
-        "shortTitle": "IRB Protocol",
-        "language": "en-US",
         "author": [
           {
             "family": "Riggins",
@@ -6421,21 +6497,21 @@
             "given": "Tracey A."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2021",
               6,
               16
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -6458,11 +6534,11 @@
       "csl_item": {
         "id": "3Ond0wAX",
         "type": "report",
-        "title": "Analysis of science journalism reveals gender and regional disparities in coverage",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "greenelab.github.io",
+        "title": "Analysis of science journalism reveals gender and regional disparities in coverage",
         "URL": "https://greenelab.github.io/nature_news_manuscript/",
-        "language": "en-US",
         "author": [
           {
             "family": "Davidson",
@@ -6473,21 +6549,21 @@
             "given": "Casey S."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2021",
               7,
               27
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
@@ -6548,11 +6624,11 @@
       "csl_item": {
         "id": "17O5uT8xZ",
         "type": "report",
-        "title": "sPlotOpen – An environmentally-balanced, open-access, global dataset of vegetation plots",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "fmsabatini.github.io",
+        "title": "sPlotOpen – An environmentally-balanced, open-access, global dataset of vegetation plots",
         "URL": "https://fmsabatini.github.io/sPlotOpen_Manuscript/",
-        "language": "en-US",
         "author": [
           {
             "family": "Sabatini",
@@ -7201,6 +7277,15 @@
             "given": "Helge"
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
@@ -7210,29 +7295,31 @@
             ]
           ]
         },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
-            ]
-          ]
-        },
         "note": "This CSL Item was generated by Manubot v0.5.1 from its persistent identifier (standard_id).\nstandard_id: url:https://fmsabatini.github.io/sPlotOpen_Manuscript/"
       }
     },
     "journal": {
-      "citation": "doi:10.1111/geb.13346",
-      "url": "https://doi.org/gkzwjv",
-      "title": "sPlotOpen – An environmentally balanced, open‐access, global dataset of vegetation plots",
-      "authors": "Sabatini, Lenoir, Hattab, Arnst, Chytrý, Dengler, De Ruffray, Hennekens, Jandt, Jansen, et al",
+      "citation": "url:https://doi.org/10.1111/geb.13346",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13346",
+      "title": "sPlotOpen – An environmentally balanced, open-access, global dataset of vegetation plots",
+      "authors": "Sabatini, Lenoir, Hattab, Arnst, Chytrý, Dengler, Ruffray, Hennekens, Jandt, Jansen, Jiménez-Alfaro, et al",
       "journal": "Global Ecology and Biogeography",
-      "date_iso": "2021-06-21",
-      "date_human": "Jun 2021",
+      "date_iso": "2021",
+      "date_human": "2021",
       "csl_item": {
+        "id": "zkapZKLm",
         "type": "article-journal",
-        "id": "HtStoSAI",
+        "abstract": "Motivation Assessing biodiversity status and trends in plant communities is critical for understanding, quantifying and predicting the effects of global change on ecosystems. Vegetation plots record the occurrence or abundance of all plant species co-occurring within delimited local areas. This allows species absences to be inferred, information seldom provided by existing global plant datasets. Although many vegetation plots have been recorded, most are not available to the global research community. A recent initiative, called ‘sPlot’, compiled the first global vegetation plot database, and continues to grow and curate it. The sPlot database, however, is extremely unbalanced spatially and environmentally, and is not open-access. Here, we address both these issues by (a) resampling the vegetation plots using several environmental variables as sampling strata and (b) securing permission from data holders of 105 local-to-regional datasets to openly release data. We thus present sPlotOpen, the largest open-access dataset of vegetation plots ever released. sPlotOpen can be used to explore global diversity at the plant community level, as ground truth data in remote sensing applications, or as a baseline for biodiversity monitoring. Main types of variable contained Vegetation plots (n = 95,104) recording cover or abundance of naturally co-occurring vascular plant species within delimited areas. sPlotOpen contains three partially overlapping resampled datasets (c. 50,000 plots each), to be used as replicates in global analyses. Besides geographical location, date, plot size, biome, elevation, slope, aspect, vegetation type, naturalness, coverage of various vegetation layers, and source dataset, plot-level data also include community-weighted means and variances of 18 plant functional traits from the TRY Plant Trait Database. Spatial location and grain Global, 0.01–40,000 m². Time period and grain 1888–2015, recording dates. Major taxa and level of measurement 42,677 vascular plant taxa, plot-level records. Software format Three main matrices (.csv), relationally linked.",
+        "container-title": "Global Ecology and Biogeography",
+        "DOI": "10.1111/geb.13346",
+        "ISSN": "1466-8238",
+        "issue": "9",
+        "language": "en",
+        "page": "1740-1764",
+        "source": "Wiley Online Library",
+        "title": "sPlotOpen – An environmentally balanced, open-access, global dataset of vegetation plots",
+        "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13346",
+        "volume": "30",
         "author": [
           {
             "family": "Sabatini",
@@ -7259,8 +7346,8 @@
             "given": "Jürgen"
           },
           {
-            "family": "De Ruffray",
-            "given": "Patrice"
+            "family": "Ruffray",
+            "given": "Patrice De"
           },
           {
             "family": "Hennekens",
@@ -7275,7 +7362,7 @@
             "given": "Florian"
           },
           {
-            "family": "Jiménez‐Alfaro",
+            "family": "Jiménez-Alfaro",
             "given": "Borja"
           },
           {
@@ -7327,8 +7414,8 @@
             "given": "Iva"
           },
           {
-            "family": "Arfin Khan",
-            "given": "Mohammed A. S."
+            "family": "Khan",
+            "given": "Mohammed A. S. Arfin"
           },
           {
             "family": "Arroyo",
@@ -7407,16 +7494,17 @@
             "given": "Renata"
           },
           {
-            "family": "De Bie",
-            "given": "Els"
+            "family": "Bie",
+            "given": "Els De"
           },
           {
             "family": "Gasper",
-            "given": "André Luis"
+            "given": "André Luis",
+            "dropping-particle": "de"
           },
           {
-            "family": "De Sanctis",
-            "given": "Michele"
+            "family": "Sanctis",
+            "given": "Michele De"
           },
           {
             "family": "Dimopoulos",
@@ -7431,8 +7519,8 @@
             "given": "Tetiana"
           },
           {
-            "family": "El‐Sheikh",
-            "given": "Mohamed Abd El‐Rouf Mousa"
+            "family": "El-Sheikh",
+            "given": "Mohamed Abd El-Rouf Mousa"
           },
           {
             "family": "Enquist",
@@ -7459,7 +7547,7 @@
             "given": "Sophie"
           },
           {
-            "family": "Galán‐de‐Mera",
+            "family": "Galán-de-Mera",
             "given": "Antonio"
           },
           {
@@ -7484,7 +7572,7 @@
           },
           {
             "family": "Grytnes",
-            "given": "John‐Arvid"
+            "given": "John-Arvid"
           },
           {
             "family": "Guerin",
@@ -7507,8 +7595,8 @@
             "given": "Bruno"
           },
           {
-            "family": "Hinojos Mendoza",
-            "given": "Guillermo"
+            "family": "Mendoza",
+            "given": "Guillermo Hinojos"
           },
           {
             "family": "Hölzel",
@@ -7631,8 +7719,8 @@
             "given": "Jesper Erenskjold"
           },
           {
-            "family": "Monteagudo Mendoza",
-            "given": "Abel"
+            "family": "Mendoza",
+            "given": "Abel Monteagudo"
           },
           {
             "family": "Mucina",
@@ -7683,7 +7771,7 @@
             "given": "Josep"
           },
           {
-            "family": "Pérez‐Haase",
+            "family": "Pérez-Haase",
             "given": "Aaron"
           },
           {
@@ -7715,7 +7803,7 @@
             "given": "Rasmus"
           },
           {
-            "family": "Rivas‐Torres",
+            "family": "Rivas-Torres",
             "given": "Gonzalo"
           },
           {
@@ -7780,7 +7868,7 @@
           },
           {
             "family": "Svenning",
-            "given": "Jens‐Christian"
+            "given": "Jens-Christian"
           },
           {
             "family": "Tang",
@@ -7799,15 +7887,15 @@
             "given": "Kim André"
           },
           {
-            "family": "Vásquez Martínez",
-            "given": "Rodolfo"
+            "family": "Martínez",
+            "given": "Rodolfo Vásquez"
           },
           {
             "family": "Vassilev",
             "given": "Kiril"
           },
           {
-            "family": "Vélez‐Martin",
+            "family": "Vélez-Martin",
             "given": "Eduardo"
           },
           {
@@ -7828,7 +7916,8 @@
           },
           {
             "family": "Wehrden",
-            "given": "Henrik"
+            "given": "Henrik",
+            "dropping-particle": "von"
           },
           {
             "family": "Wagner",
@@ -7844,7 +7933,7 @@
           },
           {
             "family": "Wang",
-            "given": "Hua‐Feng"
+            "given": "Hua-Feng"
           },
           {
             "family": "Wesche",
@@ -7877,28 +7966,25 @@
           {
             "family": "Bruelheide",
             "given": "Helge"
-          },
-          {
-            "family": "Bates",
-            "given": "Amanda"
           }
         ],
-        "issued": {
+        "accessed": {
           "date-parts": [
             [
-              2021,
-              6,
-              21
+              "2021",
+              9,
+              20
             ]
           ]
         },
-        "container-title": "Global Ecology and Biogeography",
-        "DOI": "10.1111/geb.13346",
-        "page": "geb.13346",
-        "publisher": "Wiley",
-        "title": "sPlotOpen – An environmentally balanced, open‐access, global dataset of vegetation plots",
-        "URL": "https://doi.org/gkzwjv",
-        "note": "This CSL Item was generated by Manubot v0.5.1 from its persistent identifier (standard_id).\nstandard_id: doi:10.1111/geb.13346"
+        "issued": {
+          "date-parts": [
+            [
+              "2021"
+            ]
+          ]
+        },
+        "note": "This CSL Item was generated by Manubot v0.5.1 from its persistent identifier (standard_id).\nstandard_id: url:https://doi.org/10.1111/geb.13346"
       }
     },
     "extras": {}
@@ -7916,11 +8002,11 @@
       "csl_item": {
         "id": "IxgQDGqC",
         "type": "report",
-        "title": "Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms",
+        "language": "en-US",
         "publisher": "Manubot",
         "source": "greenelab.github.io",
+        "title": "Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms",
         "URL": "https://greenelab.github.io/phenoplier_manuscript/",
-        "language": "en-US",
         "author": [
           {
             "family": "Pividori",
@@ -7991,21 +8077,21 @@
             "given": "Casey S."
           }
         ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2021",
+              9,
+              20
+            ]
+          ]
+        },
         "issued": {
           "date-parts": [
             [
               "2021",
               8,
               6
-            ]
-          ]
-        },
-        "accessed": {
-          "date-parts": [
-            [
-              "2021",
-              8,
-              13
             ]
           ]
         },
