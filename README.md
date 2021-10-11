@@ -31,7 +31,11 @@ An example manuscript with documentation comments is below:
 
 For more information on how to create citations for `preprint_citation` and `journal_citation`, see Manubot's citation-by-identifier [documentation here](https://github.com/manubot/rootstock/blob/main/USAGE.md#citations).
 Specifying `thumbnail_url` overrides the thumbnail image detected from the metadata of `html_url`.
-Therefore, setting `thumbnail_url` is only neccessary if the manuscript does not supply a thumbnail image or if the catalog should use a different image.
+Therefore, setting `thumbnail_url` is only necessary if the manuscript does not supply a thumbnail image or if the catalog should use a different image.
+
+If Manubot has trouble generating the CSL Data for a citation,
+which could happen due to upstream issues [like this one](https://github.com/crosscite/content-negotiation/issues/104),
+add the reference to [`bibliography.yaml`](bibliography.yaml).
 
 ## Thumbnail Guidelines
 

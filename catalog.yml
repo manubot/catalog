@@ -14,8 +14,7 @@
 - repo_url: https://github.com/greenelab/scihub-manuscript
   html_url: https://greenelab.github.io/scihub-manuscript/
   # https://github.com/crosscite/content-negotiation/issues/104
-  # preprint_citation: doi:10.7287/peerj.preprints.3100
-  preprint_citation: https://doi.org/10.7287/peerj.preprints.3100
+  preprint_citation: doi:10.7287/peerj.preprints.3100
   journal_citation: doi:10.7554/eLife.32822
 - repo_url: https://github.com/greenelab/scihub-manuscript-es
   html_url: https://greenelab.github.io/scihub-manuscript-es/
@@ -175,8 +174,7 @@
 - repo_url: https://github.com/fmsabatini/sPlotOpen_Manuscript
   html_url: https://fmsabatini.github.io/sPlotOpen_Manuscript/
   # https://github.com/crosscite/content-negotiation/issues/104
-  # journal_citation: doi:10.1111/geb.13346
-  journal_citation: https://doi.org/10.1111/geb.13346
+  journal_citation: doi:10.1111/geb.13346
 - repo_url: https://github.com/greenelab/phenoplier_manuscript
   html_url: https://greenelab.github.io/phenoplier_manuscript/
   preprint_citation: doi:10.1101/2021.07.05.450786

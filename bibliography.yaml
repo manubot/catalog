@@ -1,0 +1,366 @@
+- id: doi:10.7287/peerj.preprints.3100
+  type: report
+  title: Sci-Hub provides access to nearly all scholarly literature
+  language: en
+  number: e3100v3
+  publisher: PeerJ Preprints
+  URL: https://peerj.com/preprints/3100
+  DOI: 10.7287/peerj.preprints.3100
+  author:
+  - family: Himmelstein
+    given: Daniel S.
+  - family: Romero
+    given: Ariel R.
+  - family: Levernier
+    given: Jacob G.
+  - family: Munro
+    given: Thomas A.
+  - family: McLaughlin
+    given: Stephen R.
+  - family: Tzovaras
+    given: Bastian Greshake
+  - family: Greene
+    given: Casey S.
+  issued:
+    date-parts:
+    - - 2018
+      - 2
+      - 2
+- id: doi:10.1111/geb.13346
+  type: article-journal
+  title: sPlotOpen – An environmentally balanced, open‐access, global dataset of vegetation plots
+  author:
+  - family: Sabatini
+    given: Francesco Maria
+  - family: Lenoir
+    given: Jonathan
+  - family: Hattab
+    given: Tarek
+  - family: Arnst
+    given: Elise Aimee
+  - family: Chytrý
+    given: Milan
+  - family: Dengler
+    given: Jürgen
+  - family: De Ruffray
+    given: Patrice
+  - family: Hennekens
+    given: Stephan M.
+  - family: Jandt
+    given: Ute
+  - family: Jansen
+    given: Florian
+  - family: Jiménez‐Alfaro
+    given: Borja
+  - family: Kattge
+    given: Jens
+  - family: Levesley
+    given: Aurora
+  - family: Pillar
+    given: Valério D.
+  - family: Purschke
+    given: Oliver
+  - family: Sandel
+    given: Brody
+  - family: Sultana
+    given: Fahmida
+  - family: Aavik
+    given: Tsipe
+  - family: Aćić
+    given: Svetlana
+  - family: Acosta
+    given: Alicia T. R.
+  - family: Agrillo
+    given: Emiliano
+  - family: Alvarez
+    given: Miguel
+  - family: Apostolova
+    given: Iva
+  - family: Arfin Khan
+    given: Mohammed A. S.
+  - family: Arroyo
+    given: Luzmila
+  - family: Attorre
+    given: Fabio
+  - family: Aubin
+    given: Isabelle
+  - family: Banerjee
+    given: Arindam
+  - family: Bauters
+    given: Marijn
+  - family: Bergeron
+    given: Yves
+  - family: Bergmeier
+    given: Erwin
+  - family: Biurrun
+    given: Idoia
+  - family: Bjorkman
+    given: Anne D.
+  - family: Bonari
+    given: Gianmaria
+  - family: Bondareva
+    given: Viktoria
+  - family: Brunet
+    given: Jörg
+  - family: Čarni
+    given: Andraž
+  - family: Casella
+    given: Laura
+  - family: Cayuela
+    given: Luis
+  - family: Černý
+    given: Tomáš
+  - family: Chepinoga
+    given: Victor
+  - family: Csiky
+    given: János
+  - family: Ćušterevska
+    given: Renata
+  - family: De Bie
+    given: Els
+  - family: Gasper
+    given: André Luis
+  - family: De Sanctis
+    given: Michele
+  - family: Dimopoulos
+    given: Panayotis
+  - family: Dolezal
+    given: Jiri
+  - family: Dziuba
+    given: Tetiana
+  - family: El‐Sheikh
+    given: Mohamed Abd El‐Rouf Mousa
+  - family: Enquist
+    given: Brian
+  - family: Ewald
+    given: Jörg
+  - family: Fazayeli
+    given: Farideh
+  - family: Field
+    given: Richard
+  - family: Finckh
+    given: Manfred
+  - family: Gachet
+    given: Sophie
+  - family: Galán‐de‐Mera
+    given: Antonio
+  - family: Garbolino
+    given: Emmanuel
+  - family: Gholizadeh
+    given: Hamid
+  - family: Giorgis
+    given: Melisa
+  - family: Golub
+    given: Valentin
+  - family: Alsos
+    given: Inger Greve
+  - family: Grytnes
+    given: John‐Arvid
+  - family: Guerin
+    given: Gregory Richard
+  - family: Gutiérrez
+    given: Alvaro G.
+  - family: Haider
+    given: Sylvia
+  - family: Hatim
+    given: Mohamed Z.
+  - family: Hérault
+    given: Bruno
+  - family: Hinojos Mendoza
+    given: Guillermo
+  - family: Hölzel
+    given: Norbert
+  - family: Homeier
+    given: Jürgen
+  - family: Hubau
+    given: Wannes
+  - family: Indreica
+    given: Adrian
+  - family: Janssen
+    given: John A. M.
+  - family: Jedrzejek
+    given: Birgit
+  - family: Jentsch
+    given: Anke
+  - family: Jürgens
+    given: Norbert
+  - family: Kącki
+    given: Zygmunt
+  - family: Kapfer
+    given: Jutta
+  - family: Karger
+    given: Dirk Nikolaus
+  - family: Kavgacı
+    given: Ali
+  - family: Kearsley
+    given: Elizabeth
+  - family: Kessler
+    given: Michael
+  - family: Khanina
+    given: Larisa
+  - family: Killeen
+    given: Timothy
+  - family: Korolyuk
+    given: Andrey
+  - family: Kreft
+    given: Holger
+  - family: Kühl
+    given: Hjalmar S.
+  - family: Kuzemko
+    given: Anna
+  - family: Landucci
+    given: Flavia
+  - family: Lengyel
+    given: Attila
+  - family: Lens
+    given: Frederic
+  - family: Lingner
+    given: Débora Vanessa
+  - family: Liu
+    given: Hongyan
+  - family: Lysenko
+    given: Tatiana
+  - family: Mahecha
+    given: Miguel D.
+  - family: Marcenò
+    given: Corrado
+  - family: Martynenko
+    given: Vasiliy
+  - family: Moeslund
+    given: Jesper Erenskjold
+  - family: Monteagudo Mendoza
+    given: Abel
+  - family: Mucina
+    given: Ladislav
+  - family: Müller
+    given: Jonas V.
+  - family: Munzinger
+    given: Jérôme
+  - family: Naqinezhad
+    given: Alireza
+  - family: Noroozi
+    given: Jalil
+  - family: Nowak
+    given: Arkadiusz
+  - family: Onyshchenko
+    given: Viktor
+  - family: Overbeck
+    given: Gerhard E.
+  - family: Pärtel
+    given: Meelis
+  - family: Pauchard
+    given: Aníbal
+  - family: Peet
+    given: Robert K.
+  - family: Peñuelas
+    given: Josep
+  - family: Pérez‐Haase
+    given: Aaron
+  - family: Peterka
+    given: Tomáš
+  - family: Petřík
+    given: Petr
+  - family: Peyre
+    given: Gwendolyn
+  - family: Phillips
+    given: Oliver L.
+  - family: Prokhorov
+    given: Vadim
+  - family: Rašomavičius
+    given: Valerijus
+  - family: Revermann
+    given: Rasmus
+  - family: Rivas‐Torres
+    given: Gonzalo
+  - family: Rodwell
+    given: John S.
+  - family: Ruprecht
+    given: Eszter
+  - family: Rūsiņa
+    given: Solvita
+  - family: Samimi
+    given: Cyrus
+  - family: Schmidt
+    given: Marco
+  - family: Schrodt
+    given: Franziska
+  - family: Shan
+    given: Hanhuai
+  - family: Shirokikh
+    given: Pavel
+  - family: Šibík
+    given: Jozef
+  - family: Šilc
+    given: Urban
+  - family: Sklenář
+    given: Petr
+  - family: Škvorc
+    given: Željko
+  - family: Sparrow
+    given: Ben
+  - family: Sperandii
+    given: Marta Gaia
+  - family: Stančić
+    given: Zvjezdana
+  - family: Svenning
+    given: Jens‐Christian
+  - family: Tang
+    given: Zhiyao
+  - family: Tang
+    given: Cindy Q.
+  - family: Tsiripidis
+    given: Ioannis
+  - family: Vanselow
+    given: Kim André
+  - family: Vásquez Martínez
+    given: Rodolfo
+  - family: Vassilev
+    given: Kiril
+  - family: Vélez‐Martin
+    given: Eduardo
+  - family: Venanzoni
+    given: Roberto
+  - family: Vibrans
+    given: Alexander Christian
+  - family: Violle
+    given: Cyrille
+  - family: Virtanen
+    given: Risto
+  - family: Wehrden
+    given: Henrik
+  - family: Wagner
+    given: Viktoria
+  - family: Walker
+    given: Donald A.
+  - family: Waller
+    given: Donald M.
+  - family: Wang
+    given: Hua‐Feng
+  - family: Wesche
+    given: Karsten
+  - family: Whitfeld
+    given: Timothy J. S.
+  - family: Willner
+    given: Wolfgang
+  - family: Wiser
+    given: Susan K.
+  - family: Wohlgemuth
+    given: Thomas
+  - family: Yamalov
+    given: Sergey
+  - family: Zobel
+    given: Martin
+  - family: Bruelheide
+    given: Helge
+  - family: Bates
+    given: Amanda
+  issued:
+    date-parts:
+      - - 2021
+        - 6
+        - 21
+  container-title: Global Ecology and Biogeography
+  DOI: 10.1111/geb.13346
+  page: geb.13346
+  publisher: Wiley
+  URL: 'https://doi.org/gkzwjv'
