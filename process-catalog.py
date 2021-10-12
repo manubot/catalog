@@ -5,14 +5,17 @@ import pathlib
 import requests
 import yaml
 from manubot.cite.citekey import citekey_to_csl_item, CiteKey
+from manubot.process.bibliography import load_manual_references
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 directory = pathlib.Path(__file__).parent
 with directory.joinpath("catalog.yml").open() as read_file:
     input_catalog = yaml.safe_load(read_file)
-logging.info(f"catalog consists of {len(input_catalog):,} records")
+logging.info(f"Catalog consists of {len(input_catalog):,} records.")
 
+manual_references = load_manual_references(paths = [directory.joinpath("bibliography.yaml")])
+logging.info(f"Loaded {len(manual_references):,} manual references.")
 
 def get_journal(csl_item):
     keys = [
@@ -165,7 +168,7 @@ def process_record(record):
             "citation": citekey.standard_id,
         }
     for item in output.values():
-        csl_item = citekey_to_csl_item(item["citation"])
+        csl_item = citekey_to_csl_item(item["citation"], manual_refs=manual_references)
         if "url" not in item and "URL" in csl_item:
             item["url"] = csl_item["URL"]
         item["title"] = get_title(csl_item)
