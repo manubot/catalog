@@ -7,8 +7,8 @@
       "title": "Machine learning in rare disease",
       "authors": "Banerjee, Taroni, Allaway, Prasad, Guinney, Greene",
       "journal": "Manubot",
-      "date_iso": "2021-09-24",
-      "date_human": "Sep 2021",
+      "date_iso": "2021-10-15",
+      "date_human": "Oct 2021",
       "csl_item": {
         "id": "CORUkaaL",
         "type": "report",
@@ -48,7 +48,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -56,8 +56,8 @@
           "date-parts": [
             [
               "2021",
-              9,
-              24
+              10,
+              15
             ]
           ]
         },
@@ -120,7 +120,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -547,7 +547,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -658,7 +658,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -732,7 +732,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -924,7 +924,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -975,7 +975,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -1051,7 +1051,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -1204,7 +1204,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -1360,7 +1360,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -1440,7 +1440,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -1605,8 +1605,8 @@
       "title": "Introducing yt 4.0: Analysis and Visualization of Volumetric Data",
       "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Munk, Smith, Kowalik, Val-Borro, Coughlin, et al",
       "journal": "Manubot",
-      "date_iso": "2021-05-18",
-      "date_human": "May 2021",
+      "date_iso": "2021-10-15",
+      "date_human": "Oct 2021",
       "csl_item": {
         "id": "1AIP8Sp9Y",
         "type": "report",
@@ -1705,7 +1705,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -1713,8 +1713,8 @@
           "date-parts": [
             [
               "2021",
-              5,
-              18
+              10,
+              15
             ]
           ]
         },
@@ -1759,7 +1759,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -1898,7 +1898,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -1964,7 +1964,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -2127,7 +2127,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -2171,7 +2171,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -2244,7 +2244,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -2373,7 +2373,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -2528,7 +2528,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -2646,7 +2646,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -2749,7 +2749,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -2862,7 +2862,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -2914,7 +2914,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -2970,7 +2970,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -3075,7 +3075,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -3125,7 +3125,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -3237,7 +3237,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -3287,7 +3287,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -3401,7 +3401,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -3465,7 +3465,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -3592,11 +3592,11 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/974fc8a0469697b98c87aede66ea6e3667c24380/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/cd1f3537d331a0574586ab18565d87eeea008372/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2021-10-09",
+      "date_iso": "2021-10-15",
       "date_human": "Oct 2021",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3823,7 +3823,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -3832,7 +3832,7 @@
             [
               "2021",
               10,
-              9
+              15
             ]
           ]
         },
@@ -3890,7 +3890,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -4105,7 +4105,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -4153,7 +4153,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -4242,7 +4242,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -4415,7 +4415,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -4535,7 +4535,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -4687,7 +4687,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -4878,7 +4878,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -5008,7 +5008,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -5178,7 +5178,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -5357,7 +5357,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -5471,7 +5471,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -5570,7 +5570,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -5626,7 +5626,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -5797,7 +5797,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -5849,7 +5849,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -5954,7 +5954,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -6076,7 +6076,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -6154,11 +6154,11 @@
       "repo_url": "https://github.com/lotusnprod/lotus-manuscript",
       "url": "https://lotusnprod.github.io/lotus-manuscript",
       "citation": "url:https://lotusnprod.github.io/lotus-manuscript",
-      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/5422bdbe5e751fb53ed6ef9f40e30e9b021fbff6/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/1456cc82d6cb7a79a57f1403a053f9f0348fb351/content/images/thumbnail.png",
       "title": "The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata",
       "authors": "Rutz, Sorokina, Galgonek, Mietchen, Willighagen, Gaudry, Graham, Stephan, Page, Vondrášek, Steinbeck, et al",
       "journal": "Manubot",
-      "date_iso": "2021-10-09",
+      "date_iso": "2021-10-13",
       "date_human": "Oct 2021",
       "csl_item": {
         "id": "13rUhUH3J",
@@ -6236,7 +6236,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -6245,7 +6245,7 @@
             [
               "2021",
               10,
-              9
+              13
             ]
           ]
         },
@@ -6376,7 +6376,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -6495,7 +6495,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -6547,7 +6547,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -7275,7 +7275,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
@@ -8065,7 +8065,7 @@
             [
               "2021",
               10,
-              11
+              15
             ]
           ]
         },
