@@ -178,3 +178,6 @@
 - repo_url: https://github.com/greenelab/phenoplier_manuscript
   html_url: https://greenelab.github.io/phenoplier_manuscript/
   preprint_citation: doi:10.1101/2021.07.05.450786
+- repo_url: https://github.com/greenelab/mpmp-manuscript
+  html_url: https://greenelab.github.io/mpmp-manuscript/
+  preprint_citation: doi:10.1101/2021.10.27.466140
