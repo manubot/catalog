@@ -155,6 +155,7 @@
 - repo_url: https://github.com/habi/acinar-analysis-manuscript
   html_url: https://habi.github.io/acinar-analysis-manuscript/
   preprint_citation: doi:10.1101/786681
+  journal_citation: doi:10.1371/journal.pone.0257349
 - repo_url: https://github.com/greenelab/annorxiver_manuscript
   html_url: https://greenelab.github.io/annorxiver_manuscript/
   preprint_citation: doi:10.1101/2021.03.04.433874
