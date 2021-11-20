@@ -48,7 +48,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -120,7 +120,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -547,7 +547,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -658,7 +658,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -732,7 +732,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -924,7 +924,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -975,7 +975,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -1051,7 +1051,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -1103,12 +1103,12 @@
       "repo_url": "https://github.com/Benjamin-Lee/deep-rules",
       "url": "https://benjamin-lee.github.io/deep-rules/",
       "citation": "url:https://benjamin-lee.github.io/deep-rules/",
-      "thumbnail_url": "https://github.com/Benjamin-Lee/deep-rules/raw/60546dabd91d092ff44f371d7ec80cc2d138f969/content/images/thumbnail_tips_overview.png",
+      "thumbnail_url": "https://github.com/Benjamin-Lee/deep-rules/raw/ef0e31af4b81deacca1bdf67da133ac671964e65/content/images/thumbnail_tips_overview.png",
       "title": "Ten Quick Tips for Deep Learning in Biology",
       "authors": "Lee, Gitter, Greene, Raschka, Maguire, Titus, Kessler, Lee, Chevrette, Stewart, Britto-Borges, Cofer, et al",
       "journal": "Manubot",
-      "date_iso": "2021-10-19",
-      "date_human": "Oct 2021",
+      "date_iso": "2021-11-19",
+      "date_human": "Nov 2021",
       "csl_item": {
         "id": "tPU9SJPF",
         "type": "report",
@@ -1204,7 +1204,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -1212,7 +1212,7 @@
           "date-parts": [
             [
               "2021",
-              10,
+              11,
               19
             ]
           ]
@@ -1360,7 +1360,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -1440,7 +1440,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -1705,7 +1705,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -1759,7 +1759,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -1898,7 +1898,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -1964,7 +1964,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -2127,7 +2127,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -2171,7 +2171,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -2244,7 +2244,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -2373,7 +2373,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -2528,7 +2528,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -2646,7 +2646,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -2749,7 +2749,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -2862,7 +2862,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -2914,7 +2914,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -2970,7 +2970,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -3075,7 +3075,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -3125,7 +3125,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -3237,7 +3237,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -3287,7 +3287,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -3401,7 +3401,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -3465,7 +3465,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -3592,11 +3592,11 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/e4d1ed1ff72f78bdd667261a0d343c4262cd6b68/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/ccdf55652d00929753702d09a912037ee0ec75fa/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2021-11-11",
+      "date_iso": "2021-11-18",
       "date_human": "Nov 2021",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3823,7 +3823,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -3832,7 +3832,7 @@
             [
               "2021",
               11,
-              11
+              18
             ]
           ]
         },
@@ -3890,7 +3890,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -3916,7 +3916,7 @@
       "title": "An Open Pediatric Brain Tumor Atlas",
       "authors": "Shapiro, Savonen, Bethell, Gaonkar, Zhu, Brown, Duong, Rathi, Noureen, Zhang, Ennis, Spielman, et al",
       "journal": "Manubot",
-      "date_iso": "2021-11-12",
+      "date_iso": "2021-11-18",
       "date_human": "Nov 2021",
       "csl_item": {
         "id": "oqc02age",
@@ -4105,7 +4105,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -4114,7 +4114,7 @@
             [
               "2021",
               11,
-              12
+              18
             ]
           ]
         },
@@ -4153,7 +4153,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -4242,7 +4242,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -4415,7 +4415,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -4535,7 +4535,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -4687,7 +4687,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -4878,7 +4878,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -5008,7 +5008,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -5178,7 +5178,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -5357,7 +5357,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -5471,7 +5471,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -5570,7 +5570,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -5626,7 +5626,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -5797,7 +5797,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -5849,7 +5849,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -5954,7 +5954,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -6137,7 +6137,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -6215,11 +6215,11 @@
       "repo_url": "https://github.com/lotusnprod/lotus-manuscript",
       "url": "https://lotusnprod.github.io/lotus-manuscript",
       "citation": "url:https://lotusnprod.github.io/lotus-manuscript",
-      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/ebecaedd55633e1d182d677e4bdfac041fd523fd/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/712c4ae737c6087fbb74147a45a1b51c2207fffc/content/images/thumbnail.png",
       "title": "The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata",
       "authors": "Rutz, Sorokina, Galgonek, Mietchen, Willighagen, Gaudry, Graham, Stephan, Page, Vondrášek, Steinbeck, et al",
       "journal": "Manubot",
-      "date_iso": "2021-11-09",
+      "date_iso": "2021-11-18",
       "date_human": "Nov 2021",
       "csl_item": {
         "id": "13rUhUH3J",
@@ -6297,7 +6297,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -6306,7 +6306,7 @@
             [
               "2021",
               11,
-              9
+              18
             ]
           ]
         },
@@ -6437,7 +6437,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -6556,7 +6556,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -6608,7 +6608,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -7336,7 +7336,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -8126,7 +8126,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -8285,7 +8285,7 @@
             [
               "2021",
               11,
-              12
+              19
             ]
           ]
         },
@@ -8304,11 +8304,11 @@
     "preprint": {
       "citation": "doi:10.1101/2021.10.27.466140",
       "url": "https://doi.org/gnbdm9",
-      "title": "Prediction of cancer mutation states using multiple data modalities reveals the utility and consistency of gene expression and DNA methylation",
+      "title": "Gene expression and DNA methylation consistently predict cancer mutation states",
       "authors": "Crawford, Christensen, Chikina, Greene",
       "journal": "Cold Spring Harbor Laboratory",
-      "date_iso": "2021-10-28",
-      "date_human": "Oct 2021",
+      "date_iso": "2021-11-16",
+      "date_human": "Nov 2021",
       "csl_item": {
         "type": "article-journal",
         "id": "AIrklYhU",
@@ -8334,15 +8334,15 @@
           "date-parts": [
             [
               2021,
-              10,
-              28
+              11,
+              16
             ]
           ]
         },
         "container-title": "Cold Spring Harbor Laboratory",
         "DOI": "10.1101/2021.10.27.466140",
         "publisher": "Cold Spring Harbor Laboratory",
-        "title": "Prediction of cancer mutation states using multiple data modalities reveals the utility and consistency of gene expression and DNA methylation",
+        "title": "Gene expression and DNA methylation consistently predict cancer mutation states",
         "URL": "https://doi.org/gnbdm9",
         "note": "This CSL Item was generated by Manubot v0.5.1 from its persistent identifier (standard_id).\nstandard_id: doi:10.1101/2021.10.27.466140"
       }
