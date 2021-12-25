@@ -48,7 +48,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -120,7 +120,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -547,7 +547,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -658,7 +658,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -732,7 +732,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -924,7 +924,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -975,7 +975,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -1051,7 +1051,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -1204,7 +1204,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -1360,7 +1360,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -1440,7 +1440,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -1705,7 +1705,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -1759,7 +1759,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -1898,7 +1898,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -1964,7 +1964,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -2127,7 +2127,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -2171,7 +2171,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -2244,7 +2244,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -2373,7 +2373,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -2528,7 +2528,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -2646,7 +2646,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -2749,7 +2749,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -2862,7 +2862,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -2914,7 +2914,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -2937,12 +2937,12 @@
       "repo_url": "https://github.com/greenelab/text_mined_hetnet_manuscript",
       "url": "https://greenelab.github.io/text_mined_hetnet_manuscript/",
       "citation": "url:https://greenelab.github.io/text_mined_hetnet_manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/text_mined_hetnet_manuscript/raw/1149d5d4ab45ee7ff8cec0698148f421bb01b290/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/text_mined_hetnet_manuscript/raw/470690b46afb1f76962aa2bc69ac1ed5dd0f00e9/thumbnail.png",
       "title": "Expanding a Database-derived Biomedical Knowledge Graph via Multi-relation Extraction from Biomedical Abstracts",
       "authors": "Nicholson, Himmelstein, Greene",
       "journal": "Manubot",
-      "date_iso": "2020-01-29",
-      "date_human": "Jan 2020",
+      "date_iso": "2021-12-22",
+      "date_human": "Dec 2021",
       "csl_item": {
         "id": "j5Gwdbxj",
         "type": "report",
@@ -2970,16 +2970,16 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
         "issued": {
           "date-parts": [
             [
-              "2020",
-              1,
-              29
+              "2021",
+              12,
+              22
             ]
           ]
         },
@@ -3075,7 +3075,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -3125,7 +3125,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -3237,7 +3237,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -3287,7 +3287,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -3401,7 +3401,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -3465,7 +3465,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -3592,11 +3592,11 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/3c53594cd595d8044e388782900f750f74b9e296/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/bfe9c43d6387973d3917692f17ff847309da995c/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2021-12-09",
+      "date_iso": "2021-12-24",
       "date_human": "Dec 2021",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3816,6 +3816,10 @@
           {
             "family": "Kamil",
             "given": "Jeremy P."
+          },
+          {
+            "family": "Mundo",
+            "given": "Ariel I."
           }
         ],
         "accessed": {
@@ -3823,7 +3827,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -3832,7 +3836,7 @@
             [
               "2021",
               12,
-              9
+              24
             ]
           ]
         },
@@ -3890,7 +3894,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -4109,7 +4113,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -4157,7 +4161,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -4246,7 +4250,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -4419,7 +4423,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -4539,7 +4543,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -4691,7 +4695,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -4882,7 +4886,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -5012,7 +5016,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -5182,7 +5186,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -5361,7 +5365,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -5475,7 +5479,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -5574,7 +5578,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -5630,7 +5634,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -5801,7 +5805,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -5853,7 +5857,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -5958,7 +5962,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -6140,7 +6144,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -6218,11 +6222,11 @@
       "repo_url": "https://github.com/lotusnprod/lotus-manuscript",
       "url": "https://lotusnprod.github.io/lotus-manuscript",
       "citation": "url:https://lotusnprod.github.io/lotus-manuscript",
-      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/92833166375aa9cc29f44cffdd5ad693fa42934c/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/92d1e5a4559ce2b86067b27fef2fceb73399b283/content/images/thumbnail.png",
       "title": "The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata",
       "authors": "Rutz, Sorokina, Galgonek, Mietchen, Willighagen, Gaudry, Graham, Stephan, Page, Vondrášek, Steinbeck, et al",
       "journal": "Manubot",
-      "date_iso": "2021-12-17",
+      "date_iso": "2021-12-24",
       "date_human": "Dec 2021",
       "csl_item": {
         "id": "13rUhUH3J",
@@ -6300,7 +6304,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -6309,7 +6313,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -6320,10 +6324,10 @@
       "citation": "doi:10.1101/2021.02.28.433265",
       "url": "https://doi.org/gh6dqk",
       "title": "The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata",
-      "authors": "Rutz, Sorokina, Galgonek, Mietchen, Willighagen, Gaudry, Graham, Stephan, Page, Vondrášek, Steinbeck, et al",
+      "authors": "Rutz, Sorokina, Galgonek, Mietchen, Willighagen, Gaudry, Graham, Stephan, Page, Vondrasek, Steinbeck, et al",
       "journal": "Cold Spring Harbor Laboratory",
-      "date_iso": "2021-05-28",
-      "date_human": "May 2021",
+      "date_iso": "2021-12-24",
+      "date_human": "Dec 2021",
       "csl_item": {
         "type": "article-journal",
         "id": "P1EnNa7Q",
@@ -6354,7 +6358,7 @@
           },
           {
             "family": "Graham",
-            "given": "James G."
+            "given": "James G"
           },
           {
             "family": "Stephan",
@@ -6365,8 +6369,8 @@
             "given": "Roderic"
           },
           {
-            "family": "Vondrášek",
-            "given": "Jiří"
+            "family": "Vondrasek",
+            "given": "Jiri"
           },
           {
             "family": "Steinbeck",
@@ -6374,7 +6378,7 @@
           },
           {
             "family": "Pauli",
-            "given": "Guido F."
+            "given": "Guido"
           },
           {
             "family": "Wolfender",
@@ -6393,12 +6397,12 @@
           "date-parts": [
             [
               2021,
-              5,
-              28
+              12,
+              24
             ]
           ]
         },
-        "abstract": "Contemporary bioinformatic and chemoinformatic capabilities hold promise to reshape knowledge management, analysis and interpretation of data in natural products research. Currently, reliance on a disparate set of non-standardized, insular, and specialized databases presents a series of challenges to data access, either within the discipline or to integration and interoperability between related domains. The fundamental elements of exchange are referenced structure-organism pairs that establish relationships between distinct molecular structures and the living organisms from which they were identified. Consolidating and sharing such information an open platform has strong transformative potential for natural products research and beyond. This is the ultimate goal of the newly established LOTUS initiative, which has now completed the first steps toward the harmonization, curation, validation and open dissemination of 700,000+ referenced structure-organism pairs. LOTUS data is hosted on Wikidata and regularly mirrored on . Data sharing within the Wikidata framework broadens data access and interoperability, opening new possibilities for community curation and evolving publication models. Furthermore, embedding LOTUS data into the vast Wikidata knowledge graph will facilitate new biological and chemical insights. The LOTUS initiative represents an important advancement in the design and deployment of a comprehensive and collaborative natural products knowledge base.",
+        "abstract": "Contemporary bioinformatic and chemoinformatic capabilities hold promise to reshape knowledge management, analysis and interpretation of data in natural products research. Currently, reliance on a disparate set of non-standardized, insular, and specialized databases presents a series of challenges for data access, both within the discipline and for integration and interoperability between related fields. The fundamental elements of exchange are referenced structure-organism pairs that establish relationships between distinct molecular structures and the living organisms from which they were identified. Consolidating and sharing such information via an open platform has strong transformative potential for natural products research and beyond. This is the ultimate goal of the newly established LOTUS initiative, which has now completed the first steps toward the harmonization, curation, validation and open dissemination of 750,000+ referenced structure-organism pairs. LOTUS data is hosted on Wikidata and regularly mirrored on https://lotus.naturalproducts.net. Data sharing within the Wikidata framework broadens data access and interoperability, opening new possibilities for community curation and evolving publication models. Furthermore, embedding LOTUS data into the vast Wikidata knowledge graph will facilitate new biological and chemical insights. The LOTUS initiative represents an important advancement in the design and deployment of a comprehensive and collaborative natural products knowledge base.",
         "container-title": "Cold Spring Harbor Laboratory",
         "DOI": "10.1101/2021.02.28.433265",
         "publisher": "Cold Spring Harbor Laboratory",
@@ -6440,7 +6444,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -6559,7 +6563,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -6611,7 +6615,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -7339,7 +7343,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -8129,7 +8133,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
@@ -8288,7 +8292,7 @@
             [
               "2021",
               12,
-              17
+              24
             ]
           ]
         },
