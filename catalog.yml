@@ -141,6 +141,7 @@
 - repo_url: https://github.com/QUIVIRR/Enhanced-Data-Sessions
   html_url: https://quivirr.github.io/Enhanced-Data-Sessions/
   preprint_citation: doi:10.31235/osf.io/eu7yw
+  journal_citation: doi:10.5278/ojs.quivirr.v1.2020.a0001
 - repo_url: https://github.com/Sage-Bionetworks/governanceGreenPaper
   html_url: https://sage-bionetworks.github.io/governanceGreenPaper/
 - repo_url: https://github.com/habi/zmk-tooth-cohort-method-manuscript
