@@ -313,176 +313,184 @@
     },
     "journal": {
       "citation": "doi:10.1098/rsif.2017.0387",
-      "url": "https://doi.org/10.1098/rsif.2017.0387",
+      "url": "https://doi.org/gddkhn",
       "title": "Opportunities and obstacles for deep learning in biology and medicine",
       "authors": "Ching, Himmelstein, Beaulieu-Jones, Kalinin, Do, Way, Ferrero, Agapow, Zietz, Hoffman, Xie, Rosen, et al",
       "journal": "Journal of The Royal Society Interface",
-      "date_iso": "2018-04-30",
+      "date_iso": "2018-04",
       "date_human": "Apr 2018",
       "csl_item": {
-        "id": "PZMP42Ak",
-        "type": "article-journal",
-        "language": "en",
-        "title": "Opportunities and obstacles for deep learning in biology and medicine",
-        "container-title": "Journal of The Royal Society Interface",
+        "publisher": "The Royal Society",
+        "issue": "141",
+        "abstract": "<jats:p>Deep learning describes a class of machine learning algorithms that are capable of combining raw inputs into layers of intermediate features. These algorithms have recently shown impressive results across a variety of domains. Biology and medicine are data-rich disciplines, but the data are complex and often ill-understood. Hence, deep learning techniques may be particularly well suited to solve problems of these fields. We examine applications of deep learning to a variety of biomedical problems—patient classification, fundamental biological processes and treatment of patients—and discuss whether deep learning will be able to transform these tasks or if the biomedical sphere poses unique challenges. Following from an extensive literature review, we find that deep learning has yet to revolutionize biomedicine or definitively resolve any of the most pressing challenges in the field, but promising advances have been made on the prior state of the art. Even though improvements over previous baselines have been modest in general, the recent progress indicates that deep learning methods will provide valuable means for speeding up or aiding human investigation. Though progress has been made linking a specific neural network's prediction to input features, understanding how users should interpret these models to make testable hypotheses about the system under study remains an open challenge. Furthermore, the limited amount of labelled data for training presents problems in some domains, as do legal and privacy constraints on work with sensitive health records. Nonetheless, we foresee deep learning enabling changes at both bench and bedside with the potential to transform several areas of biology and medicine.</jats:p>",
         "DOI": "10.1098/rsif.2017.0387",
-        "URL": "https://doi.org/10.1098/rsif.2017.0387",
+        "type": "article-journal",
+        "page": "20170387",
+        "source": "Crossref",
+        "title": "Opportunities and obstacles for deep learning in biology and medicine",
+        "volume": "15",
         "author": [
           {
-            "family": "Ching",
-            "given": "Travers"
+            "given": "Travers",
+            "family": "Ching"
           },
           {
-            "family": "Himmelstein",
-            "given": "Daniel S."
+            "given": "Daniel S.",
+            "family": "Himmelstein"
           },
           {
-            "family": "Beaulieu-Jones",
-            "given": "Brett K."
+            "given": "Brett K.",
+            "family": "Beaulieu-Jones"
           },
           {
-            "family": "Kalinin",
-            "given": "Alexandr A."
+            "given": "Alexandr A.",
+            "family": "Kalinin"
           },
           {
-            "family": "Do",
-            "given": "Brian T."
+            "given": "Brian T.",
+            "family": "Do"
           },
           {
-            "family": "Way",
-            "given": "Gregory P."
+            "given": "Gregory P.",
+            "family": "Way"
           },
           {
-            "family": "Ferrero",
-            "given": "Enrico"
+            "given": "Enrico",
+            "family": "Ferrero"
           },
           {
-            "family": "Agapow",
-            "given": "Paul-Michael"
+            "given": "Paul-Michael",
+            "family": "Agapow"
           },
           {
-            "family": "Zietz",
-            "given": "Michael"
+            "given": "Michael",
+            "family": "Zietz"
           },
           {
-            "family": "Hoffman",
-            "given": "Michael M."
+            "given": "Michael M.",
+            "family": "Hoffman"
           },
           {
-            "family": "Xie",
-            "given": "Wei"
+            "given": "Wei",
+            "family": "Xie"
           },
           {
-            "family": "Rosen",
-            "given": "Gail L."
+            "given": "Gail L.",
+            "family": "Rosen"
           },
           {
-            "family": "Lengerich",
-            "given": "Benjamin J."
+            "given": "Benjamin J.",
+            "family": "Lengerich"
           },
           {
-            "family": "Israeli",
-            "given": "Johnny"
+            "given": "Johnny",
+            "family": "Israeli"
           },
           {
-            "family": "Lanchantin",
-            "given": "Jack"
+            "given": "Jack",
+            "family": "Lanchantin"
           },
           {
-            "family": "Woloszynek",
-            "given": "Stephen"
+            "given": "Stephen",
+            "family": "Woloszynek"
           },
           {
-            "family": "Carpenter",
-            "given": "Anne E."
+            "given": "Anne E.",
+            "family": "Carpenter"
           },
           {
-            "family": "Shrikumar",
-            "given": "Avanti"
+            "given": "Avanti",
+            "family": "Shrikumar"
           },
           {
-            "family": "Xu",
-            "given": "Jinbo"
+            "given": "Jinbo",
+            "family": "Xu"
           },
           {
-            "family": "Cofer",
-            "given": "Evan M."
+            "given": "Evan M.",
+            "family": "Cofer"
           },
           {
-            "family": "Lavender",
-            "given": "Christopher A."
+            "given": "Christopher A.",
+            "family": "Lavender"
           },
           {
-            "family": "Turaga",
-            "given": "Srinivas C."
+            "given": "Srinivas C.",
+            "family": "Turaga"
           },
           {
-            "family": "Alexandari",
-            "given": "Amr M."
+            "given": "Amr M.",
+            "family": "Alexandari"
           },
           {
-            "family": "Lu",
-            "given": "Zhiyong"
+            "given": "Zhiyong",
+            "family": "Lu"
           },
           {
-            "family": "Harris",
-            "given": "David J."
+            "given": "David J.",
+            "family": "Harris"
           },
           {
-            "family": "DeCaprio",
-            "given": "Dave"
+            "given": "Dave",
+            "family": "DeCaprio"
           },
           {
-            "family": "Qi",
-            "given": "Yanjun"
+            "given": "Yanjun",
+            "family": "Qi"
           },
           {
-            "family": "Kundaje",
-            "given": "Anshul"
+            "given": "Anshul",
+            "family": "Kundaje"
           },
           {
-            "family": "Peng",
-            "given": "Yifan"
+            "given": "Yifan",
+            "family": "Peng"
           },
           {
-            "family": "Wiley",
-            "given": "Laura K."
+            "given": "Laura K.",
+            "family": "Wiley"
           },
           {
-            "family": "Segler",
-            "given": "Marwin H. S."
+            "given": "Marwin H. S.",
+            "family": "Segler"
           },
           {
-            "family": "Boca",
-            "given": "Simina M."
+            "given": "Simina M.",
+            "family": "Boca"
           },
           {
-            "family": "Swamidass",
-            "given": "S. Joshua"
+            "given": "S. Joshua",
+            "family": "Swamidass"
           },
           {
-            "family": "Huang",
-            "given": "Austin"
+            "given": "Austin",
+            "family": "Huang"
           },
           {
-            "family": "Gitter",
-            "given": "Anthony"
+            "given": "Anthony",
+            "family": "Gitter"
           },
           {
-            "family": "Greene",
-            "given": "Casey S."
+            "given": "Casey S.",
+            "family": "Greene"
           }
         ],
+        "container-title": "Journal of The Royal Society Interface",
+        "language": "en",
         "issued": {
           "date-parts": [
             [
               2018,
-              4,
-              30
+              4
             ]
           ]
         },
-        "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: bibliography.yaml\nstandard_id: doi:10.1098/rsif.2017.0387"
+        "URL": "https://doi.org/gddkhn",
+        "container-title-short": "J. R. Soc. Interface.",
+        "PMCID": "PMC5938574",
+        "PMID": "29618526",
+        "id": "PZMP42Ak",
+        "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1098/rsif.2017.0387"
       }
     },
     "extras": {}
@@ -1065,20 +1073,20 @@
     },
     "preprint": {
       "citation": "doi:10.6084/m9.figshare.5346577",
-      "url": "https://doi.org/10.6084/m9.figshare.5346577",
+      "url": "https://doi.org/gbr3pf",
       "title": "Vagelos Report Summer 2017",
       "authors": "Zietz",
-      "journal": "Figshare",
-      "date_iso": "2017-08-25",
-      "date_human": "Aug 2017",
+      "journal": "figshare",
+      "date_iso": "2017",
+      "date_human": "2017",
       "csl_item": {
-        "id": "15nwuvjrA",
         "type": "article-journal",
-        "DOI": "10.6084/m9.figshare.5346577",
-        "language": "en",
-        "title": "Vagelos Report Summer 2017",
-        "container-title": "Figshare",
-        "URL": "https://doi.org/10.6084/m9.figshare.5346577",
+        "id": "15nwuvjrA",
+        "categories": [
+          "60102 Bioinformatics",
+          "FOS: Computer and information sciences",
+          "FOS: Computer and information sciences"
+        ],
         "author": [
           {
             "family": "Zietz",
@@ -1088,13 +1096,17 @@
         "issued": {
           "date-parts": [
             [
-              2017,
-              8,
-              25
+              2017
             ]
           ]
         },
-        "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: bibliography.yaml\nstandard_id: doi:10.6084/m9.figshare.5346577"
+        "abstract": "Report detailing work done in the Greene Lab at the University of Pennsylvania for the Summer of 2017. Sparse matrix implementation of degree-weighted path count (DWPC) over a heterogeneous network of biomedical information. Summer research conducted as part of the Penn Vagelos Scholars Program in Molecular Life Science (MLS).",
+        "container-title": "figshare",
+        "DOI": "10.6084/m9.figshare.5346577",
+        "publisher": "figshare",
+        "title": "Vagelos Report Summer 2017",
+        "URL": "https://doi.org/gbr3pf",
+        "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.6084/m9.figshare.5346577"
       }
     },
     "extras": {}
@@ -4390,8 +4402,6 @@
         },
         "URL": "https://doi.org/ghkbrq",
         "container-title-short": "Nat Commun",
-        "PMCID": "PMC7666188",
-        "PMID": "33188185",
         "id": "FhAT7n6F",
         "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41467-020-19623-x"
       }
