@@ -381,3 +381,103 @@
     - - 2020
       - 12
       - 1
+- id: doi:10.1098/rsif.2017.0387
+  type: article-journal
+  language: en
+  title: Opportunities and obstacles for deep learning in biology and medicine
+  container-title: Journal of The Royal Society Interface
+  DOI: 10.1098/rsif.2017.0387
+  URL: https://doi.org/10.1098/rsif.2017.0387
+  author:
+  - family: Ching
+    given: Travers
+  - family: Himmelstein
+    given: Daniel S.
+  - family: Beaulieu-Jones
+    given: Brett K.
+  - family: Kalinin
+    given: Alexandr A.
+  - family: Do
+    given: Brian T.
+  - family: Way
+    given: Gregory P.
+  - family: Ferrero
+    given: Enrico
+  - family: Agapow
+    given: Paul-Michael
+  - family: Zietz
+    given: Michael
+  - family: Hoffman
+    given: Michael M.
+  - family: Xie
+    given: Wei
+  - family: Rosen
+    given: Gail L.
+  - family: Lengerich
+    given: Benjamin J.
+  - family: Israeli
+    given: Johnny
+  - family: Lanchantin
+    given: Jack
+  - family: Woloszynek
+    given: Stephen
+  - family: Carpenter
+    given: Anne E.
+  - family: Shrikumar
+    given: Avanti
+  - family: Xu
+    given: Jinbo
+  - family: Cofer
+    given: Evan M.
+  - family: Lavender
+    given: Christopher A.
+  - family: Turaga
+    given: Srinivas C.
+  - family: Alexandari
+    given: Amr M.
+  - family: Lu
+    given: Zhiyong
+  - family: Harris
+    given: David J.
+  - family: DeCaprio
+    given: Dave
+  - family: Qi
+    given: Yanjun
+  - family: Kundaje
+    given: Anshul
+  - family: Peng
+    given: Yifan
+  - family: Wiley
+    given: Laura K.
+  - family: Segler
+    given: Marwin H. S.
+  - family: Boca
+    given: Simina M.
+  - family: Swamidass
+    given: S. Joshua
+  - family: Huang
+    given: Austin
+  - family: Gitter
+    given: Anthony
+  - family: Greene
+    given: Casey S.
+  issued:
+    date-parts:
+    - - 2018
+      - 4
+      - 30
+- id: doi:10.6084/m9.figshare.5346577
+  type: article-journal
+  DOI: 10.6084/m9.figshare.5346577
+  language: en
+  title: Vagelos Report Summer 2017
+  container-title: Figshare
+  URL: https://doi.org/10.6084/m9.figshare.5346577
+  author:
+  - family: Zietz
+    given: Michael
+  issued:
+    date-parts:
+    - - 2017
+      - 8
+      - 25
