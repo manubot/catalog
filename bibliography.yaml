@@ -364,3 +364,20 @@
   page: geb.13346
   publisher: Wiley
   URL: 'https://doi.org/gkzwjv'
+- id: doi:10.5278/ojs.quivirr.v1.2020.a0001
+  type: article-journal
+  title: New Technology and Tools to Enhance Collaborative Video Analysis in Live ‘Data Sessions’
+  container-title: 'QuiViRR: Qualitative Video Research Reports'
+  DOI: 10.5278/ojs.quivirr.v1.2020.a0001
+  ISSN: 2597-2456
+  language: en
+  URL: https://doi.org/10.5278/ojs.quivirr.v1.2020.a0001
+  volume: '1'
+  author:
+  - family: McIlvenny
+    given: Paul
+  issued:
+    date-parts:
+    - - 2020
+      - 12
+      - 1
