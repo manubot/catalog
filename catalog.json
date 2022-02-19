@@ -48,7 +48,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -120,7 +120,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -541,7 +541,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -661,7 +661,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -735,7 +735,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -928,7 +928,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -979,7 +979,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -1056,7 +1056,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -1205,7 +1205,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -1361,7 +1361,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -1441,7 +1441,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -1707,7 +1707,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -1761,7 +1761,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -1909,7 +1909,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -1975,7 +1975,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -2141,7 +2141,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -2185,7 +2185,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -2258,7 +2258,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -2387,7 +2387,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -2551,7 +2551,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -2683,7 +2683,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -2786,7 +2786,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -2899,7 +2899,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -2951,7 +2951,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -3007,7 +3007,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -3112,7 +3112,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -3162,7 +3162,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -3274,7 +3274,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -3324,7 +3324,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -3438,7 +3438,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -3502,7 +3502,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -3871,7 +3871,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -3938,7 +3938,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -4157,7 +4157,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -4205,7 +4205,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -4297,7 +4297,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -4364,56 +4364,47 @@
       "title": "Associations between blood type and COVID-19 infection, intubation, and death",
       "authors": "Zietz, Zucker, Tatonetti",
       "journal": "Nature Communications",
-      "date_iso": "2020-12",
-      "date_human": "Dec 2020",
+      "date_iso": "2020-11-13",
+      "date_human": "Nov 2020",
       "csl_item": {
-        "id": "FhAT7n6F",
-        "type": "article-journal",
-        "abstract": "Abstract\r\n            The rapid global spread of the novel coronavirus SARS-CoV-2 has strained healthcare and testing resources, making the identification and prioritization of individuals most at-risk a critical challenge. Recent evidence suggests blood type may affect risk of severe COVID-19. Here, we use observational healthcare data on 14,112 individuals tested for SARS-CoV-2 with known blood type in the New York Presbyterian (NYP) hospital system to assess the association between ABO and Rh blood types and infection, intubation, and death. We find slightly increased infection prevalence among non-O types. Risk of intubation was decreased among A and increased among AB and B types, compared with type O, while risk of death was increased for type AB and decreased for types A and B. We estimate Rh-negative blood type to have a protective effect for all three outcomes. Our results add to the growing body of evidence suggesting blood type may play a role in COVID-19.",
-        "container-title": "Nature Communications",
-        "DOI": "10.1038/s41467-020-19623-x",
-        "ISSN": "2041-1723",
+        "publisher": "Springer Science and Business Media LLC",
         "issue": "1",
-        "journalAbbreviation": "Nat Commun",
-        "language": "en",
-        "page": "5761",
-        "source": "DOI.org (Crossref)",
+        "abstract": "<jats:title>Abstract</jats:title><jats:p>The rapid global spread of the novel coronavirus SARS-CoV-2 has strained healthcare and testing resources, making the identification and prioritization of individuals most at-risk a critical challenge. Recent evidence suggests blood type may affect risk of severe COVID-19. Here, we use observational healthcare data on 14,112 individuals tested for SARS-CoV-2 with known blood type in the New York Presbyterian (NYP) hospital system to assess the association between ABO and Rh blood types and infection, intubation, and death. We find slightly increased infection prevalence among non-O types. Risk of intubation was decreased among A and increased among AB and B types, compared with type O, while risk of death was increased for type AB and decreased for types A and B. We estimate Rh-negative blood type to have a protective effect for all three outcomes. Our results add to the growing body of evidence suggesting blood type may play a role in COVID-19.</jats:p>",
+        "DOI": "10.1038/s41467-020-19623-x",
+        "type": "article-journal",
+        "source": "Crossref",
         "title": "Associations between blood type and COVID-19 infection, intubation, and death",
-        "URL": "https://doi.org/ghkbrq",
         "volume": "11",
         "author": [
           {
-            "family": "Zietz",
-            "given": "Michael"
+            "given": "Michael",
+            "family": "Zietz"
           },
           {
-            "family": "Zucker",
-            "given": "Jason"
+            "given": "Jason",
+            "family": "Zucker"
           },
           {
-            "family": "Tatonetti",
-            "given": "Nicholas P."
+            "given": "Nicholas P.",
+            "family": "Tatonetti"
           }
         ],
-        "accessed": {
-          "date-parts": [
-            [
-              "2022",
-              2,
-              11
-            ]
-          ]
-        },
+        "container-title": "Nature Communications",
+        "language": "en",
         "issued": {
           "date-parts": [
             [
-              "2020",
-              12
+              2020,
+              11,
+              13
             ]
           ]
         },
+        "URL": "https://doi.org/ghkbrq",
+        "container-title-short": "Nat Commun",
         "PMCID": "PMC7666188",
         "PMID": "33188185",
+        "id": "FhAT7n6F",
         "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41467-020-19623-x"
       }
     },
@@ -4481,7 +4472,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -4601,7 +4592,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -4763,7 +4754,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -4955,7 +4946,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -5085,7 +5076,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -5255,7 +5246,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -5437,7 +5428,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -5551,7 +5542,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -5686,7 +5677,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -5742,7 +5733,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -5916,7 +5907,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -5968,7 +5959,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -6073,7 +6064,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -6264,7 +6255,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -6423,7 +6414,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -6563,7 +6554,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -6684,7 +6675,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -6736,7 +6727,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -7465,7 +7456,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -8255,7 +8246,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
@@ -8414,7 +8405,7 @@
             [
               "2022",
               2,
-              11
+              18
             ]
           ]
         },
