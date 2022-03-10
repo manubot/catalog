@@ -1,4 +1,4 @@
 beautifulsoup4
-manubot==0.5.2
+manubot==0.5.3
 pyyaml
 requests
