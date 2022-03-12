@@ -48,7 +48,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -120,7 +120,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -541,7 +541,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -661,7 +661,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -735,7 +735,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -928,7 +928,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -979,7 +979,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -1056,7 +1056,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -1205,7 +1205,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -1361,7 +1361,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -1441,7 +1441,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -1707,7 +1707,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -1761,7 +1761,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -1909,7 +1909,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -1975,7 +1975,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -2141,7 +2141,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -2185,7 +2185,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -2258,7 +2258,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -2387,7 +2387,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -2551,7 +2551,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -2683,7 +2683,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -2786,7 +2786,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -2899,7 +2899,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -2951,7 +2951,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -3007,7 +3007,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -3112,7 +3112,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -3162,7 +3162,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -3274,7 +3274,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -3324,7 +3324,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -3438,7 +3438,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -3502,7 +3502,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -3632,11 +3632,11 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/1ed34c701ed923be8826aaee0c66d419802f7598/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/b6ab7ef6d15a82f54f9b5441d05d3180f8b38e9e/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2022-03-08",
+      "date_iso": "2022-03-11",
       "date_human": "Mar 2022",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3871,7 +3871,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -3880,7 +3880,7 @@
             [
               "2022",
               3,
-              8
+              11
             ]
           ]
         },
@@ -3938,7 +3938,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -3962,10 +3962,10 @@
       "url": "https://alexslemonade.github.io/OpenPBTA-manuscript/",
       "citation": "url:https://alexslemonade.github.io/OpenPBTA-manuscript/",
       "title": "An Open Pediatric Brain Tumor Atlas",
-      "authors": "Shapiro, Savonen, Bethell, Gaonkar, Zhu, Brown, Duong, Rathi, Noureen, Zhang, Ennis, Spielman, Egolf, et al",
+      "authors": "Shapiro, Savonen, Bethell, Gaonkar, Jin, Zhu, Brown, Duong, Rathi, Noureen, Zhang, Ennis, Spielman, et al",
       "journal": "Manubot",
-      "date_iso": "2022-01-10",
-      "date_human": "Jan 2022",
+      "date_iso": "2022-03-11",
+      "date_human": "Mar 2022",
       "csl_item": {
         "id": "oqc02age",
         "type": "report",
@@ -3990,6 +3990,10 @@
           {
             "family": "Gaonkar",
             "given": "Krutika S."
+          },
+          {
+            "family": "Jin",
+            "given": "Run"
           },
           {
             "family": "Zhu",
@@ -4076,6 +4080,10 @@
             "given": "Mateusz P."
           },
           {
+            "family": "Robbins",
+            "given": "Shannon"
+          },
+          {
             "family": "Guo",
             "given": "Yiran"
           },
@@ -4157,7 +4165,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -4165,8 +4173,8 @@
           "date-parts": [
             [
               "2022",
-              1,
-              10
+              3,
+              11
             ]
           ]
         },
@@ -4205,7 +4213,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -4297,7 +4305,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -4472,7 +4480,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -4592,7 +4600,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -4754,7 +4762,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -4946,7 +4954,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -5076,7 +5084,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -5246,7 +5254,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -5428,7 +5436,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -5542,7 +5550,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -5677,7 +5685,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -5733,7 +5741,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -5907,7 +5915,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -5959,7 +5967,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -6064,7 +6072,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -6255,7 +6263,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -6333,11 +6341,11 @@
       "repo_url": "https://github.com/lotusnprod/lotus-manuscript",
       "url": "https://lotusnprod.github.io/lotus-manuscript",
       "citation": "url:https://lotusnprod.github.io/lotus-manuscript",
-      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/3ccb9c96b589d7f0f0ee9dc7ecb60d511b6dee4e/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/f6849aa1dbb0005c71a9070ce3b939cf0348af19/content/images/thumbnail.png",
       "title": "The LOTUS Initiative for Open Knowledge Management in Natural Products Research",
       "authors": "Rutz, Sorokina, Galgonek, Mietchen, Willighagen, Gaudry, Graham, Stephan, Page, Vondrášek, Steinbeck, et al",
       "journal": "Manubot",
-      "date_iso": "2022-03-09",
+      "date_iso": "2022-03-11",
       "date_human": "Mar 2022",
       "csl_item": {
         "id": "13rUhUH3J",
@@ -6414,7 +6422,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -6423,7 +6431,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -6554,7 +6562,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -6675,7 +6683,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -6727,7 +6735,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -7456,7 +7464,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -8246,7 +8254,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -8405,7 +8413,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
@@ -8531,7 +8539,7 @@
             [
               "2022",
               3,
-              9
+              11
             ]
           ]
         },
