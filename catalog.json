@@ -7,8 +7,8 @@
       "title": "Machine learning in rare disease",
       "authors": "Banerjee, Taroni, Allaway, Prasad, Guinney, Greene",
       "journal": "Manubot",
-      "date_iso": "2022-02-09",
-      "date_human": "Feb 2022",
+      "date_iso": "2022-03-19",
+      "date_human": "Mar 2022",
       "csl_item": {
         "id": "CORUkaaL",
         "type": "report",
@@ -48,7 +48,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -56,8 +56,8 @@
           "date-parts": [
             [
               "2022",
-              2,
-              9
+              3,
+              19
             ]
           ]
         },
@@ -120,7 +120,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -541,7 +541,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -661,7 +661,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -735,7 +735,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -928,7 +928,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -979,7 +979,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -1056,7 +1056,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -1205,7 +1205,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -1361,7 +1361,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -1441,7 +1441,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -1707,7 +1707,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -1761,7 +1761,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -1909,7 +1909,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -1975,7 +1975,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -2141,7 +2141,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -2185,7 +2185,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -2258,7 +2258,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -2387,7 +2387,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -2551,7 +2551,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -2683,7 +2683,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -2786,7 +2786,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -2899,7 +2899,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -2951,7 +2951,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -3007,7 +3007,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -3112,7 +3112,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -3162,7 +3162,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -3274,7 +3274,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -3324,7 +3324,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -3438,7 +3438,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -3502,7 +3502,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -3632,11 +3632,11 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/b6ab7ef6d15a82f54f9b5441d05d3180f8b38e9e/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/cc51bd9fd1b79d6c965f3b414a42d1a4cff915e2/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2022-03-11",
+      "date_iso": "2022-03-17",
       "date_human": "Mar 2022",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3871,7 +3871,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -3880,7 +3880,7 @@
             [
               "2022",
               3,
-              11
+              17
             ]
           ]
         },
@@ -3938,7 +3938,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -3964,7 +3964,7 @@
       "title": "An Open Pediatric Brain Tumor Atlas",
       "authors": "Shapiro, Savonen, Bethell, Gaonkar, Jin, Zhu, Brown, Duong, Rathi, Noureen, Zhang, Ennis, Spielman, et al",
       "journal": "Manubot",
-      "date_iso": "2022-03-11",
+      "date_iso": "2022-03-18",
       "date_human": "Mar 2022",
       "csl_item": {
         "id": "oqc02age",
@@ -4165,7 +4165,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -4174,7 +4174,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -4213,7 +4213,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -4305,7 +4305,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -4480,7 +4480,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -4600,7 +4600,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -4762,7 +4762,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -4954,7 +4954,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -5084,7 +5084,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -5254,7 +5254,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -5436,7 +5436,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -5550,7 +5550,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -5685,7 +5685,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -5741,7 +5741,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -5915,7 +5915,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -5967,7 +5967,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -6072,7 +6072,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -6263,7 +6263,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -6341,11 +6341,11 @@
       "repo_url": "https://github.com/lotusnprod/lotus-manuscript",
       "url": "https://lotusnprod.github.io/lotus-manuscript",
       "citation": "url:https://lotusnprod.github.io/lotus-manuscript",
-      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/f6849aa1dbb0005c71a9070ce3b939cf0348af19/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/d33aec907b84684697a3d4ad8193d62dad19cc5b/content/images/thumbnail.png",
       "title": "The LOTUS Initiative for Open Knowledge Management in Natural Products Research",
       "authors": "Rutz, Sorokina, Galgonek, Mietchen, Willighagen, Gaudry, Graham, Stephan, Page, Vondrášek, Steinbeck, et al",
       "journal": "Manubot",
-      "date_iso": "2022-03-11",
+      "date_iso": "2022-03-16",
       "date_human": "Mar 2022",
       "csl_item": {
         "id": "13rUhUH3J",
@@ -6422,7 +6422,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -6431,7 +6431,7 @@
             [
               "2022",
               3,
-              11
+              16
             ]
           ]
         },
@@ -6562,7 +6562,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -6683,7 +6683,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -6710,8 +6710,8 @@
       "title": "Analysis of science journalism reveals gender and regional disparities in coverage",
       "authors": "Davidson, Greene",
       "journal": "Manubot",
-      "date_iso": "2021-11-11",
-      "date_human": "Nov 2021",
+      "date_iso": "2022-03-16",
+      "date_human": "Mar 2022",
       "csl_item": {
         "id": "3Ond0wAX",
         "type": "report",
@@ -6735,16 +6735,16 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
         "issued": {
           "date-parts": [
             [
-              "2021",
-              11,
-              11
+              "2022",
+              3,
+              16
             ]
           ]
         },
@@ -7464,7 +7464,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -8254,7 +8254,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -8413,7 +8413,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -8483,10 +8483,11 @@
       "repo_url": "https://github.com/aseedb/synaptic_tomo_ms",
       "url": "https://aseedb.github.io/synaptic_tomo_ms/",
       "citation": "url:https://aseedb.github.io/synaptic_tomo_ms/",
+      "thumbnail_url": "https://github.com/aseedb/synaptic_tomo_ms/raw/19b78d3722962175fe0fc6666f7dd68dad035764/thumbnail.png",
       "title": "Morphofunctional changes at the active zone during synaptic vesicle exocytosis",
       "authors": "Radecke, Seeger, Kádková, Laugks, Khosrozadeh, Goldie, Lučić, Sørensen, Zuber",
       "journal": "Manubot",
-      "date_iso": "2022-03-05",
+      "date_iso": "2022-03-17",
       "date_human": "Mar 2022",
       "csl_item": {
         "id": "L11UxJlE",
@@ -8539,7 +8540,7 @@
             [
               "2022",
               3,
-              11
+              18
             ]
           ]
         },
@@ -8548,7 +8549,7 @@
             [
               "2022",
               3,
-              5
+              17
             ]
           ]
         },
