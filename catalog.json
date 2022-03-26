@@ -7,7 +7,7 @@
       "title": "Machine learning in rare disease",
       "authors": "Banerjee, Taroni, Allaway, Prasad, Guinney, Greene",
       "journal": "Manubot",
-      "date_iso": "2022-03-19",
+      "date_iso": "2022-03-22",
       "date_human": "Mar 2022",
       "csl_item": {
         "id": "CORUkaaL",
@@ -48,7 +48,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -57,7 +57,7 @@
             [
               "2022",
               3,
-              19
+              22
             ]
           ]
         },
@@ -120,7 +120,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -541,7 +541,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -661,7 +661,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -735,7 +735,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -928,7 +928,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -979,7 +979,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -1056,7 +1056,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -1205,7 +1205,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -1361,7 +1361,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -1441,7 +1441,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -1607,8 +1607,8 @@
       "title": "Introducing yt 4.0: Analysis and Visualization of Volumetric Data",
       "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Munk, Smith, Kowalik, Val-Borro, Coughlin, et al",
       "journal": "Manubot",
-      "date_iso": "2021-11-05",
-      "date_human": "Nov 2021",
+      "date_iso": "2022-03-25",
+      "date_human": "Mar 2022",
       "csl_item": {
         "id": "1AIP8Sp9Y",
         "type": "report",
@@ -1707,16 +1707,16 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
         "issued": {
           "date-parts": [
             [
-              "2021",
-              11,
-              5
+              "2022",
+              3,
+              25
             ]
           ]
         },
@@ -1761,7 +1761,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -1909,7 +1909,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -1975,7 +1975,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -2141,7 +2141,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -2185,7 +2185,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -2258,7 +2258,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -2387,7 +2387,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -2551,7 +2551,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -2683,7 +2683,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -2786,7 +2786,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -2899,7 +2899,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -2951,7 +2951,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -3007,7 +3007,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -3112,7 +3112,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -3162,7 +3162,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -3274,7 +3274,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -3324,7 +3324,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -3438,7 +3438,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -3502,7 +3502,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -3632,11 +3632,11 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/cc51bd9fd1b79d6c965f3b414a42d1a4cff915e2/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/c17853d5a0b6de47f4047836d807706f2babc3b1/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2022-03-17",
+      "date_iso": "2022-03-25",
       "date_human": "Mar 2022",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3858,12 +3858,12 @@
             "given": "Jeremy P."
           },
           {
-            "family": "Mundo",
-            "given": "Ariel I."
-          },
-          {
             "family": "Meyer",
             "given": "Jesse G."
+          },
+          {
+            "family": "Mundo",
+            "given": "Ariel I."
           }
         ],
         "accessed": {
@@ -3871,7 +3871,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -3880,7 +3880,7 @@
             [
               "2022",
               3,
-              17
+              25
             ]
           ]
         },
@@ -3938,7 +3938,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -3964,7 +3964,7 @@
       "title": "An Open Pediatric Brain Tumor Atlas",
       "authors": "Shapiro, Savonen, Bethell, Gaonkar, Jin, Zhu, Brown, Duong, Rathi, Noureen, Zhang, Ennis, Spielman, et al",
       "journal": "Manubot",
-      "date_iso": "2022-03-18",
+      "date_iso": "2022-03-25",
       "date_human": "Mar 2022",
       "csl_item": {
         "id": "oqc02age",
@@ -4165,7 +4165,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -4174,7 +4174,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -4213,7 +4213,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -4305,7 +4305,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -4480,7 +4480,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -4600,7 +4600,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -4762,7 +4762,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -4954,7 +4954,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -5084,7 +5084,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -5254,7 +5254,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -5436,7 +5436,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -5550,7 +5550,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -5685,7 +5685,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -5741,7 +5741,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -5915,7 +5915,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -5967,7 +5967,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -6072,7 +6072,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -6263,7 +6263,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -6422,7 +6422,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -6562,7 +6562,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -6683,7 +6683,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -6735,7 +6735,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -6761,7 +6761,7 @@
       "date_human": "Jun 2021",
       "csl_item": {
         "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Science journalism is a critical way in which the public can remain informed and benefit from new scientific findings. Such journalism also shapes the public’s view of the current state of scientific findings and legitimizes experts. Those covering science can only cite and quote a limited number of sources. Sources may be identified by the journalist’s research or by recommendations by other scientists. In both cases, biases may influence who is identified and ultimately included as an expert. To ensure our results are generalizable, we analyzed two journalism outlets that cater to different demogrgaphics, <jats:italic>Nature</jats:italic> and <jats:italic>The Guardian</jats:italic>. This resulted in 37,748 total articles, 15,747 science-related articles from <jats:italic>The Guardian</jats:italic> and 22,001 non-research articles published by <jats:italic>Nature</jats:italic> to quantify possible disparities. Our analysis considered three possible sources of disparity: gender, name origin, and country affiliation. To explore these sources of disparity, we extracted cited authors’ names and affiliations, as well as extracted names of quoted speakers. While citations and quotations within a piece do not reflect the entire information-gathering process, they can provide insight into the demographics of visible sources. We then used the extracted names to predict gender and name origin of the cited authors and speakers.</jats:p><jats:p>In order to appropriately quantify the level of difference, we must identify a suitable reference set for comparison. We chose first and last authors within primary research articles in <jats:italic>Nature</jats:italic> and a subset of <jats:italic>Springer Nature</jats:italic> articles in the same time period as our comparator. In our analysis, we found a very similar skew towards male quotation in both <jats:italic>The Guardian</jats:italic> and <jats:italic>Nature</jats:italic> science journalism-related articles. However, quotation in <jats:italic>Nature</jats:italic> is trending toward equal representation at a faster rate than first and last authorship in academic publishing. Interestingly, we found that the gender disparity in <jats:italic>Nature</jats:italic> quotes was column-dependent, with the “Career Features” column reaching gender parity. Our name origin analysis found a significant over-representation of names with predicted Celtic/English origin and under-representation of names with a predicted East Asian origin. This finding was observed both in extracted quotes and journal citations, but dampened in citations. Finally, we performed an analysis to identify how countries vary in the way that they’re described in scientific journalism. We focused on two groups of countries: countries that are often mentioned in articles, but do not often have affiliated authors cited, and countries that have affiliated authors that are often cited, but the country is not typically mentioned. We found that the articles in which the less cited countries occur tend to have more agricultural, extraction-related, and political terms, whereas articles including highly cited countries have broader scientific terms. This discrepancy indicates a possible lack of regional diversity in the reporting of scientific output.</jats:p>",
+        "abstract": "<jats:title>Abstract</jats:title><jats:p>Science journalism is a critical way in which the public can remain informed and benefit from new scientific findings. Such journalism also shapes the public’s view of the current state of scientific findings and legitimizes experts. Those covering science can only cite and quote a limited number of sources. Sources may be identified by the journalist’s research or by recommendations by other scientists. In both cases, biases may influence who is identified and ultimately included as an expert. To analyze possible biases in science journalism, we analyzed 22,001 non-research articles published by <jats:italic>Nature</jats:italic>. We chose to analyze <jats:italic>Nature</jats:italic> non-research articles since it’s research articles provide a natural comparator. Our analysis considered two possible sources of disparity: gender and name origin. To explore these sources of disparity, we extracted cited authors’ names as well as extracted names of quoted speakers. While citations and quotations within a piece do not reflect the entire information-gathering process, they can provide insight into the demographics of visible sources. We then used the extracted names to predict gender and name origin of the cited authors and speakers.</jats:p><jats:p>In order to appropriately quantify the level of difference, we must identify a suitable reference set for comparison. We chose first and last authors within primary research articles in <jats:italic>Nature</jats:italic> and a subset of <jats:italic>Springer Nature</jats:italic> articles in the same time period as our comparator. In our analysis, we found a skew towards male quotation in <jats:italic>Nature</jats:italic> science journalism-related articles. However, quotation is trending toward equal representation at a faster rate than first and last authorship in academic publishing. Interestingly, we found that the gender disparity in <jats:italic>Nature</jats:italic> quotes was column-dependent, with the “Career Features” column reaching gender parity. Our name origin analysis found a significant over-representation of names with predicted Celtic/English origin and under-representation of names with a predicted East Asian origin. This finding was observed both in extracted quotes and journal citations, but dampened in citations.</jats:p>",
         "DOI": "10.1101/2021.06.21.449261",
         "type": "manuscript",
         "source": "Crossref",
@@ -7464,7 +7464,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -8169,8 +8169,8 @@
       "title": "Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms",
       "authors": "Pividori, Lu, Li, Su, Johnson, Wei, Feng, Namjou, Kiryluk, Kullo, Luo, Sullivan, Voight, Skarke, et al",
       "journal": "Manubot",
-      "date_iso": "2021-11-11",
-      "date_human": "Nov 2021",
+      "date_iso": "2022-03-25",
+      "date_human": "Mar 2022",
       "csl_item": {
         "id": "IxgQDGqC",
         "type": "report",
@@ -8254,16 +8254,16 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
         "issued": {
           "date-parts": [
             [
-              "2021",
-              11,
-              11
+              "2022",
+              3,
+              25
             ]
           ]
         },
@@ -8413,7 +8413,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
@@ -8540,7 +8540,7 @@
             [
               "2022",
               3,
-              18
+              25
             ]
           ]
         },
