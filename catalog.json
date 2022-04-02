@@ -47,8 +47,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -119,8 +119,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -540,8 +540,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -660,8 +660,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -734,8 +734,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -927,8 +927,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -978,8 +978,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -1055,8 +1055,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -1204,8 +1204,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -1484,8 +1484,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -1564,8 +1564,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -1830,8 +1830,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -1884,8 +1884,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -2032,8 +2032,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -2098,8 +2098,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -2264,8 +2264,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -2308,8 +2308,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -2381,8 +2381,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -2510,8 +2510,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -2674,8 +2674,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -2700,56 +2700,47 @@
       "date_iso": "2020-01",
       "date_human": "Jan 2020",
       "csl_item": {
-        "id": "Iv2YtjTl",
-        "type": "article-journal",
-        "abstract": "The differentiation of embryonic stem cells into various lineages is highly dependent on the chromatin state of the genome and patterns of gene expression. To identify lineage-specific enhancers driving the differentiation of progenitors into pancreatic cells, we used a previously described computational framework called Total Functional Score of Enhancer Elements (TFSEE), which integrates multiple genomic assays that probe both transcriptional and epigenomic states. First, we evaluated and compared TFSEE as an enhancer-calling algorithm with enhancers called using GRO-seq-defined enhancer transcripts (method 1) versus enhancers called using histone modification ChIP-seq data (method 2). Second, we used TFSEE to define the enhancer landscape and identify transcription factors (TFs) that maintain the multipotency of a subpopulation of endodermal stem cells during differentiation into pancreatic lineages. Collectively, our results demonstrate that TFSEE is a robust enhancer-calling algorithm that can be used to perform multilayer genomic data integration to uncover cell type-specific TFs that control lineage-specific enhancers.",
-        "container-title": "Bioinformatics and Biology Insights",
+        "publisher": "SAGE Publications",
+        "abstract": "<jats:p> The differentiation of embryonic stem cells into various lineages is highly dependent on the chromatin state of the genome and patterns of gene expression. To identify lineage-specific enhancers driving the differentiation of progenitors into pancreatic cells, we used a previously described computational framework called Total Functional Score of Enhancer Elements (TFSEE), which integrates multiple genomic assays that probe both transcriptional and epigenomic states. First, we evaluated and compared TFSEE as an enhancer-calling algorithm with enhancers called using GRO-seq-defined enhancer transcripts (method 1) versus enhancers called using histone modification ChIP-seq data (method 2). Second, we used TFSEE to define the enhancer landscape and identify transcription factors (TFs) that maintain the multipotency of a subpopulation of endodermal stem cells during differentiation into pancreatic lineages. Collectively, our results demonstrate that TFSEE is a robust enhancer-calling algorithm that can be used to perform multilayer genomic data integration to uncover cell type-specific TFs that control lineage-specific enhancers. </jats:p>",
         "DOI": "10.1177/1177932220938063",
-        "ISSN": "1177-9322, 1177-9322",
-        "journalAbbreviation": "Bioinform Biol Insights",
-        "language": "en",
+        "type": "article-journal",
         "page": "117793222093806",
-        "source": "DOI.org (Crossref)",
+        "source": "Crossref",
         "title": "Total Functional Score of Enhancer Elements Identifies Lineage-Specific Enhancers That Drive Differentiation of Pancreatic Cells",
-        "URL": "https://doi.org/gg3xbb",
         "volume": "14",
         "author": [
           {
-            "family": "Malladi",
-            "given": "Venkat S."
+            "given": "Venkat S.",
+            "family": "Malladi"
           },
           {
-            "family": "Nagari",
-            "given": "Anusha"
+            "given": "Anusha",
+            "family": "Nagari"
           },
           {
-            "family": "Franco",
-            "given": "Hector L"
+            "given": "Hector L",
+            "family": "Franco"
           },
           {
-            "family": "Kraus",
-            "given": "W Lee"
+            "given": "W Lee",
+            "family": "Kraus"
           }
         ],
-        "accessed": {
-          "date-parts": [
-            [
-              "2022",
-              3,
-              29
-            ]
-          ]
-        },
+        "container-title": "Bioinformatics and Biology Insights",
+        "language": "en",
         "issued": {
           "date-parts": [
             [
-              "2020",
+              2020,
               1
             ]
           ]
         },
+        "URL": "https://doi.org/gg3xbb",
+        "container-title-short": "Bioinform Biol Insights",
         "PMCID": "PMC7331761",
         "PMID": "32655276",
+        "id": "Iv2YtjTl",
         "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.1177/1177932220938063"
       }
     },
@@ -2815,8 +2806,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -2918,8 +2909,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -3031,8 +3022,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -3083,8 +3074,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -3107,12 +3098,12 @@
       "repo_url": "https://github.com/greenelab/text_mined_hetnet_manuscript",
       "url": "https://greenelab.github.io/text_mined_hetnet_manuscript/",
       "citation": "url:https://greenelab.github.io/text_mined_hetnet_manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/text_mined_hetnet_manuscript/raw/470690b46afb1f76962aa2bc69ac1ed5dd0f00e9/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/text_mined_hetnet_manuscript/raw/2672fbc9430b989de284f80a02c138db7dc60e78/thumbnail.png",
       "title": "Expanding a Database-derived Biomedical Knowledge Graph via Multi-relation Extraction from Biomedical Abstracts",
       "authors": "Nicholson, Himmelstein, Greene",
       "journal": "Manubot",
-      "date_iso": "2021-12-22",
-      "date_human": "Dec 2021",
+      "date_iso": "2022-04-01",
+      "date_human": "Apr 2022",
       "csl_item": {
         "id": "j5Gwdbxj",
         "type": "report",
@@ -3139,17 +3130,17 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
         "issued": {
           "date-parts": [
             [
-              "2021",
-              12,
-              22
+              "2022",
+              4,
+              1
             ]
           ]
         },
@@ -3244,8 +3235,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -3294,8 +3285,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -3406,8 +3397,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -3456,8 +3447,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -3570,8 +3561,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -3634,8 +3625,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -3765,12 +3756,12 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/ba958169b7e0b429396185a104f359a3a3f6cfb8/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/35eafd275d73a98a14bc0251f3d8be9e2f32c6c3/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2022-03-28",
-      "date_human": "Mar 2022",
+      "date_iso": "2022-04-01",
+      "date_human": "Apr 2022",
       "csl_item": {
         "id": "Z4Wyi0Mo",
         "type": "report",
@@ -4003,8 +3994,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -4012,8 +4003,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              28
+              4,
+              1
             ]
           ]
         },
@@ -4070,8 +4061,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -4097,7 +4088,7 @@
       "title": "An Open Pediatric Brain Tumor Atlas",
       "authors": "Shapiro, Savonen, Bethell, Gaonkar, Jin, Zhu, Brown, Duong, Rathi, Noureen, Zhang, Ennis, Spielman, et al",
       "journal": "Manubot",
-      "date_iso": "2022-03-28",
+      "date_iso": "2022-03-31",
       "date_human": "Mar 2022",
       "csl_item": {
         "id": "oqc02age",
@@ -4297,8 +4288,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -4307,7 +4298,7 @@
             [
               "2022",
               3,
-              28
+              31
             ]
           ]
         },
@@ -4345,8 +4336,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -4437,8 +4428,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -4612,8 +4603,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -4732,8 +4723,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -4894,8 +4885,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -5086,8 +5077,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -5216,8 +5207,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -5386,8 +5377,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -5568,8 +5559,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -5682,8 +5673,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -5817,8 +5808,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -5873,8 +5864,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -6047,8 +6038,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -6099,8 +6090,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -6204,8 +6195,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -6395,8 +6386,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -6554,8 +6545,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -6694,8 +6685,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -6815,8 +6806,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -6867,8 +6858,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -7596,8 +7587,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -8386,8 +8377,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -8545,8 +8536,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
@@ -8672,8 +8663,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              29
+              4,
+              1
             ]
           ]
         },
