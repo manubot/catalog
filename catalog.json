@@ -7,7 +7,7 @@
       "title": "Machine learning in rare disease",
       "authors": "Banerjee, Taroni, Allaway, Prasad, Guinney, Greene",
       "journal": "Manubot",
-      "date_iso": "2022-04-06",
+      "date_iso": "2022-04-13",
       "date_human": "Apr 2022",
       "csl_item": {
         "id": "CORUkaaL",
@@ -48,7 +48,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -57,7 +57,7 @@
             [
               "2022",
               4,
-              6
+              13
             ]
           ]
         },
@@ -120,7 +120,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -541,7 +541,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -661,7 +661,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -735,7 +735,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -928,7 +928,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -979,7 +979,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -1056,7 +1056,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -1205,7 +1205,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -1485,7 +1485,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -1565,7 +1565,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -1731,8 +1731,8 @@
       "title": "Introducing yt 4.0: Analysis and Visualization of Volumetric Data",
       "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Munk, Smith, Kowalik, Val-Borro, Coughlin, et al",
       "journal": "Manubot",
-      "date_iso": "2022-03-25",
-      "date_human": "Mar 2022",
+      "date_iso": "2022-04-14",
+      "date_human": "Apr 2022",
       "csl_item": {
         "id": "1AIP8Sp9Y",
         "type": "report",
@@ -1831,7 +1831,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -1839,8 +1839,8 @@
           "date-parts": [
             [
               "2022",
-              3,
-              25
+              4,
+              14
             ]
           ]
         },
@@ -1885,7 +1885,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -2033,7 +2033,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -2099,7 +2099,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -2265,7 +2265,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -2309,7 +2309,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -2382,7 +2382,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -2511,7 +2511,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -2675,7 +2675,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -2807,7 +2807,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -2910,7 +2910,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -3023,7 +3023,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -3050,7 +3050,7 @@
       "title": "Edit me to practice contributing to a collaborative Manubot manuscript",
       "authors": "Doe, Roe",
       "journal": "Manubot",
-      "date_iso": "2022-04-05",
+      "date_iso": "2022-04-09",
       "date_human": "Apr 2022",
       "csl_item": {
         "id": "9IQuyN3R",
@@ -3075,7 +3075,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -3084,7 +3084,7 @@
             [
               "2022",
               4,
-              5
+              9
             ]
           ]
         },
@@ -3098,11 +3098,11 @@
       "repo_url": "https://github.com/greenelab/text_mined_hetnet_manuscript",
       "url": "https://greenelab.github.io/text_mined_hetnet_manuscript/",
       "citation": "url:https://greenelab.github.io/text_mined_hetnet_manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/text_mined_hetnet_manuscript/raw/2672fbc9430b989de284f80a02c138db7dc60e78/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/text_mined_hetnet_manuscript/raw/0121b3762153ba3ccf4816b53bd4a7db800457a9/thumbnail.png",
       "title": "Expanding a Database-derived Biomedical Knowledge Graph via Multi-relation Extraction from Biomedical Abstracts",
       "authors": "Nicholson, Himmelstein, Greene",
       "journal": "Manubot",
-      "date_iso": "2022-04-01",
+      "date_iso": "2022-04-12",
       "date_human": "Apr 2022",
       "csl_item": {
         "id": "j5Gwdbxj",
@@ -3131,7 +3131,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -3140,7 +3140,7 @@
             [
               "2022",
               4,
-              1
+              12
             ]
           ]
         },
@@ -3236,7 +3236,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -3286,7 +3286,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -3398,7 +3398,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -3448,7 +3448,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -3562,7 +3562,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -3626,7 +3626,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -3756,11 +3756,11 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/79e70371b9de967242882cb97b7793bd5928fc73/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/33e1405e781577c070b2debfd256dd1886395af3/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2022-04-08",
+      "date_iso": "2022-04-14",
       "date_human": "Apr 2022",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3995,7 +3995,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -4004,7 +4004,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -4062,7 +4062,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -4088,7 +4088,7 @@
       "title": "An Open Pediatric Brain Tumor Atlas",
       "authors": "Shapiro, Savonen, Bethell, Gaonkar, Jin, Zhu, Brown, Duong, Rathi, Noureen, Zhang, Ennis, Spielman, et al",
       "journal": "Manubot",
-      "date_iso": "2022-04-09",
+      "date_iso": "2022-04-14",
       "date_human": "Apr 2022",
       "csl_item": {
         "id": "oqc02age",
@@ -4154,6 +4154,10 @@
           {
             "family": "Egolf",
             "given": "Laura E."
+          },
+          {
+            "family": "Yang",
+            "given": "Yang"
           },
           {
             "family": "Farrow",
@@ -4244,6 +4248,10 @@
             "given": "Derek"
           },
           {
+            "family": "Foltz",
+            "given": "Steven M."
+          },
+          {
             "family": "Xie",
             "given": "Hongbo M."
           },
@@ -4293,7 +4301,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -4302,7 +4310,7 @@
             [
               "2022",
               4,
-              9
+              14
             ]
           ]
         },
@@ -4341,7 +4349,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -4433,7 +4441,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -4608,7 +4616,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -4728,7 +4736,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -4890,7 +4898,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -5082,7 +5090,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -5212,7 +5220,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -5382,7 +5390,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -5564,7 +5572,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -5647,6 +5655,79 @@
         "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.1101/2020.06.11.145615"
       }
     },
+    "journal": {
+      "citation": "doi:10.7717/peerj.10947",
+      "url": "https://doi.org/gjqxbs",
+      "title": "Reproducible, portable, and efficient ancient genome reconstruction with nf-core/eager",
+      "authors": "Fellows Yates, Lamnidis, Borry, Andrades Valtueña, Fagernäs, Clayton, Garcia, Neukamm, Peltzer",
+      "journal": "PeerJ",
+      "date_iso": "2021-03-16",
+      "date_human": "Mar 2021",
+      "csl_item": {
+        "publisher": "PeerJ",
+        "abstract": "<jats:p>The broadening utilisation of ancient DNA to address archaeological, palaeontological, and biological questions is resulting in a rising diversity in the size of laboratories and scale of analyses being performed. In the context of this heterogeneous landscape, we present an advanced, and entirely redesigned and extended version of the EAGER pipeline for the analysis of ancient genomic data. This Nextflow pipeline aims to address three main themes: accessibility and adaptability to different computing configurations, reproducibility to ensure robust analytical standards, and updating the pipeline to the latest routine ancient genomic practices. The new version of EAGER has been developed within the nf-core initiative to ensure high-quality software development and maintenance support; contributing to a long-term life-cycle for the pipeline. nf-core/eager will assist in ensuring that a wider range of ancient DNA analyses can be applied by a diverse range of research groups and fields.</jats:p>",
+        "DOI": "10.7717/peerj.10947",
+        "type": "article-journal",
+        "page": "e10947",
+        "source": "Crossref",
+        "title": "Reproducible, portable, and efficient ancient genome reconstruction with nf-core/eager",
+        "volume": "9",
+        "author": [
+          {
+            "given": "James A.",
+            "family": "Fellows Yates"
+          },
+          {
+            "given": "Thiseas C.",
+            "family": "Lamnidis"
+          },
+          {
+            "given": "Maxime",
+            "family": "Borry"
+          },
+          {
+            "given": "Aida",
+            "family": "Andrades Valtueña"
+          },
+          {
+            "given": "Zandra",
+            "family": "Fagernäs"
+          },
+          {
+            "given": "Stephen",
+            "family": "Clayton"
+          },
+          {
+            "given": "Maxime U.",
+            "family": "Garcia"
+          },
+          {
+            "given": "Judith",
+            "family": "Neukamm"
+          },
+          {
+            "given": "Alexander",
+            "family": "Peltzer"
+          }
+        ],
+        "container-title": "PeerJ",
+        "language": "en",
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              16
+            ]
+          ]
+        },
+        "URL": "https://doi.org/gjqxbs",
+        "PMCID": "PMC7977378",
+        "PMID": "33777521",
+        "id": "i5Hil0lN",
+        "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.7717/peerj.10947"
+      }
+    },
     "extras": {}
   },
   {
@@ -5678,7 +5759,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -5813,7 +5894,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -5869,7 +5950,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -6043,7 +6124,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -6095,7 +6176,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -6200,7 +6281,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -6391,7 +6472,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -6550,7 +6631,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -6690,7 +6771,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -6811,7 +6892,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -6863,7 +6944,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -7592,7 +7673,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -8382,7 +8463,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -8504,11 +8585,11 @@
       "repo_url": "https://github.com/greenelab/mpmp-manuscript",
       "url": "https://greenelab.github.io/mpmp-manuscript/",
       "citation": "url:https://greenelab.github.io/mpmp-manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/mpmp-manuscript/raw/47edd8e335b9713af0615d834a7da6de1fe649d3/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/mpmp-manuscript/raw/e7a76835cc2707d1a053873298f1a87c0a77da06/thumbnail.png",
       "title": "Widespread redundancy in -omics profiles of cancer mutation states",
       "authors": "Crawford, Christensen, Chikina, Greene",
       "journal": "Manubot",
-      "date_iso": "2022-04-08",
+      "date_iso": "2022-04-14",
       "date_human": "Apr 2022",
       "csl_item": {
         "id": "ZbMekRku",
@@ -8541,7 +8622,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -8550,7 +8631,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
@@ -8668,7 +8749,7 @@
             [
               "2022",
               4,
-              8
+              14
             ]
           ]
         },
