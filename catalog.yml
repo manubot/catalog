@@ -164,7 +164,8 @@
   preprint_citation: doi:10.1101/2021.03.04.433874
 - repo_url: https://github.com/lotusnprod/lotus-manuscript
   html_url: https://lotusnprod.github.io/lotus-manuscript
-  preprint_citation: doi:10.1101/2021.02.28.433265 
+  preprint_citation: doi:10.1101/2021.02.28.433265
+  journal_citation: doi:10.7554/eLife.70780
 - repo_url: https://github.com/laurentperrinet/Perrinet20PredictiveProcessing_manubot
   html_url: https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot
   preprint_citation: doi:10.5281/zenodo.4680675
