@@ -48,7 +48,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -120,7 +120,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -541,7 +541,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -661,7 +661,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -735,7 +735,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -928,7 +928,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -979,7 +979,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -1056,7 +1056,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -1205,7 +1205,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -1485,7 +1485,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -1565,7 +1565,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -1831,7 +1831,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -1885,7 +1885,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -2033,7 +2033,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -2099,7 +2099,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -2265,7 +2265,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -2309,7 +2309,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -2382,7 +2382,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -2511,7 +2511,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -2675,7 +2675,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -2807,7 +2807,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -2910,7 +2910,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -3023,7 +3023,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -3075,7 +3075,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -3098,11 +3098,11 @@
       "repo_url": "https://github.com/greenelab/text_mined_hetnet_manuscript",
       "url": "https://greenelab.github.io/text_mined_hetnet_manuscript/",
       "citation": "url:https://greenelab.github.io/text_mined_hetnet_manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/text_mined_hetnet_manuscript/raw/0121b3762153ba3ccf4816b53bd4a7db800457a9/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/text_mined_hetnet_manuscript/raw/855f0b5dc5518b00568d742663e286d57fa4139f/thumbnail.png",
       "title": "Expanding a Database-derived Biomedical Knowledge Graph via Multi-relation Extraction from Biomedical Abstracts",
       "authors": "Nicholson, Himmelstein, Greene",
       "journal": "Manubot",
-      "date_iso": "2022-04-12",
+      "date_iso": "2022-04-25",
       "date_human": "Apr 2022",
       "csl_item": {
         "id": "j5Gwdbxj",
@@ -3131,7 +3131,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -3140,7 +3140,7 @@
             [
               "2022",
               4,
-              12
+              25
             ]
           ]
         },
@@ -3236,7 +3236,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -3286,7 +3286,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -3398,7 +3398,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -3448,7 +3448,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -3562,7 +3562,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -3626,7 +3626,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -3756,11 +3756,11 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/be61b3fab41ee6d7fd43ca7b46a70e647a8bc83e/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/cee5dc2c80801863178985da934905afa3959f72/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2022-04-22",
+      "date_iso": "2022-04-25",
       "date_human": "Apr 2022",
       "csl_item": {
         "id": "Z4Wyi0Mo",
@@ -3995,7 +3995,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -4004,7 +4004,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -4062,7 +4062,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -4305,7 +4305,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -4353,7 +4353,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -4445,7 +4445,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -4620,7 +4620,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -4740,7 +4740,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -4902,7 +4902,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -5094,7 +5094,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -5224,7 +5224,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -5394,7 +5394,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -5576,7 +5576,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -5763,7 +5763,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -5898,7 +5898,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -5954,7 +5954,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -6128,7 +6128,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -6180,7 +6180,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -6285,7 +6285,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -6476,7 +6476,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -6635,7 +6635,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -6742,6 +6742,34 @@
         "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.1101/2021.02.28.433265"
       }
     },
+    "journal": {
+      "citation": "doi:10.7554/elife.70780",
+      "url": "https://doi.org/gpzrr8",
+      "title": "pendingpublications",
+      "authors": "",
+      "journal": null,
+      "date_iso": null,
+      "date_human": null,
+      "csl_item": {
+        "id": "PYbwVCJ0",
+        "type": "webpage",
+        "abstract": "Pending Publication",
+        "language": "en-GB",
+        "note": "DOI: 10.5555/12345678\nThis CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.7554/elife.70780",
+        "title": "pendingpublications",
+        "URL": "https://doi.org/gpzrr8",
+        "accessed": {
+          "date-parts": [
+            [
+              "2022",
+              4,
+              25
+            ]
+          ]
+        },
+        "DOI": "10.7554/elife.70780"
+      }
+    },
     "extras": {}
   },
   {
@@ -6775,7 +6803,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -6896,7 +6924,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -6948,7 +6976,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -7677,7 +7705,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -8467,7 +8495,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -8626,7 +8654,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
@@ -8753,7 +8781,7 @@
             [
               "2022",
               4,
-              22
+              25
             ]
           ]
         },
