@@ -189,3 +189,8 @@
 - repo_url: https://github.com/aseedb/synaptic_tomo_ms
   html_url: https://aseedb.github.io/synaptic_tomo_ms/
   preprint_citation: doi:10.1101/2022.03.07.483217
+- repo_url: https://github.com/stain/ro-crate-paper
+  html_url: https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/manuscript.html
+  preprint_citation: doi:10.5281/zenodo.5146227
+  journal_citation: doi:10.3233/DS-210053
+  thumbnail_url: https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/images/ro-crate-overview.svg
