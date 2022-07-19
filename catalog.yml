@@ -194,3 +194,6 @@
   preprint_citation: doi:10.5281/zenodo.5146227
   journal_citation: doi:10.3233/DS-210053
   thumbnail_url: https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/images/ro-crate-overview.svg
+- repo_url: https://github.com/SORTEE-Github-Hackathon/manuscript
+  html_url: https://sortee-github-hackathon.github.io/manuscript/v/latest/
+  preprint_citation: doi:10.31222/osf.io/x3p2q
