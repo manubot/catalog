@@ -7,8 +7,8 @@
       "title": "Machine learning in rare disease",
       "authors": "Banerjee, Taroni, Allaway, Prasad, Guinney, Greene",
       "journal": "Manubot",
-      "date_iso": "2022-07-13",
-      "date_human": "Jul 2022",
+      "date_iso": "2022-08-24",
+      "date_human": "Aug 2022",
       "csl_item": {
         "id": "CORUkaaL",
         "type": "report",
@@ -48,7 +48,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -56,8 +56,8 @@
           "date-parts": [
             [
               "2022",
-              7,
-              13
+              8,
+              24
             ]
           ]
         },
@@ -120,7 +120,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -541,7 +541,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -661,7 +661,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -735,7 +735,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -928,7 +928,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -979,7 +979,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -1056,7 +1056,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -1205,7 +1205,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -1486,7 +1486,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -1566,7 +1566,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -1832,7 +1832,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -1886,7 +1886,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -2034,7 +2034,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -2100,7 +2100,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -2266,7 +2266,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -2310,7 +2310,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -2383,7 +2383,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -2512,7 +2512,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -2676,7 +2676,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -2808,7 +2808,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -2911,7 +2911,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -3024,7 +3024,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -3076,7 +3076,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -3132,7 +3132,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -3237,7 +3237,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -3287,7 +3287,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -3399,7 +3399,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -3449,7 +3449,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -3563,7 +3563,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -3627,7 +3627,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -3996,7 +3996,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -4063,7 +4063,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -4087,9 +4087,9 @@
       "url": "https://alexslemonade.github.io/OpenPBTA-manuscript/",
       "citation": "url:https://alexslemonade.github.io/OpenPBTA-manuscript/",
       "title": "An Open Pediatric Brain Tumor Atlas",
-      "authors": "Shapiro, Gaonkar, Savonen, Spielman, Bethell, Jin, Rathi, Zhu, Egolf, Farrow, Miller, Koptyra, Duong, et al",
+      "authors": "Shapiro, Gaonkar, Savonen, Spielman, Bethell, Jin, Rathi, Zhu, Egolf, Farrow, Miller, Yang, Koganti, et al",
       "journal": "Manubot",
-      "date_iso": "2022-08-19",
+      "date_iso": "2022-08-25",
       "date_human": "Aug 2022",
       "csl_item": {
         "id": "oqc02age",
@@ -4145,12 +4145,8 @@
             "given": "Daniel P."
           },
           {
-            "family": "Koptyra",
-            "given": "Mateusz P."
-          },
-          {
-            "family": "Duong",
-            "given": "Nhat"
+            "family": "Yang",
+            "given": "Yang"
           },
           {
             "family": "Koganti",
@@ -4161,140 +4157,168 @@
             "given": "Nighat"
           },
           {
-            "family": "Robbins",
-            "given": "Shannon"
+            "family": "Koptyra",
+            "given": "Mateusz P."
           },
           {
-            "family": "Jain",
-            "given": "Payal"
+            "family": "Duong",
+            "given": "Nhat"
           },
           {
-            "family": "Yang",
-            "given": "Yang"
-          },
-          {
-            "family": "Kim",
-            "given": "Meen Chul"
-          },
-          {
-            "family": "Storm",
-            "given": "Phillip B."
-          },
-          {
-            "family": "Foltz",
-            "given": "Steven M."
-          },
-          {
-            "family": "Hanson",
-            "given": "Derek"
-          },
-          {
-            "family": "Mason",
-            "given": "Jennifer"
-          },
-          {
-            "family": "Zheng",
-            "given": "Siyuan"
-          },
-          {
-            "family": "Stewart",
-            "given": "Douglas R."
-          },
-          {
-            "family": "Kannan",
-            "given": "Shrivats"
-          },
-          {
-            "family": "Santi",
-            "given": "Mariarita"
-          },
-          {
-            "family": "Huang",
-            "given": "Xiaoyan"
-          },
-          {
-            "family": "Kuren",
-            "given": "Nicolas Van"
+            "family": "Koschmann",
+            "given": "Carl J."
           },
           {
             "family": "Brown",
             "given": "Miguel A."
           },
           {
-            "family": "Viaene",
-            "given": "Angela N."
+            "family": "Santi",
+            "given": "Mariarita"
           },
           {
-            "family": "Scolaro",
-            "given": "Laura"
+            "family": "Storm",
+            "given": "Phillip B."
           },
           {
-            "family": "Zhang",
-            "given": "Bo"
+            "family": "Hanson",
+            "given": "Derek"
           },
           {
-            "family": "Poetsch",
-            "given": "Anna R."
-          },
-          {
-            "family": "Diskin",
-            "given": "Sharon J."
-          },
-          {
-            "family": "Heath",
-            "given": "Allison P."
-          },
-          {
-            "family": "Kraya",
-            "given": "Adam A."
-          },
-          {
-            "family": "Waanders",
-            "given": "Angela J."
-          },
-          {
-            "family": "Kline",
-            "given": "Cassie N."
-          },
-          {
-            "family": "Guo",
-            "given": "Yiran"
-          },
-          {
-            "family": "Lilly",
-            "given": "Jena V."
-          },
-          {
-            "family": "Kaufman",
-            "given": "Rebecca S."
-          },
-          {
-            "family": "Ennis",
-            "given": "Brian M."
+            "family": "Nazarian",
+            "given": "Javad"
           },
           {
             "family": "Madsen",
             "given": "Peter J."
           },
           {
+            "family": "Ennis",
+            "given": "Brian M."
+          },
+          {
+            "family": "Stewart",
+            "given": "Douglas R."
+          },
+          {
+            "family": "Prados",
+            "given": "Mike"
+          },
+          {
+            "family": "Guo",
+            "given": "Yiran"
+          },
+          {
+            "family": "Mason",
+            "given": "Jennifer"
+          },
+          {
+            "family": "Poetsch",
+            "given": "Anna R."
+          },
+          {
+            "family": "Kline",
+            "given": "Cassie N."
+          },
+          {
+            "family": "Scolaro",
+            "given": "Laura"
+          },
+          {
+            "family": "Waanders",
+            "given": "Angela J."
+          },
+          {
+            "family": "Foltz",
+            "given": "Steven M."
+          },
+          {
+            "family": "Robins",
+            "given": "Shannon"
+          },
+          {
+            "family": "Diskin",
+            "given": "Sharon J."
+          },
+          {
             "family": "Vaksman",
             "given": "Zalman"
           },
           {
-            "family": "Xie",
-            "given": "Hongbo M."
+            "family": "Jain",
+            "given": "Payal"
           },
           {
-            "family": "Wong",
-            "given": "Jessica"
+            "family": "Kim",
+            "given": "Jung"
+          },
+          {
+            "family": "Huang",
+            "given": "Xiaoyan"
+          },
+          {
+            "family": "Viaene",
+            "given": "Angela N."
+          },
+          {
+            "family": "Zhang",
+            "given": "Bo"
+          },
+          {
+            "family": "Lilly",
+            "given": "Jena V."
+          },
+          {
+            "family": "Lulla",
+            "given": "Rishi"
           },
           {
             "family": "Raman",
             "given": "Pichai"
           },
           {
+            "family": "Kuren",
+            "given": "Nicolas Van"
+          },
+          {
+            "family": "Kaufman",
+            "given": "Rebecca S."
+          },
+          {
+            "family": "Rood",
+            "given": "Brian"
+          },
+          {
+            "family": "Mueller",
+            "given": "Sabine"
+          },
+          {
             "family": "Kim",
-            "given": "Jung"
+            "given": "Meen Chul"
+          },
+          {
+            "family": "Wong",
+            "given": "Jessica"
+          },
+          {
+            "family": "Kannan",
+            "given": "Shrivats"
+          },
+          {
+            "family": "Kraya",
+            "given": "Adam A."
+          },
+          {
+            "family": "Zheng",
+            "given": "Siyuan"
+          },
+          {
+            "family": "Xie",
+            "given": "Hongbo M."
+          },
+          {
+            "family": "Heath",
+            "given": "Allison P."
           },
           {
             "family": "Resnick",
@@ -4326,7 +4350,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -4335,7 +4359,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -4374,7 +4398,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -4466,7 +4490,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -4641,7 +4665,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -4761,7 +4785,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -4923,7 +4947,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -5115,7 +5139,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -5245,7 +5269,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -5415,7 +5439,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -5597,7 +5621,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -5784,7 +5808,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -5919,7 +5943,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -5975,7 +5999,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -6149,7 +6173,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -6201,7 +6225,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -6306,7 +6330,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -6497,7 +6521,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -6656,7 +6680,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -6892,7 +6916,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -7013,7 +7037,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -7065,7 +7089,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -7794,7 +7818,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -8584,7 +8608,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -8743,7 +8767,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -8804,6 +8828,60 @@
         "URL": "https://doi.org/gnbdm9",
         "id": "AIrklYhU",
         "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.1101/2021.10.27.466140"
+      }
+    },
+    "journal": {
+      "citation": "doi:10.1186/s13059-022-02705-y",
+      "url": "https://doi.org/gqfqnm",
+      "title": "Widespread redundancy in -omics profiles of cancer mutation states",
+      "authors": "Crawford, Christensen, Chikina, Greene",
+      "journal": "Genome Biology",
+      "date_iso": "2022-06-27",
+      "date_human": "Jun 2022",
+      "csl_item": {
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "1",
+        "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>In studies of cellular function in cancer, researchers are increasingly able to choose from many -omics assays as functional readouts. Choosing the correct readout for a given study can be difficult, and which layer of cellular function is most suitable to capture the relevant signal remains unclear.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>We consider prediction of cancer mutation status (presence or absence) from functional -omics data as a representative problem that presents an opportunity to quantify and compare the ability of different -omics readouts to capture signals of dysregulation in cancer. From the TCGA Pan-Cancer Atlas that contains genetic alteration data, we focus on RNA sequencing, DNA methylation arrays, reverse phase protein arrays (RPPA), microRNA, and somatic mutational signatures as -omics readouts. Across a collection of genes recurrently mutated in cancer, RNA sequencing tends to be the most effective predictor of mutation state. We find that one or more other data types for many of the genes are approximately equally effective predictors. Performance is more variable between mutations than that between data types for the same mutation, and there is little difference between the top data types. We also find that combining data types into a single multi-omics model provides little or no improvement in predictive ability over the best individual data type.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusions</jats:title>\n                <jats:p>Based on our results, for the design of studies focused on the functional outcomes of cancer mutations, there are often multiple -omics types that can serve as effective readouts, although gene expression seems to be a reasonable default option.</jats:p>\n              </jats:sec>",
+        "DOI": "10.1186/s13059-022-02705-y",
+        "type": "article-journal",
+        "source": "Crossref",
+        "title": "Widespread redundancy in -omics profiles of cancer mutation states",
+        "volume": "23",
+        "author": [
+          {
+            "given": "Jake",
+            "family": "Crawford"
+          },
+          {
+            "given": "Brock C.",
+            "family": "Christensen"
+          },
+          {
+            "given": "Maria",
+            "family": "Chikina"
+          },
+          {
+            "given": "Casey S.",
+            "family": "Greene"
+          }
+        ],
+        "container-title": "Genome Biology",
+        "language": "en",
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              27
+            ]
+          ]
+        },
+        "URL": "https://doi.org/gqfqnm",
+        "container-title-short": "Genome Biol",
+        "PMCID": "PMC9238138",
+        "PMID": "35761387",
+        "id": "cAxtCrBP",
+        "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13059-022-02705-y"
       }
     },
     "extras": {}
@@ -8870,7 +8948,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -9045,7 +9123,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
@@ -9355,7 +9433,7 @@
             [
               "2022",
               8,
-              19
+              25
             ]
           ]
         },
