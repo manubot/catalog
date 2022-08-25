@@ -198,3 +198,6 @@
 - repo_url: https://github.com/SORTEE-Github-Hackathon/manuscript
   html_url: https://sortee-github-hackathon.github.io/manuscript/v/latest/
   preprint_citation: doi:10.31222/osf.io/x3p2q
+- repo_url: https://github.com/lcbc-epfl/metal-site-prediction
+  html_url: https://lcbc-epfl.github.io/metal-site-prediction/
+  preprint_citation: doi:10.1101/2022.08.22.504853
