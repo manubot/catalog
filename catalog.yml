@@ -186,6 +186,7 @@
 - repo_url: https://github.com/greenelab/mpmp-manuscript
   html_url: https://greenelab.github.io/mpmp-manuscript/
   preprint_citation: doi:10.1101/2021.10.27.466140
+  journal_citation: doi:10.1186/s13059-022-02705-y
 - repo_url: https://github.com/aseedb/synaptic_tomo_ms
   html_url: https://aseedb.github.io/synaptic_tomo_ms/
   preprint_citation: doi:10.1101/2022.03.07.483217
