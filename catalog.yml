@@ -108,6 +108,7 @@
   html_url: https://finlaymagui.re/mag_sim_paper/
 - repo_url: https://github.com/AlexsLemonade/OpenPBTA-manuscript
   html_url: https://alexslemonade.github.io/OpenPBTA-manuscript/
+  preprint_citation: doi:10.1101/2022.09.13.507832
 - repo_url: https://github.com/jperkel/mymanuscript
   html_url: https://jperkel.github.io/mymanuscript/
   journal_citation: doi:10.1038/d41586-020-00916-6
