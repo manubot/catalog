@@ -7,7 +7,7 @@
       "title": "Machine learning in rare disease",
       "authors": "Banerjee, Taroni, Allaway, Prasad, Guinney, Greene",
       "journal": "Manubot",
-      "date_iso": "2022-09-07",
+      "date_iso": "2022-09-20",
       "date_human": "Sep 2022",
       "csl_item": {
         "id": "CORUkaaL",
@@ -48,7 +48,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -57,7 +57,7 @@
             [
               "2022",
               9,
-              7
+              20
             ]
           ]
         },
@@ -120,7 +120,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -541,7 +541,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -661,7 +661,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -735,7 +735,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -928,7 +928,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -979,7 +979,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -1056,7 +1056,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -1205,7 +1205,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -1486,7 +1486,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -1566,7 +1566,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -1832,7 +1832,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -1886,7 +1886,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -2034,7 +2034,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -2100,7 +2100,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -2266,7 +2266,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -2310,7 +2310,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -2383,7 +2383,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -2512,7 +2512,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -2676,7 +2676,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -2808,7 +2808,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -2911,7 +2911,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -3024,7 +3024,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -3076,7 +3076,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -3132,7 +3132,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -3237,7 +3237,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -3287,7 +3287,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -3399,7 +3399,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -3449,7 +3449,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -3563,7 +3563,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -3627,7 +3627,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -3996,7 +3996,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -4063,7 +4063,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -4363,7 +4363,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -4377,6 +4377,287 @@
           ]
         },
         "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: url:https://alexslemonade.github.io/OpenPBTA-manuscript/"
+      }
+    },
+    "preprint": {
+      "citation": "doi:10.1101/2022.09.13.507832",
+      "url": "https://doi.org/gqvf99",
+      "title": "OpenPBTA: An Open Pediatric Brain Tumor Atlas",
+      "authors": "Shapiro, Gaonkar, Savonen, Spielman, Bethell, Jin, Rathi, Zhu, Egolf, Farrow, Miller, Yang, Koganti, et al",
+      "journal": "Cold Spring Harbor Laboratory",
+      "date_iso": "2022-09-16",
+      "date_human": "Sep 2022",
+      "csl_item": {
+        "publisher": "Cold Spring Harbor Laboratory",
+        "abstract": "<jats:sec><jats:title>Summary</jats:title><jats:p>Pediatric brain and spinal cancer are the leading disease-related cause of death in children, thus we urgently need curative therapeutic strategies for these tumors. To accelerate such discoveries, the Children’s Brain Tumor Network and Pacific Pediatric Neuro-Oncology Consortium created a systematic process for tumor biobanking, model generation, and sequencing with immediate access to harmonized data. We leverage these data to create OpenPBTA, an open collaborative project which establishes over 40 scalable analysis modules to genomically characterize 1,074 pediatric brain tumors. Transcriptomic classification reveals that <jats:italic>TP53</jats:italic> loss is a significant marker for poor overall survival in ependymomas and H3 K28-altered diffuse midline gliomas and further identifies universal <jats:italic>TP53</jats:italic> dysregulation in mismatch repair-deficient hypermutant high-grade gliomas. OpenPBTA is a foundational analysis platform actively being applied to other pediatric cancers and inform molecular tumor board decision-making, making it an invaluable resource to the pediatric oncology community.</jats:p></jats:sec><jats:sec><jats:title>In Brief</jats:title><jats:p>The OpenPBTA is a global, collaborative open-science initiative which brought together researchers and clinicians to genomically characterize 1,074 pediatric brain tumors and 22 patient-derived cell lines. Shapiro, et. al create over 40 open-source, scalable modules to perform cancer genomics analyses and provide a richly-annotated somatic dataset across 58 brain tumor histologies. The OpenPBTA framework can be used as a model for large-scale data integration to inform basic research, therapeutic target identification, and clinical translation.</jats:p></jats:sec><jats:sec><jats:title>Highlights</jats:title><jats:p>OpenPBTA collaborative analyses establish resource for 1,074 pediatric brain tumors NGS-based WHO-aligned integrated diagnoses generated for 641 of 1,074 tumors RNA-Seq analysis infers medulloblastoma subtypes, TP53 status, and telomerase activity OpenPBTA will accelerate therapeutic translation of genomic insights</jats:p></jats:sec>",
+        "DOI": "10.1101/2022.09.13.507832",
+        "type": "manuscript",
+        "source": "Crossref",
+        "title": "OpenPBTA: An Open Pediatric Brain Tumor Atlas",
+        "author": [
+          {
+            "given": "Joshua A.",
+            "family": "Shapiro"
+          },
+          {
+            "given": "Krutika S.",
+            "family": "Gaonkar"
+          },
+          {
+            "given": "Candace L.",
+            "family": "Savonen"
+          },
+          {
+            "given": "Stephanie J.",
+            "family": "Spielman"
+          },
+          {
+            "given": "Chante J.",
+            "family": "Bethell"
+          },
+          {
+            "given": "Run",
+            "family": "Jin"
+          },
+          {
+            "given": "Komal S.",
+            "family": "Rathi"
+          },
+          {
+            "given": "Yuankun",
+            "family": "Zhu"
+          },
+          {
+            "given": "Laura E.",
+            "family": "Egolf"
+          },
+          {
+            "given": "Bailey K.",
+            "family": "Farrow"
+          },
+          {
+            "given": "Daniel P.",
+            "family": "Miller"
+          },
+          {
+            "given": "Yang",
+            "family": "Yang"
+          },
+          {
+            "given": "Tejaswi",
+            "family": "Koganti"
+          },
+          {
+            "given": "Nighat",
+            "family": "Noureen"
+          },
+          {
+            "given": "Mateusz P.",
+            "family": "Koptyra"
+          },
+          {
+            "given": "Nhat",
+            "family": "Duong"
+          },
+          {
+            "given": "Adam A.",
+            "family": "Kraya"
+          },
+          {
+            "given": "Cassie",
+            "family": "Kline"
+          },
+          {
+            "given": "Yiran",
+            "family": "Guo"
+          },
+          {
+            "given": "Phillip B.",
+            "family": "Storm"
+          },
+          {
+            "given": "Javad",
+            "family": "Nazarian"
+          },
+          {
+            "given": "Stephen C.",
+            "family": "Mack"
+          },
+          {
+            "given": "Pichai",
+            "family": "Raman"
+          },
+          {
+            "given": "Siyuan",
+            "family": "Zheng"
+          },
+          {
+            "given": "Peter J.",
+            "family": "Madsen"
+          },
+          {
+            "given": "Nicholas",
+            "family": "Van Kuren"
+          },
+          {
+            "given": "Shannon",
+            "family": "Robins"
+          },
+          {
+            "given": "Xiaoyan",
+            "family": "Huang"
+          },
+          {
+            "given": "Angela J.",
+            "family": "Waanders"
+          },
+          {
+            "given": "Jung",
+            "family": "Kim"
+          },
+          {
+            "given": "Derek",
+            "family": "Hanson"
+          },
+          {
+            "given": "Carl J.",
+            "family": "Koschmann"
+          },
+          {
+            "given": "Sharon J.",
+            "family": "Diskin"
+          },
+          {
+            "given": "Rishi R.",
+            "family": "Lulla"
+          },
+          {
+            "given": "Miguel A.",
+            "family": "Brown"
+          },
+          {
+            "given": "Jessica",
+            "family": "Wong"
+          },
+          {
+            "given": "Jennifer L.",
+            "family": "Mason"
+          },
+          {
+            "given": "Laura",
+            "family": "Scolaro"
+          },
+          {
+            "given": "Meen Chul",
+            "family": "Kim"
+          },
+          {
+            "given": "Hongbo M.",
+            "family": "Xie"
+          },
+          {
+            "given": "Brian R.",
+            "family": "Rood"
+          },
+          {
+            "given": "Kristina A.",
+            "family": "Cole"
+          },
+          {
+            "given": "Ashley S.",
+            "family": "Margol"
+          },
+          {
+            "given": "Zalman",
+            "family": "Vaksman"
+          },
+          {
+            "given": "Rebecca S.",
+            "family": "Kaufman"
+          },
+          {
+            "given": "Allison P.",
+            "family": "Heath"
+          },
+          {
+            "given": "Brian M.",
+            "family": "Ennis"
+          },
+          {
+            "given": "Mariarita",
+            "family": "Santi"
+          },
+          {
+            "given": "Anna R.",
+            "family": "Poetsch"
+          },
+          {
+            "given": "Angela N.",
+            "family": "Viaene"
+          },
+          {
+            "given": "Douglas R.",
+            "family": "Stewart"
+          },
+          {
+            "given": "Steven M.",
+            "family": "Foltz"
+          },
+          {
+            "given": "Payal",
+            "family": "Jain"
+          },
+          {
+            "given": "Bo",
+            "family": "Zhang"
+          },
+          {
+            "given": "Shrivats",
+            "family": "Kannan"
+          },
+          {
+            "given": "Michael",
+            "family": "Prados"
+          },
+          {
+            "given": "Jena V.",
+            "family": "Lilly"
+          },
+          {
+            "given": "Sabine",
+            "family": "Mueller"
+          },
+          {
+            "given": "Adam C.",
+            "family": "Resnick"
+          },
+          {
+            "given": "Casey S.",
+            "family": "Greene"
+          },
+          {
+            "given": "Jo Lynne",
+            "family": "Rokita"
+          },
+          {
+            "given": "Jaclyn N.",
+            "family": "Taroni"
+          },
+          {},
+          {}
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              16
+            ]
+          ]
+        },
+        "URL": "https://doi.org/gqvf99",
+        "id": "177dLbJBm",
+        "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.1101/2022.09.13.507832"
       }
     },
     "extras": {}
@@ -4411,7 +4692,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -4503,7 +4784,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -4678,7 +4959,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -4798,7 +5079,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -4960,7 +5241,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -5152,7 +5433,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -5282,7 +5563,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -5452,7 +5733,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -5634,7 +5915,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -5821,7 +6102,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -5956,7 +6237,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -6012,7 +6293,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -6186,7 +6467,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -6238,7 +6519,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -6343,7 +6624,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -6534,7 +6815,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -6693,7 +6974,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -6929,7 +7210,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -7050,7 +7331,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -7102,7 +7383,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -7831,7 +8112,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -8536,7 +8817,7 @@
       "title": "Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms",
       "authors": "Pividori, Lu, Li, Su, Johnson, Wei, Feng, Namjou, Kiryluk, Kullo, Luo, Sullivan, Voight, Skarke, et al",
       "journal": "Manubot",
-      "date_iso": "2022-09-15",
+      "date_iso": "2022-09-20",
       "date_human": "Sep 2022",
       "csl_item": {
         "id": "IxgQDGqC",
@@ -8621,7 +8902,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -8630,7 +8911,7 @@
             [
               "2022",
               9,
-              15
+              20
             ]
           ]
         },
@@ -8780,7 +9061,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -8961,7 +9242,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -9136,7 +9417,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -9446,7 +9727,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
@@ -9598,7 +9879,7 @@
             [
               "2022",
               9,
-              16
+              21
             ]
           ]
         },
