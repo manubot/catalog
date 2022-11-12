@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.8
+          python-version: '3.10'
       - name: Install dependencies
         run: pip install --upgrade --requirement=requirements.txt
       - name: Process catalog
@@ -27,7 +27,7 @@ jobs:
           publish_dir: output
       - name: Repository Dispatch
         if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && github.repository == 'manubot/catalog'
-        uses: peter-evans/repository-dispatch@v1
+        uses: peter-evans/repository-dispatch@v2
         with:
           repository: manubot/manubot.org
           token: ${{ secrets.MANUBOT_ORG_BOT_PAT }}
