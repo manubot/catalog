@@ -203,3 +203,12 @@
 - repo_url: https://github.com/lcbc-epfl/metal-site-prediction
   html_url: https://lcbc-epfl.github.io/metal-site-prediction/
   preprint_citation: doi:10.1101/2022.08.22.504853
+- repo_url: https://github.com/dib-lab/2022-paper-branchwater-software
+  html_url: https://dib-lab.github.io/2022-paper-branchwater-software/
+  preprint_citation: doi:10.1101/2022.11.02.514947
+- repo_url: https://github.com/dib-lab/2021-paper-metapangenomes
+  html_url: https://dib-lab.github.io/2021-paper-metapangenomes/
+  preprint_citation: doi:10.1101/2022.06.27.497795
+- repo_url: https://github.com/jojoelfe/deco_lace_template_matching_manuscript
+  html_url: https://jojoelfe.github.io/deco_lace_template_matching_manuscript/
+  preprint_citation: doi:10.1101/2022.06.13.495969
