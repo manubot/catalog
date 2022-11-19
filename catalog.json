@@ -7,7 +7,7 @@
       "title": "Machine learning in rare disease",
       "authors": "Banerjee, Taroni, Allaway, Prasad, Guinney, Greene",
       "journal": "Manubot",
-      "date_iso": "2022-11-11",
+      "date_iso": "2022-11-15",
       "date_human": "Nov 2022",
       "csl_item": {
         "id": "CORUkaaL",
@@ -48,7 +48,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -57,7 +57,7 @@
             [
               "2022",
               11,
-              11
+              15
             ]
           ]
         },
@@ -120,7 +120,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -541,7 +541,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -636,12 +636,12 @@
       "repo_url": "https://github.com/dhimmel/bitcoin-whitepaper/",
       "url": "https://dhimmel.github.io/bitcoin-whitepaper/",
       "citation": "url:https://dhimmel.github.io/bitcoin-whitepaper/",
-      "thumbnail_url": "https://github.com/dhimmel/bitcoin-whitepaper/raw/a5f36b332cb6a5fa9e701886f376ac1ac2946d07/build/assets/thumbnail.png",
+      "thumbnail_url": "https://github.com/dhimmel/bitcoin-whitepaper/raw/df23738277034e9e7b626c92fb78feb3d6aaa310/build/assets/thumbnail.png",
       "title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
       "authors": "Nakamoto",
       "journal": "Manubot",
-      "date_iso": "2019-11-20",
-      "date_human": "Nov 2019",
+      "date_iso": "2008-10-31",
+      "date_human": "Oct 2008",
       "csl_item": {
         "id": "1Hmw2NDck",
         "type": "report",
@@ -661,16 +661,16 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
         "issued": {
           "date-parts": [
             [
-              "2019",
-              11,
-              20
+              "2008",
+              10,
+              31
             ]
           ]
         },
@@ -735,7 +735,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -928,7 +928,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -979,7 +979,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -1056,7 +1056,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -1205,7 +1205,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -1486,7 +1486,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -1566,7 +1566,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -1836,7 +1836,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -1890,7 +1890,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -2038,7 +2038,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -2104,7 +2104,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -2270,7 +2270,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -2314,7 +2314,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -2387,7 +2387,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -2516,7 +2516,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -2680,7 +2680,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -2812,7 +2812,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -2915,7 +2915,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -3028,7 +3028,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -3080,7 +3080,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -3136,7 +3136,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -3241,7 +3241,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -3291,7 +3291,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -3353,11 +3353,11 @@
       "repo_url": "https://github.com/greenelab/xswap-manuscript",
       "url": "https://greenelab.github.io/xswap-manuscript/",
       "citation": "url:https://greenelab.github.io/xswap-manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/xswap-manuscript/raw/319566d1b277e231b6ae8a12fb793e7a391a3ad7/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/xswap-manuscript/raw/a7f048580ed14cee841dc666a3b619fe3ee3688e/thumbnail.png",
       "title": "The probability of edge existence due to node degree: a baseline for network-based predictions",
       "authors": "Zietz, Himmelstein, Kloster, Williams, Nagle, Greene",
       "journal": "Manubot",
-      "date_iso": "2022-11-12",
+      "date_iso": "2022-11-15",
       "date_human": "Nov 2022",
       "csl_item": {
         "id": "17QDcGqUi",
@@ -3399,7 +3399,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -3408,7 +3408,7 @@
             [
               "2022",
               11,
-              12
+              15
             ]
           ]
         },
@@ -3491,7 +3491,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -3541,7 +3541,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -3655,7 +3655,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -3719,7 +3719,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -4088,7 +4088,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -4155,7 +4155,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -4455,7 +4455,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -4784,7 +4784,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -4876,7 +4876,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -5051,7 +5051,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -5171,7 +5171,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -5333,7 +5333,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -5525,7 +5525,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -5655,7 +5655,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -5825,7 +5825,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -6007,7 +6007,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -6194,7 +6194,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -6329,7 +6329,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -6385,7 +6385,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -6559,7 +6559,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -6611,7 +6611,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -6716,7 +6716,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -6907,7 +6907,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -7066,7 +7066,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -7302,7 +7302,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -7423,7 +7423,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -7475,7 +7475,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -8204,7 +8204,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -8994,7 +8994,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -9020,7 +9020,7 @@
       "date_human": "Jul 2021",
       "csl_item": {
         "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:p>Genes act in concert with each other in specific contexts to perform their functions. Determining how these genes influence complex traits requires a mechanistic understanding of expression regulation across different conditions. It has been shown that this insight is critical for developing new therapies. In this regard, the role of individual genes in disease-relevant mechanisms can be hypothesized with transcriptome-wide association studies (TWAS), which have represented a significant step forward in testing the mediating role of gene expression in GWAS associations. However, modern models of the architecture of complex traits predict that gene-gene interactions play a crucial role in disease origin and progression. Here we introduce PhenoPLIER, a computational approach that maps gene-trait associations and pharmacological perturbation data into a common latent representation for a joint analysis. This representation is based on modules of genes with similar expression patterns across the same conditions. We observed that diseases were significantly associated with gene modules expressed in relevant cell types, and our approach was accurate in predicting known drug-disease pairs and inferring mechanisms of action. Furthermore, using a CRISPR screen to analyze lipid regulation, we found that functionally important players lacked TWAS associations but were prioritized in trait-associated modules by PhenoPLIER. By incorporating groups of co-expressed genes, PhenoPLIER can contextualize genetic associations and reveal potential targets missed by single-gene strategies.</jats:p>",
+        "abstract": "<jats:title>Abstract</jats:title><jats:p>Genes act in concert with each other in specific contexts to perform their functions. Determining how these genes influence complex traits requires a mechanistic understanding of expression regulation across different conditions. It has been shown that this insight is critical for developing new therapies. In this regard, the role of individual genes in disease-relevant mechanisms can be hypothesized with transcriptome-wide association studies (TWAS), which have represented a significant step forward in testing the mediating role of gene expression in GWAS associations. However, modern models of the architecture of complex traits predict that gene-gene interactions play a crucial role in disease origin and progression. Here we introduce PhenoPLIER, a computational approach that maps gene-trait associations and pharmacological perturbation data into a common latent representation for a joint analysis. This representation is based on modules of genes with similar expression patterns across the same conditions. We observed that diseases were significantly associated with gene modules expressed in relevant cell types, and our approach was accurate in predicting known drug-disease pairs and inferring mechanisms of action. Furthermore, using a CRISPR screen to analyze lipid regulation, we found that functionally important players lacked TWAS associations but were prioritized in trait-associated modules by PhenoPLIER. By incorporating groups of co-expressed genes, PhenoPLIER can contextualize genetic associations and reveal potential targets missed by single-gene strategies.</jats:p>",
         "DOI": "10.1101/2021.07.05.450786",
         "type": "manuscript",
         "source": "Crossref",
@@ -9075,7 +9075,7 @@
             "family": "Sullivan"
           },
           {
-            "given": "Benjamin Franklin",
+            "given": "Benjamin F.",
             "family": "Voight"
           },
           {
@@ -9091,7 +9091,7 @@
             "family": "Grant"
           },
           {
-            "given": "Casey S",
+            "given": "Casey S.",
             "family": "Greene"
           }
         ],
@@ -9153,7 +9153,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -9277,12 +9277,12 @@
       "repo_url": "https://github.com/aseedb/synaptic_tomo_ms",
       "url": "https://aseedb.github.io/synaptic_tomo_ms/",
       "citation": "url:https://aseedb.github.io/synaptic_tomo_ms/",
-      "thumbnail_url": "https://github.com/aseedb/synaptic_tomo_ms/raw/b45baa9ff6dbad56a3e3a12ad42cc5fb52c9dd14/thumbnail.png",
+      "thumbnail_url": "https://github.com/aseedb/synaptic_tomo_ms/raw/9aa977451d6039aebc6f324ed404edcb2ec2316e/thumbnail.png",
       "title": "Morphofunctional changes at the active zone during synaptic vesicle exocytosis",
       "authors": "Radecke, Seeger, Kádková, Laugks, Khosrozadeh, Goldie, Lučić, Sørensen, Zuber",
       "journal": "Manubot",
-      "date_iso": "2022-07-05",
-      "date_human": "Jul 2022",
+      "date_iso": "2022-11-18",
+      "date_human": "Nov 2022",
       "csl_item": {
         "id": "L11UxJlE",
         "type": "report",
@@ -9334,7 +9334,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -9342,8 +9342,8 @@
           "date-parts": [
             [
               "2022",
-              7,
-              5
+              11,
+              18
             ]
           ]
         },
@@ -9509,7 +9509,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -9733,8 +9733,8 @@
       "title": "Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution",
       "authors": "Crystal-Ornelas, Edwards, Hébert, Hudgins, Reyes, Scott, Grainger, Foroughirad, Binley, Brookson, et al",
       "journal": "Manubot",
-      "date_iso": "2022-10-27",
-      "date_human": "Oct 2022",
+      "date_iso": "2022-11-17",
+      "date_human": "Nov 2022",
       "csl_item": {
         "id": "8ZYvgliZ",
         "type": "report",
@@ -9819,7 +9819,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -9827,8 +9827,8 @@
           "date-parts": [
             [
               "2022",
-              10,
-              27
+              11,
+              17
             ]
           ]
         },
@@ -9971,7 +9971,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -10069,7 +10069,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -10175,7 +10175,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
@@ -10285,7 +10285,7 @@
             [
               "2022",
               11,
-              12
+              18
             ]
           ]
         },
