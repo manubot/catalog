@@ -1,6 +1,6 @@
 # Manubot Catalog
 
-[![GitHub Actions Build Status](https://img.shields.io/github/workflow/status/manubot/catalog/Build%20catalog/main?label=actions&logo=github&style=for-the-badge)](https://github.com/manubot/catalog/actions)
+[![GitHub Actions Build Status](https://img.shields.io/github/actions/workflow/status/manubot/catalog/build.yaml?branch=main&label=actions&logo=github&style=for-the-badge)](https://github.com/manubot/catalog/actions)
 
 Manubot is a workflow and set of tools for the next generation of scholarly publishing.
 Learn more at <https://manubot.org/>.
