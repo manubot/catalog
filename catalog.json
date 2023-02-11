@@ -48,7 +48,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -120,7 +120,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -541,7 +541,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -661,7 +661,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -735,7 +735,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -928,7 +928,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -979,7 +979,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -1056,7 +1056,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -1205,7 +1205,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -1486,7 +1486,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -1566,7 +1566,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -1840,7 +1840,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -1894,7 +1894,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2042,7 +2042,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2108,7 +2108,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2274,7 +2274,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2296,8 +2296,8 @@
       "title": "Illusions et hallucinations visuelles : une porte sur la perception",
       "authors": "Perrinet",
       "journal": "The Conversation",
-      "date_iso": null,
-      "date_human": null,
+      "date_iso": "2019-06-06",
+      "date_human": "Jun 2019",
       "csl_item": {
         "id": "faKuBkfY",
         "type": "webpage",
@@ -2318,7 +2318,16 @@
             [
               "2023",
               2,
-              3
+              10
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              "2019",
+              6,
+              6
             ]
           ]
         },
@@ -2391,7 +2400,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2520,7 +2529,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2684,7 +2693,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2816,7 +2825,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -2919,7 +2928,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -3032,7 +3041,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -3084,7 +3093,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -3140,7 +3149,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -3245,7 +3254,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -3295,7 +3304,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -3357,12 +3366,12 @@
       "repo_url": "https://github.com/greenelab/xswap-manuscript",
       "url": "https://greenelab.github.io/xswap-manuscript/",
       "citation": "url:https://greenelab.github.io/xswap-manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/xswap-manuscript/raw/63b1969b3a5c75283c3dbb89eff4600abcc1c496/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/xswap-manuscript/raw/86f91d0ade822f9928e62f35675022d628d96bf3/thumbnail.png",
       "title": "The probability of edge existence due to node degree: a baseline for network-based predictions",
       "authors": "Zietz, Himmelstein, Kloster, Williams, Nagle, Greene",
       "journal": "Manubot",
-      "date_iso": "2023-01-31",
-      "date_human": "Jan 2023",
+      "date_iso": "2023-02-09",
+      "date_human": "Feb 2023",
       "csl_item": {
         "id": "17QDcGqUi",
         "type": "report",
@@ -3403,7 +3412,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -3411,8 +3420,8 @@
           "date-parts": [
             [
               "2023",
-              1,
-              31
+              2,
+              9
             ]
           ]
         },
@@ -3552,7 +3561,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -3683,7 +3692,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -3841,7 +3850,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -3905,7 +3914,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -4274,7 +4283,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -4341,7 +4350,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -4367,8 +4376,8 @@
       "title": "OpenPBTA: An Open Pediatric Brain Tumor Atlas",
       "authors": "Shapiro, Gaonkar, Savonen, Spielman, Bethell, Jin, Rathi, Zhu, Egolf, Farrow, Miller, Yang, Koganti, et al",
       "journal": "Manubot",
-      "date_iso": "2023-01-11",
-      "date_human": "Jan 2023",
+      "date_iso": "2023-02-07",
+      "date_human": "Feb 2023",
       "csl_item": {
         "id": "oqc02age",
         "type": "report",
@@ -4502,6 +4511,18 @@
           {
             "family": "Way",
             "given": "Gregory P."
+          },
+          {
+            "family": "Blackden",
+            "given": "Christopher"
+          },
+          {
+            "family": "Wafula",
+            "given": "Eric"
+          },
+          {
+            "family": "Coleman",
+            "given": "Noel"
           },
           {
             "family": "Hanson",
@@ -4645,7 +4666,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -4653,8 +4674,8 @@
           "date-parts": [
             [
               "2023",
-              1,
-              11
+              2,
+              7
             ]
           ]
         },
@@ -4974,7 +4995,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -5066,7 +5087,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -5241,7 +5262,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -5361,7 +5382,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -5523,7 +5544,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -5715,7 +5736,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -5845,7 +5866,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -6015,7 +6036,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -6197,7 +6218,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -6384,7 +6405,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -6510,8 +6531,7 @@
             "given": "Sage Bionetworks"
           },
           {
-            "family": "</sup>",
-            "given": ""
+            "literal": "</sup>"
           }
         ],
         "accessed": {
@@ -6519,7 +6539,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -6575,7 +6595,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -6749,7 +6769,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -6801,7 +6821,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -6906,7 +6926,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -7097,7 +7117,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -7256,7 +7276,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -7492,7 +7512,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -7613,7 +7633,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -7665,7 +7685,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -8394,7 +8414,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -9184,7 +9204,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -9343,7 +9363,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -9524,7 +9544,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -9699,7 +9719,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -9923,8 +9943,8 @@
       "title": "Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution",
       "authors": "Crystal-Ornelas, Edwards, Hébert, Hudgins, Reyes, Scott, Grainger, Foroughirad, Binley, Brookson, et al",
       "journal": "Manubot",
-      "date_iso": "2023-01-30",
-      "date_human": "Jan 2023",
+      "date_iso": "2023-02-06",
+      "date_human": "Feb 2023",
       "csl_item": {
         "id": "8ZYvgliZ",
         "type": "report",
@@ -10009,7 +10029,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -10017,8 +10037,8 @@
           "date-parts": [
             [
               "2023",
-              1,
-              30
+              2,
+              6
             ]
           ]
         },
@@ -10161,7 +10181,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -10259,7 +10279,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -10365,7 +10385,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -10475,7 +10495,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -10600,8 +10620,8 @@
       "title": "A publishing infrastructure for AI-assisted academic authoring",
       "authors": "Pividori, Greene",
       "journal": "Manubot",
-      "date_iso": "2023-01-27",
-      "date_human": "Jan 2023",
+      "date_iso": "2023-02-07",
+      "date_human": "Feb 2023",
       "csl_item": {
         "id": "1CkyquN7E",
         "type": "report",
@@ -10625,7 +10645,7 @@
             [
               "2023",
               2,
-              3
+              10
             ]
           ]
         },
@@ -10633,8 +10653,8 @@
           "date-parts": [
             [
               "2023",
-              1,
-              27
+              2,
+              7
             ]
           ]
         },
@@ -10676,6 +10696,8 @@
           ]
         },
         "URL": "https://doi.org/grpf8m",
+        "PMCID": "PMC9900745",
+        "PMID": "36747665",
         "id": "8tobuGjc",
         "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.1101/2023.01.21.525030"
       }
