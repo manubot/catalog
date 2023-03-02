@@ -151,10 +151,6 @@
   journal_citation: doi:10.5278/ojs.quivirr.v1.2020.a0001
 - repo_url: https://github.com/Sage-Bionetworks/governanceGreenPaper
   html_url: https://sage-bionetworks.github.io/governanceGreenPaper/
-- repo_url: https://github.com/habi/zmk-tooth-cohort-method-manuscript
-  html_url: https://habi.github.io/zmk-tooth-cohort-method-manuscript/
-  preprint_citation: doi:10.1101/2020.10.27.356998
-  journal_citation: doi:10.1186/s12903-021-01551-x
 - repo_url: https://github.com/lubianat/ann_sprint
   html_url: https://lubianat.github.io/ann_sprint/
 - repo_url: https://github.com/lubianat/technotype
@@ -164,6 +160,12 @@
   html_url: https://habi.github.io/acinar-analysis-manuscript/
   preprint_citation: doi:10.1101/786681
   journal_citation: doi:10.1371/journal.pone.0257349
+- repo_url: https://github.com/habi/zmk-tooth-cohort-method-manuscript
+  html_url: https://habi.github.io/zmk-tooth-cohort-method-manuscript/
+  preprint_citation: doi:10.1101/2020.10.27.356998
+  journal_citation: doi:10.1186/s12903-021-01551-x
+- repo_url: https://github.com/habi/EAWAG-manuscript
+  html_url: https://habi.github.io/EAWAG-manuscript/
 - repo_url: https://github.com/greenelab/annorxiver_manuscript
   html_url: https://greenelab.github.io/annorxiver_manuscript/
   preprint_citation: doi:10.1101/2021.03.04.433874
