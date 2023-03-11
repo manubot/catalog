@@ -48,7 +48,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -120,7 +120,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -541,7 +541,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -661,7 +661,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -735,7 +735,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -928,7 +928,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -979,7 +979,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -1056,7 +1056,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -1205,7 +1205,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -1486,7 +1486,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -1566,7 +1566,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -1732,8 +1732,8 @@
       "title": "Introducing yt 4.0: Analysis and Visualization of Volumetric Data",
       "authors": "Project, Turk, Goldbaum, ZuHone, Streicher, Ji, Lang, Munk, Smith, Kowalik, Streicher, Coughlin, et al",
       "journal": "Manubot",
-      "date_iso": "2023-02-28",
-      "date_human": "Feb 2023",
+      "date_iso": "2023-03-06",
+      "date_human": "Mar 2023",
       "csl_item": {
         "id": "1AIP8Sp9Y",
         "type": "report",
@@ -1846,6 +1846,10 @@
             "given": "Stuart"
           },
           {
+            "family": "Keller",
+            "given": "Benjamin"
+          },
+          {
             "family": "Yourself",
             "given": "Add"
           }
@@ -1855,7 +1859,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -1863,8 +1867,8 @@
           "date-parts": [
             [
               "2023",
-              2,
-              28
+              3,
+              6
             ]
           ]
         },
@@ -1909,7 +1913,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -2057,7 +2061,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -2123,7 +2127,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -2289,7 +2293,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -2333,7 +2337,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -2415,7 +2419,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -2544,7 +2548,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -2708,7 +2712,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -2840,7 +2844,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -2943,7 +2947,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -3056,7 +3060,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -3108,7 +3112,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -3164,7 +3168,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -3269,7 +3273,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -3319,7 +3323,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -3427,7 +3431,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -3576,7 +3580,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -3707,7 +3711,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -3865,7 +3869,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -3929,7 +3933,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -4059,12 +4063,12 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/9c612e5f68aafa0cef8d8a8508ac70c558eba3a6/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/d53c00e9b712858948a89af4305f7939f2e87f20/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2023-01-31",
-      "date_human": "Jan 2023",
+      "date_iso": "2023-03-06",
+      "date_human": "Mar 2023",
       "csl_item": {
         "id": "Z4Wyi0Mo",
         "type": "report",
@@ -4298,7 +4302,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -4306,8 +4310,8 @@
           "date-parts": [
             [
               "2023",
-              1,
-              31
+              3,
+              6
             ]
           ]
         },
@@ -4365,7 +4369,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -4681,7 +4685,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -5010,7 +5014,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -5102,7 +5106,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -5277,7 +5281,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -5397,7 +5401,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -5559,7 +5563,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -5751,7 +5755,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -5881,7 +5885,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -6051,7 +6055,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -6233,7 +6237,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -6420,7 +6424,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -6554,7 +6558,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -6635,7 +6639,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -6687,7 +6691,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -6792,7 +6796,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -6972,7 +6976,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -7091,7 +7095,7 @@
       "title": "Microtomographic investigation of a large corpus of cichlids",
       "authors": "Haberthür, Law, Ford, Häsler, Seehausen, Hlushchuk",
       "journal": "Manubot",
-      "date_iso": "2023-03-03",
+      "date_iso": "2023-03-10",
       "date_human": "Mar 2023",
       "csl_item": {
         "id": "3JhMk46",
@@ -7132,7 +7136,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -7141,7 +7145,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -7199,7 +7203,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -7358,7 +7362,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -7594,7 +7598,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -7715,7 +7719,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -7767,7 +7771,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -8496,7 +8500,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -9201,8 +9205,8 @@
       "title": "Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms",
       "authors": "Pividori, Lu, Li, Su, Johnson, Wei, Feng, Namjou, Kiryluk, Kullo, Luo, Sullivan, Voight, Skarke, et al",
       "journal": "Manubot",
-      "date_iso": "2023-01-06",
-      "date_human": "Jan 2023",
+      "date_iso": "2023-03-09",
+      "date_human": "Mar 2023",
       "csl_item": {
         "id": "IxgQDGqC",
         "type": "report",
@@ -9286,7 +9290,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -9294,8 +9298,8 @@
           "date-parts": [
             [
               "2023",
-              1,
-              6
+              3,
+              9
             ]
           ]
         },
@@ -9445,7 +9449,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -9626,7 +9630,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -9801,7 +9805,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -10023,9 +10027,9 @@
       "url": "https://sortee-github-hackathon.github.io/manuscript/v/latest/",
       "citation": "url:https://sortee-github-hackathon.github.io/manuscript/v/latest/",
       "title": "Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution",
-      "authors": "Crystal-Ornelas, Edwards, Hébert, Hudgins, Reyes, Scott, Grainger, Foroughirad, Binley, Brookson, et al",
+      "authors": "Braga, Hébert, Hudgins, Scott, Edwards, Reyes, Grainger, Foroughirad, Hillemann, Binley, Brookson, et al",
       "journal": "Manubot",
-      "date_iso": "2023-03-02",
+      "date_iso": "2023-03-09",
       "date_human": "Mar 2023",
       "csl_item": {
         "id": "8ZYvgliZ",
@@ -10038,12 +10042,8 @@
         "URL": "https://SORTEE-Github-Hackathon.github.io/manuscript/",
         "author": [
           {
-            "family": "Crystal-Ornelas",
-            "given": "Robert"
-          },
-          {
-            "family": "Edwards",
-            "given": "Brandon P. M."
+            "family": "Braga",
+            "given": "Pedro Henrique Pereira"
           },
           {
             "family": "Hébert",
@@ -10054,12 +10054,16 @@
             "given": "Emma J."
           },
           {
-            "family": "Reyes",
-            "given": "Luna L. Sánchez"
-          },
-          {
             "family": "Scott",
             "given": "Eric R."
+          },
+          {
+            "family": "Edwards",
+            "given": "Brandon P. M."
+          },
+          {
+            "family": "Reyes",
+            "given": "Luna L. Sánchez"
           },
           {
             "family": "Grainger",
@@ -10068,6 +10072,10 @@
           {
             "family": "Foroughirad",
             "given": "Vivienne"
+          },
+          {
+            "family": "Hillemann",
+            "given": "Friederike"
           },
           {
             "family": "Binley",
@@ -10090,10 +10098,6 @@
             "given": "Ali"
           },
           {
-            "family": "Hillemann",
-            "given": "Friederike"
-          },
-          {
             "family": "Weierbach",
             "given": "Helen"
           },
@@ -10102,8 +10106,8 @@
             "given": "Dylan G. E."
           },
           {
-            "family": "Braga",
-            "given": "Pedro Henrique Pereira"
+            "family": "Crystal-Ornelas",
+            "given": "Robert"
           }
         ],
         "accessed": {
@@ -10111,7 +10115,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -10120,7 +10124,7 @@
             [
               "2023",
               3,
-              2
+              9
             ]
           ]
         },
@@ -10263,7 +10267,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -10361,7 +10365,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -10467,7 +10471,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -10577,7 +10581,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -10702,7 +10706,7 @@
       "title": "A publishing infrastructure for AI-assisted academic authoring",
       "authors": "Pividori, Greene",
       "journal": "Manubot",
-      "date_iso": "2023-03-03",
+      "date_iso": "2023-03-07",
       "date_human": "Mar 2023",
       "csl_item": {
         "id": "1CkyquN7E",
@@ -10727,7 +10731,7 @@
             [
               "2023",
               3,
-              3
+              10
             ]
           ]
         },
@@ -10736,7 +10740,7 @@
             [
               "2023",
               3,
-              3
+              7
             ]
           ]
         },
