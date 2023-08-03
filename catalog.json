@@ -35,8 +35,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -139,8 +139,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -234,8 +234,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -301,8 +301,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -434,8 +434,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -855,8 +855,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -975,8 +975,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -1001,12 +1001,12 @@
       "repo_url": "https://github.com/greenelab/scihub-manuscript",
       "url": "https://greenelab.github.io/scihub-manuscript/",
       "citation": "url:https://greenelab.github.io/scihub-manuscript/",
-      "thumbnail_url": "https://github.com/greenelab/scihub-manuscript/raw/b4652d9f7ba666eadf0d849175f3f4973a480fbc/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/scihub-manuscript/raw/24229277fd2e9ff3d5fb59a9c3665e7d91b5f66f/thumbnail.png",
       "title": "Sci-Hub provides access to nearly all scholarly literature",
       "authors": "Himmelstein, Romero, Levernier, Munro, McLaughlin, Tzovaras, Greene",
       "journal": "Manubot",
-      "date_iso": "2020-03-19",
-      "date_human": "Mar 2020",
+      "date_iso": "2018-02-09",
+      "date_human": "Feb 2018",
       "csl_item": {
         "id": "QrpwQMhT",
         "type": "report",
@@ -1049,17 +1049,17 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
         "issued": {
           "date-parts": [
             [
-              "2020",
-              3,
-              19
+              "2018",
+              2,
+              9
             ]
           ]
         },
@@ -1242,8 +1242,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -1293,8 +1293,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -1370,8 +1370,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -1519,8 +1519,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -1800,8 +1800,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -1880,8 +1880,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -2047,7 +2047,7 @@
       "title": "Introducing yt 4.0: Analysis and Visualization of Volumetric Data",
       "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Munk, Smith, Kowalik, Val-Borro, Coughlin, et al",
       "journal": "Manubot",
-      "date_iso": "2023-07-21",
+      "date_iso": "2023-07-27",
       "date_human": "Jul 2023",
       "csl_item": {
         "id": "1AIP8Sp9Y",
@@ -2302,6 +2302,10 @@
             "given": "John H."
           },
           {
+            "family": "Tsai",
+            "given": "Shin-Rong"
+          },
+          {
             "family": "Yourself",
             "given": "Add"
           }
@@ -2310,8 +2314,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -2320,7 +2324,7 @@
             [
               "2023",
               7,
-              21
+              27
             ]
           ]
         },
@@ -2364,8 +2368,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -2512,8 +2516,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -2578,8 +2582,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -2744,8 +2748,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -2788,8 +2792,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -2870,8 +2874,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -2999,8 +3003,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -3163,8 +3167,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -3295,8 +3299,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -3398,8 +3402,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -3511,8 +3515,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -3563,8 +3567,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -3619,8 +3623,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -3679,6 +3683,56 @@
         "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.1101/730085"
       }
     },
+    "journal": {
+      "citation": "doi:10.1186/s13040-022-00311-z",
+      "url": "https://doi.org/gq3bw2",
+      "title": "Expanding a database-derived biomedical knowledge graph via multi-relation extraction from biomedical abstracts",
+      "authors": "Nicholson, Himmelstein, Greene",
+      "journal": "BioData Mining",
+      "date_iso": "2022-10-18",
+      "date_human": "Oct 2022",
+      "csl_item": {
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "1",
+        "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>Knowledge graphs support biomedical research efforts by providing contextual information for biomedical entities, constructing networks, and supporting the interpretation of high-throughput analyses. These databases are populated via manual curation, which is challenging to scale with an exponentially rising publication rate. Data programming is a paradigm that circumvents this arduous manual process by combining databases with simple rules and heuristics written as label functions, which are programs designed to annotate textual data automatically. Unfortunately, writing a useful label function requires substantial error analysis and is a nontrivial task that takes multiple days per function. This bottleneck makes populating a knowledge graph with multiple nodes and edge types practically infeasible. Thus, we sought to accelerate the label function creation process by evaluating how label functions can be re-used across multiple edge types.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>We obtained entity-tagged abstracts and subsetted these entities to only contain compounds, genes, and disease mentions. We extracted sentences containing co-mentions of certain biomedical entities contained in a previously described knowledge graph, Hetionet v1. We trained a baseline model that used database-only label functions and then used a sampling approach to measure how well adding edge-specific or edge-mismatch label function combinations improved over our baseline. Next, we trained a discriminator model to detect sentences that indicated a biomedical relationship and then estimated the number of edge types that could be recalled and added to Hetionet v1. We found that adding edge-mismatch label functions rarely improved relationship extraction, while control edge-specific label functions did. There were two exceptions to this trend, Compound-binds-Gene and Gene-interacts-Gene, which both indicated physical relationships and showed signs of transferability. Across the scenarios tested, discriminative model performance strongly depends on generated annotations. Using the best discriminative model for each edge type, we recalled close to 30% of established edges within Hetionet v1.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusions</jats:title>\n                <jats:p>Our results show that this framework can incorporate novel edges into our source knowledge graph. However, results with label function transfer were mixed. Only label functions describing very similar edge types supported improved performance when transferred. We expect that the continued development of this strategy may provide essential building blocks to populating biomedical knowledge graphs with discoveries, ensuring that these resources include cutting-edge results.</jats:p>\n              </jats:sec>",
+        "DOI": "10.1186/s13040-022-00311-z",
+        "type": "article-journal",
+        "source": "Crossref",
+        "title": "Expanding a database-derived biomedical knowledge graph via multi-relation extraction from biomedical abstracts",
+        "volume": "15",
+        "author": [
+          {
+            "given": "David N.",
+            "family": "Nicholson"
+          },
+          {
+            "given": "Daniel S.",
+            "family": "Himmelstein"
+          },
+          {
+            "given": "Casey S.",
+            "family": "Greene"
+          }
+        ],
+        "container-title": "BioData Mining",
+        "language": "en",
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              10,
+              18
+            ]
+          ]
+        },
+        "URL": "https://doi.org/gq3bw2",
+        "container-title-short": "BioData Mining",
+        "PMCID": "PMC9578183",
+        "PMID": "36258252",
+        "id": "9NHG9Lbc",
+        "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13040-022-00311-z"
+      }
+    },
     "extras": {}
   },
   {
@@ -3724,8 +3778,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -3774,8 +3828,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -3882,8 +3936,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -3967,7 +4021,7 @@
       "title": "Hetnet connectivity search provides rapid insights into how two biomedical entities are related",
       "authors": "Himmelstein, Zietz, Rubinetti, Kloster, Heil, Alquaddoomi, Hu, Nicholson, Hao, Sullivan, Nagle, et al",
       "journal": "Manubot",
-      "date_iso": "2023-07-20",
+      "date_iso": "2023-07-28",
       "date_human": "Jul 2023",
       "csl_item": {
         "id": "5HDIoesA",
@@ -4031,8 +4085,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -4041,7 +4095,7 @@
             [
               "2023",
               7,
-              20
+              28
             ]
           ]
         },
@@ -4129,6 +4183,90 @@
         "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.1101/2023.01.05.522941"
       }
     },
+    "journal": {
+      "citation": "doi:10.1093/gigascience/giad047",
+      "url": "https://doi.org/gsd85n",
+      "title": "Hetnet connectivity search provides rapid insights into how biomedical entities are related",
+      "authors": "Himmelstein, Zietz, Rubinetti, Kloster, Heil, Alquaddoomi, Hu, Nicholson, Hao, Sullivan, Nagle, et al",
+      "journal": "GigaScience",
+      "date_iso": "2022-12-28",
+      "date_human": "Dec 2022",
+      "csl_item": {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Hetnets, short for “heterogeneous networks,” contain multiple node and relationship types and offer a way to encode biomedical knowledge. One such example, Hetionet, connects 11 types of nodes—including genes, diseases, drugs, pathways, and anatomical structures—with over 2 million edges of 24 types. Previous work has demonstrated that supervised machine learning methods applied to such networks can identify drug repurposing opportunities. However, a training set of known relationships does not exist for many types of node pairs, even when it would be useful to examine how nodes of those types are meaningfully connected. For example, users may be curious about not only how metformin is related to breast cancer but also how a given gene might be involved in insomnia.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>We developed a new procedure, termed hetnet connectivity search, that proposes important paths between any 2 nodes without requiring a supervised gold standard. The algorithm behind connectivity search identifies types of paths that occur more frequently than would be expected by chance (based on node degree alone). Several optimizations were required to precompute significant instances of node connectivity at the scale of large knowledge graphs.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>We implemented the method on Hetionet and provide an online interface at https://het.io/search. We provide an open-source implementation of these methods in our new Python package named hetmatpy.</jats:p>\n               </jats:sec>",
+        "DOI": "10.1093/gigascience/giad047",
+        "type": "article-journal",
+        "source": "Crossref",
+        "title": "Hetnet connectivity search provides rapid insights into how biomedical entities are related",
+        "volume": "12",
+        "author": [
+          {
+            "given": "Daniel S",
+            "family": "Himmelstein"
+          },
+          {
+            "given": "Michael",
+            "family": "Zietz"
+          },
+          {
+            "given": "Vincent",
+            "family": "Rubinetti"
+          },
+          {
+            "given": "Kyle",
+            "family": "Kloster"
+          },
+          {
+            "given": "Benjamin J",
+            "family": "Heil"
+          },
+          {
+            "given": "Faisal",
+            "family": "Alquaddoomi"
+          },
+          {
+            "given": "Dongbo",
+            "family": "Hu"
+          },
+          {
+            "given": "David N",
+            "family": "Nicholson"
+          },
+          {
+            "given": "Yun",
+            "family": "Hao"
+          },
+          {
+            "given": "Blair D",
+            "family": "Sullivan"
+          },
+          {
+            "given": "Michael W",
+            "family": "Nagle"
+          },
+          {
+            "given": "Casey S",
+            "family": "Greene"
+          }
+        ],
+        "container-title": "GigaScience",
+        "language": "en",
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              28
+            ]
+          ]
+        },
+        "URL": "https://doi.org/gsd85n",
+        "PMCID": "PMC10375517",
+        "PMID": "37503959",
+        "id": "vVd4u4Kx",
+        "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/gigascience/giad047"
+      }
+    },
     "extras": {}
   },
   {
@@ -4162,8 +4300,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -4328,8 +4466,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -4459,12 +4597,12 @@
       "repo_url": "https://github.com/greenelab/covid19-review",
       "url": "https://greenelab.github.io/covid19-review/",
       "citation": "url:https://greenelab.github.io/covid19-review/",
-      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/e60f9dbb029ae8708655e748a202b8574454b14a/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/greenelab/covid19-review/raw/26d9bf150181013b8a7051dd5830d38379873fe9/content/images/thumbnail.png",
       "title": "SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics",
       "authors": "Rando, Greene, Robson, Boca, Wellhausen, Lordan, Brueffer, Ray, McGowan, Gitter, Dattoli, Velazquez, et al",
       "journal": "Manubot",
-      "date_iso": "2023-05-01",
-      "date_human": "May 2023",
+      "date_iso": "2023-07-30",
+      "date_human": "Jul 2023",
       "csl_item": {
         "id": "Z4Wyi0Mo",
         "type": "report",
@@ -4697,8 +4835,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -4706,8 +4844,8 @@
           "date-parts": [
             [
               "2023",
-              5,
-              1
+              7,
+              30
             ]
           ]
         },
@@ -4764,8 +4902,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -5080,8 +5218,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -5673,6 +5811,8 @@
         },
         "URL": "https://doi.org/gr92p6",
         "container-title-short": "Cell Genomics",
+        "PMCID": "PMC10363844",
+        "PMID": "37492101",
         "id": "5VXMHJ7N",
         "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.xgen.2023.100340"
       }
@@ -5708,8 +5848,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -5800,8 +5940,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -5975,8 +6115,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -6095,8 +6235,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -6257,8 +6397,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -6449,8 +6589,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -6579,8 +6719,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -6749,8 +6889,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -6931,8 +7071,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -7118,8 +7258,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -7252,8 +7392,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -7333,8 +7473,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -7385,8 +7525,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -7490,8 +7630,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -7670,8 +7810,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -7830,8 +7970,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -7897,8 +8037,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -8056,8 +8196,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -8292,8 +8432,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -8413,8 +8553,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -8465,8 +8605,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -9194,8 +9334,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -9984,8 +10124,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -10143,8 +10283,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -10324,8 +10464,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -10499,8 +10639,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -10809,8 +10949,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -10961,8 +11101,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -11059,8 +11199,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -11165,8 +11305,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -11275,8 +11415,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -11425,8 +11565,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -11493,8 +11633,8 @@
       "title": "Optimizer's dilemma: optimization strongly influences model selection in transcriptomic prediction",
       "authors": "Crawford, Chikina, Greene",
       "journal": "Manubot",
-      "date_iso": "2023-06-26",
-      "date_human": "Jun 2023",
+      "date_iso": "2023-07-24",
+      "date_human": "Jul 2023",
       "csl_item": {
         "id": "1CQ98Cn5c",
         "type": "report",
@@ -11522,8 +11662,8 @@
           "date-parts": [
             [
               "2023",
-              7,
-              21
+              8,
+              3
             ]
           ]
         },
@@ -11531,8 +11671,8 @@
           "date-parts": [
             [
               "2023",
-              6,
-              26
+              7,
+              24
             ]
           ]
         },
