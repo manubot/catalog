@@ -170,13 +170,16 @@
   preprint_citation: doi:10.22541/au.160979530.02627436/v1
 - repo_url: https://github.com/habi/acinar-analysis-manuscript
   html_url: https://habi.github.io/acinar-analysis-manuscript/
+  preprint_citation: doi:10.1101/786681
   journal_citation: doi:10.1371/journal.pone.0257349
 - repo_url: https://github.com/habi/zmk-tooth-cohort-method-manuscript
   html_url: https://habi.github.io/zmk-tooth-cohort-method-manuscript/
+  preprint_citation: doi:10.1101/2020.10.27.356998
   journal_citation: doi:10.1186/s12903-021-01551-x
 - repo_url: https://github.com/habi/EAWAG-manuscript
   html_url: https://habi.github.io/EAWAG-manuscript/
-  journal_citation: 10.1371/journal.pone.0291003
+  preprint_citation: doi:10.1101/2023.03.30.534917
+  journal_citation: doi:10.1371/journal.pone.0291003
 - repo_url: https://github.com/greenelab/annorxiver_manuscript
   html_url: https://greenelab.github.io/annorxiver_manuscript/
   preprint_citation: doi:10.1101/2021.03.04.433874
