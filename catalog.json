@@ -36,7 +36,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -55,25 +55,25 @@
     "preprint": {
       "citation": "doi:10.1101/2023.04.25.537217",
       "url": "https://doi.org/gr92x9",
-      "title": "Epistasis between mutator alleles contributes to germline mutation rate variability in laboratory mice",
+      "title": "Epistasis between mutator alleles contributes to germline mutation spectra variability in laboratory mice",
       "authors": "Sasani, Quinlan, Harris",
       "journal": "Cold Spring Harbor Laboratory",
       "date_iso": "2023-04-25",
       "date_human": "Apr 2023",
       "csl_item": {
         "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Maintaining germline genome integrity is essential and enormously complex. Hundreds of proteins are involved in DNA replication and proofreading, and hundreds more are mobilized to repair DNA damage [1]. While loss-of-function mutations in any of the genes encoding these proteins might lead to elevated mutation rates,<jats:italic>mutator alleles</jats:italic>have largely eluded detection in mammals.</jats:p><jats:p>DNA replication and repair proteins often recognize particular sequence motifs or excise lesions at specific nucleotides. Thus, we might expect that the spectrum of<jats:italic>de novo</jats:italic>mutations — that is, the frequency of each individual mutation type (C&gt;T, A&gt;G, etc.) — will differ between genomes that harbor either a mutator or wild-type allele at a given locus. Previously, we used quantitative trait locus mapping to discover candidate mutator alleles in the DNA repair gene<jats:italic>Mutyh</jats:italic>that increased the C&gt;A germline mutation rate in a family of inbred mice known as the BXDs [2, 3].</jats:p><jats:p>In this study we developed a new method, called “inter-haplotype distance,” to detect alleles associated with mutation spectrum variation. By applying this approach to mutation data from the BXDs, we confirmed the presence of the germline mutator locus near<jats:italic>Mutyh</jats:italic>and discovered an additional C&gt;A mutator locus on chromosome 6 that overlaps<jats:italic>Ogg1</jats:italic>and<jats:italic>Mbd4</jats:italic>, two DNA glycosylases involved in base-excision repair [4, 5]. The effect of a chromosome 6 mutator allele depended on the presence of a mutator allele near<jats:italic>Mutyh</jats:italic>, and BXDs with mutator alleles at both loci had even greater numbers of C&gt;A mutations than those with mutator alleles at either locus alone.</jats:p><jats:p>Our new methods for analyzing mutation spectra reveal evidence of epistasis between germline mutator alleles, and may be applicable to mutation data from humans and other model organisms.</jats:p>",
+        "abstract": "<jats:p>Maintaining germline genome integrity is essential and enormously complex. Although many proteins are involved in DNA replication, proofreading, and repair, mutator alleles have largely eluded detection in mammals. DNA replication and repair proteins often recognize sequence motifs or excise lesions at specific nucleotides. Thus, we might expect that the spectrum of<jats:italic>de novo</jats:italic>mutations — the frequencies of C&gt;T, A&gt;G, etc. — will differ between genomes that harbor either a mutator or wild-type allele. Previously, we used quantitative trait locus mapping to discover candidate mutator alleles in the DNA repair gene<jats:italic>Mutyh</jats:italic>that increased the C&gt;A germline mutation rate in a family of inbred mice known as the BXDs. In this study we developed a new method to detect alleles associated with mutation spectrum variation and applied it to mutation data from the BXDs. We discovered an additional C&gt;A mutator locus on chromosome 6 that overlaps<jats:italic>Ogg1</jats:italic>, a DNA glycosylase involved in the same base-excision repair network as<jats:italic>Mutyh</jats:italic>. Its effect depended on the presence of a mutator allele near<jats:italic>Mutyh</jats:italic>, and BXDs with mutator alleles at both loci had greater numbers of C&gt;A mutations than those with mutator alleles at either locus alone. Our new methods for analyzing mutation spectra reveal evidence of epistasis between germline mutator alleles and may be applicable to mutation data from humans and other model organisms.</jats:p>",
         "DOI": "10.1101/2023.04.25.537217",
         "type": "manuscript",
         "source": "Crossref",
-        "title": "Epistasis between mutator alleles contributes to germline mutation rate variability in laboratory mice",
+        "title": "Epistasis between mutator alleles contributes to germline mutation spectra variability in laboratory mice",
         "author": [
           {
-            "given": "Thomas A.",
+            "given": "Thomas A",
             "family": "Sasani"
           },
           {
-            "given": "Aaron R.",
+            "given": "Aaron R",
             "family": "Quinlan"
           },
           {
@@ -140,7 +140,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -235,7 +235,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -302,7 +302,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -435,7 +435,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -856,7 +856,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -976,7 +976,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -1050,7 +1050,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -1243,7 +1243,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -1294,7 +1294,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -1371,7 +1371,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -1520,7 +1520,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -1801,7 +1801,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -1881,7 +1881,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -2047,7 +2047,7 @@
       "title": "Introducing yt 4.0: Analysis and Visualization of Volumetric Data",
       "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Munk, Smith, Kowalik, Val-Borro, Coughlin, et al",
       "journal": "Manubot",
-      "date_iso": "2023-11-06",
+      "date_iso": "2023-11-13",
       "date_human": "Nov 2023",
       "csl_item": {
         "id": "1AIP8Sp9Y",
@@ -2315,7 +2315,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -2324,7 +2324,7 @@
             [
               "2023",
               11,
-              6
+              13
             ]
           ]
         },
@@ -2369,7 +2369,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -2517,7 +2517,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -2583,7 +2583,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -2749,7 +2749,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -2793,7 +2793,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -2875,7 +2875,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -3004,7 +3004,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -3168,7 +3168,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -3300,7 +3300,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -3403,7 +3403,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -3516,7 +3516,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -3568,7 +3568,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -3624,7 +3624,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -3779,7 +3779,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -3829,7 +3829,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -3937,7 +3937,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -4086,7 +4086,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -4301,7 +4301,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -4467,7 +4467,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -4836,7 +4836,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -4903,7 +4903,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -5219,7 +5219,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -5849,7 +5849,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -5941,7 +5941,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -6116,7 +6116,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -6236,7 +6236,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -6398,7 +6398,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -6590,7 +6590,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -6720,7 +6720,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -6890,7 +6890,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -7072,7 +7072,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -7259,7 +7259,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -7393,7 +7393,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -7474,7 +7474,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -7526,7 +7526,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -7631,7 +7631,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -7811,7 +7811,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -7971,7 +7971,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -8162,7 +8162,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -8321,7 +8321,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -8557,7 +8557,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -8678,7 +8678,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -8730,7 +8730,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -9459,7 +9459,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -10249,7 +10249,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -10408,7 +10408,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -10589,7 +10589,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -10764,7 +10764,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -11074,7 +11074,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -11226,7 +11226,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -11324,7 +11324,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -11430,7 +11430,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -11540,7 +11540,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -11690,7 +11690,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -11757,8 +11757,8 @@
       "title": "Optimizer's dilemma: optimization strongly influences model selection in transcriptomic prediction",
       "authors": "Crawford, Chikina, Greene",
       "journal": "Manubot",
-      "date_iso": "2023-10-31",
-      "date_human": "Oct 2023",
+      "date_iso": "2023-11-12",
+      "date_human": "Nov 2023",
       "csl_item": {
         "id": "1CQ98Cn5c",
         "type": "report",
@@ -11787,7 +11787,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -11795,8 +11795,8 @@
           "date-parts": [
             [
               "2023",
-              10,
-              31
+              11,
+              12
             ]
           ]
         },
@@ -11880,7 +11880,7 @@
             [
               "2023",
               11,
-              10
+              17
             ]
           ]
         },
@@ -11934,6 +11934,232 @@
         "title": "Integrative Analytical and Computational Strategies for Qualitative and Semi-quantitative Plant Metabolome Characterization",
         "URL": "https://doi.org/gsz2cc",
         "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.13097/archive-ouverte/unige:165668"
+      }
+    },
+    "extras": {}
+  },
+  {
+    "manubot": {
+      "repo_url": "https://github.com/jessegmeyerlab/proteomics-tutorial",
+      "url": "https://jessegmeyerlab.github.io/proteomics-tutorial/",
+      "citation": "url:https://jessegmeyerlab.github.io/proteomics-tutorial/",
+      "title": "Comprehensive Overview of Bottom-Up Proteomics using Mass Spectrometry",
+      "authors": "Jiang, Rex, Schuster, Neely, Rosano, Volkmar, Momenzadeh, Peters-Clarke, Egbert, Kreimer, Doud, et al",
+      "journal": "Manubot",
+      "date_iso": "2023-11-15",
+      "date_human": "Nov 2023",
+      "csl_item": {
+        "id": "2ZqZilkZ",
+        "type": "report",
+        "language": "en-US",
+        "publisher": "Manubot",
+        "source": "jessegmeyerlab.github.io",
+        "title": "Comprehensive Overview of Bottom-Up Proteomics using Mass Spectrometry",
+        "URL": "https://jessegmeyerlab.github.io/proteomics-tutorial/",
+        "author": [
+          {
+            "family": "Jiang",
+            "given": "Yuming"
+          },
+          {
+            "family": "Rex",
+            "given": "Devasahayam Arokia Balaya"
+          },
+          {
+            "family": "Schuster",
+            "given": "Dina"
+          },
+          {
+            "family": "Neely",
+            "given": "Benjamin A."
+          },
+          {
+            "family": "Rosano",
+            "given": "Germán L."
+          },
+          {
+            "family": "Volkmar",
+            "given": "Norbert"
+          },
+          {
+            "family": "Momenzadeh",
+            "given": "Amanda"
+          },
+          {
+            "family": "Peters-Clarke",
+            "given": "Trenton M."
+          },
+          {
+            "family": "Egbert",
+            "given": "Susan B."
+          },
+          {
+            "family": "Kreimer",
+            "given": "Simion"
+          },
+          {
+            "family": "Doud",
+            "given": "Emma H."
+          },
+          {
+            "family": "Crook",
+            "given": "Oliver M."
+          },
+          {
+            "family": "Yadav",
+            "given": "Amit Kumar"
+          },
+          {
+            "family": "Vanuopadath",
+            "given": "Muralidharan"
+          },
+          {
+            "family": "Mayta",
+            "given": "Martín L."
+          },
+          {
+            "family": "Duboff",
+            "given": "Anna G."
+          },
+          {
+            "family": "Riley",
+            "given": "Nicholas M."
+          },
+          {
+            "family": "Moritz",
+            "given": "Robert L."
+          },
+          {
+            "family": "Meyer",
+            "given": "Jesse G."
+          }
+        ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2023",
+              11,
+              17
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              "2023",
+              11,
+              15
+            ]
+          ]
+        },
+        "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: url:https://jessegmeyerlab.github.io/proteomics-tutorial/"
+      }
+    },
+    "preprint": {
+      "citation": "arxiv:2311.07791",
+      "url": "https://arxiv.org/abs/2311.07791",
+      "title": "Comprehensive Overview of Bottom-up Proteomics using Mass Spectrometry",
+      "authors": "Jiang, Rex, Schuster, Neely, Rosano, Volkmar, Momenzadeh, Peters-Clarke, Egbert, Kreimer, Doud, et al",
+      "journal": "arXiv",
+      "date_iso": "2023-11-15",
+      "date_human": "Nov 2023",
+      "csl_item": {
+        "id": "c6I3ToLY",
+        "URL": "https://arxiv.org/abs/2311.07791",
+        "number": "2311.07791",
+        "title": "Comprehensive Overview of Bottom-up Proteomics using Mass Spectrometry",
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              15
+            ]
+          ]
+        },
+        "author": [
+          {
+            "given": "Yuming",
+            "family": "Jiang"
+          },
+          {
+            "given": "Devasahayam Arokia Balaya",
+            "family": "Rex"
+          },
+          {
+            "given": "Dina",
+            "family": "Schuster"
+          },
+          {
+            "given": "Benjamin A.",
+            "family": "Neely"
+          },
+          {
+            "given": "Germán L.",
+            "family": "Rosano"
+          },
+          {
+            "given": "Norbert",
+            "family": "Volkmar"
+          },
+          {
+            "given": "Amanda",
+            "family": "Momenzadeh"
+          },
+          {
+            "given": "Trenton M.",
+            "family": "Peters-Clarke"
+          },
+          {
+            "given": "Susan B.",
+            "family": "Egbert"
+          },
+          {
+            "given": "Simion",
+            "family": "Kreimer"
+          },
+          {
+            "given": "Emma H.",
+            "family": "Doud"
+          },
+          {
+            "given": "Oliver M.",
+            "family": "Crook"
+          },
+          {
+            "given": "Amit Kumar",
+            "family": "Yadav"
+          },
+          {
+            "given": "Muralidharan",
+            "family": "Vanuopadath"
+          },
+          {
+            "given": "Martín L.",
+            "family": "Mayta"
+          },
+          {
+            "given": "Anna G.",
+            "family": "Duboff"
+          },
+          {
+            "given": "Nicholas M.",
+            "family": "Riley"
+          },
+          {
+            "given": "Robert L.",
+            "family": "Moritz"
+          },
+          {
+            "given": "Jesse G.",
+            "family": "Meyer"
+          }
+        ],
+        "container-title": "arXiv",
+        "publisher": "arXiv",
+        "type": "report",
+        "abstract": "  Proteomics is the large scale study of protein structure and function from biological systems through protein identification and quantification. \"Shotgun proteomics\" or \"bottom-up proteomics\" is the prevailing strategy, in which proteins are hydrolyzed into peptides that are analyzed by mass spectrometry. Proteomics studies can be applied to diverse studies ranging from simple protein identification to studies of proteoforms, protein-protein interactions, protein structural alterations, absolute and relative protein quantification, post-translational modifications, and protein stability. To enable this range of different experiments, there are diverse strategies for proteome analysis. The nuances of how proteomic workflows differ may be challenging to understand for new practitioners. Here, we provide a comprehensive overview of different proteomics methods to aid the novice and experienced researcher. We cover from biochemistry basics and protein extraction to biological interpretation and orthogonal validation. We expect this work to serve as a basic resource for new practitioners in the field of shotgun or bottom-up proteomics. ",
+        "note": "license: http://creativecommons.org/licenses/by-nc-nd/4.0/\nThis CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: arxiv:2311.07791"
       }
     },
     "extras": {}
