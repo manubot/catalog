@@ -241,3 +241,6 @@
 - repo_url: https://github.com/Adafede/thesis-manuscript
   html_url: https://archive-ouverte.unige.ch/unige:165668
   journal_citation: 10.13097/archive-ouverte/unige:165668
+- repo_url: https://github.com/jessegmeyerlab/proteomics-tutorial
+  html_url: https://jessegmeyerlab.github.io/proteomics-tutorial/
+  preprint_citation: arxiv:2311.07791
