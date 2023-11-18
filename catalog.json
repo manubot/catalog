@@ -62,18 +62,18 @@
       "date_human": "Apr 2023",
       "csl_item": {
         "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:p>Maintaining germline genome integrity is essential and enormously complex. Although many proteins are involved in DNA replication, proofreading, and repair, mutator alleles have largely eluded detection in mammals. DNA replication and repair proteins often recognize sequence motifs or excise lesions at specific nucleotides. Thus, we might expect that the spectrum of<jats:italic>de novo</jats:italic>mutations — the frequencies of C&gt;T, A&gt;G, etc. — will differ between genomes that harbor either a mutator or wild-type allele. Previously, we used quantitative trait locus mapping to discover candidate mutator alleles in the DNA repair gene<jats:italic>Mutyh</jats:italic>that increased the C&gt;A germline mutation rate in a family of inbred mice known as the BXDs. In this study we developed a new method to detect alleles associated with mutation spectrum variation and applied it to mutation data from the BXDs. We discovered an additional C&gt;A mutator locus on chromosome 6 that overlaps<jats:italic>Ogg1</jats:italic>, a DNA glycosylase involved in the same base-excision repair network as<jats:italic>Mutyh</jats:italic>. Its effect depended on the presence of a mutator allele near<jats:italic>Mutyh</jats:italic>, and BXDs with mutator alleles at both loci had greater numbers of C&gt;A mutations than those with mutator alleles at either locus alone. Our new methods for analyzing mutation spectra reveal evidence of epistasis between germline mutator alleles and may be applicable to mutation data from humans and other model organisms.</jats:p>",
+        "abstract": "<jats:title>Abstract</jats:title><jats:p>Maintaining germline genome integrity is essential and enormously complex. Although many proteins are involved in DNA replication, proofreading, and repair [1],<jats:italic>mutator alleles</jats:italic>have largely eluded detection in mammals.</jats:p><jats:p>DNA replication and repair proteins often recognize sequence motifs or excise lesions at specific nucleotides. Thus, we might expect that the spectrum of<jats:italic>de novo</jats:italic>mutations — the frequencies of C&gt;T, A&gt;G, etc. — will differ between genomes that harbor either a mutator or wild-type allele. Previously, we used quantitative trait locus mapping to discover candidate mutator alleles in the DNA repair gene<jats:italic>Mutyh</jats:italic>that increased the C&gt;A germline mutation rate in a family of inbred mice known as the BXDs [2,3].</jats:p><jats:p>In this study we developed a new method to detect alleles associated with mutation spectrum variation and applied it to mutation data from the BXDs. We discovered an additional C&gt;A mutator locus on chromosome 6 that overlaps<jats:italic>Ogg1</jats:italic>, a DNA glycosylase involved in the same base-excision repair network as<jats:italic>Mutyh</jats:italic>[4]. Its effect depended on the presence of a mutator allele near<jats:italic>Mutyh</jats:italic>, and BXDs with mutator alleles at both loci had greater numbers of C&gt;A mutations than those with mutator alleles at either locus alone. Our new methods for analyzing mutation spectra reveal evidence of epistasis between germline mutator alleles and may be applicable to mutation data from humans and other model organisms.</jats:p>",
         "DOI": "10.1101/2023.04.25.537217",
         "type": "manuscript",
         "source": "Crossref",
         "title": "Epistasis between mutator alleles contributes to germline mutation spectra variability in laboratory mice",
         "author": [
           {
-            "given": "Thomas A",
+            "given": "Thomas A.",
             "family": "Sasani"
           },
           {
-            "given": "Aaron R",
+            "given": "Aaron R.",
             "family": "Quinlan"
           },
           {
