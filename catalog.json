@@ -36,7 +36,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -100,25 +100,26 @@
     "journal": {
       "citation": "doi:10.7554/elife.89096",
       "url": "https://doi.org/gtg8pd",
-      "title": "Epistasis between mutator alleles contributes to germline mutation spectra variability in laboratory mice",
+      "title": "Epistasis between mutator alleles contributes to germline mutation spectrum variability in laboratory mice",
       "authors": "Sasani, Quinlan, Harris",
-      "journal": "eLife Sciences Publications, Ltd",
-      "date_iso": "2024-01-10",
-      "date_human": "Jan 2024",
+      "journal": "eLife",
+      "date_iso": "2024-02-21",
+      "date_human": "Feb 2024",
       "csl_item": {
         "publisher": "eLife Sciences Publications, Ltd",
-        "abstract": "<jats:p>Maintaining germline genome integrity is essential and enormously complex. Although many proteins are involved in DNA replication, proofreading, and repair [1], mutator alleles have largely eluded detection in mammals.</jats:p>\n<jats:p>DNA replication and repair proteins often recognize sequence motifs or excise lesions at specific nucleotides. Thus, we might expect that the spectrum of de novo mutations — the frequencies of C&gt;T, A&gt;G, etc. — will differ between genomes that harbor either a mutator or wild-type allele. Previously, we used quantitative trait locus mapping to discover candidate mutator alleles in the DNA repair gene Mutyh that increased the C&gt;A germline mutation rate in a family of inbred mice known as the BXDs [2,3].</jats:p>\n<jats:p>In this study we developed a new method to detect alleles associated with mutation spectrum variation and applied it to mutation data from the BXDs. We discovered an additional C&gt;A mutator locus on chromosome 6 that overlaps Ogg1, a DNA glycosylase involved in the same base-excision repair network as Mutyh [4]. Its effect depended on the presence of a mutator allele near Mutyh, and BXDs with mutator alleles at both loci had greater numbers of C&gt;A mutations than those with mutator alleles at either locus alone. Our new methods for analyzing mutation spectra reveal evidence of epistasis between germline mutator alleles and may be applicable to mutation data from humans and other model organisms.</jats:p>",
+        "abstract": "<jats:p>Maintaining germline genome integrity is essential and enormously complex. Although many proteins are involved in DNA replication, proofreading, and repair, <jats:italic>mutator alleles</jats:italic> have largely eluded detection in mammals. DNA replication and repair proteins often recognize sequence motifs or excise lesions at specific nucleotides. Thus, we might expect that the spectrum of de novo mutations – the frequencies of C&gt;T, A&gt;G, etc. – will differ between genomes that harbor either a mutator or wild-type allele. Previously, we used quantitative trait locus mapping to discover candidate mutator alleles in the DNA repair gene <jats:italic>Mutyh</jats:italic> that increased the C&gt;A germline mutation rate in a family of inbred mice known as the BXDs (Sasani et al., 2022, Ashbrook et al., 2021). In this study we developed a new method to detect alleles associated with mutation spectrum variation and applied it to mutation data from the BXDs. We discovered an additional C&gt;A mutator locus on chromosome 6 that overlaps <jats:italic>Ogg1</jats:italic>, a DNA glycosylase involved in the same base-excision repair network as <jats:italic>Mutyh</jats:italic> (David et al., 2007). Its effect depends on the presence of a mutator allele near <jats:italic>Mutyh</jats:italic>, and BXDs with mutator alleles at both loci have greater numbers of C&gt;A mutations than those with mutator alleles at either locus alone. Our new methods for analyzing mutation spectra reveal evidence of epistasis between germline mutator alleles and may be applicable to mutation data from humans and other model organisms.</jats:p>",
         "DOI": "10.7554/elife.89096",
-        "type": "manuscript",
+        "type": "article-journal",
         "source": "Crossref",
-        "title": "Epistasis between mutator alleles contributes to germline mutation spectra variability in laboratory mice",
+        "title": "Epistasis between mutator alleles contributes to germline mutation spectrum variability in laboratory mice",
+        "volume": "12",
         "author": [
           {
-            "given": "Thomas A.",
+            "given": "Thomas A",
             "family": "Sasani"
           },
           {
-            "given": "Aaron R.",
+            "given": "Aaron R",
             "family": "Quinlan"
           },
           {
@@ -126,16 +127,19 @@
             "family": "Harris"
           }
         ],
+        "container-title": "eLife",
+        "language": "en",
         "issued": {
           "date-parts": [
             [
               2024,
-              1,
-              10
+              2,
+              21
             ]
           ]
         },
         "URL": "https://doi.org/gtg8pd",
+        "PMID": "38381482",
         "id": "1GELtSya1",
         "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.7554/elife.89096"
       }
@@ -183,7 +187,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -278,7 +282,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -345,7 +349,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -478,7 +482,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -899,7 +903,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -1019,7 +1023,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -1093,7 +1097,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -1286,7 +1290,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -1337,7 +1341,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -1414,7 +1418,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -1563,7 +1567,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -1844,7 +1848,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -1924,7 +1928,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -2090,7 +2094,7 @@
       "title": "Introducing yt 4.0: Analysis and Visualization of Volumetric Data",
       "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Munk, Smith, Kowalik, Val-Borro, Coughlin, et al",
       "journal": "Manubot",
-      "date_iso": "2024-02-05",
+      "date_iso": "2024-02-19",
       "date_human": "Feb 2024",
       "csl_item": {
         "id": "1AIP8Sp9Y",
@@ -2362,7 +2366,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -2371,7 +2375,7 @@
             [
               "2024",
               2,
-              5
+              19
             ]
           ]
         },
@@ -2416,7 +2420,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -2564,7 +2568,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -2630,7 +2634,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -2796,7 +2800,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -2840,7 +2844,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -2922,7 +2926,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -3051,7 +3055,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -3215,7 +3219,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -3347,7 +3351,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -3450,7 +3454,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -3563,7 +3567,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -3590,8 +3594,8 @@
       "title": "Edit me to practice contributing to a collaborative Manubot manuscript",
       "authors": "Doe, Roe",
       "journal": "Manubot",
-      "date_iso": "2023-06-09",
-      "date_human": "Jun 2023",
+      "date_iso": "2024-02-21",
+      "date_human": "Feb 2024",
       "csl_item": {
         "id": "9IQuyN3R",
         "type": "report",
@@ -3615,16 +3619,16 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
         "issued": {
           "date-parts": [
             [
-              "2023",
-              6,
-              9
+              "2024",
+              2,
+              21
             ]
           ]
         },
@@ -3671,7 +3675,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -3826,7 +3830,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -3876,7 +3880,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -4059,7 +4063,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -4266,7 +4270,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -4481,7 +4485,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -4647,7 +4651,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -5016,7 +5020,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -5083,7 +5087,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -5399,7 +5403,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -6029,7 +6033,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -6121,7 +6125,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -6296,7 +6300,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -6416,7 +6420,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -6578,7 +6582,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -6770,7 +6774,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -6900,7 +6904,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -7070,7 +7074,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -7252,7 +7256,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -7439,7 +7443,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -7573,7 +7577,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -7654,7 +7658,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -7706,7 +7710,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -7811,7 +7815,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -7991,7 +7995,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -8151,7 +8155,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -8342,7 +8346,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -8501,7 +8505,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -8737,7 +8741,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -8858,7 +8862,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -8885,8 +8889,8 @@
       "title": "Analysis of science journalism reveals gender and regional disparities in coverage",
       "authors": "Davidson, Greene",
       "journal": "Manubot",
-      "date_iso": "2022-11-02",
-      "date_human": "Nov 2022",
+      "date_iso": "2024-02-21",
+      "date_human": "Feb 2024",
       "csl_item": {
         "id": "3Ond0wAX",
         "type": "report",
@@ -8910,16 +8914,16 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
         "issued": {
           "date-parts": [
             [
-              "2022",
-              11,
-              2
+              "2024",
+              2,
+              21
             ]
           ]
         },
@@ -9639,7 +9643,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -10429,7 +10433,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -10588,7 +10592,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -10769,7 +10773,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -10944,7 +10948,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -11254,7 +11258,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -11406,7 +11410,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -11504,7 +11508,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -11610,7 +11614,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -11720,7 +11724,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -11870,7 +11874,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -11967,7 +11971,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -12060,7 +12064,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
@@ -12219,7 +12223,7 @@
             [
               "2024",
               2,
-              16
+              23
             ]
           ]
         },
