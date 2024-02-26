@@ -247,3 +247,6 @@
 - repo_url: https://github.com/jessegmeyerlab/proteomics-tutorial
   html_url: https://jessegmeyerlab.github.io/proteomics-tutorial/
   preprint_citation: arxiv:2311.07791
+- repo_url: https://github.com/biocypher/biochatter-paper
+  html_url: https://biocypher.github.io/biochatter-paper/
+  preprint_citation: arxiv:2305.06488
