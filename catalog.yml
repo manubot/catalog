@@ -252,3 +252,5 @@
 - repo_url: https://github.com/biocypher/biochatter-paper
   html_url: https://biocypher.github.io/biochatter-paper/
   preprint_citation: arxiv:2305.06488
+- repo_url: https://github.com/xomicsdatascience/transcriptome-proteome-nas-manubot
+  html_url: https://xomicsdatascience.github.io/transcriptome-proteome-nas-manubot/
