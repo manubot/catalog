@@ -41,7 +41,8 @@
   preprint_citation: arxiv:2105.14372
   journal_citation: doi:10.1371/journal.pcbi.1009803
 - repo_url: https://github.com/zietzm/integration-review
-  html_url: https://zietzm.github.io/integration-review/
+  html_url: https://github.com/zietzm/integration-review/blob/gh-pages/manuscript.pdf
+  # html_url: https://zietzm.github.io/integration-review/
 - repo_url: https://github.com/dhimmel/rephetio-manuscript/
   html_url: https://dhimmel.github.io/rephetio-manuscript/
   preprint_citation: doi:10.1101/087619
