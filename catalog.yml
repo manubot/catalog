@@ -33,16 +33,14 @@
   html_url: https://simonvh.github.io/gimmemotifs-manuscript/
   preprint_citation: doi:10.1101/474403
 - repo_url: https://github.com/zietzm/Vagelos2017
-  html_url: https://github.com/zietzm/Vagelos2017/blob/gh-pages/manuscript.pdf
-  # html_url: https://zietzm.github.io/Vagelos2017/
+  html_url: https://zietzm.github.io/Vagelos2017/
   preprint_citation: doi:10.6084/m9.figshare.5346577
 - repo_url: https://github.com/Benjamin-Lee/deep-rules
   html_url: https://benjamin-lee.github.io/deep-rules/
   preprint_citation: arxiv:2105.14372
   journal_citation: doi:10.1371/journal.pcbi.1009803
 - repo_url: https://github.com/zietzm/integration-review
-  html_url: https://github.com/zietzm/integration-review/blob/gh-pages/manuscript.pdf
-  # html_url: https://zietzm.github.io/integration-review/
+  html_url: https://zietzm.github.io/integration-review/
 - repo_url: https://github.com/dhimmel/rephetio-manuscript/
   html_url: https://dhimmel.github.io/rephetio-manuscript/
   preprint_citation: doi:10.1101/087619
@@ -134,8 +132,7 @@
   html_url: https://jperkel.github.io/mymanuscript/
   journal_citation: doi:10.1038/d41586-020-00916-6
 - repo_url: https://github.com/zietzm/abo_covid
-  # html_url: https://zietzm.com/abo_covid/
-  html_url: https://github.com/zietzm/abo_covid/blob/gh-pages/manuscript.pdf
+  html_url: https://zietzm.com/abo_covid/
   preprint_citation: doi:10.1101/2020.04.08.20058073
   journal_citation: doi:10.1038/s41467-020-19623-x
 - repo_url: https://github.com/CompGenomeLab/lemur-manuscript-archive
