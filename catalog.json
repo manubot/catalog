@@ -36,7 +36,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -187,7 +187,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -282,7 +282,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -349,7 +349,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -482,7 +482,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -903,7 +903,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -1023,7 +1023,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -1097,7 +1097,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -1289,7 +1289,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -1340,7 +1340,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -1417,7 +1417,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -1566,7 +1566,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -1847,7 +1847,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -1927,7 +1927,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -2092,7 +2092,7 @@
       "title": "Introducing yt 4.0: Analysis and Visualization of Volumetric Data",
       "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Munk, Smith, Kowalik, Val-Borro, Coughlin, et al",
       "journal": "Manubot",
-      "date_iso": "2025-11-17",
+      "date_iso": "2025-11-24",
       "date_human": "Nov 2025",
       "csl_item": {
         "id": "1AIP8Sp9Y",
@@ -2364,7 +2364,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -2373,7 +2373,7 @@
             [
               "2025",
               11,
-              17
+              24
             ]
           ]
         },
@@ -2418,7 +2418,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -2566,7 +2566,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -2632,7 +2632,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -2658,7 +2658,7 @@
       "date_human": "Sep 2019",
       "csl_item": {
         "publisher": "American Chemical Society (ACS)",
-        "abstract": "<jats:p>Designing ligands that bind their target biomolecules with high affinity and specificity is a key step in small- molecule drug discovery, but accurately predicting protein-ligand binding free energies remains challenging. Key sources of errors in the calculations include inadequate sampling of conformational space, ambiguous protonation states, and errors in force fields. Noncovalent complexes between a host molecule with a binding cavity and a drug-like guest molecules have emerged as powerful model systems. As model systems, host-guest complexes reduce many of the errors in more complex protein-ligand binding systems, as their small size greatly facilitates conformational sampling, and one can choose systems that avoid ambiguities in protonation states. These features, combined with their ease of experimental characterization, make host-guest systems ideal model systems to test and ultimately optimize force fields in the context of binding thermodynamics calculations.</jats:p><jats:p>The Open Force Field Initiative aims to create a modern, open software infrastructure for automatically generating and assessing force fields using data sets. The first force field to arise out of this effort, named SMIRNOFF99Frosst, has approximately one tenth the number of parameters, in version 1.0.5, compared to typical general small molecule force fields, such as GAFF. Here, we evaluate the accuracy of this initial force field, using free energy calculations of 43 α and β-cyclodextrin host-guest pairs for which experimental thermodynamic data are available, and compare with matched calculations using two versions of GAFF. For all three force fields, we used TIP3P water and AM1-BCC charges. The calculations are performed using the attach-pull-release (APR) method as implemented in the open source package, pAPRika. For binding free energies, the root mean square error of the SMIRNOFF99Frosst calculations relative to experiment is 0.9 [0.7, 1.1] kcal/mol, while the corresponding results for GAFF 1.7 and GAFF 2.1 are 0.9 [0.7, 1.1] kcal/mol and 1.7 [1.5, 1.9] kcal/mol, respectively, with 95% confidence ranges in brackets. These results suggest that SMIRNOFF99Frosst performs competitively with existing small molecule force fields and is a parsimonious starting point for optimization.</jats:p>",
+        "abstract": "<jats:p>Designing ligands that bind their target biomolecules with high affinity and specificity is a key step in small- molecule drug discovery, but accurately predicting protein-ligand binding free energies remains challenging. Key sources of errors in the calculations include inadequate sampling of conformational space, ambiguous protonation states, and errors in force fields. Noncovalent complexes between a host molecule with a binding cavity and a drug-like guest molecules have emerged as powerful model systems. As model systems, host-guest complexes reduce many of the errors in more complex protein-ligand binding systems, as their small size greatly facilitates conformational sampling, and one can choose systems that avoid ambiguities in protonation states. These features, combined with their ease of experimental characterization, make host-guest systems ideal model systems to test and ultimately optimize force fields in the context of binding thermodynamics calculations.</jats:p>\n                <jats:p>The Open Force Field Initiative aims to create a modern, open software infrastructure for automatically generating and assessing force fields using data sets. The first force field to arise out of this effort, named SMIRNOFF99Frosst, has approximately one tenth the number of parameters, in version 1.0.5, compared to typical general small molecule force fields, such as GAFF. Here, we evaluate the accuracy of this initial force field, using free energy calculations of 43 α and β-cyclodextrin host-guest pairs for which experimental thermodynamic data are available, and compare with matched calculations using two versions of GAFF. For all three force fields, we used TIP3P water and AM1-BCC charges. The calculations are performed using the attach-pull-release (APR) method as implemented in the open source package, pAPRika. For binding free energies, the root mean square error of the SMIRNOFF99Frosst calculations relative to experiment is 0.9 [0.7, 1.1] kcal/mol, while the corresponding results for GAFF 1.7 and GAFF 2.1 are 0.9 [0.7, 1.1] kcal/mol and 1.7 [1.5, 1.9] kcal/mol, respectively, with 95% confidence ranges in brackets. These results suggest that SMIRNOFF99Frosst performs competitively with existing small molecule force fields and is a parsimonious starting point for optimization.</jats:p>",
         "DOI": "10.26434/chemrxiv.9159872",
         "type": "manuscript",
         "source": "Crossref",
@@ -2798,7 +2798,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -2843,7 +2843,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -2924,7 +2924,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -3053,7 +3053,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -3216,7 +3216,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -3348,7 +3348,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -3451,7 +3451,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -3564,7 +3564,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -3616,7 +3616,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -3672,7 +3672,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -3827,7 +3827,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -3877,7 +3877,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -4060,7 +4060,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -4267,7 +4267,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -4482,7 +4482,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -4648,7 +4648,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -5017,7 +5017,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -5084,7 +5084,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -5400,7 +5400,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -6030,7 +6030,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -6122,7 +6122,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -6297,7 +6297,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -6417,7 +6417,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -6579,7 +6579,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -6771,7 +6771,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -6901,7 +6901,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -7071,7 +7071,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -7253,7 +7253,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -7440,7 +7440,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -7574,7 +7574,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -7655,7 +7655,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -7707,7 +7707,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -7812,7 +7812,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -7992,7 +7992,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -8152,7 +8152,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -8343,7 +8343,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -8502,7 +8502,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -8619,7 +8619,7 @@
       "date_human": "May 2022",
       "csl_item": {
         "publisher": "eLife Sciences Publications, Ltd",
-        "abstract": "<jats:p>Contemporary bioinformatic and chemoinformatic capabilities hold promise to reshape knowledge management, analysis and interpretation of data in natural products research. Currently, reliance on a disparate set of non-standardized, insular, and specialized databases presents a series of challenges for data access, both within the discipline and for integration and interoperability between related fields. The fundamental elements of exchange are referenced structure-organism pairs that establish relationships between distinct molecular structures and the living organisms from which they were identified. Consolidating and sharing such information via an open platform has strong transformative potential for natural products research and beyond. This is the ultimate goal of the newly established LOTUS initiative, which has now completed the first steps toward the harmonization, curation, validation and open dissemination of 750,000+ referenced structure-organism pairs. LOTUS data is hosted on Wikidata and regularly mirrored on <jats:ext-link ext-link-type=\"uri\" xlink:href=\"https://lotus.naturalproducts.net\">https://lotus.naturalproducts.net</jats:ext-link>. Data sharing within the Wikidata framework broadens data access and interoperability, opening new possibilities for community curation and evolving publication models. Furthermore, embedding LOTUS data into the vast Wikidata knowledge graph will facilitate new biological and chemical insights. The LOTUS initiative represents an important advancement in the design and deployment of a comprehensive and collaborative natural products knowledge base.</jats:p>",
+        "abstract": "<jats:p>\n                    Contemporary bioinformatic and chemoinformatic capabilities hold promise to reshape knowledge management, analysis and interpretation of data in natural products research. Currently, reliance on a disparate set of non-standardized, insular, and specialized databases presents a series of challenges for data access, both within the discipline and for integration and interoperability between related fields. The fundamental elements of exchange are referenced structure-organism pairs that establish relationships between distinct molecular structures and the living organisms from which they were identified. Consolidating and sharing such information via an open platform has strong transformative potential for natural products research and beyond. This is the ultimate goal of the newly established LOTUS initiative, which has now completed the first steps toward the harmonization, curation, validation and open dissemination of 750,000+ referenced structure-organism pairs. LOTUS data is hosted on Wikidata and regularly mirrored on\n                    <jats:ext-link ext-link-type=\"uri\" xlink:href=\"https://lotus.naturalproducts.net\">https://lotus.naturalproducts.net</jats:ext-link>\n                    . Data sharing within the Wikidata framework broadens data access and interoperability, opening new possibilities for community curation and evolving publication models. Furthermore, embedding LOTUS data into the vast Wikidata knowledge graph will facilitate new biological and chemical insights. The LOTUS initiative represents an important advancement in the design and deployment of a comprehensive and collaborative natural products knowledge base.\n                  </jats:p>",
         "DOI": "10.7554/elife.70780",
         "type": "article-journal",
         "source": "Crossref",
@@ -8737,7 +8737,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -8858,7 +8858,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -8910,7 +8910,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -9639,7 +9639,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -10429,7 +10429,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -10588,7 +10588,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -10769,7 +10769,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -10944,7 +10944,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -11255,7 +11255,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -11407,7 +11407,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -11505,7 +11505,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -11611,7 +11611,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -11721,7 +11721,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -11870,7 +11870,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -12013,7 +12013,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -12106,7 +12106,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -12269,7 +12269,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -12573,7 +12573,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -12691,7 +12691,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
@@ -12831,7 +12831,7 @@
             [
               "2025",
               11,
-              21
+              28
             ]
           ]
         },
