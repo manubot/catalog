@@ -36,7 +36,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -57,11 +57,11 @@
       "url": "https://doi.org/gr92x9",
       "title": "Epistasis between mutator alleles contributes to germline mutation spectra variability in laboratory mice",
       "authors": "Sasani, Quinlan, Harris",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2023-04-25",
       "date_human": "Apr 2023",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
+        "publisher": "openRxiv",
         "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Maintaining germline genome integrity is essential and enormously complex. Although many proteins are involved in DNA replication, proofreading, and repair [1],\n                  <jats:italic>mutator alleles</jats:italic>\n                  have largely eluded detection in mammals.\n                </jats:p>\n                <jats:p>\n                  DNA replication and repair proteins often recognize sequence motifs or excise lesions at specific nucleotides. Thus, we might expect that the spectrum of\n                  <jats:italic>de novo</jats:italic>\n                  mutations — the frequencies of C&gt;T, A&gt;G, etc. — will differ between genomes that harbor either a mutator or wild-type allele. Previously, we used quantitative trait locus mapping to discover candidate mutator alleles in the DNA repair gene\n                  <jats:italic>Mutyh</jats:italic>\n                  that increased the C&gt;A germline mutation rate in a family of inbred mice known as the BXDs [2,3].\n                </jats:p>\n                <jats:p>\n                  In this study we developed a new method to detect alleles associated with mutation spectrum variation and applied it to mutation data from the BXDs. We discovered an additional C&gt;A mutator locus on chromosome 6 that overlaps\n                  <jats:italic>Ogg1</jats:italic>\n                  , a DNA glycosylase involved in the same base-excision repair network as\n                  <jats:italic>Mutyh</jats:italic>\n                  [4]. Its effect depended on the presence of a mutator allele near\n                  <jats:italic>Mutyh</jats:italic>\n                  , and BXDs with mutator alleles at both loci had greater numbers of C&gt;A mutations than those with mutator alleles at either locus alone. Our new methods for analyzing mutation spectra reveal evidence of epistasis between germline mutator alleles and may be applicable to mutation data from humans and other model organisms.\n                </jats:p>",
         "DOI": "10.1101/2023.04.25.537217",
         "type": "manuscript",
@@ -187,7 +187,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -208,12 +208,12 @@
       "url": "https://doi.org/gqcvbw",
       "title": "An efficient not-only-linear correlation coefficient based on machine learning",
       "authors": "Pividori, Ritchie, Milone, Greene",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2022-06-17",
       "date_human": "Jun 2022",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Correlation coefficients are widely used to identify patterns in data that may be of particular interest. In transcriptomics, genes with correlated expression often share functions or are part of disease-relevant biological processes. Here we introduce the Clustermatch Correlation Coefficient (CCC), an efficient, easy-to-use and not-only-linear coefficient based on machine learning models. CCC reveals biologically meaningful linear and nonlinear patterns missed by standard, linear-only correlation coefficients. CCC captures general patterns in data by comparing clustering solutions while being much faster than state-of-the-art coefficients such as the Maximal Information Coefficient. When applied to human gene expression data, CCC identifies robust linear relationships while detecting nonlinear patterns associated, for example, with sex differences that are not captured by linear-only coefficients. Gene pairs highly ranked by CCC were enriched for interactions in integrated networks built from protein-protein interaction, transcription factor regulation, and chemical and genetic perturbations, suggesting that CCC could detect functional relationships that linear-only methods missed. CCC is a highly-efficient, next-generation not-only-linear correlation coefficient that can readily be applied to genome-scale data and other domains across different data types.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Correlation coefficients are widely used to identify patterns in data that may be of particular interest. In transcriptomics, genes with correlated expression often share functions or are part of disease-relevant biological processes. Here we introduce the Clustermatch Correlation Coefficient (CCC), an efficient, easy-to-use and not-only-linear coefficient based on machine learning models. CCC reveals biologically meaningful linear and nonlinear patterns missed by standard, linear-only correlation coefficients. CCC captures general patterns in data by comparing clustering solutions while being much faster than state-of-the-art coefficients such as the Maximal Information Coefficient. When applied to human gene expression data, CCC identifies robust linear relationships while detecting nonlinear patterns associated, for example, with sex differences that are not captured by linear-only coefficients. Gene pairs highly ranked by CCC were enriched for interactions in integrated networks built from protein-protein interaction, transcription factor regulation, and chemical and genetic perturbations, suggesting that CCC could detect functional relationships that linear-only methods missed. CCC is a highly-efficient, next-generation not-only-linear correlation coefficient that can readily be applied to genome-scale data and other domains across different data types.</jats:p>",
         "DOI": "10.1101/2022.06.15.496326",
         "type": "manuscript",
         "source": "Crossref",
@@ -282,7 +282,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -349,7 +349,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -482,7 +482,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -503,11 +503,11 @@
       "url": "https://doi.org/gbpvh5",
       "title": "Opportunities and obstacles for deep learning in biology and medicine",
       "authors": "Ching, Himmelstein, Beaulieu-Jones, Kalinin, Do, Way, Ferrero, Agapow, Zietz, Hoffman, Xie, Rosen, et al",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2017-05-28",
       "date_human": "May 2017",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
+        "publisher": "openRxiv",
         "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Deep learning, which describes a class of machine learning algorithms, has recently showed impressive results across a variety of domains. Biology and medicine are data rich, but the data are complex and often ill-understood. Problems of this nature may be particularly well-suited to deep learning techniques. We examine applications of deep learning to a variety of biomedical problems—patient classification, fundamental biological processes, and treatment of patients—and discuss whether deep learning will transform these tasks or if the biomedical sphere poses unique challenges. We find that deep learning has yet to revolutionize or definitively resolve any of these problems, but promising advances have been made on the prior state of the art. Even when improvement over a previous baseline has been modest, we have seen signs that deep learning methods may speed or aid human investigation. More work is needed to address concerns related to interpretability and how to best model each problem. Furthermore, the limited amount of labeled data for training presents problems in some domains, as do legal and privacy constraints on work with sensitive health records. Nonetheless, we foresee deep learning powering changes at both bench and bedside with the potential to transform several areas of biology and medicine.</jats:p>",
         "DOI": "10.1101/142760",
         "type": "manuscript",
@@ -903,7 +903,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -1023,7 +1023,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -1097,7 +1097,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -1289,7 +1289,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -1340,7 +1340,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -1361,12 +1361,12 @@
       "url": "https://doi.org/gfxrkc",
       "title": "GimmeMotifs: an analysis framework for transcription factor motif analysis",
       "authors": "Bruse, Heeringen",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2018-11-20",
       "date_human": "Nov 2018",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Background</jats:title><jats:p>Transcription factors (TFs) bind to specific DNA sequences, TF motifs, in cis-regulatory sequences and control the expression of the diverse transcriptional programs encoded in the genome. The concerted action of TFs within the chromatin context enables precise temporal and spatial expression patterns. To understand how TFs control gene expression it is essential to model TF binding. TF motif information can help to interpret the exact role of individual regulatory elements, for instance to predict the functional impact of non-coding variants.</jats:p></jats:sec><jats:sec><jats:title>Findings</jats:title><jats:p>Here we present GimmeMotifs, a comprehensive computational framework for TF motif analysis. Compared to the previously published version, this release adds a whole range of new functionality and analysis methods. It now includes tools for <jats:italic>de novo</jats:italic> motif discovery, motif scanning and sequence analysis, motif clustering, calculation of performance metrics and visualization. Included with GimmeMotifs is a non-redundant database of clustered motifs. Compared to other motif databases, this collection of motifs shows competitive performance in discriminating bound from unbound sequences. Using our <jats:italic>de novo</jats:italic> motif discovery pipeline we find large differences in performance between <jats:italic>de novo</jats:italic> motif finders on ChIP-seq data. Using an ensemble method such as implemented in GimmeMotifs will generally result in improved motif identification compared to a single motif finder. Finally, we demonstrate <jats:italic>maelstrom</jats:italic>, a new ensemble method that enables comparative analysis of TF motifs between multiple high-throughput sequencing experiments, such as ChIP-seq or ATAC-seq. Using a collection of ~200 H3K27ac ChIP-seq data sets we identify TFs that play a role in hematopoietic differentiation and lineage commitment.</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>GimmeMotifs is a fully-featured and flexible framework for TF motif analysis. It contains both command-line tools as well as a Python API and is freely available at: <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://github.com/vanheeringen-lab/gimmemotifs\">https://github.com/vanheeringen-lab/gimmemotifs</jats:ext-link>.</jats:p></jats:sec>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Transcription factors (TFs) bind to specific DNA sequences, TF motifs, in cis-regulatory sequences and control the expression of the diverse transcriptional programs encoded in the genome. The concerted action of TFs within the chromatin context enables precise temporal and spatial expression patterns. To understand how TFs control gene expression it is essential to model TF binding. TF motif information can help to interpret the exact role of individual regulatory elements, for instance to predict the functional impact of non-coding variants.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>\n                    Here we present GimmeMotifs, a comprehensive computational framework for TF motif analysis. Compared to the previously published version, this release adds a whole range of new functionality and analysis methods. It now includes tools for\n                    <jats:italic>de novo</jats:italic>\n                    motif discovery, motif scanning and sequence analysis, motif clustering, calculation of performance metrics and visualization. Included with GimmeMotifs is a non-redundant database of clustered motifs. Compared to other motif databases, this collection of motifs shows competitive performance in discriminating bound from unbound sequences. Using our\n                    <jats:italic>de novo</jats:italic>\n                    motif discovery pipeline we find large differences in performance between\n                    <jats:italic>de novo</jats:italic>\n                    motif finders on ChIP-seq data. Using an ensemble method such as implemented in GimmeMotifs will generally result in improved motif identification compared to a single motif finder. Finally, we demonstrate\n                    <jats:italic>maelstrom</jats:italic>\n                    , a new ensemble method that enables comparative analysis of TF motifs between multiple high-throughput sequencing experiments, such as ChIP-seq or ATAC-seq. Using a collection of ~200 H3K27ac ChIP-seq data sets we identify TFs that play a role in hematopoietic differentiation and lineage commitment.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>\n                    GimmeMotifs is a fully-featured and flexible framework for TF motif analysis. It contains both command-line tools as well as a Python API and is freely available at:\n                    <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://github.com/vanheeringen-lab/gimmemotifs\">https://github.com/vanheeringen-lab/gimmemotifs</jats:ext-link>\n                    .\n                  </jats:p>\n                </jats:sec>",
         "DOI": "10.1101/474403",
         "type": "manuscript",
         "source": "Crossref",
@@ -1417,7 +1417,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -1566,7 +1566,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -1847,7 +1847,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -1927,7 +1927,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -1948,12 +1948,12 @@
       "url": "https://doi.org/bs4f",
       "title": "Systematic integration of biomedical knowledge prioritizes drugs for repurposing",
       "authors": "Himmelstein, Lizee, Hessler, Brueggeman, Chen, Hadley, Green, Khankhanian, Baranzini",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2016-11-14",
       "date_human": "Nov 2016",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>The ability to computationally predict whether a compound treats a disease would improve the economy and success rate of drug approval. This study describes Project Rephetio to systematically model drug efficacy based on 755 existing treatments. First, we constructed Hetionet (neo4j.het.io), an integrative network encoding knowledge from millions of biomedical studies. Hetionet v1.0 consists of 47,031 nodes of 11 types and 2,250,197 relationships of 24 types. Data was integrated from 29 public resources to connect compounds, diseases, genes, anatomies, pathways, biological processes, molecular functions, cellular components, pharmacologic classes, side effects, and symptoms. Next, we identified network patterns that distinguish treatments from non-treatments. Then we predicted the probability of treatment for 209,168 compound–disease pairs (het.io/repurpose). Our predictions validated on two external sets of treatment and provided pharmacological insights on epilepsy, suggesting they will help prioritize drug repurposing candidates. This study was entirely open and received realtime feedback from 40 community members.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The ability to computationally predict whether a compound treats a disease would improve the economy and success rate of drug approval. This study describes Project Rephetio to systematically model drug efficacy based on 755 existing treatments. First, we constructed Hetionet (neo4j.het.io), an integrative network encoding knowledge from millions of biomedical studies. Hetionet v1.0 consists of 47,031 nodes of 11 types and 2,250,197 relationships of 24 types. Data was integrated from 29 public resources to connect compounds, diseases, genes, anatomies, pathways, biological processes, molecular functions, cellular components, pharmacologic classes, side effects, and symptoms. Next, we identified network patterns that distinguish treatments from non-treatments. Then we predicted the probability of treatment for 209,168 compound–disease pairs (het.io/repurpose). Our predictions validated on two external sets of treatment and provided pharmacological insights on epilepsy, suggesting they will help prioritize drug repurposing candidates. This study was entirely open and received realtime feedback from 40 community members.</jats:p>",
         "DOI": "10.1101/087619",
         "type": "manuscript",
         "source": "Crossref",
@@ -2092,7 +2092,7 @@
       "title": "Introducing yt 4.0: Analysis and Visualization of Volumetric Data",
       "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Munk, Smith, Kowalik, Val-Borro, Coughlin, et al",
       "journal": "Manubot",
-      "date_iso": "2026-01-05",
+      "date_iso": "2026-01-12",
       "date_human": "Jan 2026",
       "csl_item": {
         "id": "1AIP8Sp9Y",
@@ -2364,7 +2364,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -2373,7 +2373,7 @@
             [
               "2026",
               1,
-              5
+              12
             ]
           ]
         },
@@ -2418,7 +2418,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -2439,11 +2439,11 @@
       "url": "https://doi.org/gf3jfk",
       "title": "Scaling tree-based automated machine learning to biomedical big data with a dataset selector",
       "authors": "Le, Fu, Moore",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2018-12-20",
       "date_human": "Dec 2018",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
+        "publisher": "openRxiv",
         "abstract": "<jats:p>Automated machine learning (AutoML) systems are helpful data science assistants designed to scan data for novel features, select appropriate supervised learning models and optimize their parameters. For this purpose, Tree-based Pipeline Optimization Tool (TPOT) was developed using strongly typed genetic programming to recommend an optimized analysis pipeline for the data scientist's prediction problem. However, TPOT may reach computational resource limits when working on big data such as whole-genome expression data. We introduce two new features implemented in TPOT that helps increase the system's scalability: Dataset selector and Template. Dataset selector (DS) provides the option to specify subsets of the features as separate datasets, assuming the signals come from one or more of these specific data subsets. Built in at the beginning of each pipeline structure, DS reduces the computational expense of TPOT to only evaluate on a smaller subset of data rather than the entire dataset. Consequently, DS increases TPOT's efficiency in application on big data by slicing the dataset into smaller sets of features and allowing genetic programming to select the best subset in the final pipeline. Template enforces type constraints with strongly typed genetic programming and enables the incorporation of DS at the beginning of each pipeline. We show that DS and Template help reduce TPOT computation time and may provide more interpretable results. Our simulations show TPOT-DS significantly outperforms a tuned XGBoost model and standard TPOT implementation. We apply TPOT-DS to real RNA-Seq data from a study of major depressive disorder. Independent of the previous study that identified significant association with depression severity of the enrichment scores of two modules, in an automated fashion, TPOT-DS corroborates that one of the modules is largely predictive of the clinical diagnosis of each individual.</jats:p>",
         "DOI": "10.1101/502484",
         "type": "manuscript",
@@ -2566,7 +2566,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -2632,7 +2632,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -2798,7 +2798,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -2843,7 +2843,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -2924,7 +2924,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -2945,12 +2945,12 @@
       "url": "https://doi.org/gf3jfm",
       "title": "Genotyping structural variants in pangenome graphs using the vg toolkit",
       "authors": "Hickey, Heller, Monlong, Sibbesen, Sirén, Eizenga, Dawson, Garrison, Novak, Paten",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2019-06-01",
       "date_human": "Jun 2019",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Structural variants (SVs) remain challenging to represent and study relative to point mutations despite their demonstrated importance. We show that variation graphs, as implemented in the vg toolkit, provide an effective means for leveraging SV catalogs for short-read SV genotyping experiments. We benchmarked vg against state-of-the-art SV genotypers using three sequence-resolved SV catalogs generated by recent long-read sequencing studies. In addition, we use assemblies from 12 yeast strains to show that graphs constructed directly from aligned <jats:italic>de novo</jats:italic> assemblies improve genotyping compared to graphs built from intermediate SV catalogs in the VCF format.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Structural variants (SVs) remain challenging to represent and study relative to point mutations despite their demonstrated importance. We show that variation graphs, as implemented in the vg toolkit, provide an effective means for leveraging SV catalogs for short-read SV genotyping experiments. We benchmarked vg against state-of-the-art SV genotypers using three sequence-resolved SV catalogs generated by recent long-read sequencing studies. In addition, we use assemblies from 12 yeast strains to show that graphs constructed directly from aligned\n                  <jats:italic>de novo</jats:italic>\n                  assemblies improve genotyping compared to graphs built from intermediate SV catalogs in the VCF format.\n                </jats:p>",
         "DOI": "10.1101/654566",
         "type": "manuscript",
         "source": "Crossref",
@@ -3053,7 +3053,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -3074,12 +3074,12 @@
       "url": "https://doi.org/gfs47c",
       "title": "Plasmids for independently tunable, low-noise expression of two genes",
       "authors": "Silva, Vidigal Lopes, Grilo, Hensel",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2019-01-09",
       "date_human": "Jan 2019",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Some microbiology experiments and biotechnology applications can be improved if it is possible to tune the expression of two different genes at the same time with cell-to-cell variation at or below the level of genes constitutively expressed from the chromosome (the “extrinsic noise limit”). This was recently achieved for a single gene by exploiting negative autoregulation by the tetracycline repressor (TetR) and bicistronic gene expression to reduce gene expression noise. We report new plasmids that use the same principles to achieve simultaneous, low-noise expression for two genes. The TetR system was moved to a compatible plasmid backbone, and a system based on the <jats:italic>lac</jats:italic> repressor (LacI) was found to also exhibit gene expression noise below the extrinsic noise limit. We characterize gene expression mean and noise across the range of induction levels for these plasmids, apply the LacI system to tune expression for single-molecule mRNA detection in two different growth conditions, and show that two plasmids can be co-transformed to independently tune expression of two different genes.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Some microbiology experiments and biotechnology applications can be improved if it is possible to tune the expression of two different genes at the same time with cell-to-cell variation at or below the level of genes constitutively expressed from the chromosome (the “extrinsic noise limit”). This was recently achieved for a single gene by exploiting negative autoregulation by the tetracycline repressor (TetR) and bicistronic gene expression to reduce gene expression noise. We report new plasmids that use the same principles to achieve simultaneous, low-noise expression for two genes. The TetR system was moved to a compatible plasmid backbone, and a system based on the\n                  <jats:italic>lac</jats:italic>\n                  repressor (LacI) was found to also exhibit gene expression noise below the extrinsic noise limit. We characterize gene expression mean and noise across the range of induction levels for these plasmids, apply the LacI system to tune expression for single-molecule mRNA detection in two different growth conditions, and show that two plasmids can be co-transformed to independently tune expression of two different genes.\n                </jats:p>",
         "DOI": "10.1101/515940",
         "type": "manuscript",
         "source": "Crossref",
@@ -3216,7 +3216,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -3348,7 +3348,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -3451,7 +3451,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -3564,7 +3564,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -3616,7 +3616,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -3672,7 +3672,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -3693,12 +3693,12 @@
       "url": "https://doi.org/gf6qxh",
       "title": "Expanding a Database-derived Biomedical Knowledge Graph via Multi-relation Extraction from Biomedical Abstracts",
       "authors": "Nicholson, Himmelstein, Greene",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2019-08-08",
       "date_human": "Aug 2019",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Knowledge graphs support multiple research efforts by providing contextual information for biomedical entities, constructing networks, and supporting the interpretation of high-throughput analyses. These databases are populated via some form of manual curation, which is difficult to scale in the context of an increasing publication rate. Data programming is a paradigm that circumvents this arduous manual process by combining databases with simple rules and heuristics written as label functions, which are programs designed to automatically annotate textual data. Unfortunately, writing a useful label function requires substantial error analysis and is a nontrivial task that takes multiple days per function. This makes populating a knowledge graph with multiple nodes and edge types practically infeasible. We sought to accelerate the label function creation process by evaluating the extent to which label functions could be re-used across multiple edge types. We used a subset of an existing knowledge graph centered on disease, compound, and gene entities to evaluate label function re-use. We determined the best label function combination by comparing a baseline database-only model with the same model but added edge-specific or edge-mismatch label functions. We confirmed that adding additional edge-specific rather than edge-mismatch label functions often improves text annotation and shows that this approach can incorporate novel edges into our source knowledge graph. We expect that continued development of this strategy has the potential to swiftly populate knowledge graphs with new discoveries, ensuring that these resources include cutting-edge results.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Knowledge graphs support multiple research efforts by providing contextual information for biomedical entities, constructing networks, and supporting the interpretation of high-throughput analyses. These databases are populated via some form of manual curation, which is difficult to scale in the context of an increasing publication rate. Data programming is a paradigm that circumvents this arduous manual process by combining databases with simple rules and heuristics written as label functions, which are programs designed to automatically annotate textual data. Unfortunately, writing a useful label function requires substantial error analysis and is a nontrivial task that takes multiple days per function. This makes populating a knowledge graph with multiple nodes and edge types practically infeasible. We sought to accelerate the label function creation process by evaluating the extent to which label functions could be re-used across multiple edge types. We used a subset of an existing knowledge graph centered on disease, compound, and gene entities to evaluate label function re-use. We determined the best label function combination by comparing a baseline database-only model with the same model but added edge-specific or edge-mismatch label functions. We confirmed that adding additional edge-specific rather than edge-mismatch label functions often improves text annotation and shows that this approach can incorporate novel edges into our source knowledge graph. We expect that continued development of this strategy has the potential to swiftly populate knowledge graphs with new discoveries, ensuring that these resources include cutting-edge results.</jats:p>",
         "DOI": "10.1101/730085",
         "type": "manuscript",
         "source": "Crossref",
@@ -3827,7 +3827,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -3877,7 +3877,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -3898,12 +3898,12 @@
       "url": "https://doi.org/gf7hkk",
       "title": "Two real use cases of FAIR maturity indicators in the life sciences",
       "authors": "Bonaretti, Willighagen",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2019-08-19",
       "date_human": "Aug 2019",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Data sharing and reuse are crucial to enhance scientific progress and maximize return of investments in science. Although attitudes are increasingly favorable, data reuse remains difficult for lack of infrastructures, standards, and policies. The FAIR (findable, accessible, interoperable, reusable) principles aim to provide recommendations to increase data reuse. Because of the broad interpretation of the FAIR principles, maturity indicators are necessary to determine FAIRness of a dataset. In this work, we propose a reproducible computational workflow to assess data FAIRness in the life sciences. Our implementation follows principles and guidelines recommended by the maturity indicator authoring group and integrates concepts from the literature. In addition, we propose a FAIR balloon plot to summarize and compare dataset FAIRness. We evaluated our method on two real use cases where researchers looked for datasets to answer their scientific questions. We retrieved information from repositories (ArrayExpress and Gene Expression Omnibus), a registry of repositories (re3data.org), and a searchable resource (Google Dataset Search) via application program interface (API) wherever possible. With our analysis, we found that the two datasets met the majority of the criteria defined by the maturity indicators, and we showed areas where improvements can easily be reached. We suggest that use of standard schema for metadata and presence of specific attributes in registries of repositories could increase FAIRness of datasets.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Data sharing and reuse are crucial to enhance scientific progress and maximize return of investments in science. Although attitudes are increasingly favorable, data reuse remains difficult for lack of infrastructures, standards, and policies. The FAIR (findable, accessible, interoperable, reusable) principles aim to provide recommendations to increase data reuse. Because of the broad interpretation of the FAIR principles, maturity indicators are necessary to determine FAIRness of a dataset. In this work, we propose a reproducible computational workflow to assess data FAIRness in the life sciences. Our implementation follows principles and guidelines recommended by the maturity indicator authoring group and integrates concepts from the literature. In addition, we propose a FAIR balloon plot to summarize and compare dataset FAIRness. We evaluated our method on two real use cases where researchers looked for datasets to answer their scientific questions. We retrieved information from repositories (ArrayExpress and Gene Expression Omnibus), a registry of repositories (re3data.org), and a searchable resource (Google Dataset Search) via application program interface (API) wherever possible. With our analysis, we found that the two datasets met the majority of the criteria defined by the maturity indicators, and we showed areas where improvements can easily be reached. We suggest that use of standard schema for metadata and presence of specific attributes in registries of repositories could increase FAIRness of datasets.</jats:p>",
         "DOI": "10.1101/739334",
         "type": "manuscript",
         "source": "Crossref",
@@ -4060,7 +4060,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -4081,12 +4081,12 @@
       "url": "https://doi.org/grk9gd",
       "title": "The probability of edge existence due to node degree: a baseline for network-based predictions",
       "authors": "Zietz, Himmelstein, Kloster, Williams, Nagle, Greene",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2023-01-06",
       "date_human": "Jan 2023",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Important tasks in biomedical discovery such as predicting gene functions, gene-disease associations, and drug repurposing opportunities are often framed as network edge prediction. The number of edges connecting to a node, termed degree, can vary greatly across nodes in real biomedical networks, and the distribution of degrees varies between networks. If degree strongly influences edge prediction, then imbalance or bias in the distribution of degrees could lead to nonspecific or misleading predictions. We introduce a network permutation framework to quantify the effects of node degree on edge prediction. Our framework decomposes performance into the proportions attributable to degree and the network’s specific connections. We discover that performance attributable to factors other than degree is often only a small portion of overall performance. Degree’s predictive performance diminishes when the networks used for training and testing—despite measuring the same biological relationships—were generated using distinct techniques and hence have large differences in degree distribution. We introduce the permutation-derived edge prior as the probability that an edge exists based only on degree. The edge prior shows excellent discrimination and calibration for 20 biomedical networks (16 bipartite, 3 undirected, 1 directed), with AUROCs frequently exceeding 0.85. Researchers seeking to predict new or missing edges in biological networks should use the edge prior as a baseline to identify the fraction of performance that is nonspecific because of degree. We released our methods as an open-source Python package (<jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://github.com/hetio/xswap/\">https://github.com/hetio/xswap/</jats:ext-link>).</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Important tasks in biomedical discovery such as predicting gene functions, gene-disease associations, and drug repurposing opportunities are often framed as network edge prediction. The number of edges connecting to a node, termed degree, can vary greatly across nodes in real biomedical networks, and the distribution of degrees varies between networks. If degree strongly influences edge prediction, then imbalance or bias in the distribution of degrees could lead to nonspecific or misleading predictions. We introduce a network permutation framework to quantify the effects of node degree on edge prediction. Our framework decomposes performance into the proportions attributable to degree and the network’s specific connections. We discover that performance attributable to factors other than degree is often only a small portion of overall performance. Degree’s predictive performance diminishes when the networks used for training and testing—despite measuring the same biological relationships—were generated using distinct techniques and hence have large differences in degree distribution. We introduce the permutation-derived edge prior as the probability that an edge exists based only on degree. The edge prior shows excellent discrimination and calibration for 20 biomedical networks (16 bipartite, 3 undirected, 1 directed), with AUROCs frequently exceeding 0.85. Researchers seeking to predict new or missing edges in biological networks should use the edge prior as a baseline to identify the fraction of performance that is nonspecific because of degree. We released our methods as an open-source Python package (\n                  <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://github.com/hetio/xswap/\">https://github.com/hetio/xswap/</jats:ext-link>\n                  ).\n                </jats:p>",
         "DOI": "10.1101/2023.01.05.522939",
         "type": "manuscript",
         "source": "Crossref",
@@ -4267,7 +4267,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -4288,12 +4288,12 @@
       "url": "https://doi.org/grmcb9",
       "title": "Hetnet connectivity search provides rapid insights into how two biomedical entities are related",
       "authors": "Himmelstein, Zietz, Rubinetti, Kloster, Heil, Alquaddoomi, Hu, Nicholson, Hao, Sullivan, Nagle, et al",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2023-01-07",
       "date_human": "Jan 2023",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Hetnets, short for “heterogeneous networks”, contain multiple node and relationship types and offer a way to encode biomedical knowledge. One such example, Hetionet connects 11 types of nodes — including genes, diseases, drugs, pathways, and anatomical structures — with over 2 million edges of 24 types. Previous work has demonstrated that supervised machine learning methods applied to such networks can identify drug repurposing opportunities. However, a training set of known relationships does not exist for many types of node pairs, even when it would be useful to examine how nodes of those types are meaningfully connected. For example, users may be curious not only how metformin is related to breast cancer, but also how the<jats:italic>GJA1</jats:italic>gene might be involved in insomnia. We developed a new procedure, termed hetnet connectivity search, that proposes important paths between any two nodes without requiring a supervised gold standard. The algorithm behind connectivity search identifies types of paths that occur more frequently than would be expected by chance (based on node degree alone). We find that predictions are broadly similar to those from previously described supervised approaches for certain node type pairs. Scoring of individual paths is based on the most specific paths of a given type. Several optimizations were required to precompute significant instances of node connectivity at the scale of large knowledge graphs. We implemented the method on Hetionet and provide an online interface at<jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://het.io/search\">https://het.io/search</jats:ext-link>. We provide an open source implementation of these methods in our new Python package named<jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://github.com/hetio/hetmatpy\">hetmatpy</jats:ext-link>.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Hetnets, short for “heterogeneous networks”, contain multiple node and relationship types and offer a way to encode biomedical knowledge. One such example, Hetionet connects 11 types of nodes — including genes, diseases, drugs, pathways, and anatomical structures — with over 2 million edges of 24 types. Previous work has demonstrated that supervised machine learning methods applied to such networks can identify drug repurposing opportunities. However, a training set of known relationships does not exist for many types of node pairs, even when it would be useful to examine how nodes of those types are meaningfully connected. For example, users may be curious not only how metformin is related to breast cancer, but also how the\n                  <jats:italic>GJA1</jats:italic>\n                  gene might be involved in insomnia. We developed a new procedure, termed hetnet connectivity search, that proposes important paths between any two nodes without requiring a supervised gold standard. The algorithm behind connectivity search identifies types of paths that occur more frequently than would be expected by chance (based on node degree alone). We find that predictions are broadly similar to those from previously described supervised approaches for certain node type pairs. Scoring of individual paths is based on the most specific paths of a given type. Several optimizations were required to precompute significant instances of node connectivity at the scale of large knowledge graphs. We implemented the method on Hetionet and provide an online interface at\n                  <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://het.io/search\">https://het.io/search</jats:ext-link>\n                  . We provide an open source implementation of these methods in our new Python package named\n                  <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://github.com/hetio/hetmatpy\">hetmatpy</jats:ext-link>\n                  .\n                </jats:p>",
         "DOI": "10.1101/2023.01.05.522941",
         "type": "manuscript",
         "source": "Crossref",
@@ -4482,7 +4482,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -4648,7 +4648,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -4669,12 +4669,12 @@
       "url": "https://doi.org/ggr64p",
       "title": "Analysis of ISCB honorees and keynotes reveals disparities",
       "authors": "Le, Himmelstein, Hippen Anderson, Gazzara, Greene",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2020-04-14",
       "date_human": "Apr 2020",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Delivering a keynote talk at a conference organized by a scientific society, or being named as a fellow by such a society, indicates that a scientist is held in high regard by their colleagues. To explore if the distribution of such indicators of esteem in the field of bioinformatics reflects the composition of this field, we compared the gender, name-origin, country of affiliation and race/ethnicity of 412 researchers who had been recognized by the<jats:italic>International Society for Computational Biology</jats:italic>(75 fellows and 337 keynote speakers) with over 170,000 researchers who had been the last authors on computational biology papers between 1993 and 2019. The proportion of female fellows and keynote speakers was similar to that of the field overall. However, names of East Asian origin have been persistently underrepresented among fellows and keynote speakers. Moreover, fellows and keynote speakers with an affiliation in the United States were overrepresented by a factor of 2.1; almost two thirds of this excess was accounted for by a deficit of 101 fellows and keynote authors from China, India, France and Italy. Within the US, we found an excess of white fellows and keynote speakers and a depletion of Asian fellows and keynote speakers.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Delivering a keynote talk at a conference organized by a scientific society, or being named as a fellow by such a society, indicates that a scientist is held in high regard by their colleagues. To explore if the distribution of such indicators of esteem in the field of bioinformatics reflects the composition of this field, we compared the gender, name-origin, country of affiliation and race/ethnicity of 412 researchers who had been recognized by the\n                  <jats:italic>International Society for Computational Biology</jats:italic>\n                  (75 fellows and 337 keynote speakers) with over 170,000 researchers who had been the last authors on computational biology papers between 1993 and 2019. The proportion of female fellows and keynote speakers was similar to that of the field overall. However, names of East Asian origin have been persistently underrepresented among fellows and keynote speakers. Moreover, fellows and keynote speakers with an affiliation in the United States were overrepresented by a factor of 2.1; almost two thirds of this excess was accounted for by a deficit of 101 fellows and keynote authors from China, India, France and Italy. Within the US, we found an excess of white fellows and keynote speakers and a depletion of Asian fellows and keynote speakers.\n                </jats:p>",
         "DOI": "10.1101/2020.04.14.927251",
         "type": "manuscript",
         "source": "Crossref",
@@ -5017,7 +5017,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -5084,7 +5084,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -5400,7 +5400,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -5421,12 +5421,12 @@
       "url": "https://doi.org/gqvf99",
       "title": "OpenPBTA: An Open Pediatric Brain Tumor Atlas",
       "authors": "Shapiro, Gaonkar, Savonen, Spielman, Bethell, Jin, Rathi, Zhu, Egolf, Farrow, Miller, Yang, Koganti, et al",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2022-09-16",
       "date_human": "Sep 2022",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:sec><jats:title>Summary</jats:title><jats:p>Pediatric brain and spinal cancer are the leading disease-related cause of death in children, thus we urgently need curative therapeutic strategies for these tumors. To accelerate such discoveries, the Children’s Brain Tumor Network and Pacific Pediatric Neuro-Oncology Consortium created a systematic process for tumor biobanking, model generation, and sequencing with immediate access to harmonized data. We leverage these data to create OpenPBTA, an open collaborative project which establishes over 40 scalable analysis modules to genomically characterize 1,074 pediatric brain tumors. Transcriptomic classification reveals that <jats:italic>TP53</jats:italic> loss is a significant marker for poor overall survival in ependymomas and H3 K28-altered diffuse midline gliomas and further identifies universal <jats:italic>TP53</jats:italic> dysregulation in mismatch repair-deficient hypermutant high-grade gliomas. OpenPBTA is a foundational analysis platform actively being applied to other pediatric cancers and inform molecular tumor board decision-making, making it an invaluable resource to the pediatric oncology community.</jats:p></jats:sec><jats:sec><jats:title>In Brief</jats:title><jats:p>The OpenPBTA is a global, collaborative open-science initiative which brought together researchers and clinicians to genomically characterize 1,074 pediatric brain tumors and 22 patient-derived cell lines. Shapiro, et. al create over 40 open-source, scalable modules to perform cancer genomics analyses and provide a richly-annotated somatic dataset across 58 brain tumor histologies. The OpenPBTA framework can be used as a model for large-scale data integration to inform basic research, therapeutic target identification, and clinical translation.</jats:p></jats:sec><jats:sec><jats:title>Highlights</jats:title><jats:p>OpenPBTA collaborative analyses establish resource for 1,074 pediatric brain tumors NGS-based WHO-aligned integrated diagnoses generated for 641 of 1,074 tumors RNA-Seq analysis infers medulloblastoma subtypes, TP53 status, and telomerase activity OpenPBTA will accelerate therapeutic translation of genomic insights</jats:p></jats:sec>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:sec>\n                  <jats:title>Summary</jats:title>\n                  <jats:p>\n                    Pediatric brain and spinal cancer are the leading disease-related cause of death in children, thus we urgently need curative therapeutic strategies for these tumors. To accelerate such discoveries, the Children’s Brain Tumor Network and Pacific Pediatric Neuro-Oncology Consortium created a systematic process for tumor biobanking, model generation, and sequencing with immediate access to harmonized data. We leverage these data to create OpenPBTA, an open collaborative project which establishes over 40 scalable analysis modules to genomically characterize 1,074 pediatric brain tumors. Transcriptomic classification reveals that\n                    <jats:italic>TP53</jats:italic>\n                    loss is a significant marker for poor overall survival in ependymomas and H3 K28-altered diffuse midline gliomas and further identifies universal\n                    <jats:italic>TP53</jats:italic>\n                    dysregulation in mismatch repair-deficient hypermutant high-grade gliomas. OpenPBTA is a foundational analysis platform actively being applied to other pediatric cancers and inform molecular tumor board decision-making, making it an invaluable resource to the pediatric oncology community.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>In Brief</jats:title>\n                  <jats:p>The OpenPBTA is a global, collaborative open-science initiative which brought together researchers and clinicians to genomically characterize 1,074 pediatric brain tumors and 22 patient-derived cell lines. Shapiro, et. al create over 40 open-source, scalable modules to perform cancer genomics analyses and provide a richly-annotated somatic dataset across 58 brain tumor histologies. The OpenPBTA framework can be used as a model for large-scale data integration to inform basic research, therapeutic target identification, and clinical translation.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Highlights</jats:title>\n                  <jats:p>OpenPBTA collaborative analyses establish resource for 1,074 pediatric brain tumors NGS-based WHO-aligned integrated diagnoses generated for 641 of 1,074 tumors RNA-Seq analysis infers medulloblastoma subtypes, TP53 status, and telomerase activity OpenPBTA will accelerate therapeutic translation of genomic insights</jats:p>\n                </jats:sec>",
         "DOI": "10.1101/2022.09.13.507832",
         "type": "manuscript",
         "source": "Crossref",
@@ -6030,7 +6030,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -6122,7 +6122,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -6143,12 +6143,12 @@
       "url": "https://doi.org/ggrn8f",
       "title": "Testing the association between blood type and COVID-19 infection, intubation, and death",
       "authors": "Zietz, Zucker, Tatonetti",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2020-04-11",
       "date_human": "Apr 2020",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>The rapid global spread of the novel coronavirus SARS-CoV-2 has strained healthcare and testing resources, making the identification and prioritization of individuals most at-risk a critical challenge. Recent evidence suggests blood type may affect risk of severe COVID-19. We used observational healthcare data on 14,112 individuals tested for SARS-CoV-2 with known blood type in the New York Presbyterian (NYP) hospital system to assess the association between ABO and Rh blood types and infection, intubation, and death. We found slightly increased infection prevalence among non-O types. Risk of intubation was decreased among A and increased among AB and B types, compared with type O, while risk of death was increased for type AB and decreased for types A and B. We estimated Rh-negative blood type to have a protective effect for all three outcomes. Our results add to the growing body of evidence suggesting blood type may play a role in COVID-19.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The rapid global spread of the novel coronavirus SARS-CoV-2 has strained healthcare and testing resources, making the identification and prioritization of individuals most at-risk a critical challenge. Recent evidence suggests blood type may affect risk of severe COVID-19. We used observational healthcare data on 14,112 individuals tested for SARS-CoV-2 with known blood type in the New York Presbyterian (NYP) hospital system to assess the association between ABO and Rh blood types and infection, intubation, and death. We found slightly increased infection prevalence among non-O types. Risk of intubation was decreased among A and increased among AB and B types, compared with type O, while risk of death was increased for type AB and decreased for types A and B. We estimated Rh-negative blood type to have a protective effect for all three outcomes. Our results add to the growing body of evidence suggesting blood type may play a role in COVID-19.</jats:p>",
         "DOI": "10.1101/2020.04.08.20058073",
         "type": "manuscript",
         "source": "Crossref",
@@ -6297,7 +6297,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -6318,12 +6318,12 @@
       "url": "https://doi.org/ggrqp5",
       "title": "Comparative analyses of two primate species diverged by more than 60 million years show different rates but similar distribution of genome-wide UV repair events",
       "authors": "Akkose, Kaya, Lindsey-Boltz, Karagoz, Brown, Larsen, Yoder, Sancar, Adebali",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2020-04-06",
       "date_human": "Apr 2020",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Nucleotide excision repair is the primary DNA repair mechanism that removes bulky DNA adducts such as UV-induced pyrimidine dimers. Correspondingly, genome-wide mapping of nucleotide excision repair with eXcision Repair sequencing (XR-seq), provides comprehensive profiling of DNA damage repair. A number of XR-seq experiments at a variety of conditions for different damage types revealed heterogenous repair in the human genome. Although human repair profiles were extensively studied, how repair maps vary between primates is yet to be investigated. Here, we characterized the genome-wide UV-induced damage repair in gray mouse lemur,<jats:italic>Microcebus murinus</jats:italic>, in comparison to human. Mouse lemurs are strictly nocturnal, are the world’s smallest living primates, and last shared a common ancestor with humans at least 60 million years ago. We derived fibroblast cell lines from mouse lemur, exposed them to UV irradiation. The following repair events were captured genome-wide through the XR-seq protocol. Mouse lemur repair profiles were analyzed in comparison to the equivalent human fibroblast datasets. We found that overall UV sensitivity, repair efficiency, and transcription-coupled repair levels differ between the two primates. Despite this, comparative analysis of human and mouse lemur fibroblasts revealed that genome-wide repair profiles of the homologous regions are highly correlated. This correlation is stronger for the highly expressed genes. With the inclusion of an additional XR-seq sample derived from another human cell line in the analysis, we found that fibroblasts of the two primates repair UV-induced DNA lesions in a more similar pattern than two distinct human cell lines do. Our results suggest that mouse lemurs and humans, and possibly primates in general, share a homologous repair mechanism as well as genomic variance distribution, albeit with their variable repair efficiency. This result also emphasizes the deep homologies of individual tissue types across the eukaryotic phylogeny.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Nucleotide excision repair is the primary DNA repair mechanism that removes bulky DNA adducts such as UV-induced pyrimidine dimers. Correspondingly, genome-wide mapping of nucleotide excision repair with eXcision Repair sequencing (XR-seq), provides comprehensive profiling of DNA damage repair. A number of XR-seq experiments at a variety of conditions for different damage types revealed heterogenous repair in the human genome. Although human repair profiles were extensively studied, how repair maps vary between primates is yet to be investigated. Here, we characterized the genome-wide UV-induced damage repair in gray mouse lemur,\n                  <jats:italic>Microcebus murinus</jats:italic>\n                  , in comparison to human. Mouse lemurs are strictly nocturnal, are the world’s smallest living primates, and last shared a common ancestor with humans at least 60 million years ago. We derived fibroblast cell lines from mouse lemur, exposed them to UV irradiation. The following repair events were captured genome-wide through the XR-seq protocol. Mouse lemur repair profiles were analyzed in comparison to the equivalent human fibroblast datasets. We found that overall UV sensitivity, repair efficiency, and transcription-coupled repair levels differ between the two primates. Despite this, comparative analysis of human and mouse lemur fibroblasts revealed that genome-wide repair profiles of the homologous regions are highly correlated. This correlation is stronger for the highly expressed genes. With the inclusion of an additional XR-seq sample derived from another human cell line in the analysis, we found that fibroblasts of the two primates repair UV-induced DNA lesions in a more similar pattern than two distinct human cell lines do. Our results suggest that mouse lemurs and humans, and possibly primates in general, share a homologous repair mechanism as well as genomic variance distribution, albeit with their variable repair efficiency. This result also emphasizes the deep homologies of individual tissue types across the eukaryotic phylogeny.\n                </jats:p>",
         "DOI": "10.1101/2020.04.06.027201",
         "type": "manuscript",
         "source": "Crossref",
@@ -6417,7 +6417,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -6438,12 +6438,12 @@
       "url": "https://doi.org/gg6d2m",
       "title": "treeheatr: an R package for interpretable decision tree visualizations",
       "authors": "Le, Moore",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2020-07-10",
       "date_human": "Jul 2020",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Summary</jats:title><jats:p><jats:italic>treeheatr</jats:italic>is an R package for creating interpretable decision tree visualizations with the data represented as a heatmap at the tree’s leaf nodes. The integrated presentation of the tree structure along with an overview of the data efficiently illustrates how the tree nodes split up the feature space and how well the tree model performs. This visualization can also be examined in depth to uncover the correlation structure in the data and importance of each feature in predicting the outcome. Implemented in an easily installed package with a detailed vignette,<jats:italic>treeheatr</jats:italic>can be a useful teaching tool to enhance students’ understanding of a simple decision tree model before diving into more complex tree-based machine learning methods.</jats:p></jats:sec><jats:sec><jats:title>Availability</jats:title><jats:p>The<jats:italic>treeheatr</jats:italic>package is freely available under the permissive MIT license at<jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://trang1618.github.io/treeheatr\">https://trang1618.github.io/treeheatr</jats:ext-link>and<jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://cran.r-project.org/package=treeheatr\">https://cran.r-project.org/package=treeheatr</jats:ext-link>. It comes with a detailed vignette that is automatically built with GitHub Actions continuous integration.</jats:p></jats:sec><jats:sec><jats:title>Contact</jats:title><jats:p><jats:email>ttle@pennmedicine.upenn.edu</jats:email></jats:p></jats:sec>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Summary</jats:title>\n                  <jats:p>\n                    <jats:italic>treeheatr</jats:italic>\n                    is an R package for creating interpretable decision tree visualizations with the data represented as a heatmap at the tree’s leaf nodes. The integrated presentation of the tree structure along with an overview of the data efficiently illustrates how the tree nodes split up the feature space and how well the tree model performs. This visualization can also be examined in depth to uncover the correlation structure in the data and importance of each feature in predicting the outcome. Implemented in an easily installed package with a detailed vignette,\n                    <jats:italic>treeheatr</jats:italic>\n                    can be a useful teaching tool to enhance students’ understanding of a simple decision tree model before diving into more complex tree-based machine learning methods.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Availability</jats:title>\n                  <jats:p>\n                    The\n                    <jats:italic>treeheatr</jats:italic>\n                    package is freely available under the permissive MIT license at\n                    <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://trang1618.github.io/treeheatr\">https://trang1618.github.io/treeheatr</jats:ext-link>\n                    and\n                    <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://cran.r-project.org/package=treeheatr\">https://cran.r-project.org/package=treeheatr</jats:ext-link>\n                    . It comes with a detailed vignette that is automatically built with GitHub Actions continuous integration.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Contact</jats:title>\n                  <jats:p>\n                    <jats:email>ttle@pennmedicine.upenn.edu</jats:email>\n                  </jats:p>\n                </jats:sec>",
         "DOI": "10.1101/2020.07.10.196352",
         "type": "manuscript",
         "source": "Crossref",
@@ -6518,6 +6518,7 @@
           ]
         },
         "URL": "https://doi.org/gg6d2n",
+        "PMCID": "PMC8055220",
         "PMID": "32702108",
         "id": "sVC5POBj",
         "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/bioinformatics/btaa662"
@@ -6578,7 +6579,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -6770,7 +6771,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -6900,7 +6901,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -6921,12 +6922,12 @@
       "url": "https://doi.org/gg353v",
       "title": "Streamlining Data-Intensive Biology With Workflow Systems",
       "authors": "Reiter, Brooks, Irber, Joslin, Reid, Scott, Brown, Pierce",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2020-07-01",
       "date_human": "Jul 2020",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>As the scale of biological data generation has increased, the bottleneck of research has shifted from data generation to analysis. Researchers commonly need to build computational workflows that include multiple analytic tools and require incremental development as experimental insights demand tool and parameter modifications. These workflows can produce hundreds to thousands of intermediate files and results that must be integrated for biological insight. Data-centric workflow systems that internally manage computational resources, software, and conditional execution of analysis steps are reshaping the landscape of biological data analysis, and empowering researchers to conduct reproducible analyses at scale. Adoption of these tools can facilitate and expedite robust data analysis, but knowledge of these techniques is still lacking. Here, we provide a series of practices and strategies for leveraging workflow systems with structured project, data, and resource management to streamline large-scale biological analysis. We present these strategies in the context of high-throughput sequencing data analysis, but the principles are broadly applicable to biologists working beyond this field.</jats:p><jats:sec><jats:title>Author Summary</jats:title><jats:p>We present a guide for workflow-enabled biological sequence data analysis, developed through our own teaching, training and analysis projects. We recognize that this is based on our own use cases and experiences, but we hope that our guide will contribute to a larger discussion within the open source and open science communities and lead to more comprehensive resources. Our main goal is to accelerate the research of scientists conducting sequence analyses by introducing them to organized workflow practices that not only benefit their own research but also facilitate open and reproducible science.</jats:p></jats:sec>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>As the scale of biological data generation has increased, the bottleneck of research has shifted from data generation to analysis. Researchers commonly need to build computational workflows that include multiple analytic tools and require incremental development as experimental insights demand tool and parameter modifications. These workflows can produce hundreds to thousands of intermediate files and results that must be integrated for biological insight. Data-centric workflow systems that internally manage computational resources, software, and conditional execution of analysis steps are reshaping the landscape of biological data analysis, and empowering researchers to conduct reproducible analyses at scale. Adoption of these tools can facilitate and expedite robust data analysis, but knowledge of these techniques is still lacking. Here, we provide a series of practices and strategies for leveraging workflow systems with structured project, data, and resource management to streamline large-scale biological analysis. We present these strategies in the context of high-throughput sequencing data analysis, but the principles are broadly applicable to biologists working beyond this field.</jats:p>\n                <jats:sec>\n                  <jats:title>Author Summary</jats:title>\n                  <jats:p>We present a guide for workflow-enabled biological sequence data analysis, developed through our own teaching, training and analysis projects. We recognize that this is based on our own use cases and experiences, but we hope that our guide will contribute to a larger discussion within the open source and open science communities and lead to more comprehensive resources. Our main goal is to accelerate the research of scientists conducting sequence analyses by introducing them to organized workflow practices that not only benefit their own research but also facilitate open and reproducible science.</jats:p>\n                </jats:sec>",
         "DOI": "10.1101/2020.06.30.178673",
         "type": "manuscript",
         "source": "Crossref",
@@ -7070,7 +7071,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -7252,7 +7253,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -7273,12 +7274,12 @@
       "url": "https://doi.org/gg7k5t",
       "title": "Reproducible, portable, and efficient ancient genome reconstruction with nf-core/eager",
       "authors": "Yates, Lamnidis, Borry, Valtueña, Fagernäs, Clayton, Garcia, Neukamm, Peltzer",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2020-06-12",
       "date_human": "Jun 2020",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>The broadening utilisation of ancient DNA to address archaeological, palaeontological, and biological questions is resulting in a rising diversity in the size of laboratories and scale of analyses being performed. In the context of this heterogeneous landscape, we present nf-core/eager, an advanced and entirely redesigned and extended version of the EAGER pipeline for the analysis of ancient genomic data. This Nextflow pipeline aims to address three main themes: accessibility and adaptability to different computing configurations, reproducibility to ensure robust analytical standards, and updating the pipeline to the latest routine ancient genomic practises. This new version of EAGER has been developed within the nf-core initiative to ensure high-quality software development and maintenance support; contributing to a long-term lifecycle for the pipeline. nf-core/eager will assist in ensuring that ancient DNA sequencing data can be used by a diverse range of research groups and fields.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The broadening utilisation of ancient DNA to address archaeological, palaeontological, and biological questions is resulting in a rising diversity in the size of laboratories and scale of analyses being performed. In the context of this heterogeneous landscape, we present nf-core/eager, an advanced and entirely redesigned and extended version of the EAGER pipeline for the analysis of ancient genomic data. This Nextflow pipeline aims to address three main themes: accessibility and adaptability to different computing configurations, reproducibility to ensure robust analytical standards, and updating the pipeline to the latest routine ancient genomic practises. This new version of EAGER has been developed within the nf-core initiative to ensure high-quality software development and maintenance support; contributing to a long-term lifecycle for the pipeline. nf-core/eager will assist in ensuring that ancient DNA sequencing data can be used by a diverse range of research groups and fields.</jats:p>",
         "DOI": "10.1101/2020.06.11.145615",
         "type": "manuscript",
         "source": "Crossref",
@@ -7439,7 +7440,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -7573,7 +7574,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -7654,7 +7655,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -7706,7 +7707,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -7811,7 +7812,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -7832,12 +7833,12 @@
       "url": "https://doi.org/ghss35",
       "title": "Pulmonary acini exhibit complex changes during postnatal rat lung development",
       "authors": "Haberthür, Yao, Barré, Cremona, Tschanz, Schittny",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2019-10-01",
       "date_human": "Oct 2019",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Pulmonary acini represent the functional gas-exchanging units of the lung. Due to technical limitations, individual acini cannot be identified on microscopic lung sections. To overcome these limitations, we imaged the right lower lobes of instillation-fixed rat lungs from postnatal days P4, P10, P21, and P60 at the TOMCAT beamline of the Swiss Light Source synchrotron facility at a voxel size of 1.48 μm. Individual acini were segmented from the three-dimensional data by closing the airways at the transition from conducting to gas exchanging airways. For a subset of acini (N=268), we followed the acinar development by stereologically assessing their volume and their number of alveoli. We found that the mean volume of the acini increases 23 times during the observed time-frame. The coeffcients of variation dropped from 1.26 to 0.49 and the difference between the mean volumes of the fraction of the 20 % smallest to the 20 % largest acini decreased from a factor of 27.26 (day 4) to a factor of 4.07 (day 60), i.e. shows a smaller dispersion at later time points. The acinar volumes show a very large variation early in lung development and homogenize during maturation of the lung by reducing their size distribution by a factor of 7 until adulthood. The homogenization of the acinar sizes hints at an optimization of the gas-exchange region in the lungs of adult animals and that acini of different size are not evenly distributed in the lungs. This likely leads to more homogeneous ventilation at later stages in lung development.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Pulmonary acini represent the functional gas-exchanging units of the lung. Due to technical limitations, individual acini cannot be identified on microscopic lung sections. To overcome these limitations, we imaged the right lower lobes of instillation-fixed rat lungs from postnatal days P4, P10, P21, and P60 at the TOMCAT beamline of the Swiss Light Source synchrotron facility at a voxel size of 1.48 μm. Individual acini were segmented from the three-dimensional data by closing the airways at the transition from conducting to gas exchanging airways. For a subset of acini (N=268), we followed the acinar development by stereologically assessing their volume and their number of alveoli. We found that the mean volume of the acini increases 23 times during the observed time-frame. The coeffcients of variation dropped from 1.26 to 0.49 and the difference between the mean volumes of the fraction of the 20 % smallest to the 20 % largest acini decreased from a factor of 27.26 (day 4) to a factor of 4.07 (day 60), i.e. shows a smaller dispersion at later time points. The acinar volumes show a very large variation early in lung development and homogenize during maturation of the lung by reducing their size distribution by a factor of 7 until adulthood. The homogenization of the acinar sizes hints at an optimization of the gas-exchange region in the lungs of adult animals and that acini of different size are not evenly distributed in the lungs. This likely leads to more homogeneous ventilation at later stages in lung development.</jats:p>",
         "DOI": "10.1101/786681",
         "type": "manuscript",
         "source": "Crossref",
@@ -7991,7 +7992,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -8012,12 +8013,12 @@
       "url": "https://doi.org/ghg878",
       "title": "Automated segmentation and description of the internal morphology of human permanent teeth by means of micro-CT",
       "authors": "Haberthür, Hlushchuk, Wolf",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2020-10-27",
       "date_human": "Oct 2020",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Micro-CT is a powerful tool to analyze and visualize the internal morphology of human permanent teeth. It is increasingly used for investigation of epidemiological questions to provide the dentist with the necessary information required for successful endodontic treatment. The aim of the present paper was to propose an image processing method to automate parts of the work needed to fully describe the internal morphology of human permanent teeth.</jats:p><jats:p>One hundred and four human teeth were scanned on a high-resolution micro-CT using an automatic specimen changer. Python code in a Jupyter notebook was used to verify and process the scans, prepare the datasets for description of the internal morphology and to measure the apical region of he tooth.</jats:p><jats:p>The presented method offers an easy, non-destructive, rapid and efficient approach to scan, check and preview micro-computer tomographic datasets of a large number of teeth. It is a helpful tool for the detailed description and characterization of the internal morphology of human permanent teeth using automated segmentation by means of micro-CT with full reproducibility and high standardization.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Micro-CT is a powerful tool to analyze and visualize the internal morphology of human permanent teeth. It is increasingly used for investigation of epidemiological questions to provide the dentist with the necessary information required for successful endodontic treatment. The aim of the present paper was to propose an image processing method to automate parts of the work needed to fully describe the internal morphology of human permanent teeth.</jats:p>\n                <jats:p>One hundred and four human teeth were scanned on a high-resolution micro-CT using an automatic specimen changer. Python code in a Jupyter notebook was used to verify and process the scans, prepare the datasets for description of the internal morphology and to measure the apical region of he tooth.</jats:p>\n                <jats:p>The presented method offers an easy, non-destructive, rapid and efficient approach to scan, check and preview micro-computer tomographic datasets of a large number of teeth. It is a helpful tool for the detailed description and characterization of the internal morphology of human permanent teeth using automated segmentation by means of micro-CT with full reproducibility and high standardization.</jats:p>",
         "DOI": "10.1101/2020.10.27.356998",
         "type": "manuscript",
         "source": "Crossref",
@@ -8110,8 +8111,8 @@
       "title": "Microtomographic investigation of a large corpus of cichlids",
       "authors": "Haberthür, Law, Ford, Häsler, Seehausen, Hlushchuk",
       "journal": "Manubot",
-      "date_iso": "2023-10-17",
-      "date_human": "Oct 2023",
+      "date_iso": "2026-01-15",
+      "date_human": "Jan 2026",
       "csl_item": {
         "id": "013JhMk46",
         "type": "report",
@@ -8151,16 +8152,16 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
         "issued": {
           "date-parts": [
             [
-              "2023",
-              10,
-              17
+              "2026",
+              1,
+              15
             ]
           ]
         },
@@ -8172,12 +8173,12 @@
       "url": "https://doi.org/krfn",
       "title": "Microtomographic investigation of a large corpus of cichlids",
       "authors": "Haberthür, Law, Ford, Häsler, Seehausen, Hlushchuk",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2023-04-01",
       "date_human": "Apr 2023",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>A large collection of cichlids (N=133) from Lake Victoria in Africa spanning a length range of 6 to 18 cm was nondestructively imaged using micro-computed tomography. We describe our method to efficiently obtain three-dimensional tomographic datasets of the oral and pharyngeal jaws and the whole skull of these fishes for accurately describing their morphology. The tomographic data we acquired (9.8 TB of projection images) yielded 1.5 TB of three-dimensional image stacks used for extracting the relevant features of interest. Herein we present our method and an outlook on analyzing the acquired data; a morphological description of the oral and pharyngeal jaws of the fishes, a three-dimensional geometric morphometrics analysis of landmark features on the fish skulls, and a robust method to automatically extract the otoliths of the fishes from the tomographic data.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>A large collection of cichlids (N=133) from Lake Victoria in Africa spanning a length range of 6 to 18 cm was nondestructively imaged using micro-computed tomography. We describe our method to efficiently obtain three-dimensional tomographic datasets of the oral and pharyngeal jaws and the whole skull of these fishes for accurately describing their morphology. The tomographic data we acquired (9.8 TB of projection images) yielded 1.5 TB of three-dimensional image stacks used for extracting the relevant features of interest. Herein we present our method and an outlook on analyzing the acquired data; a morphological description of the oral and pharyngeal jaws of the fishes, a three-dimensional geometric morphometrics analysis of landmark features on the fish skulls, and a robust method to automatically extract the otoliths of the fishes from the tomographic data.</jats:p>",
         "DOI": "10.1101/2023.03.30.534917",
         "type": "manuscript",
         "source": "Crossref",
@@ -8342,7 +8343,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -8363,12 +8364,12 @@
       "url": "https://doi.org/gh7rph",
       "title": "Linguistic Analysis of the bioRxiv Preprint Landscape",
       "authors": "Nicholson, Rubinetti, Hu, Thielk, Hunter, Greene",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2021-03-04",
       "date_human": "Mar 2021",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Preprints allow researchers to make their findings available to the scientific community before they have undergone peer review. Studies on preprints within bioRxiv have been largely focused on article metadata and how often these preprints are downloaded, cited, published, and discussed online. A missing element that has yet to be examined is the language contained within the bioRxiv preprint repository. We sought to compare and contrast linguistic features within bioRxiv preprints to published biomedical text as a whole as this is an excellent opportunity to examine how peer review changes these documents. The most prevalent features that changed appear to be associated with typesetting and mentions of supplementary sections or additional files. In addition to text comparison, we created document embeddings derived from a preprint-trained word2vec model. We found that these embeddings are able to parse out different scientific approaches and concepts, link unannotated preprint-peer reviewed article pairs, and identify journals that publish linguistically similar papers to a given preprint. We also used these embeddings to examine factors associated with the time elapsed between the posting of a first preprint and the appearance of a peer reviewed publication. We found that preprints with more versions posted and more textual changes took longer to publish. Lastly, we constructed a web application (<jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://greenelab.github.io/preprint-similarity-search/\">https://greenelab.github.io/preprint-similarity-search/</jats:ext-link>) that allows users to identify which journals and articles that are most linguistically similar to a bioRxiv or medRxiv preprint as well as observe where the preprint would be positioned within a published article landscape.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Preprints allow researchers to make their findings available to the scientific community before they have undergone peer review. Studies on preprints within bioRxiv have been largely focused on article metadata and how often these preprints are downloaded, cited, published, and discussed online. A missing element that has yet to be examined is the language contained within the bioRxiv preprint repository. We sought to compare and contrast linguistic features within bioRxiv preprints to published biomedical text as a whole as this is an excellent opportunity to examine how peer review changes these documents. The most prevalent features that changed appear to be associated with typesetting and mentions of supplementary sections or additional files. In addition to text comparison, we created document embeddings derived from a preprint-trained word2vec model. We found that these embeddings are able to parse out different scientific approaches and concepts, link unannotated preprint-peer reviewed article pairs, and identify journals that publish linguistically similar papers to a given preprint. We also used these embeddings to examine factors associated with the time elapsed between the posting of a first preprint and the appearance of a peer reviewed publication. We found that preprints with more versions posted and more textual changes took longer to publish. Lastly, we constructed a web application (\n                  <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://greenelab.github.io/preprint-similarity-search/\">https://greenelab.github.io/preprint-similarity-search/</jats:ext-link>\n                  ) that allows users to identify which journals and articles that are most linguistically similar to a bioRxiv or medRxiv preprint as well as observe where the preprint would be positioned within a published article landscape.\n                </jats:p>",
         "DOI": "10.1101/2021.03.04.433874",
         "type": "manuscript",
         "source": "Crossref",
@@ -8501,7 +8502,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -8522,11 +8523,11 @@
       "url": "https://doi.org/gh6dqk",
       "title": "The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata",
       "authors": "Rutz, Sorokina, Galgonek, Mietchen, Willighagen, Gaudry, Graham, Stephan, Page, Vondrášek, Steinbeck, et al",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2021-03-01",
       "date_human": "Mar 2021",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
+        "publisher": "openRxiv",
         "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Contemporary bioinformatic and chemoinformatic capabilities hold promise to reshape knowledge management, analysis and interpretation of data in natural products research. Currently, reliance on a disparate set of non-standardized, insular, and specialized databases presents a series of challenges for data access, both within the discipline and for integration and interoperability between related fields. The fundamental elements of exchange are referenced structure-organism pairs that establish relationships between distinct molecular structures and the living organisms from which they were identified. Consolidating and sharing such information\n                  <jats:italic>via</jats:italic>\n                  an open platform has strong transformative potential for natural products research and beyond. This is the ultimate goal of the newly established LOTUS initiative, which has now completed the first steps toward the harmonization, curation, validation and open dissemination of 750,000+ referenced structure-organism pairs. LOTUS data is hosted on Wikidata and regularly mirrored on\n                  <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://lotus.naturalproducts.net\">https://lotus.naturalproducts.net</jats:ext-link>\n                  . Data sharing within the Wikidata framework broadens data access and interoperability, opening new possibilities for community curation and evolving publication models. Furthermore, embedding LOTUS data into the vast Wikidata knowledge graph will facilitate new biological and chemical insights. The LOTUS initiative represents an important advancement in the design and deployment of a comprehensive and collaborative natural products knowledge base.\n                  <jats:fig id=\"ufig1\" position=\"float\" orientation=\"portrait\" fig-type=\"figure\">\n                    <jats:graphic xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"433265v3_ufig1\" position=\"float\" orientation=\"portrait\"/>\n                  </jats:fig>\n                </jats:p>",
         "DOI": "10.1101/2021.02.28.433265",
         "type": "manuscript",
@@ -8736,7 +8737,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -8857,7 +8858,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -8909,7 +8910,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -8930,11 +8931,11 @@
       "url": "https://doi.org/gkscd5",
       "title": "Analysis of science journalism reveals gender and regional disparities in coverage",
       "authors": "Davidson, Greene",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2021-06-22",
       "date_human": "Jun 2021",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
+        "publisher": "openRxiv",
         "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Science journalism is a critical way for the public to learn about and benefit from scientific findings. Such journalism shapes the public’s view of the current state of science and legitimizes experts. Journalists can only cite and quote a limited number of sources, who they may discover in their research, including recommendations by other scientists. Biases in either process may influence who is identified and ultimately included as a source. To examine potential biases in science journalism, we analyzed 22,001 non-research articles published by Nature and compared these with Nature-published research articles with respect to predicted gender and name origin. We extracted cited authors’ names and those of quoted speakers. While citations and quotations within a piece do not reflect the entire information-gathering process, they can provide insight into the demographics of visible sources. We then predicted gender and name origin of the cited authors and speakers. We compared articles with a comparator set made up of first and last authors within primary research articles in Nature and a subset of Springer Nature articles in the same time period. In our analysis, we found a skew toward quoting men in Nature science journalism. However, quotation is trending toward equal representation at a faster rate than authorship rates in academic publishing. Gender disparity in Nature quotes was dependent on the article type. We found a significant over-representation of names with predicted Celtic/English origin and under-representation of names with a predicted East Asian origin in both in extracted quotes and journal citations but dampened in citations.</jats:p>",
         "DOI": "10.1101/2021.06.21.449261",
         "type": "manuscript",
@@ -9638,7 +9639,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -10428,7 +10429,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -10449,12 +10450,12 @@
       "url": "https://doi.org/gk9g25",
       "title": "Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms",
       "authors": "Pividori, Lu, Li, Su, Johnson, Wei, Feng, Namjou, Kiryluk, Kullo, Luo, Sullivan, Voight, Skarke, et al",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2021-07-06",
       "date_human": "Jul 2021",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Genes act in concert with each other in specific contexts to perform their functions. Determining how these genes influence complex traits requires a mechanistic understanding of expression regulation across different conditions. It has been shown that this insight is critical for developing new therapies. In this regard, the role of individual genes in disease-relevant mechanisms can be hypothesized with transcriptome-wide association studies (TWAS), which have represented a significant step forward in testing the mediating role of gene expression in GWAS associations. However, modern models of the architecture of complex traits predict that gene-gene interactions play a crucial role in disease origin and progression. Here we introduce PhenoPLIER, a computational approach that maps gene-trait associations and pharmacological perturbation data into a common latent representation for a joint analysis. This representation is based on modules of genes with similar expression patterns across the same conditions. We observed that diseases were significantly associated with gene modules expressed in relevant cell types, and our approach was accurate in predicting known drug-disease pairs and inferring mechanisms of action. Furthermore, using a CRISPR screen to analyze lipid regulation, we found that functionally important players lacked TWAS associations but were prioritized in trait-associated modules by PhenoPLIER. By incorporating groups of co-expressed genes, PhenoPLIER can contextualize genetic associations and reveal potential targets missed by single-gene strategies.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Genes act in concert with each other in specific contexts to perform their functions. Determining how these genes influence complex traits requires a mechanistic understanding of expression regulation across different conditions. It has been shown that this insight is critical for developing new therapies. In this regard, the role of individual genes in disease-relevant mechanisms can be hypothesized with transcriptome-wide association studies (TWAS), which have represented a significant step forward in testing the mediating role of gene expression in GWAS associations. However, modern models of the architecture of complex traits predict that gene-gene interactions play a crucial role in disease origin and progression. Here we introduce PhenoPLIER, a computational approach that maps gene-trait associations and pharmacological perturbation data into a common latent representation for a joint analysis. This representation is based on modules of genes with similar expression patterns across the same conditions. We observed that diseases were significantly associated with gene modules expressed in relevant cell types, and our approach was accurate in predicting known drug-disease pairs and inferring mechanisms of action. Furthermore, using a CRISPR screen to analyze lipid regulation, we found that functionally important players lacked TWAS associations but were prioritized in trait-associated modules by PhenoPLIER. By incorporating groups of co-expressed genes, PhenoPLIER can contextualize genetic associations and reveal potential targets missed by single-gene strategies.</jats:p>",
         "DOI": "10.1101/2021.07.05.450786",
         "type": "manuscript",
         "source": "Crossref",
@@ -10587,7 +10588,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -10608,12 +10609,12 @@
       "url": "https://doi.org/gnbdm9",
       "title": "Widespread redundancy in -omics profiles of cancer mutation states",
       "authors": "Crawford, Christensen, Chikina, Greene",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2021-10-28",
       "date_human": "Oct 2021",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>In studies of cellular function in cancer, researchers are increasingly able to choose from many -omics assays as functional readouts. Choosing the correct readout for a given study can be difficult, and which layer of cellular function is most suitable to capture the relevant signal may be unclear. In this study, we consider prediction of cancer mutation status (presence or absence) from functional -omics data as a representative problem. Since functional signatures of cancer mutation have been identified across many data types, this problem presents an opportunity to quantify and compare the ability of different -omics readouts to capture signals of dysregulation in cancer. The TCGA Pan-Cancer Atlas contains genetic alteration data including somatic mutations and copy number variants (CNVs), as well as several -omics data types. From TCGA, we focus on RNA sequencing, DNA methylation arrays, reverse phase protein arrays (RPPA), microRNA, and somatic mutational signatures as -omics readouts.</jats:p><jats:p>Across a collection of genes recurrently mutated in cancer, RNA sequencing tends to be the most effective predictor of mutation state. Surprisingly, we found that for many of the genes we considered, one or more other data types are approximately equally effective predictors. Performance was more variable between mutations than it was between data types for the same mutation, and there was often little difference between the top data types. We also found that combining data types into a single multi-omics model provided little or no improvement in predictive ability over the best individual data type. Based on our results, for the design of studies focused on the functional outcomes of cancer mutations, there are often multiple -omics types that can serve as effective readouts, although gene expression seems to be a reasonable default option.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>In studies of cellular function in cancer, researchers are increasingly able to choose from many -omics assays as functional readouts. Choosing the correct readout for a given study can be difficult, and which layer of cellular function is most suitable to capture the relevant signal may be unclear. In this study, we consider prediction of cancer mutation status (presence or absence) from functional -omics data as a representative problem. Since functional signatures of cancer mutation have been identified across many data types, this problem presents an opportunity to quantify and compare the ability of different -omics readouts to capture signals of dysregulation in cancer. The TCGA Pan-Cancer Atlas contains genetic alteration data including somatic mutations and copy number variants (CNVs), as well as several -omics data types. From TCGA, we focus on RNA sequencing, DNA methylation arrays, reverse phase protein arrays (RPPA), microRNA, and somatic mutational signatures as -omics readouts.</jats:p>\n                <jats:p>Across a collection of genes recurrently mutated in cancer, RNA sequencing tends to be the most effective predictor of mutation state. Surprisingly, we found that for many of the genes we considered, one or more other data types are approximately equally effective predictors. Performance was more variable between mutations than it was between data types for the same mutation, and there was often little difference between the top data types. We also found that combining data types into a single multi-omics model provided little or no improvement in predictive ability over the best individual data type. Based on our results, for the design of studies focused on the functional outcomes of cancer mutations, there are often multiple -omics types that can serve as effective readouts, although gene expression seems to be a reasonable default option.</jats:p>",
         "DOI": "10.1101/2021.10.27.466140",
         "type": "manuscript",
         "source": "Crossref",
@@ -10768,7 +10769,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -10789,12 +10790,12 @@
       "url": "https://doi.org/gpm26v",
       "title": "Morphofunctional changes at the active zone during synaptic vesicle exocytosis",
       "authors": "Radecke, Seeger, Kádková, Laugks, Khosrozadeh, Goldie, Lučić, Sørensen, Zuber",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2022-03-07",
       "date_human": "Mar 2022",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>The fusion of synaptic vesicles (SVs) with the plasma membrane (PM) proceeds through intermediate steps that remain poorly resolved. Additionally, the effect of persistent high or low exocytosis activity on intermediate steps remains unknown. Through time-resolved cryo-electron tomography, we ordered events into a sequence. Following stimulation, proximal tethered SVs rapidly form additional tethers with the PM. Simultaneously, fusion initiation occurs by membrane curvature (‘buckling’) of the SV and PM. It is followed by the formation of a fusion pore, and the collapse of SV membrane. At this time, membrane-proximal, but not membrane-distal, vesicles lose their interconnections, allowing them to move towards the PM. Two mutations of SNAP-25 that arrests or disinhibit spontaneous release, respectively, both caused a loss of interconnectors, while the disinhibiting mutant also caused a loss of membrane proximal multiple-tethered SVs. Overall, tether formation and connector dissolution is triggered by stimulation and respond to the spontaneous fusion rate. These morphological observations likely correspond to the transition of SVs from one functional pool to another.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The fusion of synaptic vesicles (SVs) with the plasma membrane (PM) proceeds through intermediate steps that remain poorly resolved. Additionally, the effect of persistent high or low exocytosis activity on intermediate steps remains unknown. Through time-resolved cryo-electron tomography, we ordered events into a sequence. Following stimulation, proximal tethered SVs rapidly form additional tethers with the PM. Simultaneously, fusion initiation occurs by membrane curvature (‘buckling’) of the SV and PM. It is followed by the formation of a fusion pore, and the collapse of SV membrane. At this time, membrane-proximal, but not membrane-distal, vesicles lose their interconnections, allowing them to move towards the PM. Two mutations of SNAP-25 that arrests or disinhibit spontaneous release, respectively, both caused a loss of interconnectors, while the disinhibiting mutant also caused a loss of membrane proximal multiple-tethered SVs. Overall, tether formation and connector dissolution is triggered by stimulation and respond to the spontaneous fusion rate. These morphological observations likely correspond to the transition of SVs from one functional pool to another.</jats:p>",
         "DOI": "10.1101/2022.03.07.483217",
         "type": "manuscript",
         "source": "Crossref",
@@ -10943,7 +10944,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -11254,7 +11255,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -11406,7 +11407,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -11427,12 +11428,12 @@
       "url": "https://doi.org/gqp3hb",
       "title": "Accurate prediction of transition metal ion location via deep learning",
       "authors": "Dürr, Levy, Rothlisberger",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2022-08-22",
       "date_human": "Aug 2022",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Metal ions are essential cofactors for many proteins. In fact, currently, about half of the structurally characterized proteins contain a metal ion. Metal ions play a crucial role for many applications such as enzyme design or design of protein-protein interactions because they are biologically abundant, tether to the protein using strong interactions, and have favorable catalytic properties e.g. as Lewis acid. Computational design of metalloproteins is however hampered by the complex electronic structure of many biologically relevant metals such as zinc that can often not be accurately described using a classical force field. In this work, we develop two tools - Metal3D (based on 3D convolutional neural networks) and Metal1D (solely based on geometric criteria) to improve the identification and localization of zinc and other metal ions in experimental and computationally predicted protein structures. Comparison with other currently available tools shows that Metal3D is the most accurate metal ion location predictor to date outperforming geometric predictors including Metal1D by a wide margin using a single structure as input. Metal3D outputs a confidence metric for each predicted site and works on proteins with few homologes in the protein data bank. The predicted metal ion locations for Metal3D are within 0.70 ± 0.64 Å of the experimental locations with half of the sites below 0.5 Å. Metal3D predicts a global metal density that can be used for annotation of structures predicted using e.g. AlphaFold2 and a per residue metal density that can be used in protein design workflows for the location of suitable metal binding sites and rotamer sampling to create novel metalloproteins. Metal3D is available as easy to use webapp, notebook or commandline interface.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Metal ions are essential cofactors for many proteins. In fact, currently, about half of the structurally characterized proteins contain a metal ion. Metal ions play a crucial role for many applications such as enzyme design or design of protein-protein interactions because they are biologically abundant, tether to the protein using strong interactions, and have favorable catalytic properties e.g. as Lewis acid. Computational design of metalloproteins is however hampered by the complex electronic structure of many biologically relevant metals such as zinc that can often not be accurately described using a classical force field. In this work, we develop two tools - Metal3D (based on 3D convolutional neural networks) and Metal1D (solely based on geometric criteria) to improve the identification and localization of zinc and other metal ions in experimental and computationally predicted protein structures. Comparison with other currently available tools shows that Metal3D is the most accurate metal ion location predictor to date outperforming geometric predictors including Metal1D by a wide margin using a single structure as input. Metal3D outputs a confidence metric for each predicted site and works on proteins with few homologes in the protein data bank. The predicted metal ion locations for Metal3D are within 0.70 ± 0.64 Å of the experimental locations with half of the sites below 0.5 Å. Metal3D predicts a global metal density that can be used for annotation of structures predicted using e.g. AlphaFold2 and a per residue metal density that can be used in protein design workflows for the location of suitable metal binding sites and rotamer sampling to create novel metalloproteins. Metal3D is available as easy to use webapp, notebook or commandline interface.</jats:p>",
         "DOI": "10.1101/2022.08.22.504853",
         "type": "manuscript",
         "source": "Crossref",
@@ -11504,7 +11505,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -11525,12 +11526,12 @@
       "url": "https://doi.org/gq7z8q",
       "title": "Sourmash Branchwater Enables Lightweight Petabyte-Scale Sequence Search",
       "authors": "Irber, Pierce-Ward, Brown",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2022-11-03",
       "date_human": "Nov 2022",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>We introduce branchwater, a flexible and fast petabase-scale search for the 767,000 public metagenomes presently in the NCBI Sequence Read Archive. Our search is based on the FracMinHash k-mer sketching technique and can search all public metagenomes with 1000 query genomes in approximately 36 hours using 50 GB of RAM and 32 threads. Branchwater is a Rust-based multithreading front-end built on top of the sourmash library. We provide biological use cases, examine performance, and discuss design and performance considerations.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>We introduce branchwater, a flexible and fast petabase-scale search for the 767,000 public metagenomes presently in the NCBI Sequence Read Archive. Our search is based on the FracMinHash k-mer sketching technique and can search all public metagenomes with 1000 query genomes in approximately 36 hours using 50 GB of RAM and 32 threads. Branchwater is a Rust-based multithreading front-end built on top of the sourmash library. We provide biological use cases, examine performance, and discuss design and performance considerations.</jats:p>",
         "DOI": "10.1101/2022.11.02.514947",
         "type": "manuscript",
         "source": "Crossref",
@@ -11610,7 +11611,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -11631,12 +11632,12 @@
       "url": "https://doi.org/gqfjbh",
       "title": "Protein k-mers enable assembly-free microbial metapangenomics",
       "authors": "Reiter, Pierce-Ward, Irber, Botvinnik, Brown",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2022-06-27",
       "date_human": "Jun 2022",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>An estimated 2 billion species of microbes exist on Earth with orders of magnitude more strains. Microbial pangenomes are created by aggregating all genomes of a single clade and reflect the metabolic diversity of groups of organisms. As <jats:italic>de novo</jats:italic> metagenome analysis techniques have matured and reference genome databases have expanded, metapangenome analysis has risen in popularity as a tool to organize the functional potential of organisms in relation to the environment from which those organisms were sampled. However, the reliance on assembly and binning or on reference databases often leaves substantial portions of metagenomes unanalyzed, thereby underestimating the functional potential of a community. To address this challenge, we present a method for metapangenomics that relies on amino acid k-mers (k<jats:sub>aa</jats:sub>-mers) and metagenome assembly graph queries. To enable this method, we first show that k<jats:sub>aa</jats:sub>-mers estimate pangenome characteristics and that open reading frames can be accurately predicted from short shotgun sequencing reads using the previously developed tool orpheum. These techniques enable pangenomics to be performed directly on short sequencing reads. To enable metapangenome analysis, we combine these approaches with compact de Bruijn assembly graph queries to directly generate sets of sequencing reads for a specific species from a metagenome. When applied to stool metagenomes from an individual receiving antibiotics over time, we show that these approaches identify strain fluctuations that coincide with antibiotic exposure.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  An estimated 2 billion species of microbes exist on Earth with orders of magnitude more strains. Microbial pangenomes are created by aggregating all genomes of a single clade and reflect the metabolic diversity of groups of organisms. As\n                  <jats:italic>de novo</jats:italic>\n                  metagenome analysis techniques have matured and reference genome databases have expanded, metapangenome analysis has risen in popularity as a tool to organize the functional potential of organisms in relation to the environment from which those organisms were sampled. However, the reliance on assembly and binning or on reference databases often leaves substantial portions of metagenomes unanalyzed, thereby underestimating the functional potential of a community. To address this challenge, we present a method for metapangenomics that relies on amino acid k-mers (k\n                  <jats:sub>aa</jats:sub>\n                  -mers) and metagenome assembly graph queries. To enable this method, we first show that k\n                  <jats:sub>aa</jats:sub>\n                  -mers estimate pangenome characteristics and that open reading frames can be accurately predicted from short shotgun sequencing reads using the previously developed tool orpheum. These techniques enable pangenomics to be performed directly on short sequencing reads. To enable metapangenome analysis, we combine these approaches with compact de Bruijn assembly graph queries to directly generate sets of sequencing reads for a specific species from a metagenome. When applied to stool metagenomes from an individual receiving antibiotics over time, we show that these approaches identify strain fluctuations that coincide with antibiotic exposure.\n                </jats:p>",
         "DOI": "10.1101/2022.06.27.497795",
         "type": "manuscript",
         "source": "Crossref",
@@ -11720,7 +11721,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -11741,11 +11742,11 @@
       "url": "https://doi.org/gq7z8r",
       "title": "Defocus Corrected Large Area Cryo-EM (DeCo-LACE) for Label-Free Detection of Molecules across Entire Cell Sections",
       "authors": "Elferich, Schiroli, Scadden, Grigorieff",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2022-06-14",
       "date_human": "Jun 2022",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
+        "publisher": "openRxiv",
         "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>A major goal of biological imaging is localization of biomolecules inside a cell. Fluorescence microscopy can lo-calize biomolecules inside whole cells and tissues, but its ability to count biomolecules and accuracy of the spatial coordinates is limited by the wavelength of visible light. Cryo-electron microscopy (cryo-EM) provides highly accurate position and orientation information of biomolecules but is often confined to small fields of view inside a cell, limiting biological context. In this study we use a new data-acquisition scheme called “Defocus-Corrected Large-Area cryo-EM” (DeCo-LACE) to collect high-resolution images of entire sections (100 – 200 nm thick lamel-lae) of neutrophil-like mouse cells, representing 1-2% of the total cellular volume. We use 2D template matching (2DTM) to determine localization and orientation of the large ribosomal subunit in these sections. These data provide “maps” of ribosomes across entire sections of mammalian cells. This high-throughput cryo-EM data collection approach together with 2DTM will advance visual proteomics and provide biological insight that cannot be obtained by other methods.</jats:p>",
         "DOI": "10.1101/2022.06.13.495969",
         "type": "manuscript",
@@ -11869,7 +11870,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -11890,12 +11891,12 @@
       "url": "https://doi.org/grpf8m",
       "title": "A publishing infrastructure for AI-assisted academic authoring",
       "authors": "Pividori, Greene",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2023-01-23",
       "date_human": "Jan 2023",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>In this work we investigate how models with advanced natural language processing capabilities can be used to reduce the time-consuming process of writing and revising scholarly manuscripts. To this end, we integrate large language models into the Manubot publishing ecosystem to suggest revisions for scholarly text. We tested our AI-based revision workflow in three case studies of existing manuscripts, including the present one. Our results suggest that these models can capture the concepts in the scholarly text and produce high-quality revisions that improve clarity. Given the amount of time that researchers put into crafting prose, we anticipate that this advance will revolutionize the type of knowledge work performed by academics.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>In this work we investigate how models with advanced natural language processing capabilities can be used to reduce the time-consuming process of writing and revising scholarly manuscripts. To this end, we integrate large language models into the Manubot publishing ecosystem to suggest revisions for scholarly text. We tested our AI-based revision workflow in three case studies of existing manuscripts, including the present one. Our results suggest that these models can capture the concepts in the scholarly text and produce high-quality revisions that improve clarity. Given the amount of time that researchers put into crafting prose, we anticipate that this advance will revolutionize the type of knowledge work performed by academics.</jats:p>",
         "DOI": "10.1101/2023.01.21.525030",
         "type": "manuscript",
         "source": "Crossref",
@@ -12012,7 +12013,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -12033,12 +12034,12 @@
       "url": "https://doi.org/gsdsvs",
       "title": "Optimizer’s dilemma: optimization strongly influences model selection in transcriptomic prediction",
       "authors": "Crawford, Chikina, Greene",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2023-06-26",
       "date_human": "Jun 2023",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Motivation</jats:title><jats:p>Most models can be fit to data using various optimization approaches. While model choice is frequently reported in machine-learning-based research, optimizers are not often noted. We applied two different implementations of LASSO logistic regression implemented in Python’s scikit-learn package, using two different optimization approaches (coordinate descent and stochastic gradient descent), to predict driver mutation presence or absence from gene expression across 84 pan-cancer driver genes. Across varying levels of regularization, we compared performance and model sparsity between optimizers.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>After model selection and tuning, we found that coordinate descent (implemented in the<jats:monospace>liblinear</jats:monospace>library) and SGD tended to perform comparably.<jats:monospace>liblinear</jats:monospace>models required more extensive tuning of regularization strength, performing best for high model sparsities (more nonzero coefficients), but did not require selection of a learning rate parameter. SGD models required tuning of the learning rate to perform well, but generally performed more robustly across different model sparsities as regularization strength decreased. Given these tradeoffs, we believe that the choice of optimizers should be clearly reported as a part of the model selection and validation process, to allow readers and reviewers to better understand the context in which results have been generated.</jats:p></jats:sec><jats:sec><jats:title>Availability and implementation</jats:title><jats:p>The code used to carry out the analyses in this study is available at<jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://github.com/greenelab/pancancer-evaluation/tree/master/01_stratified_classification\">https://github.com/greenelab/pancancer-evaluation/tree/master/01_stratified_classification</jats:ext-link>. Performance/regularization strength curves for all genes in the Vogelstein et al. 2013 dataset are available at<jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://doi.org/10.6084/m9.figshare.22728644\">https://doi.org/10.6084/m9.figshare.22728644</jats:ext-link>.</jats:p></jats:sec>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Motivation</jats:title>\n                  <jats:p>Most models can be fit to data using various optimization approaches. While model choice is frequently reported in machine-learning-based research, optimizers are not often noted. We applied two different implementations of LASSO logistic regression implemented in Python’s scikit-learn package, using two different optimization approaches (coordinate descent and stochastic gradient descent), to predict driver mutation presence or absence from gene expression across 84 pan-cancer driver genes. Across varying levels of regularization, we compared performance and model sparsity between optimizers.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>\n                    After model selection and tuning, we found that coordinate descent (implemented in the\n                    <jats:monospace>liblinear</jats:monospace>\n                    library) and SGD tended to perform comparably.\n                    <jats:monospace>liblinear</jats:monospace>\n                    models required more extensive tuning of regularization strength, performing best for high model sparsities (more nonzero coefficients), but did not require selection of a learning rate parameter. SGD models required tuning of the learning rate to perform well, but generally performed more robustly across different model sparsities as regularization strength decreased. Given these tradeoffs, we believe that the choice of optimizers should be clearly reported as a part of the model selection and validation process, to allow readers and reviewers to better understand the context in which results have been generated.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Availability and implementation</jats:title>\n                  <jats:p>\n                    The code used to carry out the analyses in this study is available at\n                    <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://github.com/greenelab/pancancer-evaluation/tree/master/01_stratified_classification\">https://github.com/greenelab/pancancer-evaluation/tree/master/01_stratified_classification</jats:ext-link>\n                    . Performance/regularization strength curves for all genes in the Vogelstein et al. 2013 dataset are available at\n                    <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://doi.org/10.6084/m9.figshare.22728644\">https://doi.org/10.6084/m9.figshare.22728644</jats:ext-link>\n                    .\n                  </jats:p>\n                </jats:sec>",
         "DOI": "10.1101/2023.06.26.546586",
         "type": "manuscript",
         "source": "Crossref",
@@ -12105,7 +12106,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -12268,7 +12269,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -12572,7 +12573,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -12690,7 +12691,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -12711,12 +12712,12 @@
       "url": "https://doi.org/gt36zq",
       "title": "Multi-dataset Integration and Residual Connections Improve Proteome Prediction from Transcriptomes using Deep Learning",
       "authors": "Cranney, Meyer",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2024-07-11",
       "date_human": "Jul 2024",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Proteomes are well known to poorly correlate with transcriptomes measured from the same sample. While connected, the complex processes that impact the relationships between transcript and protein quantities remains an open research topic. Many studies have attempted to predict proteomes from transcriptomes with limited success. Here we use publicly available data from the Clinical Proteomics Tumor Analysis Consortium to show that deep learning models designed by neural architecture search (NAS) achieve improved prediction accuracy of proteome quantities from transcriptomics. We find that this benefit is largely due to including a residual connection in the architecture that allows input information to be remembered near the end of the network. Finally, we explore which groups of transcripts are functionally important for protein prediction using model interpretation with SHAP.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Proteomes are well known to poorly correlate with transcriptomes measured from the same sample. While connected, the complex processes that impact the relationships between transcript and protein quantities remains an open research topic. Many studies have attempted to predict proteomes from transcriptomes with limited success. Here we use publicly available data from the Clinical Proteomics Tumor Analysis Consortium to show that deep learning models designed by neural architecture search (NAS) achieve improved prediction accuracy of proteome quantities from transcriptomics. We find that this benefit is largely due to including a residual connection in the architecture that allows input information to be remembered near the end of the network. Finally, we explore which groups of transcripts are functionally important for protein prediction using model interpretation with SHAP.</jats:p>",
         "DOI": "10.1101/2024.07.08.602560",
         "type": "manuscript",
         "source": "Crossref",
@@ -12830,7 +12831,7 @@
             [
               "2026",
               1,
-              9
+              16
             ]
           ]
         },
@@ -12851,12 +12852,12 @@
       "url": "https://doi.org/g87txb",
       "title": "MicroCT-Based Imaging of Microvasculature in Bone and Peri-Implant Tissues",
       "authors": "Haberthür, Khoma, Hoessly, Zoni, Kruithof-de Julio, Ryan, Grunewald, Bellón, Sandgren, Handschuh, et al",
-      "journal": "Cold Spring Harbor Laboratory",
+      "journal": "openRxiv",
       "date_iso": "2023-03-10",
       "date_human": "Mar 2023",
       "csl_item": {
-        "publisher": "Cold Spring Harbor Laboratory",
-        "abstract": "<jats:title>Abstract</jats:title><jats:p>Angiogenesis is essential for skeletal development, bone healing, and regeneration. Improved non-destructive, three-dimensional (3D) imaging of the vasculature within bone tissue benefits many research areas, especially implantology and tissue engineering.</jats:p><jats:p>X-ray microcomputed tomography (microCT) is a well-suited non-destructive 3D imaging technique for bone morphology. For microCT-based detection of vessels, it is paramount to use contrast enhancement. Limited differences in radiopacity between perfusion agents and mineralized bone make their distinct segmentation problematic and have been a major drawback of this approach. A decalcification step resolves this issue but inhibits the simultaneous assessment of bone microstructure and vascular morphology. The problem of contrasting becomes further complicated in samples with metal implants.</jats:p><jats:p>This study describes contrast-enhanced microCT-based visualization of vasculature within bone tissue in small and large animal models, also in the vicinity of the metal implants. We present simultaneous microvascular and bone imaging in murine tibia, a murine bone metastatic model, the pulp chamber, gingiva, and periodontal ligaments. In a large animal model (minipig), we perform visualization and segmentation of different tissue types and vessels in the hemimandible containing metal implants. We further demonstrate the potential of dual-energy imaging in distinguishing bone tissue from the applied contrast agents.</jats:p><jats:p>This work introduces a non-destructive approach for 3D imaging of vasculature within soft and hard tissues near metal implants in a large animal model.</jats:p>",
+        "publisher": "openRxiv",
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Angiogenesis is essential for skeletal development, bone healing, and regeneration. Improved non-destructive, three-dimensional (3D) imaging of the vasculature within bone tissue benefits many research areas, especially implantology and tissue engineering.</jats:p>\n                <jats:p>X-ray microcomputed tomography (microCT) is a well-suited non-destructive 3D imaging technique for bone morphology. For microCT-based detection of vessels, it is paramount to use contrast enhancement. Limited differences in radiopacity between perfusion agents and mineralized bone make their distinct segmentation problematic and have been a major drawback of this approach. A decalcification step resolves this issue but inhibits the simultaneous assessment of bone microstructure and vascular morphology. The problem of contrasting becomes further complicated in samples with metal implants.</jats:p>\n                <jats:p>This study describes contrast-enhanced microCT-based visualization of vasculature within bone tissue in small and large animal models, also in the vicinity of the metal implants. We present simultaneous microvascular and bone imaging in murine tibia, a murine bone metastatic model, the pulp chamber, gingiva, and periodontal ligaments. In a large animal model (minipig), we perform visualization and segmentation of different tissue types and vessels in the hemimandible containing metal implants. We further demonstrate the potential of dual-energy imaging in distinguishing bone tissue from the applied contrast agents.</jats:p>\n                <jats:p>This work introduces a non-destructive approach for 3D imaging of vasculature within soft and hard tissues near metal implants in a large animal model.</jats:p>",
         "DOI": "10.1101/2023.03.08.531678",
         "type": "manuscript",
         "source": "Crossref",
