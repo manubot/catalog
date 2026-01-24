@@ -36,7 +36,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -187,7 +187,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -282,7 +282,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -349,7 +349,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -482,7 +482,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -903,7 +903,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -1023,7 +1023,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -1097,7 +1097,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -1289,7 +1289,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -1340,7 +1340,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -1417,7 +1417,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -1566,7 +1566,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -1847,7 +1847,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -1927,7 +1927,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -2092,7 +2092,7 @@
       "title": "Introducing yt 4.0: Analysis and Visualization of Volumetric Data",
       "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Munk, Smith, Kowalik, Val-Borro, Coughlin, et al",
       "journal": "Manubot",
-      "date_iso": "2026-01-12",
+      "date_iso": "2026-01-19",
       "date_human": "Jan 2026",
       "csl_item": {
         "id": "1AIP8Sp9Y",
@@ -2364,7 +2364,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -2373,7 +2373,7 @@
             [
               "2026",
               1,
-              12
+              19
             ]
           ]
         },
@@ -2418,7 +2418,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -2566,7 +2566,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -2632,7 +2632,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -2658,7 +2658,6 @@
       "date_human": "Sep 2019",
       "csl_item": {
         "publisher": "American Chemical Society (ACS)",
-        "abstract": "<jats:p>Designing ligands that bind their target biomolecules with high affinity and specificity is a key step in small- molecule drug discovery, but accurately predicting protein-ligand binding free energies remains challenging. Key sources of errors in the calculations include inadequate sampling of conformational space, ambiguous protonation states, and errors in force fields. Noncovalent complexes between a host molecule with a binding cavity and a drug-like guest molecules have emerged as powerful model systems. As model systems, host-guest complexes reduce many of the errors in more complex protein-ligand binding systems, as their small size greatly facilitates conformational sampling, and one can choose systems that avoid ambiguities in protonation states. These features, combined with their ease of experimental characterization, make host-guest systems ideal model systems to test and ultimately optimize force fields in the context of binding thermodynamics calculations.</jats:p>\n                <jats:p>The Open Force Field Initiative aims to create a modern, open software infrastructure for automatically generating and assessing force fields using data sets. The first force field to arise out of this effort, named SMIRNOFF99Frosst, has approximately one tenth the number of parameters, in version 1.0.5, compared to typical general small molecule force fields, such as GAFF. Here, we evaluate the accuracy of this initial force field, using free energy calculations of 43 α and β-cyclodextrin host-guest pairs for which experimental thermodynamic data are available, and compare with matched calculations using two versions of GAFF. For all three force fields, we used TIP3P water and AM1-BCC charges. The calculations are performed using the attach-pull-release (APR) method as implemented in the open source package, pAPRika. For binding free energies, the root mean square error of the SMIRNOFF99Frosst calculations relative to experiment is 0.9 [0.7, 1.1] kcal/mol, while the corresponding results for GAFF 1.7 and GAFF 2.1 are 0.9 [0.7, 1.1] kcal/mol and 1.7 [1.5, 1.9] kcal/mol, respectively, with 95% confidence ranges in brackets. These results suggest that SMIRNOFF99Frosst performs competitively with existing small molecule force fields and is a parsimonious starting point for optimization.</jats:p>",
         "DOI": "10.26434/chemrxiv.9159872",
         "type": "manuscript",
         "source": "Crossref",
@@ -2798,7 +2797,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -2843,7 +2842,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -2924,7 +2923,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -3053,7 +3052,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -3216,7 +3215,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -3348,7 +3347,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -3451,7 +3450,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -3564,7 +3563,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -3616,7 +3615,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -3672,7 +3671,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -3827,7 +3826,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -3877,7 +3876,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -4060,7 +4059,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -4267,7 +4266,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -4482,7 +4481,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -4648,7 +4647,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -5017,7 +5016,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -5084,7 +5083,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -5400,7 +5399,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -6030,7 +6029,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -6122,7 +6121,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -6297,7 +6296,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -6417,7 +6416,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -6579,7 +6578,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -6771,7 +6770,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -6793,11 +6792,10 @@
       "title": "Extension of Roles in the ChEBI Ontology",
       "authors": "Hoyt, Mungall, Vasilevsky, Domingo-Fernández, Healy, Colluru",
       "journal": "American Chemical Society (ACS)",
-      "date_iso": "2020-07-02",
+      "date_iso": "2020-07",
       "date_human": "Jul 2020",
       "csl_item": {
         "publisher": "American Chemical Society (ACS)",
-        "abstract": "<jats:p>This manuscript describes the extension of the ChEBI ontology to connect its roles to their targets in other controlled vocabularies, to improve interoperability, and to enable inference.</jats:p>\n                <jats:p/>",
         "DOI": "10.26434/chemrxiv.12591221",
         "type": "manuscript",
         "source": "Crossref",
@@ -6832,8 +6830,7 @@
           "date-parts": [
             [
               2020,
-              7,
-              2
+              7
             ]
           ]
         },
@@ -6901,7 +6898,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -7071,7 +7068,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -7253,7 +7250,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -7440,7 +7437,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -7574,7 +7571,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -7655,7 +7652,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -7707,7 +7704,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -7812,7 +7809,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -7992,7 +7989,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -8152,7 +8149,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -8343,7 +8340,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -8502,7 +8499,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -8737,7 +8734,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -8858,7 +8855,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -8910,7 +8907,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -9639,7 +9636,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -10429,7 +10426,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -10588,7 +10585,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -10769,7 +10766,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -10944,7 +10941,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -11255,7 +11252,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -11407,7 +11404,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -11505,7 +11502,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -11611,7 +11608,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -11721,7 +11718,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -11870,7 +11867,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -12013,7 +12010,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -12106,7 +12103,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -12269,7 +12266,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -12573,7 +12570,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -12691,7 +12688,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
@@ -12831,7 +12828,7 @@
             [
               "2026",
               1,
-              16
+              23
             ]
           ]
         },
