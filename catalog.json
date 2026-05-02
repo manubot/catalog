@@ -35,8 +35,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -186,8 +186,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -281,8 +281,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -348,8 +348,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -481,8 +481,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -902,8 +902,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -1022,8 +1022,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -1096,8 +1096,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -1288,8 +1288,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -1339,8 +1339,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -1416,8 +1416,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -1565,8 +1565,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -1846,8 +1846,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -1926,8 +1926,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -2092,7 +2092,7 @@
       "title": "Introducing yt 4.0: Analysis and Visualization of Volumetric Data",
       "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Munk, Smith, Kowalik, Val-Borro, Coughlin, et al",
       "journal": "Manubot",
-      "date_iso": "2026-04-20",
+      "date_iso": "2026-04-27",
       "date_human": "Apr 2026",
       "csl_item": {
         "id": "1AIP8Sp9Y",
@@ -2363,8 +2363,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -2373,7 +2373,7 @@
             [
               "2026",
               4,
-              20
+              27
             ]
           ]
         },
@@ -2417,8 +2417,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -2565,8 +2565,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -2631,8 +2631,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -2796,8 +2796,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -2841,8 +2841,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -2922,8 +2922,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -3051,8 +3051,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -3214,8 +3214,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -3241,7 +3241,7 @@
       "date_human": "Jan 2020",
       "csl_item": {
         "publisher": "SAGE Publications",
-        "abstract": "<jats:p> The differentiation of embryonic stem cells into various lineages is highly dependent on the chromatin state of the genome and patterns of gene expression. To identify lineage-specific enhancers driving the differentiation of progenitors into pancreatic cells, we used a previously described computational framework called Total Functional Score of Enhancer Elements (TFSEE), which integrates multiple genomic assays that probe both transcriptional and epigenomic states. First, we evaluated and compared TFSEE as an enhancer-calling algorithm with enhancers called using GRO-seq-defined enhancer transcripts (method 1) versus enhancers called using histone modification ChIP-seq data (method 2). Second, we used TFSEE to define the enhancer landscape and identify transcription factors (TFs) that maintain the multipotency of a subpopulation of endodermal stem cells during differentiation into pancreatic lineages. Collectively, our results demonstrate that TFSEE is a robust enhancer-calling algorithm that can be used to perform multilayer genomic data integration to uncover cell type-specific TFs that control lineage-specific enhancers. </jats:p>",
+        "abstract": "<jats:p>The differentiation of embryonic stem cells into various lineages is highly dependent on the chromatin state of the genome and patterns of gene expression. To identify lineage-specific enhancers driving the differentiation of progenitors into pancreatic cells, we used a previously described computational framework called Total Functional Score of Enhancer Elements (TFSEE), which integrates multiple genomic assays that probe both transcriptional and epigenomic states. First, we evaluated and compared TFSEE as an enhancer-calling algorithm with enhancers called using GRO-seq-defined enhancer transcripts (method 1) versus enhancers called using histone modification ChIP-seq data (method 2). Second, we used TFSEE to define the enhancer landscape and identify transcription factors (TFs) that maintain the multipotency of a subpopulation of endodermal stem cells during differentiation into pancreatic lineages. Collectively, our results demonstrate that TFSEE is a robust enhancer-calling algorithm that can be used to perform multilayer genomic data integration to uncover cell type-specific TFs that control lineage-specific enhancers.</jats:p>",
         "DOI": "10.1177/1177932220938063",
         "type": "article-journal",
         "page": "117793222093806",
@@ -3346,8 +3346,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -3449,8 +3449,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -3562,8 +3562,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -3614,8 +3614,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -3670,8 +3670,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -3825,8 +3825,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -3875,8 +3875,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -4058,8 +4058,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -4265,8 +4265,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -4480,8 +4480,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -4574,7 +4574,6 @@
         },
         "URL": "https://doi.org/gg7m47",
         "container-title-short": "Current Opinion in Biotechnology",
-        "PMCID": "PMC7308204",
         "PMID": "31962244",
         "id": "16nBY5lyO",
         "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.copbio.2019.12.021"
@@ -4646,8 +4645,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              1
             ]
           ]
         },
@@ -5015,8 +5014,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -5082,8 +5081,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -5398,8 +5397,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -6028,8 +6027,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -6120,8 +6119,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -6295,8 +6294,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -6415,8 +6414,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -6577,8 +6576,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -6769,8 +6768,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -6897,8 +6896,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -7067,8 +7066,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -7249,8 +7248,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -7436,8 +7435,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -7570,8 +7569,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -7651,8 +7650,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -7703,8 +7702,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -7808,8 +7807,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -7988,8 +7987,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -8148,8 +8147,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -8339,8 +8338,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -8418,12 +8417,12 @@
       "repo_url": "https://github.com/lotusnprod/lotus-manuscript",
       "url": "https://lotusnprod.github.io/lotus-manuscript",
       "citation": "url:https://lotusnprod.github.io/lotus-manuscript",
-      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/ccad1b63a6a10087b94aa04689e1ddc31a083cd5/content/images/thumbnail.png",
+      "thumbnail_url": "https://github.com/lotusnprod/lotus-manuscript/raw/3c9efcedb678e225ba14e231a0c2ca56683d00d1/content/images/thumbnail.png",
       "title": "The LOTUS Initiative for Open Knowledge Management in Natural Products Research",
       "authors": "Rutz, Sorokina, Galgonek, Mietchen, Willighagen, Gaudry, Graham, Stephan, Page, Vondrášek, Steinbeck, et al",
       "journal": "Manubot",
-      "date_iso": "2026-03-04",
-      "date_human": "Mar 2026",
+      "date_iso": "2026-04-26",
+      "date_human": "Apr 2026",
       "csl_item": {
         "id": "13rUhUH3J",
         "type": "report",
@@ -8498,8 +8497,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -8507,8 +8506,8 @@
           "date-parts": [
             [
               "2026",
-              3,
-              4
+              4,
+              26
             ]
           ]
         },
@@ -8733,8 +8732,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -8843,8 +8842,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -8886,8 +8885,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -9615,8 +9614,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -10405,8 +10404,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -10564,8 +10563,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -10745,8 +10744,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -10920,8 +10919,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -11041,7 +11040,7 @@
       "csl_item": {
         "publisher": "SAGE Publications",
         "issue": "2",
-        "abstract": "<jats:p> An increasing number of researchers support reproducibility by including pointers to and descriptions of datasets, software and methods in their publications. However, scientific articles may be ambiguous, incomplete and difficult to process by automated systems. In this paper we introduce RO-Crate, an open, community-driven, and lightweight approach to packaging research artefacts along with their metadata in a machine readable manner. RO-Crate is based on Schema.org annotations in JSON-LD, aiming to establish best practices to formally describe metadata in an accessible and practical way for their use in a wide variety of situations. </jats:p><jats:p> An RO-Crate is a structured archive of all the items that contributed to a research outcome, including their identifiers, provenance, relations and annotations. As a general purpose packaging approach for data and their metadata, RO-Crate is used across multiple areas, including bioinformatics, digital humanities and regulatory sciences. By applying “just enough” Linked Data standards, RO-Crate simplifies the process of making research outputs FAIR while also enhancing research reproducibility. </jats:p><jats:p> An RO-Crate for this article <jats:sup>1</jats:sup> <jats:sup>1</jats:sup> https://w3id.org/ro/doi/10.5281/zenodo.5146227 is archived at https://doi.org/10.5281/zenodo.5146227 . </jats:p>",
+        "abstract": "<jats:p>An increasing number of researchers support reproducibility by including pointers to and descriptions of datasets, software and methods in their publications. However, scientific articles may be ambiguous, incomplete and difficult to process by automated systems. In this paper we introduce RO-Crate, an open, community-driven, and lightweight approach to packaging research artefacts along with their metadata in a machine readable manner. RO-Crate is based on Schema.org annotations in JSON-LD, aiming to establish best practices to formally describe metadata in an accessible and practical way for their use in a wide variety of situations.</jats:p>\n                  <jats:p>An RO-Crate is a structured archive of all the items that contributed to a research outcome, including their identifiers, provenance, relations and annotations. As a general purpose packaging approach for data and their metadata, RO-Crate is used across multiple areas, including bioinformatics, digital humanities and regulatory sciences. By applying “just enough” Linked Data standards, RO-Crate simplifies the process of making research outputs FAIR while also enhancing research reproducibility.</jats:p>\n                  <jats:p>\n                    An RO-Crate for this article\n                    <jats:sup>1</jats:sup>\n                    <jats:sup>1</jats:sup>\n                    https://w3id.org/ro/doi/10.5281/zenodo.5146227 is archived at https://doi.org/10.5281/zenodo.5146227 .\n                  </jats:p>",
         "DOI": "10.3233/ds-210053",
         "type": "article-journal",
         "page": "97-138",
@@ -11231,8 +11230,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -11383,8 +11382,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -11481,8 +11480,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -11587,8 +11586,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -11697,8 +11696,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -11846,8 +11845,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -11989,8 +11988,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -12082,8 +12081,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -12245,8 +12244,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -12549,8 +12548,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -12667,8 +12666,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
@@ -12807,8 +12806,8 @@
           "date-parts": [
             [
               "2026",
-              4,
-              24
+              5,
+              2
             ]
           ]
         },
