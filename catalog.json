@@ -36,7 +36,7 @@
             [
               "2026",
               5,
-              8
+              16
             ]
           ]
         },
@@ -187,7 +187,7 @@
             [
               "2026",
               5,
-              8
+              16
             ]
           ]
         },
@@ -282,7 +282,7 @@
             [
               "2026",
               5,
-              8
+              16
             ]
           ]
         },
@@ -349,7 +349,7 @@
             [
               "2026",
               5,
-              8
+              16
             ]
           ]
         },
@@ -482,7 +482,7 @@
             [
               "2026",
               5,
-              8
+              16
             ]
           ]
         },
@@ -903,7 +903,7 @@
             [
               "2026",
               5,
-              8
+              16
             ]
           ]
         },
@@ -1023,7 +1023,7 @@
             [
               "2026",
               5,
-              8
+              16
             ]
           ]
         },
@@ -1097,7 +1097,7 @@
             [
               "2026",
               5,
-              8
+              16
             ]
           ]
         },
@@ -1289,7 +1289,7 @@
             [
               "2026",
               5,
-              8
+              16
             ]
           ]
         },
@@ -1340,7 +1340,7 @@
             [
               "2026",
               5,
-              8
+              16
             ]
           ]
         },
@@ -1417,7 +1417,7 @@
             [
               "2026",
               5,
-              8
+              16
             ]
           ]
         },
@@ -1566,7 +1566,7 @@
             [
               "2026",
               5,
-              8
+              16
             ]
           ]
         },
@@ -1847,7 +1847,7 @@
             [
               "2026",
               5,
-              8
+              16
             ]
           ]
         },
@@ -1927,7 +1927,7 @@
             [
               "2026",
               5,
-              8
+              16
             ]
           ]
         },
@@ -2092,7 +2092,7 @@
       "title": "Introducing yt 4.0: Analysis and Visualization of Volumetric Data",
       "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Munk, Smith, Kowalik, Val-Borro, Coughlin, et al",
       "journal": "Manubot",
-      "date_iso": "2026-05-04",
+      "date_iso": "2026-05-11",
       "date_human": "May 2026",
       "csl_item": {
         "id": "1AIP8Sp9Y",
@@ -2364,7 +2364,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -2373,7 +2373,7 @@
             [
               "2026",
               5,
-              4
+              11
             ]
           ]
         },
@@ -2418,7 +2418,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -2566,7 +2566,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -2632,7 +2632,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -2658,6 +2658,7 @@
       "date_human": "Sep 2019",
       "csl_item": {
         "publisher": "American Chemical Society (ACS)",
+        "abstract": "<jats:p>Designing ligands that bind their target biomolecules with high affinity and specificity is a key step in small- molecule drug discovery, but accurately predicting protein-ligand binding free energies remains challenging. Key sources of errors in the calculations include inadequate sampling of conformational space, ambiguous protonation states, and errors in force fields. Noncovalent complexes between a host molecule with a binding cavity and a drug-like guest molecules have emerged as powerful model systems. As model systems, host-guest complexes reduce many of the errors in more complex protein-ligand binding systems, as their small size greatly facilitates conformational sampling, and one can choose systems that avoid ambiguities in protonation states. These features, combined with their ease of experimental characterization, make host-guest systems ideal model systems to test and ultimately optimize force fields in the context of binding thermodynamics calculations.</jats:p>\n                <jats:p>The Open Force Field Initiative aims to create a modern, open software infrastructure for automatically generating and assessing force fields using data sets. The first force field to arise out of this effort, named SMIRNOFF99Frosst, has approximately one tenth the number of parameters, in version 1.0.5, compared to typical general small molecule force fields, such as GAFF. Here, we evaluate the accuracy of this initial force field, using free energy calculations of 43 α and β-cyclodextrin host-guest pairs for which experimental thermodynamic data are available, and compare with matched calculations using two versions of GAFF. For all three force fields, we used TIP3P water and AM1-BCC charges. The calculations are performed using the attach-pull-release (APR) method as implemented in the open source package, pAPRika. For binding free energies, the root mean square error of the SMIRNOFF99Frosst calculations relative to experiment is 0.9 [0.7, 1.1] kcal/mol, while the corresponding results for GAFF 1.7 and GAFF 2.1 are 0.9 [0.7, 1.1] kcal/mol and 1.7 [1.5, 1.9] kcal/mol, respectively, with 95% confidence ranges in brackets. These results suggest that SMIRNOFF99Frosst performs competitively with existing small molecule force fields and is a parsimonious starting point for optimization.</jats:p>",
         "DOI": "10.26434/chemrxiv.9159872",
         "type": "manuscript",
         "source": "Crossref",
@@ -2797,7 +2798,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -2842,7 +2843,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -2923,7 +2924,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -3052,7 +3053,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -3215,7 +3216,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -3347,7 +3348,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -3450,7 +3451,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -3563,7 +3564,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -3615,7 +3616,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -3671,7 +3672,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -3826,7 +3827,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -3876,7 +3877,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -4059,7 +4060,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -4266,7 +4267,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -4481,7 +4482,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -4647,7 +4648,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -5016,7 +5017,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -5083,7 +5084,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -5399,7 +5400,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -6029,7 +6030,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -6121,7 +6122,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -6296,7 +6297,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -6416,7 +6417,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -6578,7 +6579,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -6770,7 +6771,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -6792,10 +6793,11 @@
       "title": "Extension of Roles in the ChEBI Ontology",
       "authors": "Hoyt, Mungall, Vasilevsky, Domingo-Fernández, Healy, Colluru",
       "journal": "American Chemical Society (ACS)",
-      "date_iso": "2020-07",
+      "date_iso": "2020-07-01",
       "date_human": "Jul 2020",
       "csl_item": {
         "publisher": "American Chemical Society (ACS)",
+        "abstract": "<jats:p>This manuscript describes the extension of the ChEBI ontology to connect its roles to their targets in other controlled vocabularies, to improve interoperability, and to enable inference.</jats:p>",
         "DOI": "10.26434/chemrxiv.12591221",
         "type": "manuscript",
         "source": "Crossref",
@@ -6830,7 +6832,8 @@
           "date-parts": [
             [
               2020,
-              7
+              7,
+              1
             ]
           ]
         },
@@ -6898,7 +6901,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -7068,7 +7071,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -7250,7 +7253,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -7437,7 +7440,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -7571,7 +7574,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -7652,7 +7655,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -7704,7 +7707,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -7730,6 +7733,7 @@
       "date_human": "Jan 2021",
       "csl_item": {
         "publisher": "Wiley",
+        "abstract": "<jats:p>The concept of cell type is key for modeling biology. Recent technological advances are prompting us to rethink what we understand by cell type and how we classify them. There is currently no consensus for a definition of cell type, which makes it hard to integrate knowledge across life sciences. We propose here that a cell type should represent any class of cell that (1) is explicitly defined; (2) is identifiable within a taxon; and (3) is theoretically useful. We also present four classes of cell types: sensu stricto cell types, archetypes, infratypes, and technotypes. They respectively specify cell type concepts applied to a single species, multiple species, populations below the species level, and particular experiments. The flexible and rigorous framework we propose can base annotation of single-cell omics datasets, and reconcile knowledge about cells across all different domains of science.</jats:p>",
         "DOI": "10.22541/au.160979530.02627436/v1",
         "type": "manuscript",
         "source": "Crossref",
@@ -7809,7 +7813,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -7989,7 +7993,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -8149,7 +8153,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -8340,7 +8344,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -8499,7 +8503,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -8734,7 +8738,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -8759,7 +8763,6 @@
       "date_iso": "2021-04-12",
       "date_human": "Apr 2021",
       "csl_item": {
-        "type": "book",
         "id": "012c3BWRM",
         "author": [
           {
@@ -8782,7 +8785,8 @@
         "title": "laurentperrinet/Perrinet20PredictiveProcessing: published text",
         "URL": "https://doi.org/gjpsgn",
         "version": "v1.0",
-        "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.4680675"
+        "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.4680675",
+        "type": "entry"
       }
     },
     "journal": {
@@ -8826,28 +8830,15 @@
       "url": "https://andthewings.github.io/IRB_for_Indy_Housing_Interviews/",
       "citation": "url:https://andthewings.github.io/IRB_for_Indy_Housing_Interviews/",
       "thumbnail_url": "https://i.postimg.cc/BZkXjryx/redline-the-ave.png",
-      "title": "INTERWIN Akses Login Link Resmi Situs Slot777 Banyak Pilihan Game Gacor",
+      "title": null,
       "authors": "",
-      "journal": "Slot",
+      "journal": null,
       "date_iso": null,
       "date_human": null,
       "csl_item": {
-        "id": "10vrCJNhy",
+        "URL": "https://andthewings.github.io/IRB_for_Indy_Housing_Interviews/",
         "type": "webpage",
-        "abstract": "INTERWIN menghadirkan link login resmi situs Slot777 terbaik dengan koleksi game gacor paling lengkap. Dilengkapi provider game terpercaya, kamu bisa bermain game favorit dengan peluang maxwin setiap hari.",
-        "container-title": "Slot",
-        "language": "id-ID",
-        "title": "INTERWIN Akses Login Link Resmi Situs Slot777 Banyak Pilihan Game Gacor",
-        "URL": "https://danielriggins.com/",
-        "accessed": {
-          "date-parts": [
-            [
-              "2026",
-              5,
-              9
-            ]
-          ]
-        },
+        "id": "10vrCJNhy",
         "note": "This CSL Item was generated by Manubot v0.5.3 from its persistent identifier (standard_id).\nstandard_id: url:https://andthewings.github.io/IRB_for_Indy_Housing_Interviews/"
       }
     },
@@ -8887,7 +8878,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -9616,7 +9607,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -10406,7 +10397,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -10565,7 +10556,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -10746,7 +10737,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -10921,7 +10912,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -11232,7 +11223,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -11384,7 +11375,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -11482,7 +11473,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -11588,7 +11579,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -11698,7 +11689,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -11847,7 +11838,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -11990,7 +11981,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -12083,7 +12074,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -12246,7 +12237,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -12550,7 +12541,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -12668,7 +12659,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
@@ -12808,7 +12799,7 @@
             [
               "2026",
               5,
-              9
+              16
             ]
           ]
         },
