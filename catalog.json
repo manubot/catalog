@@ -36,7 +36,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -107,7 +107,7 @@
       "date_human": "Feb 2024",
       "csl_item": {
         "publisher": "eLife Sciences Publications, Ltd",
-        "abstract": "<jats:p>Maintaining germline genome integrity is essential and enormously complex. Although many proteins are involved in DNA replication, proofreading, and repair, <jats:italic>mutator alleles</jats:italic> have largely eluded detection in mammals. DNA replication and repair proteins often recognize sequence motifs or excise lesions at specific nucleotides. Thus, we might expect that the spectrum of de novo mutations – the frequencies of C&gt;T, A&gt;G, etc. – will differ between genomes that harbor either a mutator or wild-type allele. Previously, we used quantitative trait locus mapping to discover candidate mutator alleles in the DNA repair gene <jats:italic>Mutyh</jats:italic> that increased the C&gt;A germline mutation rate in a family of inbred mice known as the BXDs (Sasani et al., 2022, Ashbrook et al., 2021). In this study we developed a new method to detect alleles associated with mutation spectrum variation and applied it to mutation data from the BXDs. We discovered an additional C&gt;A mutator locus on chromosome 6 that overlaps <jats:italic>Ogg1</jats:italic>, a DNA glycosylase involved in the same base-excision repair network as <jats:italic>Mutyh</jats:italic> (David et al., 2007). Its effect depends on the presence of a mutator allele near <jats:italic>Mutyh</jats:italic>, and BXDs with mutator alleles at both loci have greater numbers of C&gt;A mutations than those with mutator alleles at either locus alone. Our new methods for analyzing mutation spectra reveal evidence of epistasis between germline mutator alleles and may be applicable to mutation data from humans and other model organisms.</jats:p>",
+        "abstract": "<jats:p>\n                    Maintaining germline genome integrity is essential and enormously complex. Although many proteins are involved in DNA replication, proofreading, and repair,\n                    <jats:italic>mutator alleles</jats:italic>\n                    have largely eluded detection in mammals. DNA replication and repair proteins often recognize sequence motifs or excise lesions at specific nucleotides. Thus, we might expect that the spectrum of de novo mutations – the frequencies of C&gt;T, A&gt;G, etc. – will differ between genomes that harbor either a mutator or wild-type allele. Previously, we used quantitative trait locus mapping to discover candidate mutator alleles in the DNA repair gene\n                    <jats:italic>Mutyh</jats:italic>\n                    that increased the C&gt;A germline mutation rate in a family of inbred mice known as the BXDs (Sasani et al., 2022, Ashbrook et al., 2021). In this study we developed a new method to detect alleles associated with mutation spectrum variation and applied it to mutation data from the BXDs. We discovered an additional C&gt;A mutator locus on chromosome 6 that overlaps\n                    <jats:italic>Ogg1</jats:italic>\n                    , a DNA glycosylase involved in the same base-excision repair network as\n                    <jats:italic>Mutyh</jats:italic>\n                    (David et al., 2007). Its effect depends on the presence of a mutator allele near\n                    <jats:italic>Mutyh</jats:italic>\n                    , and BXDs with mutator alleles at both loci have greater numbers of C&gt;A mutations than those with mutator alleles at either locus alone. Our new methods for analyzing mutation spectra reveal evidence of epistasis between germline mutator alleles and may be applicable to mutation data from humans and other model organisms.\n                  </jats:p>",
         "DOI": "10.7554/elife.89096",
         "type": "article-journal",
         "source": "Crossref",
@@ -188,7 +188,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -283,7 +283,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -350,7 +350,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -484,7 +484,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -905,7 +905,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -1025,7 +1025,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -1099,7 +1099,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -1292,7 +1292,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -1343,7 +1343,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -1420,7 +1420,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -1569,7 +1569,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -1850,7 +1850,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -1930,7 +1930,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -2096,7 +2096,7 @@
       "title": "Introducing yt 4.0: Analysis and Visualization of Volumetric Data",
       "authors": "Project, Turk, Goldbaum, ZuHone, Hummels, Ji, Lang, Munk, Smith, Kowalik, Val-Borro, Coughlin, et al",
       "journal": "Manubot",
-      "date_iso": "2026-07-20",
+      "date_iso": "2026-07-27",
       "date_human": "Jul 2026",
       "csl_item": {
         "id": "1AIP8Sp9Y",
@@ -2368,7 +2368,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -2377,7 +2377,7 @@
             [
               "2026",
               7,
-              20
+              27
             ]
           ]
         },
@@ -2422,7 +2422,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -2570,7 +2570,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -2636,7 +2636,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -2802,7 +2802,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -2847,7 +2847,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -2928,7 +2928,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -3057,7 +3057,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -3221,7 +3221,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -3353,7 +3353,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -3456,7 +3456,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -3569,7 +3569,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -3621,7 +3621,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -3677,7 +3677,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -3832,7 +3832,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -3882,7 +3882,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -4065,7 +4065,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -4272,7 +4272,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -4487,7 +4487,7 @@
             [
               "2026",
               7,
-              24
+              31
             ]
           ]
         },
@@ -4652,8 +4652,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -5021,8 +5021,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -5088,8 +5088,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -5404,8 +5404,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -6034,8 +6034,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -6126,8 +6126,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -6301,8 +6301,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -6421,8 +6421,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -6583,8 +6583,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -6775,8 +6775,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -6905,8 +6905,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -7075,8 +7075,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -7257,8 +7257,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -7444,8 +7444,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -7578,8 +7578,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -7659,8 +7659,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -7711,8 +7711,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -7817,8 +7817,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -7997,8 +7997,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -8157,8 +8157,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -8348,8 +8348,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -8507,8 +8507,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -8743,8 +8743,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -8864,8 +8864,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -8916,8 +8916,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -9645,8 +9645,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -10435,8 +10435,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -10594,8 +10594,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -10775,8 +10775,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -10950,8 +10950,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -11261,8 +11261,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -11413,8 +11413,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -11511,8 +11511,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -11617,8 +11617,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -11727,8 +11727,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -11877,8 +11877,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -12020,8 +12020,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -12113,8 +12113,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -12276,8 +12276,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -12580,8 +12580,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -12698,8 +12698,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
@@ -12838,8 +12838,8 @@
           "date-parts": [
             [
               "2026",
-              7,
-              24
+              8,
+              1
             ]
           ]
         },
